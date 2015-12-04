@@ -1,4 +1,4 @@
-# source{d} Engeneering git Workflow
+# source{d} Engineering git Workflow
 
 ![Image](/dev-team/srcd-flow.png?raw=true)
 
@@ -18,7 +18,7 @@ writing descriptive commit messages.
 #### 3. Merge with release branch 
 (See 5. for hotfix branches) Merge your feature branch onto the
 existing release branch. If conflicts prevent clean merger, rebase your
-feature branch against the tipo of the current release branch and solve
+feature branch against the tip of the current release branch and solve
 conflicts (suggestion: use a git mergetool). If no release branch exists,
 create it from latest master commit.
 
