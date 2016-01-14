@@ -31,7 +31,7 @@ Each sprint lasts for 2 weeks.
 
 ## Tasks description and progress
 
-Tasks are specified, at the beginning of the sprint, as issues in the [backlog repo](http://github.com/src-d/backlog).
+Tasks are specified, at the beginning of the sprint, as [issues in the backlog repo](http://github.com/src-d/backlog/issues).
 
 Team members will create a followup issue in the relevant repo for the issue, where they can explain their planning and log their progress. That followup issue must mention the backlog issue so it can be easily located from backlog.
 
