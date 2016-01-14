@@ -26,7 +26,7 @@ Each sprint lasts for 2 weeks.
    - demo contents:
       - show the public implications of your work, not the internal details.
       - show results using benchmarks or before-and-after figures, graphs or screenshots. Plan the whole sprint according to this, don't wait until the day before the demo. 
-- Deployment: Mondays after a demo.
+- Deployment: The next working day after each demo (every other monday).
    - data-retrival can deploy at any time.
 
 ## Tasks description and progress
