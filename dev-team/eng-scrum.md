@@ -14,7 +14,7 @@ The rest of the engineering team (Curro, Ivan, Dani and Guillermo) are not part 
 
 ## Schedule
 
-The sprint will last for 2 weeks.
+Each sprint lasts for 2 weeks.
 
 - Planning meeting: every other Monday at 15:50
 - Sprint review: every other Tuesday at 18:00
