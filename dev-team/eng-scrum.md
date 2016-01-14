@@ -16,7 +16,7 @@ The rest of the engineering team (Curro, Ivan, Dani and Guillermo) are not part 
 
 Each sprint lasts for 2 weeks.
 
-- Planning meeting: every other Monday at 15:50
+- Planning meeting: every other Monday at 15:30
 - Sprint review: every other Tuesday at 18:00
 - Stand-ups meetings: every day at 10:00 (except planning meeting, sprint review, OSF and demo days)
 - Demo: every other friday at 15:30
@@ -31,7 +31,7 @@ Each sprint lasts for 2 weeks.
 
 ## Tasks description and progress
 
-Tasks are specified, at the beginning of the sprint, as issues in the [http://github.com/src-d/backlog](backlog repo).
+Tasks are specified, at the beginning of the sprint, as issues in the [backlog repo](http://github.com/src-d/backlog).
 
 Team members will create a followup issue in the relevant repo for the issue, where they can explain their planning and log their progress. That followup issue must mention the backlog issue so it can be easily located from backlog.
 
