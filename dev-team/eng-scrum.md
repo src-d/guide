@@ -19,6 +19,7 @@ Each sprint lasts for 2 weeks.
 - Planning meeting: every other Monday at 15:30
 - Sprint review: every other Tuesday at 18:00
 - Stand-ups meetings: every day at 10:00 (except planning meeting, sprint review, OSF and demo days)
+- "What's finished" meetings: at 13:30 on Demo fridays: 5-10 min. per team. Very quick, straight to the point.
 - Demo: every other friday at 15:30
    - 15 min. per team.
    - this must be a real demo, never show code.
