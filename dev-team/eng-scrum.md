@@ -1,38 +1,82 @@
 # Engineering SCRUM
 
-Date: 2016-01-14
+Date: 2016-09-21
 
-The contents of this file are only relevant for:
+## Intro
 
-- Carlos
-- Alberto
-- Alex
-- Miguel
-- Philip
+These are the notes from 2016-09-12 Scrum/OKR meeting for the Engineering team
+at source{d}.
 
-The rest of the engineering team (Curro, Ivan, Dani and Guillermo) are not part of this SCRUM instance and they can ignore this document.
+## OKR
 
-## Schedule
+- Officially, engineering grunts will not have Objectives, although they can
+  create their own.  This has to do with how to mix SCRUM and OKRs properly.
+  The details about this are still not defined, @mcuadros has to talk with
+  @jorgeschnura to see how to best fit SCRUM and OKR.
 
-Each sprint lasts for 2 weeks.
+## SCRUM
 
-- Planning meeting: every other Monday at 15:30
-- Sprint review: every other Tuesday at 18:00
-- Stand-ups meetings: every day at 10:00 (except planning meeting, sprint review, OSF and demo days)
-- "What's finished" meetings: at 13:30 on Demo fridays: 5-10 min. per team. Very quick, straight to the point.
-- Demo: every other friday at 15:30
-   - 15 min. per team.
-   - this must be a real demo, never show code.
-   - do not interact with the terminal, browsers or other programs during the demo, record some videos and play them during the demo instead.
-   - demo contents:
-      - show the public implications of your work, not the internal details.
-      - show results using benchmarks or before-and-after figures, graphs or screenshots. Plan the whole sprint according to this, don't wait until the day before the demo. 
-- Deployment: The next working day after each demo (every other monday).
-   - data-retrival can deploy at any time.
+- We will be having different SCRUMS per team, although as we are so few, some
+  we are having some meetings all together (e. g. standups)
 
-## Tasks description and progress
+- Sprints will last 2 weeks.
 
-Tasks are specified, at the beginning of the sprint, as [issues in the backlog repo](http://github.com/src-d/backlog/issues).
+- The product owner will be @mcuadros
 
-Team members will create a followup issue in the relevant repo for each issue, where they can explain their planning and log their progress. That followup issue must mention the backlog issue so it can be easily located from backlog.
+- Standup meetings at 10:30AM. Right now they will be with all engineering. When all the teams have all their members every team will have their own standup meeting.
 
+- Planning meetings
+
+  + Each team will have their own.
+
+  + Data Science and Devops will have their planning meeting on Mondays.
+
+  + Tools and Data Retrieval on Tuesdays.
+
+  + It is really a planing DAY, not just a meeting:
+
+    * There will be a 1 hour long kickoff meeting at 10:00 (first team) and
+      11:00 (second team)
+
+    * The rest of the day, the team will think about proposed sprint plan and
+      decide if it is doable.
+
+    * There will be a close meeting at 17:30 (first) and 18:00 (second) to confirm
+      the sprint plan.
+
+  + All OKR objectives for each team member will be covered in the planning.
+
+- Demo
+
+  + At the end of each sprint: Fridays 15:30.
+
+  + Company Wide.
+
+  + Product does not need to be deployed, but the demo should be as real as
+    possible.
+
+- Deploying
+
+  + Deploying may not make sense for some teams, i. e. Data Science and Devops.
+
+  + Tools and Data Retrieval will deploy on Mondays after the end of an sprint,
+    as they don't have the planing meeting until Tuesday.
+
+- Retrospectives
+
+  + Starting at the end of the second sprint, one every other sprint.
+
+  + On Fridays after the sprint demo.
+
+- Keeping track of things:
+
+  + Publicly: Physical Kanban on some wall.
+
+  + Per team: any way the see fit (github issues, github projects, waffle.io...).
+
+- What does it mean something is done?
+
+  + Team by team answer.
+
+- Redirect people requests uphill to avoid getting unplanned work during the
+  sprints.
