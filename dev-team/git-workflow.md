@@ -21,12 +21,10 @@ In this specific cases we want to develop a new version without change the actua
 The reason of that is the way versioning works in go. Only mayor version is set in the import URL (Example: `import gopkg.in/src-d/go-git.v4/`). If our master branch is version 4.0.0 and we want to start developing the version 4.1.0, if we create a branch with this name, automatically our v4 import will point to this new branch.
 
 #### 3. Code review and requested changes
-All the new fixes or features must be accepted for at least 2 team members.
-In some projects, this can be different:
 
-- Public projects need to be reviewed by Máximo and another person.
-- Private projects need to be reviewed by 2 people from the corresponding team.
-- [Domain](https://github.com/src-d/domain) needs to be reviewed by 3 people from different teams.
+- PRs to public projects need to be reviewed by Máximo and another person.
+- PRs to private projects need to be reviewed by 2 people from the corresponding team.
+- PRs to [Core](https://github.com/src-d/core) or [Framework](https://github.com/src-d/framework) need to be reviewed by 3 people from different teams.
 
 PRs made before 16:00 should be reviewed by 10:30 of the next day.
 
