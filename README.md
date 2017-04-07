@@ -21,7 +21,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Holidays
   * Flexible working schedule
   * Onboarding
-  * Tech training
+  * <a href="https://github.com/src-d/onboarding/blob/master/by_developers_training.md">"By Developers" Training</a>
   * Career development
   * Offboarding
 * Open Source
