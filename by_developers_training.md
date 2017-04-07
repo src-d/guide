@@ -3,7 +3,7 @@ The purpose of this document is to provide a guide on how to acquire an engineer
 You will be assigned a mentor who will be able to help you with questions or problems throughout this program. This mentor will be either someone from the engineering team or someone who has finished the program before already.<br>
 <br>
 
-##Step 1: Setup your machine on Arch Linux<br>
+## Step 1: Setup your machine on Arch Linux<br>
 <b>Why:</b> By getting a good understanding of Linux you'll understand better how a computer works and you'll get to use sites like Stack Overflow on a frequent basis, which will allow you to get a better picture of the developer community.<br>
 <b>Process:</b> Detailed step by step guide to be developed by Máximo and Jorge. New team member to do the setup on his own with the support of his mentor.<br>
 <b>Duration:</b> 2 days<br>
@@ -16,7 +16,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Fully set-up laptop<br>
 <br>
 
-##Step 2: Computer Science Basics<br>
+## Step 2: Computer Science Basics<br>
 <b>Why:</b> Knowing the basics about how software and hardware interact is key to understanding development.<br>
 <b>Process:</b> Going through the course material on CS101 by Stanford<br>
 <b>Duration:</b> 6 weeks<br>
@@ -29,7 +29,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Stanford Certificate<br>
 <br>
 
-##Step 3: Culture<br>
+## Step 3: Culture<br>
 <b>Why:</b> You can't be at source{d} without knowing about the technologies we're developing, the research we're publishing and the people on our office's walls.<br>
 <b>Process:</b> Reading through all of the provided documentation<br>
 <b>Duration:</b> 1 day<br>
@@ -44,7 +44,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 * <a href="https://blog.sourced.tech/">source{d} Blog</a><br>
 <br>
 
-##Step 4: Learning Python<br>
+## Step 4: Learning Python<br>
 <b>Why:</b> Now that you know the theory it's time for you to get your hands dirty and learn how to code. This track won't teach you how to become a developer, but rather how to code to be more efficient in your day to day.<br>
 <b>Process:</b> Reading through the book “Automate the Boring Stuff with Python”<br>
 <b>Duration:</b> 3 weeks<br>
@@ -57,7 +57,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Coding Challenge<br>
 <br>
 
-##Step 5: Learn Data Science with Python<br>
+## Step 5: Learn Data Science with Python<br>
 <b>Why:</b> Data Science is at the core of source{d}. Now that you know the basics of coding it's time to learn one more application of it: how to leverage data with Python.<br>
 <b>Process:</b> Going through the full course of Data Science with Python on Datacamp<br>
 <b>Duration:</b> 11 weeks<br>
@@ -70,7 +70,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Completion in Datacamp Dashboard<br>
 <br>
 
-##Extra Credits:<br>
+## Extra Credits:<br>
 <b>Why:</b> You just can't get enough, you've opened the Pandora Box and now can't close it ever again. You want to dig deeper into Unix, Python, Data Science or maybe learn some frontend.<br>
 <b>Process:</b> Combining books and other resources to dig deeper into coding.<br>
 <b>Duration:</b> Your whole life (or not, your choice)<br>
