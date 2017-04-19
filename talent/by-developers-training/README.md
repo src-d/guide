@@ -8,7 +8,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Process:</b> Detailed step by step guide to be developed by Máximo and Jorge. New team member to do the setup on his own with the support of his mentor.<br>
 <b>Duration:</b> 2 days<br>
 <b>Resources:</b><br>
-* <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/linux.md">Linux documentation</a><br>
+* <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/linux.md">Arch Linux Setup</a><br>
 * Enki (Linux Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 * <a href="https://wiki.archlinux.org/">Archlinux</a><br>
 * <a href="https://stackoverflow.com/">StackOverflow</a><br>
