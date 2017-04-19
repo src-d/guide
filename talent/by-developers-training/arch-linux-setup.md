@@ -149,25 +149,25 @@
 1. Option:<br>
  1.1 Create a new file for your monitor configurations by typing `nano ~/.config/i3/screen.sh`<br>
  1.2 Type the following code into it:<br>
-  ```
-   #!/usr/bin/env bash
+```
+#!/usr/bin/env bash
 
-  IN="eDP1"
-  EXT="DP1"
+IN="eDP1"
+EXT="DP1"
 
-  xrandr > /dev/null
-  xrandr | grep "$EXT disconnected" > /dev/null
+xrandr > /dev/null
+xrandr | grep "$EXT disconnected" > /dev/null
 
-  if [ $? -eq 0 ]; then
-    xrandr --output $IN --dpi 216 --primary --auto --output $EXT --off
-    #xmodmap -e "pointer = 1 2 3" 2> /dev/null
-    echo "-> Laptop mode"
-  else
-    xrandr --output $IN --auto --output $EXT --primary --dpi 96 --auto
-    #xmodmap -e "pointer = 3 2 1" 2> /dev/null
-    echo "-> Desktop mode"
-  fi
-  ```
+if [ $? -eq 0 ]; then
+  xrandr --output $IN --dpi 216 --primary --auto --output $EXT --off
+  #xmodmap -e "pointer = 1 2 3" 2> /dev/null
+  echo "-> Laptop mode"
+else
+  xrandr --output $IN --auto --output $EXT --primary --dpi 96 --auto
+  #xmodmap -e "pointer = 3 2 1" 2> /dev/null
+  echo "-> Desktop mode"
+fi
+```
  1.3 Open `~/.config/i3/config` and add `bindsym $mod+Shift+s exec ~/.config/i3/screen.sh`<br>
  1.4 Restart X<br>
  1.5 In order to detect a screen use cmd+shift+s<br>
