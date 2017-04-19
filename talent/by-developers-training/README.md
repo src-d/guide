@@ -27,7 +27,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 * <a href="https://try.github.io/levels/1/challenges/1">Git documentation</a><br>
 * Open source documentation - URL<br>
 * <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/">Introduction to Machine Learning</a><br>
-* Enki (Linux Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
+* Enki (Linux + Git Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 
 <b>Deliverable:</b> Stanford Certificate<br>
 <br>
@@ -53,7 +53,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Duration:</b> 3 weeks<br>
 <b>Resources:</b><br>
 * <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a><br>
-* Enki (Python Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
+* Enki (Linux + Git + Python Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 * SoloLearn (Python Track) - <a href="https://play.google.com/store/apps/details?id=com.sololearn&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8">iOS</a><br>
 * <a href="https://stackoverflow.com/">StackOverflow</a><br>
 
@@ -66,7 +66,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Duration:</b> 11 weeks<br>
 <b>Resources:</b><br>
 * <a href="https://www.datacamp.com/courses/tech:python">DataCamp</a><br>
-* Enki (Python Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
+* Enki (Linux + Git + Python Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 * SoloLearn (Python Track) - <a href="https://play.google.com/store/apps/details?id=com.sololearn&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8">iOS</a><br>
 * <a href="https://stackoverflow.com/">StackOverflow</a><br>
 
