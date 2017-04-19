@@ -5,10 +5,11 @@ You will be assigned a mentor who will be able to help you with questions or pro
 
 ## Step 1: Setup your machine on Arch Linux<br>
 <b>Why:</b> By getting a good understanding of Linux you'll understand better how a computer works and you'll get to use sites like Stack Overflow on a frequent basis, which will allow you to get a better picture of the developer community.<br>
-<b>Process:</b> Detailed step by step guide to be developed by Máximo and Jorge. New team member to do the setup on his own with the support of his mentor.<br>
+<b>Process:</b> Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOerflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. You should have received an invitation to Enki. Enroll in the Linux track and make sure you train every day to become better at it and so you don't forget what you've learned.<br>
 <b>Duration:</b> 2 days<br>
 <b>Resources:</b><br>
 * <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/linux.md">Arch Linux Setup</a><br>
+* <a href="http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/">Unix Cheat Sheet</a><br>
 * Enki (Linux Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 * <a href="https://wiki.archlinux.org/">Archlinux</a><br>
 * <a href="https://stackoverflow.com/">StackOverflow</a><br>
