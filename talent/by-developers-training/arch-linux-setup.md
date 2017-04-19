@@ -168,9 +168,9 @@
    echo "-> Desktop mode"
  fi
  ```
- 1.3 Open `~/.config/i3/config` and add `bindsym $mod+Shift+s exec ~/.config/i3/screen.sh`
- 1.4 Restart X
- 1.5 In order to detect a screen use cmd+shift+s
+ 1.3 Open `~/.config/i3/config` and add `bindsym $mod+Shift+s exec ~/.config/i3/screen.sh`<br>
+ 1.4 Restart X<br>
+ 1.5 In order to detect a screen use cmd+shift+s<br>
 2. Option (less optimal):<br>
  2.1 Install lxrandr<br>
  2.2 Execute lxrandr and turn the screen on. You can select the desired resolution.<br>
