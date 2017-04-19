@@ -50,7 +50,7 @@
 2. After that you will see the display manager, which you will remove soon. Here you need to hit ctrl+fn+alt+F2 to go to the Shell 2 - explain shells<br>
 3. You will be shown a black console where you need to login with the credentials you set up before in step 26.<br>
 ## As you’ve noticed, the font seems very small. We’re going to fix that now.<br>
-1. First we’re going to to use the package manager to install the Terminus font. Type “yaourt terminus” in the shell and select “community/terminus-font” by typing the number assigned to it and hitting enter.<br>
+1. First we’re going to to use the package manager to install the Terminus font. Type `yaourt terminus` in the shell and select “community/terminus-font” by typing the number assigned to it and hitting enter.<br>
 2. Once you do this you will see a prompt “[sudo] password for {user}”. This is asking you for your password to allow the installation.<br>
 3. Once you do this you will be asked to confirm your willingness to install Terminus. You can do this by either hitting enter (since the “Y” is in capital letters and hence default) or by typing “y” and then hitting enter.<br>
 4. The installation of Terminus is now complete. Now we need to apply the font. In order to do this type “sudo nano /etc/vconsole.conf” and hit enter. You will be asked for your password. - explain what the vconsole.conf file is for<br>
