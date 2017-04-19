@@ -168,10 +168,12 @@
    echo "-> Desktop mode"
  fi
  ```
- 2. Option (less optimal):<br>
+ 1.3 Open `~/.config/i3/config` and add `bindsym $mod+Shift+s exec ~/.config/i3/screen.sh`
+ 1.4 Restart X
+ 1.5 In order to detect a screen use cmd+shift+s
+2. Option (less optimal):<br>
  2.1 Install lxrandr<br>
  2.2 Execute lxrandr and turn the screen on. You can select the desired resolution.<br>
- 2.3 Close the nano editor and restart X
 ## Setup function keys<br>
 1. Explain i3 config file<br>
 2. Edit the i3 config file by typing `nano ~/.config/i3/config` and adding at the end of the file:<br>
