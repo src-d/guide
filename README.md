@@ -29,6 +29,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * {project}
   * {project}
   * ...
+  * source{d} Open Source Beer Brewery
 * Engineering
   * Methodology
   * Data Science
