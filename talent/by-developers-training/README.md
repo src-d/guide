@@ -30,7 +30,7 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 * <a href="https://try.github.io/levels/1/challenges/1">Git documentation</a><br>
 * <a href="https://en.wikipedia.org/wiki/Open-source_model">Open source documentation</a><br>
 * <a href="https://opensource.org/advocacy/case_for_business.php">Use case of Open Source for businesses</a><br>
-* <a href="">http://www.r2d3.us/visual-intro-to-machine-learning-part-1/">Introduction to Machine Learning</a><br>
+* <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/">Introduction to Machine Learning</a><br>
 * Enki (Linux + Git Track) - <a href="https://play.google.com/store/apps/details?id=com.enki.insights&hl=en">Android</a> | <a href="https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8">iOS</a><br>
 
 <b>Deliverable:</b> Stanford Certificate<br>
