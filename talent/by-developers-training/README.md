@@ -7,7 +7,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 
 ## Quest 1: Setup your machine on Arch Linux<br>
 <b>Why:</b> By getting a good understanding of Linux you'll understand better how a computer works and you'll get to use sites like Stack Overflow on a frequent basis, which will allow you to get a better picture of the developer community.<br>
-<b>Process:</b> Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOerflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. But remember that doing so is admitting defeat, nothing is unsolveable!<br>
+<b>Process:</b> Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOverflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. But remember that doing so is admitting defeat, nothing is unsolveable!<br>
 You should have received an invitation to Enki. Enroll in the Linux track and make sure you train every day, during the slot you hav blocked, to become better at it and so you don't forget what you've learned.<br>
 <b>Duration:</b> 2 days<br>
 <b>Resources:</b><br>
