@@ -1,4 +1,6 @@
 # "By Developers" Training<br>
+
+As you've read in our Culture section, we're a company "For Developers". In order to achieve this everyone needs to be able to put themselves in the shoes of a developer by becoming one theirselves.
 The purpose of this document is to provide a guide on how to acquire an engineering mindset through learning the basics of Computer Science and coding. Each sourcerer should block a 1-hour slot every day in thei calendars to dedicate to this program. The total length of the program is 21 weeks.<br>
 You will be assigned a mentor who will be able to help you with questions or problems. This mentor will be either someone from the engineering team or someone who has finished the program before already.<br>
 <br>
