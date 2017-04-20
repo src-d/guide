@@ -7,10 +7,10 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * General
   * Culture
   * Communications
-  * Security
-  * Working Remotely
-  * Tools
   * Leadership
+  * Structure
+  * Security
+  * Tools
   * Parties
   * Office
   * Expenses & Travel
@@ -18,6 +18,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Hiring
   * Contract
   * Stock Option Plan
+  * Working Remotely
   * Holidays
   * Flexible working schedule
   * Onboarding
