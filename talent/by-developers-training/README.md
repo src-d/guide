@@ -74,7 +74,7 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 <b>Deliverable:</b> Completion in Datacamp Dashboard<br>
 <br>
 
-## Extra Credits:<br>
+## DLC: Extra Credits:<br>
 <b>Why:</b> You just can't get enough, you've opened the Pandora Box and now can't close it ever again. You want to dig deeper into Unix, Python, Data Science or maybe learn some frontend.<br>
 <b>Process:</b> Combining books and other resources to dig deeper into coding.<br>
 <b>Duration:</b> Your whole life (or not, your choice)<br>
