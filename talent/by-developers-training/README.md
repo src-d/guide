@@ -1,11 +1,12 @@
 # "By Developers" Training<br>
-The purpose of this document is to provide a guide on how to acquire an engineering mindset through learning the basics of Computer Science and coding. Each team member should block a 1-hour slot every day to dedicate to this program. The total length of the program is 21 weeks.<br>
-You will be assigned a mentor who will be able to help you with questions or problems throughout this program. This mentor will be either someone from the engineering team or someone who has finished the program before already.<br>
+The purpose of this document is to provide a guide on how to acquire an engineering mindset through learning the basics of Computer Science and coding. Each sourcerer should block a 1-hour slot every day in thei calendars to dedicate to this program. The total length of the program is 21 weeks.<br>
+You will be assigned a mentor who will be able to help you with questions or problems. This mentor will be either someone from the engineering team or someone who has finished the program before already.<br>
 <br>
 
-## Step 1: Setup your machine on Arch Linux<br>
+## Quest 1: Setup your machine on Arch Linux<br>
 <b>Why:</b> By getting a good understanding of Linux you'll understand better how a computer works and you'll get to use sites like Stack Overflow on a frequent basis, which will allow you to get a better picture of the developer community.<br>
-<b>Process:</b> Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOerflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. You should have received an invitation to Enki. Enroll in the Linux track and make sure you train every day to become better at it and so you don't forget what you've learned.<br>
+<b>Process:</b> Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOerflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. But remember that doing so is admitting defeat, nothing is unsolveable!<br>
+You should have received an invitation to Enki. Enroll in the Linux track and make sure you train every day, during the slot you hav blocked, to become better at it and so you don't forget what you've learned.<br>
 <b>Duration:</b> 2 days<br>
 <b>Resources:</b><br>
 * <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/linux.md">Arch Linux Setup</a><br>
@@ -17,7 +18,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Fully set-up laptop<br>
 <br>
 
-## Step 2: Computer Science Basics<br>
+## Quest 2: Computer Science Basics<br>
 <b>Why:</b> Knowing the basics about how software and hardware interact is key to understanding development.<br>
 <b>Process:</b> Going through the course material on CS101 by Stanford<br>
 <b>Duration:</b> 6 weeks<br>
@@ -32,7 +33,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Stanford Certificate<br>
 <br>
 
-## Step 3: Culture<br>
+## Quest 3: Culture<br>
 <b>Why:</b> You can't be at source{d} without knowing about the technologies we're developing, the research we're publishing and the people on our office's walls.<br>
 <b>Process:</b> Reading through all of the provided documentation<br>
 <b>Duration:</b> 1 day<br>
@@ -47,7 +48,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 * <a href="https://blog.sourced.tech/">source{d} Blog</a><br>
 <br>
 
-## Step 4: Learning Python<br>
+## Quest 4: Learning Python<br>
 <b>Why:</b> Now that you know the theory it's time for you to get your hands dirty and learn how to code. This track won't teach you how to become a developer, but rather how to code to be more efficient in your day to day.<br>
 <b>Process:</b> Reading through the book “Automate the Boring Stuff with Python”<br>
 <b>Duration:</b> 3 weeks<br>
@@ -60,7 +61,7 @@ You will be assigned a mentor who will be able to help you with questions or pro
 <b>Deliverable:</b> Coding Challenge<br>
 <br>
 
-## Step 5: Learn Data Science with Python<br>
+## Quest 5: Learn Data Science with Python<br>
 <b>Why:</b> Data Science is at the core of source{d}. Now that you know the basics of coding it's time to learn one more application of it: how to leverage data with Python.<br>
 <b>Process:</b> Going through the full course of Data Science with Python on Datacamp<br>
 <b>Duration:</b> 11 weeks<br>
