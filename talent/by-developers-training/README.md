@@ -10,7 +10,7 @@ You will be assigned a mentor who will be able to help you with questions and pr
 
 **Why:** By getting a good understanding of Linux you'll understand better how a computer works and you'll get to use sites like Stack Overflow on a frequent basis, which will allow you to get a better picture of the developer community.
 
-**Process:** Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOverflow or other sites. If you find yourself unable to solve your problem ask your mentor for help.
+**Process:** Follow all the steps on the Arch Linux Setup documentation to fully set up your laptop. If you have questions on how to do something first google your question and try to find solutions to it on ArchLinux, StackOverflow or other sites. If you find yourself unable to solve your problem ask your mentor for help. When doing so, try to recollect the queries you used to look for the problem on the internet. This way, your mentor will help to improve the most important technique you’ll need while coding: your _google-fu_.
 
 You should have received an invitation to Enki. Enroll in the Linux track and make sure you train every day, during the slot you have blocked, to become better at it and so you don't forget what you've learned.
 
