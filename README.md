@@ -16,7 +16,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Expenses & Travel
 * Talent
   * Hiring
-  * Contract
+  * <a href="https://github.com/src-d/tutorial/blob/master/talent/contract.md">Contract</a>
   * Stock Option Plan
   * Working Remotely
   * Holidays
