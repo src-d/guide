@@ -30,7 +30,7 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 
 **Why:** Knowing the basics about how software and hardware interact is key to understanding development.
 
-**Process:** Going through the course material on CS101 by Stanford
+**Process:** Going through the course material (the optional pieces included) on CS101 by Stanford, as well as reading the rest of the provided documentation.
 
 **Duration:** 6 weeks
 
@@ -50,9 +50,9 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 
 **Why:** You can't be at source{d} without knowing about the technologies we're developing, the research we're publishing and the people on our office's walls.
 
-**Process:** Reading through all of the provided documentation
+**Process:** Reading through all of the provided documentation and doing further research on your own about the people and related topics that might have caught your attention.
 
-**Duration:** 1 day
+**Duration:** 2 days
 
 **Resources:**
 
