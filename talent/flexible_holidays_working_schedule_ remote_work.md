@@ -1,4 +1,4 @@
-# Flexible Holidays & Working Schedule
+# Flexible Holidays, Working Schedule and Remote Work
 At source{d} we believe in freedome and treating everyone as adults. If you're committed to what we can achieve together and love your job you don't need anyone forcing you to work in one certain way or another.<br>
 ### Holiday Policy
 At source{d} you will have 23 days of holidays to use however you wish. This means that you can take them whenever you want, just to let everyone know with as much time as possible so people can plan in advance.<br>
