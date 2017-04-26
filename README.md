@@ -9,6 +9,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Communications
   * Leadership
   * Structure
+  * Investors, Board of Directors and Advisors
   * Security
   * Tools
   * Parties
