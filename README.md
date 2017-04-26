@@ -9,7 +9,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Communications
   * Leadership
   * Structure
-  * Investors, Board of Directors and Advisors
+  * <a href="https://github.com/src-d/tutorial/blob/master/general/investors_board_advisors.md">Investors, Board of Directors and Advisors</a>
   * Security
   * Tools
   * Parties
