@@ -18,8 +18,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Hiring
   * <a href="https://github.com/src-d/tutorial/blob/master/talent/contract.md">Contract</a>
   * Stock Option Plan
-  * Working Remotely
-  * <a href="https://github.com/src-d/tutorial/blob/master/talent/flexible_holidays_and_working_schedule.md">Flexible Holidays & Working Schedule</a>
+  * <a href="https://github.com/src-d/tutorial/blob/master/talent/flexible_holidays_working_schedule_%20remote_work.md">Flexible Holidays, Working Schedule and Remote Work</a>
   * Onboarding
   * <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/README.md">"By Developers" Training</a>
   * Career development
