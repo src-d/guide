@@ -1,6 +1,6 @@
-# source{d} tutorial
+# source{d} guide
 
-Welcome! The source{d} tutorial documentation is where you will find all information about how it's like to work here. It contains all the info you need from the moment you accept an offer to work with us, up until you're fully onboarded. The information contained here is not just about work, but also about other interesting things.
+Welcome! The source{d} guide documentation is where you will find all information about how it's like to work here. It contains all the info you need from the moment you accept an offer to work with us onwards. The information contained here is not just about work, but also about other interesting things.
 
 This documentation is open to everyone, sourcerers and non-sourcerers. So feel free to suggest improvements and changes via pull requests and to ask questions via issues.
 
