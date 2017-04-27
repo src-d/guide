@@ -1,5 +1,5 @@
 # Investors, Board of Directors and Advisors
-At source{d} we're very lucky to count with the backing of an incredible group of invesotrs, board members and advisors and we're hapy to brag about them whenever possible. In this document you will find who are our shaholders, who is on our BoD and who advises us on a regular basis.<br>
+At source{d} we're very lucky to count with the backing of an incredible group of investors, board members and advisors and we're happy to brag about them whenever possible. In this document, you will find who our shareholders are, who is on our BoD and who advises us on a regular basis.<br>
 ### Shareholders
 Shareholder | Percentage
 ------------|------------
