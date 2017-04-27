@@ -30,3 +30,6 @@ Izzat Abou-Amarah | Board Member
 
 ### Advisors
 * Julien Barbier
+
+### Prospective Investors
+If you're an investor and are interested in investing in source{d} feel free to do a pull request here!
