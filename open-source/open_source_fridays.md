@@ -1,8 +1,8 @@
 
 # Open Source Fridays
 
-Developers at source{d} use 10% of development time to open source projects of their choice. 
-This is accomplished with Open Source Fridays (OSF), which happens on the second week of each sprint.
+Developers at source{d} dedicate 10% of their development time to open source projects of their choice. 
+This is accomplished with Open Source Fridays (OSF), which happen on the second week of each sprint.
 
 ## The Rules
 
@@ -14,9 +14,9 @@ They can be either in a personal account, a dedicated organization or the [src-d
 
 ### DON'T do your job
 
-Ok. Actually, OSF is part of every source{d} developer job. But the decision on what to do
-on OSF should be driven exclusively by your interests. While working on a source{d} project such as
-[go-git](https://github.com/src-d/go-git), we encourage you to work on something not related
+OK. Actually, OSF is part of every source{d} developer's job. But the decision on what to do
+on OSF should be driven exclusively by your interests. While you can work on a source{d} project such as
+[go-git](https://github.com/src-d/go-git), we also encourage you to work on something not related
 to your daily job.
 
 ### Demo
