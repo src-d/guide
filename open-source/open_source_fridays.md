@@ -22,7 +22,7 @@ to your daily job.
 ### Demo
 
 Whatever you do, you must demo it to your colleages. We prefer actual demos, not slides or code
-walkthoughs.
+walkthroughs.
 
 ## How To
 
