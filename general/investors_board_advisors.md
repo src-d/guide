@@ -3,33 +3,33 @@ At source{d} we're very lucky to count with the backing of an incredible group o
 ### Shareholders
 Shareholder | Percentage
 ------------|------------
-<a href="http://sunstone.eu/portfolio/portfolio-technology-ventures/">Sunstone Capital</a> | 22,14%
-<a href="http://www.otiumcapital.com/">Otium Venture</a> | 21,68%
-<a href="https://linkedin.com/in/jorgeschnura">Jorge Schnura</a> | 21,04%
-<a href="https://linkedin.com/in/eisokant">Eiso Kant</a> | 15,98%
-<a href="https://en.wikipedia.org/wiki/Xavier_Niel">Xavier Niel</a> | 7,46%
-<a href="http://www.impulse.com.kw/portfolio/">Impulse</a> | 5,90%
-<a href="https://linkedin.com/in/philip-von-have-29b46a20">Philip von Have</a> | 3,39%
-<a href="https://linkedin.com/in/marcel-zegger-65751b5">Marcel Zegger</a> | 1,07%
-<a href="https://linkedin.com/in/fabienpotencier">Fabien Potencier</a> | 0,37%
-<a href="https://linkedin.com/in/eduardoronzano">Eduardo Ronzano</a> | 0,32%
-<a href="https://linkedin.com/in/ian-quest-918422b">Ian Quest</a> | 0,32%
-<a href="https://linkedin.com/in/zubinchagpar">Zubin Chagpar</a> | 0,23%
-<a href="https://linkedin.com/in/brunoraillard">Bruno Raillard</a> | 0,05%
-<a href="https://linkedin.com/in/pierreentremont">Pierre Entremont</a> | 0,03%
+[Sunstone Capital](http://sunstone.eu/portfolio/portfolio-technology-ventures/) | 22,14%
+[Otium Venture](http://www.otiumcapital.com/) | 21,68%
+[Jorge Schnura](https://linkedin.com/in/jorgeschnura) | 21,04%
+[Eiso Kant](https://linkedin.com/in/eisokant) | 15,98%
+[Xavier Niel](https://en.wikipedia.org/wiki/Xavier_Niel) | 7,46%
+[Impulse](http://www.impulse.com.kw/portfolio/) | 5,90%
+[Philip von Have](https://linkedin.com/in/philip-von-have-29b46a20) | 3,39%
+[Marcel Zegger](https://linkedin.com/in/marcel-zegger-65751b5) | 1,07%
+[Fabien Potencier](https://linkedin.com/in/fabienpotencier) | 0,37%
+[Eduardo Ronzano](https://linkedin.com/in/eduardoronzano) | 0,32%
+[Ian Quest](https://linkedin.com/in/ian-quest-918422b) | 0,32%
+[Zubin Chagpar](https://linkedin.com/in/zubinchagpar) | 0,23%
+[Bruno Raillard](https://linkedin.com/in/brunoraillard) | 0,05%
+[Pierre Entremont](https://linkedin.com/in/pierreentremont) | 0,03%
 
 ### Board of Directors
 Board Member | Seat
 -------------|-------------
-<a href="https://linkedin.com/in/eisokant">Eiso Kant</a> | Chairman of the Board
-<a href="https://linkedin.com/in/jorgeschnura">Jorge Schnura</a> | Secretary of the Board
-<a href="https://linkedin.com/in/jinielsen">Jimmy Fussing</a> | Board Member
-<a href="https://linkedin.com/in/brunoraillard">Bruno Raillard</a> | Board Member
-<a href="https://linkedin.com/in/jeandlr">Jean de la Rochebrochard</a> | Board Member
-<a href="linkedin.com/in/izzat-abou-amarah-7a79691">Izzat Abou-Amarah</a> | Board Member
+[Eiso Kant](https://linkedin.com/in/eisokant) | Chairman of the Board
+[Jorge Schnura](https://linkedin.com/in/jorgeschnura) | Secretary of the Board
+[Jimmy Fussing](https://linkedin.com/in/jinielsen) | Board Member
+[Bruno Raillard](https://linkedin.com/in/brunoraillard) | Board Member
+[Jean de la Rochebrochard](https://linkedin.com/in/jeandlr) | Board Member
+[Izzat Abou-Amarah](https://linkedin.com/in/izzat-abou-amarah-7a79691) | Board Member
 
 ### Advisors
-* <a href="linkedin.com/in/julienbarbier">Julien Barbier</a>
+* [Julien Barbier](https://linkedin.com/in/julienbarbier)
 
 ### Prospective Investors
 If you're an investor and are interested in investing in source{d} feel free to do a pull request here!
