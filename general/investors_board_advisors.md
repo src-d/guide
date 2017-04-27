@@ -13,8 +13,8 @@ Shareholder | Percentage
 <a href="https://linkedin.com/in/marcel-zegger-65751b5">Marcel Zegger</a> | 1,07%
 <a href="https://linkedin.com/in/fabienpotencier">Fabien Potencier</a> | XX,XX%
 <a href="https://linkedin.com/in/eduardoronzano">Eduardo Ronzano</a> | 0,32%
-<a href="https://linkedin.com/in/ian-quest-918422b">Ian Quest</a> | XX,XX%
-<a href="https://linkedin.com/in/zubinchagpar">Zubin Chagpar</a> | XX,XX%
+<a href="https://linkedin.com/in/ian-quest-918422b">Ian Quest</a> | 0,32%
+<a href="https://linkedin.com/in/zubinchagpar">Zubin Chagpar</a> | 0,23%
 <a href="https://linkedin.com/in/brunoraillard">Bruno Raillard</a> | 0,05%
 <a href="https://linkedin.com/in/pierreentremont">Pierre Entremont</a> | 0,03%
 
