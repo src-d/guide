@@ -8,7 +8,7 @@ Otium Venture | 21,68%
 Jorge Schnura | 21,04%
 Eiso Kant | 15,98%%
 Xavier Niel | 7,46%
-Impulse | XX,XX%
+Impulse | 5,90%
 Philip von Have | 3,39%
 Marcel Zegger | XX,XX%
 Fabien Potencier | XX,XX%
