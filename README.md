@@ -25,7 +25,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Career development
   * Offboarding
 * Open Source
-  * Open Source Fridays
+  * [Open Source Fridays](https://github.com/src-d/tutorial/blob/master/open-source/open_source_fridays.md)
   * {project}
   * {project}
   * ...
