@@ -21,7 +21,7 @@ Shareholder | Percentage
 ### Board of Directors
 Board Member | Seat
 -------------|-------------
-<a href="https://linkedin.com/in/eisokant">Eiso Kant</a> | Chairman ofthe Board
+<a href="https://linkedin.com/in/eisokant">Eiso Kant</a> | Chairman of the Board
 <a href="https://linkedin.com/in/jorgeschnura">Jorge Schnura</a> | Secretary of the Board
 <a href="https://linkedin.com/in/jinielsen">Jimmy Fussing</a> | Board Member
 <a href="https://linkedin.com/in/brunoraillard">Bruno Raillard</a> | Board Member
