@@ -26,6 +26,7 @@ Jorge Schnura | Secretary
 Jimmy Fussing | Board Member
 Bruno Raillard | Board Member
 Jean de la Rochebrochard | Board Member
+Izzat Abou-Amarah | Board Member
 
 ### Advisors
 * Julien Barbier
