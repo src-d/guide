@@ -11,7 +11,7 @@ Shareholder | Percentage
 <a href="http://www.impulse.com.kw/portfolio/">Impulse</a> | 5,90%
 <a href="https://linkedin.com/in/philip-von-have-29b46a20">Philip von Have</a> | 3,39%
 <a href="https://linkedin.com/in/marcel-zegger-65751b5">Marcel Zegger</a> | 1,07%
-<a href="https://linkedin.com/in/fabienpotencier">Fabien Potencier</a> | XX,XX%
+<a href="https://linkedin.com/in/fabienpotencier">Fabien Potencier</a> | 0,37%
 <a href="https://linkedin.com/in/eduardoronzano">Eduardo Ronzano</a> | 0,32%
 <a href="https://linkedin.com/in/ian-quest-918422b">Ian Quest</a> | 0,32%
 <a href="https://linkedin.com/in/zubinchagpar">Zubin Chagpar</a> | 0,23%
