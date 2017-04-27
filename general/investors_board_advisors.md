@@ -3,12 +3,12 @@ At source{d} we're very lucky to count with the backing of an incredible group o
 ### Shareholders
 Shareholder | Percentage
 ------------|------------
-Jorge Schnura | XX,XX%
 Sunstone Capital | XX,XX%
-Eiso Kant | XX,XX%
 Otium Venture | XX,XX%
-Impulse | XX,XX%
+Jorge Schnura | XX,XX%
+Eiso Kant | XX,XX%
 Xavier Niel | XX,XX%
+Impulse | XX,XX%
 Philip von Have | XX,XX%
 Marcel Zegger | XX,XX%
 Fabien Potencier | XX,XX%
