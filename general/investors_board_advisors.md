@@ -4,19 +4,19 @@ At source{d} we're very lucky to count with the backing of an incredible group o
 Shareholder | Percentage
 ------------|------------
 Sunstone Capital | XX,XX%
-Otium Venture | XX,XX%
-Jorge Schnura | XX,XX%
-Eiso Kant | XX,XX%
-Xavier Niel | XX,XX%
+Otium Venture | 21,68%
+Jorge Schnura | 21,04%
+Eiso Kant | 15,98%%
+Xavier Niel | 7,46%
 Impulse | XX,XX%
-Philip von Have | XX,XX%
+Philip von Have | 3,39%
 Marcel Zegger | XX,XX%
 Fabien Potencier | XX,XX%
 Eduardo Ronzano | XX,XX%
 Ian Quest | XX,XX%
 Zubin Chagpar | XX,XX%
-Bruno Raillard | XX,XX%
-Pierre Entremont | Xx,XX%
+Bruno Raillard | 0,05%
+Pierre Entremont | 0,03%
 
 ### Board of Directors
 Board Member | Seat
