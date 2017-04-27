@@ -5,7 +5,7 @@ Welcome! The source{d} guide documentation is where you will find all informatio
 This documentation is open to everyone, sourcerers and non-sourcerers. So feel free to suggest improvements and changes via pull requests and to ask questions via issues.
 
 * General
-  * Culture
+  * <a href="https://github.com/src-d/tutorial/blob/master/general/culture.md">Culture</a>
   * Communications
   * Leadership
   * Structure
