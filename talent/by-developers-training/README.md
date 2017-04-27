@@ -57,13 +57,18 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 **Resources:**
 
 * [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
+* [Difference Engine](https://en.wikipedia.org/wiki/Difference_engine)
 * [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+* [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park)
 * [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist))
+* [Apollo XI](https://en.wikipedia.org/wiki/Apollo_11)
 * [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+* [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)
 * [Shigeru Miyamoto](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 * [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)
+* [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
 * [source{d} Organization in GitHub](https://github.com/src-d)
-* [source{d} Blog](https://blog.sourced.tech/)
+* [source{d} Engineering Blog](https://blog.sourced.tech/)
 
 ## Quest 4: Learning Python
 
