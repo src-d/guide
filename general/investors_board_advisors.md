@@ -6,7 +6,7 @@ Shareholder | Percentage
 Sunstone Capital | XX,XX%
 Otium Venture | 21,68%
 Jorge Schnura | 21,04%
-Eiso Kant | 15,98%%
+Eiso Kant | 15,98%
 Xavier Niel | 7,46%
 Impulse | 5,90%
 Philip von Have | 3,39%
