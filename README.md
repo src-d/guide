@@ -5,35 +5,37 @@ Welcome! The source{d} guide documentation is where you will find all informatio
 This documentation is open to everyone, sourcerers and non-sourcerers. So feel free to suggest improvements and changes via pull requests and to ask questions via issues.
 
 * General
-  * <a href="https://github.com/src-d/tutorial/blob/master/general/culture.md">Culture</a>
-  * Communications
+  * Mission & Vision
+  * Roadmap
+  * [Culture](https://github.com/src-d/guide/blob/master/general/culture.md)
+  * Organizational & Legal Structure
+  * [Investors, Board of Directors and Advisors](https://github.com/src-d/guide/blob/master/general/investors_board_advisors.md)
   * Leadership
-  * Structure
-  * <a href="https://github.com/src-d/tutorial/blob/master/general/investors_board_advisors.md">Investors, Board of Directors and Advisors</a>
-  * Security
+  * Objectives & Key Results (OKRs)
+  * Communications
   * Tools
-  * Parties
+  * Security
   * Office
+  * Company Events
   * Expenses & Travel
 * Talent
   * Hiring
-  * <a href="https://github.com/src-d/tutorial/blob/master/talent/contract.md">Contract</a>
-  * <a href="https://github.com/src-d/tutorial/blob/master/talent/esop.md">Stock Option Plan</a>
-  * <a href="https://github.com/src-d/tutorial/blob/master/talent/flexible_holidays_working_schedule_%20remote_work.md">Flexible Holidays, Working Schedule and Remote Work</a>
+  * [Contract](https://github.com/src-d/guide/blob/master/talent/contract.md)
+  * [Stock Option Plan](https://github.com/src-d/guide/blob/master/talent/esop.md)
+  * [Flexible Holidays, Working Schedule and Remote Work](https://github.com/src-d/guide/blob/master/talent/flexible_holidays_working_schedule_%20remote_work.md)
   * Onboarding
-  * <a href="https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/README.md">"By Developers" Training</a>
+  * ["By Developers" Training](https://github.com/src-d/guide/blob/master/talent/by-developers-training/README.md)
   * Career development
   * Offboarding
 * Open Source
-  * [Open Source Fridays](https://github.com/src-d/tutorial/blob/master/open-source/open_source_fridays.md)
-  * {project}
-  * {project}
-  * ...
+  * Open Source Policy
+  * [Open Source Fridays](https://github.com/src-d/guide/blob/master/open-source/open_source_fridays.md)
   * source{d} Open Source Beer Brewery
 * Engineering
   * Methodology
   * Data Science
   * Infrastructure
+  * Language Analysis
   * Data Retrieval
   * Platform
 * Developer Community
@@ -41,5 +43,5 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * <a href="https://blog.sourced.tech">Engineering Blog</a>
   * <a href="https://medium.com/source-d">Company Blog</a>
 * Product
-  * Design
   * Methodology
+  * Design Guidelines
