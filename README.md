@@ -32,7 +32,8 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Open Source Fridays](https://github.com/src-d/guide/blob/master/open-source/open_source_fridays.md)
   * source{d} Open Source Beer Brewery
 * Engineering
-  * Methodology
+  * [Methodology](engineering/methodology.md)
+  * [Git workflow](engineering/git-flow.md)
   * Data Science
   * Infrastructure
   * Language Analysis
