@@ -1,6 +1,6 @@
 # Git workflow
 
-![Image](/dev-team/git-flow-app.png?raw=true)
+![Image](/engineering/images/git-flow-app.png?raw=true)
 
 # How to add more code to the project
 
