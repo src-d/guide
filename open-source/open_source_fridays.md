@@ -1,8 +1,8 @@
 
 # Open Source Fridays
 
-Developers at source{d} dedicate 10% of their development time to open source projects of their choice. 
-This is accomplished with Open Source Fridays (OSF), which happen on the second week of each sprint.
+Developers at source{d} dedicate 10% of their development time to open source projects of their choice.
+This is accomplished with Open Source Fridays (OSF), which happen on the first Friday of each sprint.
 
 ## The Rules
 
@@ -26,7 +26,7 @@ walkthroughs.
 
 ## How To
 
-1. **Prepare.**Get to the office before 10:30 a.m. and prepare your work for the day.
+1. **Prepare.** Get to the office before 10:30 a.m. and prepare your work for the day.
 2. **Share your plan.** At 10:30 we do the OSF planning meeting. You should briefly explain what you are going to do and what do you expect to accomplish by the end of the day. This should be just 1 or 2 minutes per person.
 3. **Do it.** Execute your plan for the day and push it!
 4. **Demo.** At a time agreed by the team, usually at 17:30, the demo starts. Everyone presents their work to others in 5-15 minutes.
