@@ -30,7 +30,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * Open Source
   * Open Source Policy
   * [Open Source Fridays](https://github.com/src-d/guide/blob/master/open-source/open_source_fridays.md)
-  * source{d} Open Source Beer Brewery
+  * [src-d/homebrew](https://github.com/src-d/homebrew): source{d} Open Source Beer Brewery
 * Engineering
   * [Methodology](engineering/methodology.md)
   * [Git workflow](engineering/git-flow.md)
