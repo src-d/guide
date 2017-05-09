@@ -1,7 +1,7 @@
 # "By Developers" Training
 
 As you've read in our Culture section, we're a company "For Developers". In order to achieve this everyone needs to be able to put themselves in the shoes of a developer by becoming one themselves.
-The purpose of this document is to provide a guide on how to acquire an engineering mindset through learning the basics of Computer Science and coding. Each sourcerer should block a 1-hour slot every day in their calendars to dedicate to this program. The total length of the program is 21 weeks.
+The purpose of this document is to provide a guide on how to acquire an engineering mindset through learning the basics of Computer Science and coding. Each sourcerer should block a 1-hour slot every day in their calendars to dedicate to this program. The quests should be completed in order, which will take you 21 weeks to achieve.
 
 You will be assigned a mentor who will be able to help you with questions and problems. This mentor will be either someone from the engineering team or someone who has finished the program before already.
 
@@ -114,6 +114,8 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 
 **Resources:**
 
+* [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
+* [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 * [Learn Unix the Hard Way](https://learncodethehardway.org/unix/)
 * [Learn JavaScript the Hard Way](https://learncodethehardway.org/javascript/)
