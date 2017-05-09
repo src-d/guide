@@ -14,6 +14,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Objectives & Key Results (OKRs)
   * Communications
   * Tools
+  * [Hardware](https://github.com/src-d/guide/blob/master/general/available_hardware.md)
   * Security
   * Office
   * Company Events
