@@ -1,11 +1,14 @@
 # Engineering Methodology
 
-Date: 2016-09-21
+Date: 2017-05-09
 
 ## Intro
 
-These are the notes from 2016-09-12 Scrum/OKR meeting for the Engineering team
-at source{d}.
+These are the notes from
+ - 2016-09-12 Scrum/OKR
+ - 2017-05-08 Sprint #13 Retrospective
+
+meetings for the Engineering team at source{d}.
 
 ## OKR
 
@@ -16,22 +19,44 @@ at source{d}.
 
 ## SCRUM
 
-- We will be having different SCRUMS per team, although as we are so few, some
-  we are having some meetings all together (e. g. standups)
+- We will be having different SCRUMS per team as we are so many now.
 
 - Sprints will last 2 weeks.
 
-- The product owner will be @mcuadros
+- **Goal of the Sprint**: deliver something usable by the end of it.
 
-- Standup meetings at 10:30AM. Right now they will be with all engineering. When all the teams have all their members every team will have their own standup meeting.
+- Tools: up to a team to decide. But backlog should be is in GH issues.
 
-- Planning meetings
 
-  + Each team will have their own.
+```
+SM = Scrum Master
+PO = Product Owner
+```
 
-  + Data Science and Devops will have their planning meeting on Mondays.
+Team          | Roles                   | Sprint length | Sprint Planing
+--------------|-------------------------|---------------|---------------
+Platform      | SM:Sergio, PO: Marcelo  | 1w            | Monday, 09:30
+Data Retrieval| SM:Santiago, PO: Maximo | 2w            | Tuesday,10:00
+ML            | SM:Vadim, PO: Maximo    | 2w            | Monday, 11:30
+Infra         | SM:Maximo, PO: Maximo   | 2w            | Monday, 15:00
 
-  + Tools and Data Retrieval on Tuesdays.
+*General Standup*: 10:30 @ Margaret Hamilton room
+
+
+### Standups
+Every day, except for OSF and Planing.
+
+Team          | Time      |  Room
+--------------|-----------|-------------
+Platform      | 10:00     | Ada Lovelace
+Data Retrieval| 10:00     | Margaret Hamilton
+ML            | 10:15     | open space
+Infra         | ???       | Margaret Hamilton
+
+
+### Planning
+
+Planning meetings
 
   + It is really a planing DAY, not just a meeting:
 
@@ -41,42 +66,64 @@ at source{d}.
     * The rest of the day, the team will think about proposed sprint plan and
       decide if it is doable.
 
+         - leads review backlog before the planning
+         - read backlog
+         - agree on scope of sprint
+         - estimate
+
     * There will be a close meeting at 17:30 (first) and 18:00 (second) to confirm
       the sprint plan.
 
   + All OKR objectives for each team member will be covered in the planning.
 
-- Demo
 
-  + At the end of each sprint: Fridays 15:30.
+### Deployment
 
-  + Company Wide.
+  + Deploying may not make sense for some teams, i. e. Data Science and Devops.
+
+  + Tools and Data Retrieval will deploy on Mondays, after the end of an sprint,
+    as they don't have the planing meeting until Tuesday.
+
+### Demo
+
+Demo meetings
+
+  + Idea: let know everybody what's going on (on quite technical level).
+
+  + At the end of each sprint: Fridays 13:30.
 
   + Product does not need to be deployed, but the demo should be as real as
     possible.
 
-- Deploying
+  + It's for eng team and stakeholders: POs, Mgt team (Jorge, Eiso, Marge, Maximo, Marcelo).
 
-  + Deploying may not make sense for some teams, i. e. Data Science and Devops.
+  + Should be concise, respecting other people's time.
 
-  + Tools and Data Retrieval will deploy on Mondays after the end of an sprint,
-    as they don't have the planing meeting until Tuesday.
+  + Fix max time per-team **total: 90min**, **per-team: 20min (15/5 questions)**.
 
-- Retrospectives
+  +  Agree between teams in advance, if more time needed.
+
+
+### Retrospectives
 
   + Starting at the end of the second sprint, one every other sprint.
 
-  + On Fridays after the sprint demo.
+  + Every 2nd week of sprint, on Fridays after the [sprint demo](https://github.com/src-d/guide/blob/master/engineering/methodology.md#Demo).
 
-- Keeping track of things:
+### Keeping track of things:
 
-  + Publicly: Physical Kanban on some wall.
+  + Publicly: a Kanban board on-line.
 
-  + Per team: any way the see fit (github issues, github projects, waffle.io...).
+  + Per team: any way team sees fit (github issues, github projects, waffle.io...).
 
-- What does it mean something is done?
+  + [src-d/issues](https://github.com/src-d/issues-general) - should be used more, as place for feedback/requests (i.e website, infra, etc)
+
+
+### Sprint extensions
+ - we need to schedule extentions in advance, in more predictable fascion
+ - it affects both Planing and OSF
+
+### What does it mean something is done?
 
   + Team by team answer.
-
-- Redirect people requests uphill to avoid getting unplanned work during the
-  sprints.
+  + Redirect people requests uphill to avoid getting unplanned work during the sprints.
