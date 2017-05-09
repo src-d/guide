@@ -16,6 +16,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Tools
   * Security
   * Office
+    * [Madrid Seating Chart](https://github.com/src-d/guide/blob/master/general/madrid_office_seating_chart.md)
   * Company Events
   * Expenses & Travel
 * Talent
