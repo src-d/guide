@@ -18,7 +18,7 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 
 **Resources:**
 
-* [Arch Linux Setup](https://github.com/src-d/tutorial/blob/master/talent/by-developers-training/linux.md)
+* [Arch Linux Setup](https://github.com/src-d/guide/blob/master/talent/by-developers-training/arch-linux-setup.md)
 * [Unix Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 * Enki (Linux Track) - [Android](https://play.google.com/store/apps/details?id=com.enki.insights&hl=en) | [iOS](https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8)
 * [Arch Linux](https://wiki.archlinux.org/)
