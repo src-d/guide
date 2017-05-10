@@ -8,7 +8,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Mission & Vision
   * Roadmap
   * [Culture](https://github.com/src-d/guide/blob/master/general/culture.md)
-  * Organizational & Legal Structure
+  * [Organizational & Legal Structure](https://github.com/src-d/guide/blob/master/general/organizational_legal_structure.md)
   * [Investors, Board of Directors and Advisors](https://github.com/src-d/guide/blob/master/general/investors_board_advisors.md)
   * Leadership
   * Objectives & Key Results (OKRs)
