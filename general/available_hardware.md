@@ -44,6 +44,8 @@
 - [Laptop Stand](https://www.amazon.es/gp/product/B01CCMCGWI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 - [Monitor Stand](https://www.amazon.es/gp/product/B00HAMQY2E/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 
-# Related Issues
+# Other
+
+This list is open to suggestions via pull requests. If you think anything is missing that can make your life better, suggest it, you need the LGTM from @mcuadros for it be merged and then @estherrgarcia can help with ordering and keeping track of the hardware. 
 
 - [Discussion on why hardware is standardized](https://github.com/src-d/guide/issues/25)
