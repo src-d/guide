@@ -37,3 +37,6 @@ No matter if you’re a socialist, totalitarian, libertarian, conservative or do
 Everybody has the right to have an opinion (that doesn’t harm or disrespects someone else), and that is something that reflects how the company works. By people feeling free to say whatever they think without being judged, they also feel free to contribute crazy ideas to the company, which creates a very dynamic environment.<br>
 <br>
 Not everyone will like our culture, but that’s the point of it ;)
+
+# 
+You can read the original blogpost [here](https://medium.com/source-d/your-companys-culture-shouldn-t-please-everyone-77c85e3b5d66).
