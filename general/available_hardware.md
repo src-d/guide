@@ -43,3 +43,7 @@
 - [Desktop Powerbase](https://www.amazon.es/Allocacoc-PowerCube-ReWirable-P%C3%BArpura-m%C3%BAltiple/dp/B010XEHG8Q/ref=sr_1_1?s=electronics&ie=UTF8&qid=1493896780&sr=1-1&keywords=PowerCube+usb+viaje)
 - [Laptop Stand](https://www.amazon.es/gp/product/B01CCMCGWI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 - [Monitor Stand](https://www.amazon.es/gp/product/B00HAMQY2E/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+# Related Issues
+
+- [Discussion on why hardware is standardized](https://github.com/src-d/guide/issues/25)
