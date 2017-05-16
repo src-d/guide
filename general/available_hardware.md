@@ -17,13 +17,14 @@
 - 512GB Solid State Drive
 - QHD+ Screen - Touch Enabled
 
-## Lenovo x260 12"
-- Intel Core i7-6500U
+## Lenovo x270 12"
+- Intel Core i7-7500U
 - 12,5 FHD IPS (1920 x 1080) 
 - 16 GB DDR4-2133 MHz SODIMM
-- 256 GB, PCIe-NVMe OPAL2.0: 
-- Intel HD Graphics 520
-
+- 512 GB, PCIe-NVMe OPAL2.0
+- Intel HD Graphics 620
+- 3-cell integrated battery (23Wh)
+- 3-cell battery (23Wh)
 
 # Keyboards 
 - [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
