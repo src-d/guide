@@ -24,6 +24,15 @@
 - 256 GB, PCIe-NVMe OPAL2.0: 
 - Intel HD Graphics 520
 
+## Slimbook katana 13"
+- Intel i7-6500U
+- 16GB DDR3L
+- SSD mSata 250GB
+- LED Antiglare 13.3" FullHD 1920x1080 
+- Intel HD Graphics 520
+- WiFi, Intel Dual Band 7265AC
+- keyboard spanish+english
+- [link](https://slimbook.es/en/ultrabook-katana-en)
 
 # Keyboards 
 - [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
