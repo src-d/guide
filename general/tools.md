@@ -9,6 +9,7 @@ These are the tools that every sourcerer uses:<br>
 * [Zoom]()<br>
 * [Hangouts Meet]()<br>
 * [Google Calendar]()<br>
+* [Calendly]()<br>
 * [Google Docs]()<br>
 * [Github]()<br>
 * [Redbooth]()<br>
