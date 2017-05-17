@@ -9,7 +9,7 @@ We don't like to put strict rules in terms of what you can expense and what not,
 * If you see yourself in the situation of needing to pay something out of your own pocket please make sure that you keep all the receipts and hand them over to Esther for her to do the reimbursement. If it's a physical item, make sure to give it to her when you receive it for her to update the inventory.
   
 ## What expenses will source{d} reimburse?
-* Mileage will be paid according to
+* Mileage will be paid according to X when driving your own car to a work meeting outside of the office.
 * Public transportation or Cabify/Uber/Lyft/Taxis taken to work related meetings/events.
 * Meals that are work related. Meals with other sourcerers are not included here.
 * Books, online courses, conferences or anything else related to education.
