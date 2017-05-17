@@ -1,4 +1,14 @@
-# Madrid Office Seating Chart
+# source{d} Office
+The source{d} office is designed to fit our culture of "For Developers, By Developers". You'll find many historic characters who have been important contributors to computer science painted on the wall or giving names to meeting rooms. We also have our own green zone with a full wall in the kitchen and in the relx area being covered with natural moss.<br>
+Among others we have the following amenities:
+* Soft drinks, beer and coffee
+* Fruit and ice creams (we love ice cream)
+* HTC Vive VR Headset, Xbox One and Nintendo 64 with a nice catalogue of games
+* Kicker
+* Kitchen with fridge and microwaves
+* Relax area
+
+## Madrid Office Seating Chart
 
 ```
 +------+   +----+----+   +----+----+   +----+----+   |  |   +----+----+   +----+----+
@@ -20,26 +30,26 @@
 
 | Location | Name         |
 |----|--------------------|
-| A1 | Jorge Schnura      |
-| A2 | Eiso Kant          |
-| B2 | Fernanda Gomes     |
-| C1 | Vadim Markovtsev   |
-| C2 | Rafa Porres        |
-| C3 | Egor Bulychev      |
-| C4 | David Pordomingo   |
-| C6 | Miguel Molina      |
-| D1 | Sonia Meruelo      |
-| D2 | Máximo Cuadros     |
-| D3 | Sergio Arbeo       |
-| D4 | Marcelo Novaes     |
-| D5 | Anna Tsolakou      |
-| D6 | Margarida García   |
-| E1 | Esther García      |
-| E2 | Alberto Cortés     |
-| E3 | Santiago Mola      |
-| E4 | Alexander Bezzubov |
-| E5 | Antonio Navarro    |
-| E6 | Manuel Carmona     |
-| F1 | Juanjo Álvarez     |
-| F3 | Alfredo Beaumont   |
-| F5 | David Paz          |
+| A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
+| A2 | [Eiso Kant](linkedin.com/in/eisokant)          |
+| B2 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
+| C1 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
+| C2 | [Rafa Porres](https://github.com/rporres)        |
+| C3 | [Egor Bulychev](https://github.com/EgorBu)      |
+| C4 | [David Pordomingo](https://github.com/dpordomingo)   |
+| C6 | [Miguel Molina](https://github.com/erizocosmico)      |
+| D1 | [Sonia Meruelo](https://github.com/smeruelo)      |
+| D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
+| D3 | [Sergio Arbeo](https://github.com/Serabe)       |
+| D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
+| D5 | [Anna Tsolakou](linkedin.com/in/tsolakouanna)      |
+| D6 | [Margarida García](linkedin.com/in/margaridagarcialopes)   |
+| E1 | [Esther García](linkedin.com/in/estherrgarcia)      |
+| E2 | [Alberto Cortés](https://github.com/alcortesm)     |
+| E3 | [Santiago Mola](https://github.com/smola)      |
+| E4 | [Alexander Bezzubov](https://github.com/bzz) |
+| E5 | [Antonio Navarro](https://github.com/ajnavarro)    |
+| E6 | [Manuel Carmona](https://github.com/orgs/src-d/people/mcarmonaa)     |
+| F1 | [Juanjo Álvarez](https://github.com/juanjux)     |
+| F3 | [Alfredo Beaumont](https://github.com/abeaumont)   |
+| F5 | [David Paz](https://github.com/dpaz)          |
