@@ -1,6 +1,6 @@
 # Expenses & Travel
 
-We don't like to put strict rules in terms of what you can expense and what not, because we believe that you will treat the company's money in a responsible way. An easy wway to achieve this is by following these principles:<br>
+We don't like to put strict rules in terms of what you can expense and what not, because we believe that you will treat the company's money in a responsible way. An easy way to achieve this is by following these principles:<br>
 * Spend source{d}'s money as if it was your own.
 * Research all available alternatives to make sure you're getting the best value for money.
 * Always ask your manager first before making a purchase. He might be able to point you to a better solution.
