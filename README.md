@@ -16,10 +16,9 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Tools
   * [Hardware](https://github.com/src-d/guide/blob/master/general/available_hardware.md)
   * Security
-  * Office
-    * [Madrid Seating Chart](https://github.com/src-d/guide/blob/master/general/madrid_office_seating_chart.md)
+  * [Office](https://github.com/src-d/guide/blob/master/general/madrid_office_seating_chart.md)
   * Company Events
-  * Expenses & Travel
+  * [Expenses & Travel](https://github.com/src-d/guide/blob/master/general/expenses_travel.md)
 * Talent
   * Hiring
   * [Contract](https://github.com/src-d/guide/blob/master/talent/contract.md)
