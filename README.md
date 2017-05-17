@@ -13,7 +13,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Leadership
   * Objectives & Key Results (OKRs)
   * Communications
-  * Tools
+  * [Tools](https://github.com/src-d/guide/blob/master/general/tools.md)
   * [Hardware](https://github.com/src-d/guide/blob/master/general/available_hardware.md)
   * Security
   * [Office](https://github.com/src-d/guide/blob/master/general/madrid_office_seating_chart.md)
