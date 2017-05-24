@@ -120,6 +120,7 @@ You should have received an invitation to Enki. Enroll in the Linux track and ma
 * [Learn Unix the Hard Way](https://learncodethehardway.org/unix/)
 * [Learn JavaScript the Hard Way](https://learncodethehardway.org/javascript/)
 * [Learn Data Science with R](https://www.datacamp.com/courses/tech:r)
+* [Teach Yourself CS](https://teachyourselfcs.com/#programming)
 * Enki - [Android](https://play.google.com/store/apps/details?id=com.enki.insights&hl=en) | [iOS](https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8)
 * SoloLearn - [Android](https://play.google.com/store/apps/details?id=com.sololearn&hl=en) | [iOS](https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8)
 * [StackOverflow](https://stackoverflow.com/)
