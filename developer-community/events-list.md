@@ -2,99 +2,99 @@
 
 ## January
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[FOSDEM](https://fosdem.org/)    |Speakers     |Brussels     |
-|[Gitmerge](http://git-merge.com/)|Speakers     |Multiple     |
-|[Golab](https://golab.io/)       |             |Italy        |
+|Conference                       |Location|Status       |Topic        |
+|---------------------------------|--------|-------------|-------------|
+|[FOSDEM](https://fosdem.org/)    |Brussels|Speakers     |Go-git       |
+|[Gitmerge](http://git-merge.com/)|Multiple|Speakers     |Go-git       |
+|[Golab](https://golab.io/)       |Italy   |             |             |
 
 ## February
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[DeveloperWeek](http://www.developerweek.com/)    |             |US     |
+|Conference                               |Location     |Status       |Topic        |
+|-----------------------------------------|-------------|-------------|-------------|
+|[DeveloperWeek](http://www.developerweek.com/) |US     |             |             |
 
 ## March
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[KubeCon](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) |Attendees          |Berlin         |
-|[NEXT](Google Cloud Next)        |Attendees             |SF           |
+|Conference                       |Location     |Status       |Topic     |
+|---------------------------------|-------------|-------------|----------|
+|[KubeCon](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) | Berlin |Attendees          |         |
+|[NEXT](Google Cloud Next)        |SF |Attendees             |           |
 
 ## April
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[DockerCon](https://www.docker.com/events/dockercon) |             |Austin     |
-|[DotScale](https://www.dotscale.io/)|Attendees  |Paris        |
-|[DotAI](https://www.dotai.io/)   |Attendees      |Paris        |
-|[ReactAmsterdam](https://react.amsterdam/) |Attendees  |Amsterdam    |
+|Conference                       |Location     |Status       |Topic     |
+|---------------------------------|-------------|-------------|----------|
+|[DockerCon](https://www.docker.com/events/dockercon) |Austin |    |     |
+|[DotScale](https://www.dotscale.io/)|Paris     |Attendees    |          |
+|[DotAI](https://www.dotai.io/)   |Paris        |Attendees    |          |
+|[ReactAmsterdam](https://react.amsterdam/)| Amsterdam |Attendees  |     |
 
 ## May
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[JonTheBeach](https://jonthebeach.com/) |Attendees |Malaga    |
-|[MSR](msrconf.org)               |Attendees     |Multiple  |
-|[CoreOSFest](https://coreos.com/fest/) |Attendees             |SF           |
-|PyCon                            |             |Barcelona      |
-|DevXCon                          |             |SF           |
-|[Signal](https://www.twilio.com/signal) |             |SF           |
-|[PyData Barcelona](https://pydata.org/barcelona2017/)| Attendees|Barcelona|
-|[PyData London](https://pydata.org/london2017/)| |London|
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[JonTheBeach](https://jonthebeach.com/)|Malaga |Attendees    |             |
+|[MSR](msrconf.org)               |Multiple     |Attendees    |             |
+|[CoreOSFest](https://coreos.com/fest/)|SF      |Attendees    |             |
+|PyCon                            |Barcelona    |             |             |
+|DevXCon                          |SF           |             |             |
+|[Signal](https://www.twilio.com/signal)|SF     |             |             |
+|[PyData Barcelona](https://pydata.org/barcelona2017/)|Barcelona|Attendees| |
+|[PyData London](https://pydata.org/london2017/)|London|      |             |
 
 ## June
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[CurryOn](http://www.curry-on.org/2017/)  |Speakers   |Multiple        |
-|[Re-Work DL Summit](https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017)  |             |Amsterdam |
-|[PyParis](http://pyparis.org/)   |             |Paris     |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[CurryOn](http://www.curry-on.org/2017/)|Multiple|Speakers   |bblfsh       |
+|[Re-Work DL Summit](https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017)|Amsterdam |              |             |
+|[PyParis](http://pyparis.org/)   |Paris        |             |             |
 
 ## July
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[GopherCon](https://gophercon.com/)|             |Denver             |
-|[PolyConf](https://polyconf.com/)|             |Paris        |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[GopherCon](https://gophercon.com/)|Denver     |             |             |
+|[PolyConf](https://polyconf.com/)|Paris        |             |             |
 
 ## August
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[GolangUK](https://www.golanguk.com/) |CFP Submitted             |London  |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[GolangUK](https://www.golanguk.com/)|London   |CFP Submitted|             |
 
 ## September
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[PyConES](https://2017.es.pycon.org/es/)|             |Caceres |
-|[StrangeLoop](https://www.thestrangeloop.com/) |             |St. Louis        |
-|[ElmConf](https://www.elm-conf.us/)|             |             |St. Louis|
-|[Re-Work DL Summit](https://www.re-work.co/events/deep-learning-summit-london-2017)   CFP Open          |London   |
-|[Signal](https://www.twilio.com/signal/london)             |London   |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[PyConES](https://2017.es.pycon.org/es/)|Caceres|            |             |
+|[StrangeLoop](https://www.thestrangeloop.com/) |St. Louis    |      |      |
+|[ElmConf](https://www.elm-conf.us/)|St. Loui   |             |             |
+|[Re-Work DL Summit](https://www.re-work.co/events/deep-learning-summit-london-2017)  |London |CFP Open     |             |
+|[Signal](https://www.twilio.com/signal/london) |London       |      |      |
 
 ## October
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[MCubed](http://www.mcubed.london/)|Speakers             |             |
-|[PyCon UK](http://2017.pyconuk.org/) |             |Cardiff             |
-|[GitHubUniverse](https://githubuniverse.com/)|CFP Open     |SF             |
-|[DockerCon EU](https://europe-2017.dockercon.com/)    |             |Multiple      |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[MCubed](http://www.mcubed.london/)|London     |Speakers     |High-dimensional Data|
+|[PyCon UK](http://2017.pyconuk.org/)|Cardiff   |             |             |
+|[GitHubUniverse](https://githubuniverse.com/)|SF|CFP Open    |             |
+|[DockerCon EU](https://europe-2017.dockercon.com/)| Multiple |       |     |
 
 ## November
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[DotGo](https://www.dotgo.io/)   |CFP Submitted        |Paris        |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[DotGo](https://www.dotgo.io/)   |Paris        |CFP Submitted|             |
 
 ## December
 
-|Conference                       |Status       |Location     |
-|---------------------------------|-------------|-------------|
-|[GothamGo](http://gothamgo.com/) |             |NY           |
-|[NIPS](https://nips.cc/)         |             |Multiple     |
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[GothamGo](http://gothamgo.com/) |NY           |             |             |
+|[NIPS](https://nips.cc/)         |Multiple     |             |             |
 
 
 
