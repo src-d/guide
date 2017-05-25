@@ -4,14 +4,14 @@
 
 |Conference                       |Location|Status       |Topic        |
 |---------------------------------|--------|-------------|-------------|
-|[FOSDEM](https://fosdem.org/)    |Brussels|Speakers :rocket: |Go-git  |
-|[Gitmerge](http://git-merge.com/)|Multiple|Speakers :rocket: |Go-git  |
 |[Golab](https://golab.io/)       |Italy   |             |             |
 
 ## February
 
 |Conference                               |Location     |Status       |Topic        |
 |-----------------------------------------|-------------|-------------|-------------|
+|[FOSDEM](https://fosdem.org/)            |Brussels     |Speakers :rocket: |        |
+|[Gitmerge](http://git-merge.com/)        |Brussels     |Speakers :rocket: |        |
 |[DeveloperWeek](http://www.developerweek.com/) |US     |             |             |
 
 ## March
