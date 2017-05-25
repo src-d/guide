@@ -41,8 +41,8 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Data Retrieval
   * Platform
 * Developer Community
-  * Events Guidelines
-  * Events List
+  * [Events Guidelines](events.md)
+  * [Events List](events-list.md)
   * <a href="https://blog.sourced.tech">Engineering Blog</a>
   * <a href="https://medium.com/source-d">Company Blog</a>
 * Product
