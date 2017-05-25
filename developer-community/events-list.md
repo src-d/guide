@@ -7,16 +7,12 @@
 |[FOSDEM](https://fosdem.org/)    |Speakers     |Brussels     |
 |[Gitmerge](http://git-merge.com/)|Speakers     |Multiple     |
 |[Golab](https://golab.io/)       |             |Italy        |
-|                                 |             |             |
 
 ## February
 
 |Conference                       |Status       |Location     |
 |---------------------------------|-------------|-------------|
 |[DeveloperWeek](http://www.developerweek.com/)    |             |US     |
-|                                 |             |             |
-|                                 |             |             |
-|                                 |             |             |
 
 ## March
 
@@ -24,8 +20,6 @@
 |---------------------------------|-------------|-------------|
 |[KubeCon](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) |Attendees          |Berlin         |
 |[NEXT](Google Cloud Next)        |Attendees             |SF           |
-|                                 |             |             |
-|                                 |             |             |
 
 ## April
 
@@ -56,7 +50,6 @@
 |[CurryOn](http://www.curry-on.org/2017/)  |Speakers   |Multiple        |
 |[Re-Work DL Summit](https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017)  |             |Amsterdam |
 |[PyParis](http://pyparis.org/)   |             |Paris     |
-|                                 |             |             |
 
 ## July
 
@@ -64,17 +57,12 @@
 |---------------------------------|-------------|-------------|
 |[GopherCon](https://gophercon.com/)|             |Denver             |
 |[PolyConf](https://polyconf.com/)|             |Paris        |
-|                                 |             |             |
-|                                 |             |             |
 
 ## August
 
 |Conference                       |Status       |Location     |
 |---------------------------------|-------------|-------------|
 |[GolangUK](https://www.golanguk.com/) |CFP Submitted             |London  |
-|                                 |             |             |
-|                                 |             |             |
-|                                 |             |             |
 
 ## September
 
@@ -100,9 +88,6 @@
 |Conference                       |Status       |Location     |
 |---------------------------------|-------------|-------------|
 |[DotGo](https://www.dotgo.io/)   |CFP Submitted        |Paris        |
-|                                 |             |             |
-|                                 |             |             |
-|                                 |             |             |
 
 ## December
 
@@ -110,8 +95,6 @@
 |---------------------------------|-------------|-------------|
 |[GothamGo](http://gothamgo.com/) |             |NY           |
 |[NIPS](https://nips.cc/)         |             |Multiple     |
-|                                 |             |             |
-|                                 |             |             |
 
 
 
