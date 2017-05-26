@@ -4,14 +4,14 @@
 
 |Conference                       |Location|Status       |Topic        |
 |---------------------------------|--------|-------------|-------------|
-|[FOSDEM](https://fosdem.org/)    |Brussels|Speakers     |Go-git       |
-|[Gitmerge](http://git-merge.com/)|Multiple|Speakers     |Go-git       |
 |[Golab](https://golab.io/)       |Italy   |             |             |
 
 ## February
 
 |Conference                               |Location     |Status       |Topic        |
 |-----------------------------------------|-------------|-------------|-------------|
+|[FOSDEM](https://fosdem.org/)            |Brussels     |Speakers :rocket: |        |
+|[Gitmerge](http://git-merge.com/)        |Brussels     |Speakers :rocket: |        |
 |[DeveloperWeek](http://www.developerweek.com/) |US     |             |             |
 
 ## March
@@ -47,7 +47,7 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
-|[CurryOn](http://www.curry-on.org/2017/)|Multiple|Speakers   |bblfsh       |
+|[CurryOn](http://www.curry-on.org/2017/)|Multiple|Speakers :rocket: |bblfsh       |
 |[Re-Work DL Summit](https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017)|Amsterdam |              |             |
 |[PyParis](http://pyparis.org/)   |Paris        |             |             |
 
@@ -78,7 +78,7 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
-|[MCubed](http://www.mcubed.london/)|London     |Speakers     |High-dimensional Data|
+|[MCubed](http://www.mcubed.london/)|London     |Speakers :rocket: |High-dimensional Data|
 |[PyCon UK](http://2017.pyconuk.org/)|Cardiff   |             |             |
 |[GitHubUniverse](https://githubuniverse.com/)|SF|CFP Open    |             |
 |[DockerCon EU](https://europe-2017.dockercon.com/)| Multiple |       |     |
