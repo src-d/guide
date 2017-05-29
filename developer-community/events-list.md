@@ -20,6 +20,8 @@
 |---------------------------------|-------------|-------------|----------|
 |[KubeCon](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) | Berlin |Attendees          |         |
 |[NEXT](Google Cloud Next)        |SF |Attendees             |           |
+|[FOSSASIA](https://2017.fossasia.org/)        |Singapore     |Speakers :rocket: |        |
+
 
 ## April
 
