@@ -4,7 +4,11 @@
 
 When you are working remote please update your Slack status (using the house icon or a foreign flag based on the country you're in):
 
-![Working remotely 1](images/remote_screenshot_1.png)
+**When at home:**
 
-![Working remotely 2](images/remote_screenshot_2.png)
+<img src="images/remote_screenshot_1.png" width="450">
+
+**When travelling:**
+
+<img src="images/remote_screenshot_2.png" width="450">
 
