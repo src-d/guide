@@ -96,7 +96,23 @@
 |[GothamGo](http://gothamgo.com/) |NY           |             |             |
 |[NIPS](https://nips.cc/)         |Multiple     |             |             |
 
+## January 2018
 
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[POPL](http://popl18.sigplan.org/) |LA         |             |             |
+
+## April 2018
+
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+| [<Programming>](http://2018.programming-conference.org/) | Nice | |       |
+
+## June 2018
+
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+| [PLDI](http://conf.researchr.org/home/pldi-2018) | Philadelphia | |       |
 
 # Resources
 [PaperCall](]https://www.papercall.io/)
