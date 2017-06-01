@@ -6,7 +6,7 @@ At source{d} we believe in freedom and treating everyone as adults. If you're co
 
 At source{d} you will have 23 days of holidays to use however you wish. This means that you can take them whenever you want, just let everyone know with as much time as possible so people can plan in advance.
 
-Unlike in some other companies we doun't count the weekends of bank holidays that fall inside of your holidays. This means that if you take two weeks off it will count as 10 holidays (2x Monday-Friday). This is the norm in most countries but some companies in some countries also count the weekend in between as part of your holidays.
+Unlike in some other companies we don't count the weekends of bank holidays that fall inside of your holidays. This means that if you take two weeks off it will count as 10 holidays (2x Monday-Friday). This is the norm in most countries but some companies in some countries also count the weekend in between as part of your holidays.
 
 You can also work during bank holidays or weekends and exchange those days for additional holidays. You just have to let your team know that you are going to do so. Again, try to do it with time so that everyone can plan accordingly.
 
