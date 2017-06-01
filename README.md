@@ -24,7 +24,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Hiring
   * [Contract](https://github.com/src-d/guide/blob/master/talent/contract.md)
   * [Stock Option Plan](https://github.com/src-d/guide/blob/master/talent/esop.md)
-  * [Flexible Holidays, Working Schedule and Remote Work](https://github.com/src-d/guide/blob/master/talent/flexible_holidays_working_schedule_%20remote_work.md)
+  * [Flexible Holidays, Working Schedule and Remote Work](https://github.com/src-d/guide/blob/master/talent/flexible_holidays_working_schedule_remote_work.md)
   * Onboarding
   * ["By Developers" Training](https://github.com/src-d/guide/blob/master/talent/by-developers-training/README.md)
   * Career development
