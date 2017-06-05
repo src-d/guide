@@ -8,7 +8,8 @@ For this reason we decided to aim for a unique company culture that many people 
 
 It's built around three pillars:
 
-### For Developers:
+### For Developers
+
 We want to always remain a company that does everything with the individual developer in mind. Not the developer as an employee of a company, but the developer as an individual in the developer community.
 
 For this reason we always put the developers’ interest first, not those of our clients, neither those of source{d}.
@@ -22,6 +23,7 @@ This is also the reason why we open source our work and why we will never charge
 A lot of people would rather build an organization purely focused on making money, but that’s not our goal. We want to empower developers, building a profitable and sustainable business is a consequence of this.
 
 ### By Developers
+
 In order to always do what is best for developers we need to put ourselves in their situation, but that is very hard to do if you’ve never been a developer yourself.
 
 For this reason we only hire computer scientists, developers or people who have a strong developer mindset and are willing to become one. This applies to all positions, from Sales to Talent.
@@ -31,6 +33,7 @@ Those who are not computer scientists or developers need to learn about computer
 Many people we interview don’t want to work at a company where everyone is either a CS, a developer or is becoming one. That’s great, it’s what makes our culture unique and what makes those who join us love being here.
 
 ### Opinionatedly Free Spoken
+
 We’re huge believers in free speech. You can learn something from every single person in the world, no matter what their opinion on any topic is. We also believe that this is a big part of open source, being able to learn and collaborate with people from all over the world who have a wide variety of different opinions on how to do things.
 
 No matter if you’re a socialist, totalitarian, libertarian, conservative or don’t want to be defined, we don’t believe in silencing those who don’t think like the general consensus since we believe that’s a lost opportunity to learn. As long as people remain respectful to those who think differently, no matter how differently. You can criticize ideas, but you can’t criticize people. Political views is just one example, on a day to day basis we see this in discussions about technologies, solutions to problems, and allowing people to openly voice without judgement and with respect who they are and what they stand for. For this reason we only hire people who are authentic and we give them the opportunity and encouragement to give their opinion, no matter what it is.
