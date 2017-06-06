@@ -19,3 +19,5 @@ This is very simple, there is none. You can come and go as you please as long as
 ### Working Remotely
 
 We are very flexible with people working remotely. If you want to work from home any day you just need to let your team know with as much time in advance as possible so they can accomodate to that. Unless you have any in-person meetings that you need to attend we don't have any problem with this if you feel you'll be more productive this way. We always suggest though to try to spend as much time with the team as possible as it creates strong bonds and makes for a more united team.
+
+If you want to know more about remote work practices at source{d}, check our [Company Wide Remote Guidelines](https://github.com/src-d/guide/blob/master/remote/remote_guidelines.md).
