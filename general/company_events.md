@@ -16,7 +16,7 @@ Everyone in the company and their +1s are invited to join.
 We usually book a place where snacks will be served as well as free drinks.
 Sometimes we organize some group activities before the party starts, so the starting time varies.
 The party lasts until the last person standing can't take it anymore and leaves.
-After such a tough night you can recover by taking the next day off.
+After such a tough night you can recover by taking the next day off for free.
 
 ## Christmas Party
 The source{d} Christmas party is hosted once a year in December.
@@ -26,7 +26,7 @@ We usually book a place where snacks will be served as well as free drinks.
 Sometimes we organize some group activities before the party starts, so the starting time varies.
 A few weeks before the party we start a Secret Santa and the give out the presents during the party.
 The party lasts until the last person standing can't take it anymore and leaves.
-After such a tough night you can recover by taking the next day off.
+After such a tough night you can recover by taking the next day off for free.
 
 ## Off-sites
 Once a year we organize an off-site where we take the whole company for a two-day trip to a rural house near Madrid.
