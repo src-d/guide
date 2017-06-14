@@ -19,7 +19,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Security
   * [Office](general/madrid_office_seating_chart.md)
   * [Company Events](general/company_events.md)
-  * [Expenses & Travel]general/expenses_travel.md)
+  * [Expenses & Travel](general/expenses_travel.md)
 * Talent
   * Hiring
   * [Contract](talent/contract.md)
@@ -36,7 +36,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * Engineering
   * [Methodology](engineering/methodology.md)
   * [Git workflow](engineering/git-flow.md)
-  * [Open Source Policy](engineering/licensing.md)
+  * [Licensing Policy](engineering/licensing.md)
 * Developer Community
   * [Events Guidelines](developer-community/events.md)
   * [Events List](developer-community/events-list.md)
