@@ -28,7 +28,7 @@
 
 # Keyboards 
 - [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
-- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01CM043TO/ref=sr_1_5?s=electronics&ie=UTF8&qid=1488285204&sr=1-5) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
+- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
 
 # Mouse
 - [Logitech 910](https://www.amazon.es/gp/product/B00DY50D00/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
