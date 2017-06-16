@@ -44,6 +44,7 @@
 - [Desktop Powerbase](https://www.amazon.es/Allocacoc-PowerCube-ReWirable-P%C3%BArpura-m%C3%BAltiple/dp/B010XEHG8Q/ref=sr_1_1?s=electronics&ie=UTF8&qid=1493896780&sr=1-1&keywords=PowerCube+usb+viaje)
 - [Laptop Stand](https://www.amazon.es/gp/product/B01CCMCGWI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 - [Monitor Stand](https://www.amazon.es/gp/product/B00HAMQY2E/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+- [Apple USB-C to HDMI and USB adapter](https://www.apple.com/es/shop/product/MJ1K2ZM/A/usb-c-digital-av-multiport-adapter?fnode=6967a5d4ed7e9d5e7e1bd97c97e2a93e88fc296172c1f92ec7ec717ffcf59064a1ba864c898896b78871b6e3bcb0c00c97e9550c5edcb59eec3453789d8377b9f002ae0cc4ed0c2a87257a5e4013219b52ce1174fe5a7dec43147c739bc9ee71)
 
 # Other
 
