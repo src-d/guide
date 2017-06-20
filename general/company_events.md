@@ -10,7 +10,7 @@ The reason for this party to exist is just celebrating how awesome summer is and
 
 We usually book a place where snacks will be served as well as free drinks. Sometimes we organize some group activities before the party starts, so the starting time varies.
 
-The party lasts until the last person standing can't take it anymore and leaves. After such a tough night if you get drunk or were in the party until late hours you can recover by taking the next day off for free.
+The party lasts until the last person standing can't take it anymore and leaves. After such a tough night if you feel up for it, we'd love to see you in the office on Friday, if you don't, no worries, come in later or stay at home.
 
 ## Christmas Party
 The source{d} Christmas party is hosted once a year in December. It's basically the winter version of the summer party where we gather to celebrate the end of another awesome year. Everyone in the company and their +1s are invited to join.
