@@ -116,7 +116,9 @@ Demo meetings
 
   + Per team: any way team sees fit (github issues, github projects, waffle.io...).
 
-  + [src-d/issues](https://github.com/src-d/issues-general) - should be used more, as place for feedback/requests (i.e website, infra, etc)
+  + [src-d/issues-general](https://github.com/src-d/issues-general) - should be used more, as place for feedback/requests (i.e website, etc)
+
+  + [src-d/issues-infrastructure](https://github.com/src-d/issues-infrastructure) - issues/requests to Infrastructure team must be created here.
 
 
 ### Sprint extensions
