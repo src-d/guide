@@ -17,9 +17,11 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Tools](general/tools.md)
   * [Hardware](general/available_hardware.md)
   * Security
-  * [Office](general/madrid_office_seating_chart.md)
-  * [Company Events](general/company_events.md)
   * [Expenses & Travel](general/expenses_travel.md)
+* Office
+  * [Seating Chart](general/madrid_office_seating_chart.md)
+  * [Company Events](general/company_events.md)
+  * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
 * Talent
   * Hiring
   * [Contract](talent/contract.md)
@@ -28,10 +30,8 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Onboarding
   * ["By Developers" Training](talent/by-developers-training/README.md)
   * Career development
-  * Offboarding
-* Open Source
   * [Open Source Fridays](open-source/open_source_fridays.md)
-  * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
+  * Offboarding
 * Engineering
   * [Methodology](engineering/methodology.md)
   * [Git workflow](engineering/git-flow.md)
