@@ -30,9 +30,8 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Career development
   * Offboarding
 * Open Source
- 
   * [Open Source Fridays](open-source/open_source_fridays.md)
-  * [src-d/homebrew](https://github.com/src-d/homebrew): source{d} Open Source Beer Brewery
+  * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
 * Engineering
   * [Methodology](engineering/methodology.md)
   * [Git workflow](engineering/git-flow.md)
