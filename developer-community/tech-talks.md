@@ -38,26 +38,47 @@ If the speaker is not based where the talk takes place, we'll need to start orga
 Email copy:
 
 > Hello Jessica,
+>
 > It's great to meet you and to know you will be joining the Frontend edition of our source{d} tech talks! We're really happy to have you!
+> 
 > As Sergio mentioned, the event will be held on Saturday, June 24th and all talks will cover quite advanced topics so hopefully it will be insightful for everyone, both attendees and speakers together.
+> 
 > The event's schedule is not completely finalised but we will be sharing more details with you soon - general idea is to start with the first talk at 10am and finish them around 5.30pm. There will be breakfast, lunch and snacks throughout the day as well as a lot of beer and drinks to ensure a great day.
+> 
 > Regarding the logistics, we will invite you over to Madrid for the weekend and expect you at our offices on Saturday.
+> 
 > In order to book the flights, I was wondering if you could send me the following details:
+> 
 > • City/Airport you will fly from
+> 
 > • Dates
+> 
 > • Full name
+> 
 > • ID Number/passport
+> 
 > • Expiration date
+> 
 > • Birthday
+> 
 > • Phone number
+> 
 > I will send you a couple of options that you can choose from before booking the flights of course.
+> 
 > As for accommodation, we will also send you the details and cover for the nights Thursday/Friday-Sunday/Monday (anything from 2 to 4 nights depending on your availability and OOO time constraints). In case you would like to stay in the city for longer (or come earlier) at your own expense, that is completely fine and we will book you the flights accordingly.
+> 
 > In order to start working on the web, we would very much appreciate if you could send us the following at some point next week:
+> 
 > • Picture
+> 
 > • Small Bio
+> 
 > • Abstract of the talk
+> 
 > Please feel free to ask any questions, either via email or phone (+34 653 399 995), at any time!
+> 
 > Looking forward to meeting you in person!
+> 
 > Cheers,
 > Margarida
 
@@ -70,13 +91,21 @@ An email on Monday/Tuesday prior to the event asking them for the slides & telli
 Email copy:
 
 > Hello all,
+> 
 > I wanted to quickly take the chance to introduce you all to each other and share a couple of details regarding Saturday.
+> 
 > Firstly, thank you all again for agreeing to join our tech talks and, for the ones not in Madrid already, for flying/coming over :-)
+> 
 > The weather is extremely hot these days so please remember to pack for that.
+> 
 > As for Saturday, the day starts at 9.30 with registration and the full schedule can be found here.
+> 
 > The event will end at around 8pm but we'd love to have you all for dinner after that. We have a table for everyone at at 8.30pm at a traditional Spanish restaurant not too far from the office so we can all walk there. Please let me know if you won't be making it.
+> 
 > Finally, I was wondering if you could all send me your slides (any time till Sunday is fine if you will be using your laptops) so that we can publish them together with the videos. If you'd like to use one of laptops, any time till Friday afternoon would be best :)
+> 
 > Please let me know if I can do anything in the meantime :)
+> 
 > All the best,
 > Margarida
 
