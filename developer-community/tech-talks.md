@@ -1,7 +1,7 @@
 # The full story
 
-## Speakers
-##### Contact
+# Speakers
+## Contact
 
 Ideally, we should start contacting speakers __2.5 months__ prior to the event.
 
@@ -10,17 +10,26 @@ Our tech talks involve a total of __5 long talks__ and __2 lightning__. Someone 
 Email copy:
 
 > Hello Jessica,
+>
 > My name is Sergio Arbeo, we met last year at EmberFest.
+>
 > I am working at source{d} and we are organising a one-day conference focused on front-end technologies. Please, feel free to take a look at our past edition, around Infrastructure, on our website (videos will be up in the next few days).
+>
 > We saw your talk Animate the Web with Ember.js and this is exactly what we are looking for: an advanced technical talk that, while focusing on a particular framework, is useful for the community as a whole.
+>
 > Talks are 45min long (~30min for talk, ~15min for Q&A, we have 15min between talks, so no need to hurry) and the topic is up to you as long as it is advanced / new and does not exclude anyone based on just the framework they use. Your talk at EmberConf is a perfect example of what we are aiming at.
+> 
 > The event will be totally free to attend, and open to everybody (limited to 75 attendees). It will be held on Saturday, June 24th starting from 9.30am and finishing around 5.30pm - including breakfast, lunch, and snacks throughout the day, as well as craft beer and drinks.
+> 
 > We would of course cover your flights and accommodation for the whole weekend so you can also enjoy the city while here.
+> 
 > Looking forward to having you here,
+> 
 > Thank you!
+> 
 > Sergio
 
-##### Information & Logistics
+## Information & Logistics
 
 From each speaker, we'll need to collect a __Bio, Picture, Title & Abstract__ in order to build the website. 
 
@@ -52,7 +61,7 @@ Email copy:
 > Cheers,
 > Margarida
 
-##### Slides & Last minute Info
+## Slides & Last minute Info
 
 Usually, speakers will want to use their own laptops because it makes the demos easier to setup and avoids issues. In any case, we need to ask them to send us their slides - we always add them to the description of the videos once uploaded to YouTube.
 
@@ -82,7 +91,7 @@ file *name_of_file*
 convert *name_of_file* -scale 1665
 ```
 
-##### Speakers
+#### Speakers
 
 The content is very straightforward to edit. However, pictures need to be squared.
 
@@ -92,7 +101,7 @@ file *name_of_file*
 convert *name_of_file* -scale 200
 ```
 
-##### Schedule
+#### Schedule
 
 Schedule, order and times varies from event to event. Always try to accommodate local lunch times.
 
@@ -104,7 +113,7 @@ Our Eventbrite account details are secretly held by Esther - simply because this
 
 Every time there's a new event, simply duplicate the one you feel is most similar to the next one. Usually the talks held at the office are different from the ones that aren't. Set the number of tickets available at _at least_ 150% the number of places available. You can check the metrics of past events [here](https://docs.google.com/a/sourced.tech/spreadsheets/d/1RwXVCFkzHvrLD15GPP9HFGzSPVQ4NbwZo7BNLqaDHoA/edit?usp=sharing) (sheets called "Summary") to better have an idea of what to expect.
 
-Example of 'front page': https://www.eventbrite.com/e/sourced-tech-talks-frontend-registration-33889725080#
+Example of 'front page' [here](https://www.eventbrite.com/e/sourced-tech-talks-frontend-registration-33889725080#).
 
 Details for the back office:
 • Order Options | Order Form - Ask for Frist Name, Last Name, Email & Company. Make sure to add a question about food restrictions/allergies. Also, each attendee should only be able to get 1 ticket (so as to get the exact names of attendees and their emails).
@@ -149,10 +158,10 @@ When the event is outside of Madrid, it's done on a case by case basis but we sh
 • ML: Kl10ch (Contact: Natalia Kosyanova <nk@kl10.ch>)
 
 ## Printing Material
-##### Badges/Agenda
+#### Badges/Agenda
 Both Maximo & Esther have the details of the printing company. These need to be sent Thursday latest and they'll deliver them on the next day. Marcelo, or whoever joins as a Designer, will need to get all the specs at the beginning of the week but will know what to send to the printing.
 
-##### Stickers
+#### Stickers
 We order our stickers, and any other we print, from StickerMule. The more you order (both in terms of quantity of a single design and in terms of numbers of different design) the cheapest it is, of course. So ideally, let Esther know about this in advance so we can pack that order together with any other :)
 
 ## Food
