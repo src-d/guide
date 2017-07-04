@@ -37,6 +37,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Git workflow](engineering/git-flow.md)
   * [Licensing Policy](engineering/licensing.md)
 * Developer Community
+  * [Tech Talks](developer-community/tech-talks.md)
   * [Events Guidelines](developer-community/events.md)
   * [Events List](developer-community/events-list.md)
   * [Engineering Blog](https://blog.sourced.tech)
