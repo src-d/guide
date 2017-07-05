@@ -13,6 +13,7 @@
 ## Code Review
 
 * A maintainer should review every PR but can ask for additional reviewers as needed (e.g. someone else is more knowledgeable about a change or has a say as stakeholder) or completely delegate the review.
+* In order to request a code review, the maintainer can [add reviewers](https://help.github.com/articles/requesting-a-pull-request-review/) in GitHub UI
 * Non-maintainers at source{d} are not expected to do code review on PRs they are not asked to as a general practice.  However, they are allowed to at their discretion if they think it's appropriate on a specific case.
 * Desirable deadline for each code review is 1 working day.
 * If there is a disagreement among the PR author and multiple reviewers and consensus cannot be reached or [it's not worth to reach](http://bikeshed.org/) the maintainer has the final word.
