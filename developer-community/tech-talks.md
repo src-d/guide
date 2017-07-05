@@ -3,23 +3,23 @@
 # Speakers
 ## Contact
 
-Ideally, we should start contacting speakers __2.5 months__ prior to the event.
+Ideally, we should start contacting speakers __3 months__ prior to the event.
 
-Our tech talks involve a total of __5 long talks__ and __2 lightning__. Someone from our team should always give either one Lightning or a Long talk. Hence, we should make an initial list of _6 people to contact_. If no reply, _follow-up after 3-5 days_ until you get an answer. 
+Our tech talks involve a total of __5 long talks__ and __2 lightning__. Someone from our team should always give either one Lightning or a Long talk. Hence, we should make an initial list of _6 people to contact_. If no reply, _follow-up after 3-5 days_ until you get an answer (up to 4 emails sent in total). 
 
 Email copy:
 
-> Hello Jessica,
+> Hello Jane Doe,
 >
-> My name is Sergio Arbeo, we met last year at EmberFest.
+> My name is John Eod, we met last year at techFest.
 >
-> I am working at source{d} and we are organising a one-day conference focused on front-end technologies. Please, feel free to take a look at our past edition, around Infrastructure, on our website (videos will be up in the next few days).
+> I am working at source{d} and we are organising a one-day conference focused on infra/ML/front-end technologies. Please, feel free to take a look at our past edition, around infra/ML/front-end, on our website and check out the respective videos.
 >
-> We saw your talk Animate the Web with Ember.js and this is exactly what we are looking for: an advanced technical talk that, while focusing on a particular framework, is useful for the community as a whole.
+> We saw your talk ******** and this is exactly what we are looking for: an advanced technical talk that, while focusing on a particular framework, is useful for the community as a whole.
 >
-> Talks are 45min long (~30min for talk, ~15min for Q&A, we have 15min between talks, so no need to hurry) and the topic is up to you as long as it is advanced / new and does not exclude anyone based on just the framework they use. Your talk at EmberConf is a perfect example of what we are aiming at.
+> Talks are 45min long (~30min for talk, ~15min for Q&A, we have 15min between talks, so no need to hurry) and the topic is up to you as long as it is advanced / new and does not exclude anyone based on just the framework they use. Your talk at techFest is a perfect example of what we are aiming at.
 > 
-> The event will be totally free to attend, and open to everybody (limited to 75 attendees). It will be held on Saturday, June 24th starting from 9.30am and finishing around 5.30pm - including breakfast, lunch, and snacks throughout the day, as well as craft beer and drinks.
+> The event will be totally free to attend, and open to everybody (limited to 75 attendees). It will be held on Saturday, MONTH DAY starting from 9.30am and finishing around 5.30pm - including breakfast, lunch, and snacks throughout the day, as well as craft beer and drinks.
 > 
 > We would of course cover your flights and accommodation for the whole weekend so you can also enjoy the city while here.
 > 
@@ -27,7 +27,7 @@ Email copy:
 > 
 > Thank you!
 > 
-> Sergio
+> John Eod
 
 ## Information & Logistics
 
@@ -37,15 +37,15 @@ If the speaker is not based where the talk takes place, we'll need to start orga
 
 Email copy:
 
-> Hello Jessica,
+> Hello Jane Doe,
 >
-> It's great to meet you and to know you will be joining the Frontend edition of our source{d} tech talks! We're really happy to have you!
+> It's great to meet you and to know you will be joining the Infra/ML/Frontend edition of our source{d} tech talks! We're really happy to have you!
 > 
-> As Sergio mentioned, the event will be held on Saturday, June 24th and all talks will cover quite advanced topics so hopefully it will be insightful for everyone, both attendees and speakers together.
+> As John mentioned, the event will be held on Saturday, MONTH DAY and all talks will cover quite advanced topics so hopefully it will be insightful for everyone, both attendees and speakers together.
 > 
 > The event's schedule is not completely finalised but we will be sharing more details with you soon - general idea is to start with the first talk at 10am and finish them around 5.30pm. There will be breakfast, lunch and snacks throughout the day as well as a lot of beer and drinks to ensure a great day.
 > 
-> Regarding the logistics, we will invite you over to Madrid for the weekend and expect you at our offices on Saturday.
+> Regarding the logistics, we will invite you over to Madrid/Moscow/World for the weekend and expect you at our offices on Saturday.
 > 
 > In order to book the flights, I was wondering if you could send me the following details:
 > 
@@ -94,13 +94,13 @@ Email copy:
 > 
 > I wanted to quickly take the chance to introduce you all to each other and share a couple of details regarding Saturday.
 > 
-> Firstly, thank you all again for agreeing to join our tech talks and, for the ones not in Madrid already, for flying/coming over :-)
+> Firstly, thank you all again for agreeing to join our tech talks and, for the ones not in Madrid/Moscow/World already, for flying/coming over :-)
 > 
 > The weather is extremely hot these days so please remember to pack for that.
 > 
 > As for Saturday, the day starts at 9.30 with registration and the full schedule can be found here.
 > 
-> The event will end at around 8pm but we'd love to have you all for dinner after that. We have a table for everyone at at 8.30pm at a traditional Spanish restaurant not too far from the office so we can all walk there. Please let me know if you won't be making it.
+> The event will end at around 8pm but we'd love to have you all for dinner after that. We have a table for everyone at at 8.30pm at a traditional Spanish/Russian/World restaurant not too far from the office so we can all walk there. Please let me know if you won't be making it. Any food allergies, or restrictions, I should be aware of?
 > 
 > Finally, I was wondering if you could all send me your slides (any time till Sunday is fine if you will be using your laptops) so that we can publish them together with the videos. If you'd like to use one of laptops, any time till Friday afternoon would be best :)
 > 
@@ -116,7 +116,6 @@ Please follow the README on our [Talks repo](https://github.com/src-d/talks) or 
 
 To easily resize the HEADER pictures, use this handy set of commands:
 ```
-file *name_of_file*
 convert *name_of_file* -scale 1665
 ```
 
@@ -126,7 +125,6 @@ The content is very straightforward to edit. However, pictures need to be square
 
 To easily resize pictures, use this handy set of commands:
 ```
-file *name_of_file*
 convert *name_of_file* -scale 200
 ```
 
@@ -152,9 +150,9 @@ Details for the back office:
 
 ## Meetup.com
 
-Our Meetup.com account details are secretly held by Maximo :)
+Our Meetup.com account details are secretly held by Máximo :)
 
-Each new event, simply duplicate a previous one from our [tech talks group](https://www.meetup.com/es-ES/srcd-tech-talks/). Remember to set the registration as available till the enxt 5min so that by the time people access it, they can no longer register. This is important as to ensure that everyone gets a ticket on Eventbrite and there are no issues on the day of the event.
+Each new event, simply duplicate a previous one from our [tech talks group](https://www.meetup.com/es-ES/srcd-tech-talks/). Remember to set the registration as available till the following 5min so that by the time people access it, they can no longer register. This is important as to ensure that everyone gets a ticket on Eventbrite and there are no issues on the day of the event.
 
 ## Twitter
 • Talks Announcement (after website is ready - speakers list might not be complete)
@@ -184,7 +182,7 @@ At the office:
 Talks are held at Margaret Hamilton and chairs should be set for 75 people. The bathroom on that side needs to be sealed and the only two operational are the ones in the kitchen. Kitchen is where we serve the food and all breaks happen - it should be completely empty and cleaned before and tables put against the wall. Both fridges should only contain things that people can drink/eat. At the door, there should be a table blocking access to the two main rooms in the office so that people go straight to the kitchen.
 
 When the event is outside of Madrid, it's done on a case by case basis but we should definitely look for a place that can host at least 75-100 people. Past editions were held:
-• ML: Kl10ch (Contact: Natalia Kosyanova <nk@kl10.ch>)
+• ML: Kl10ch (Contact: Kindly ask Esther for the details)
 
 ## Printing Material
 #### Badges/Agenda
@@ -192,6 +190,8 @@ Both Maximo & Esther have the details of the printing company. These need to be 
 
 #### Stickers
 We order our stickers, and any other we print, from StickerMule. The more you order (both in terms of quantity of a single design and in terms of numbers of different design) the cheapest it is, of course. So ideally, let Esther know about this in advance so we can pack that order together with any other :)
+
+Note that StickerMule takes around 2 weeks to ship these from the US.
 
 ## Food
 When the event is at the office, food works as follows:
@@ -203,23 +203,23 @@ When the event is at the office, food works as follows:
 When the event is outside of Madrid, it's on a case by case basis, ideally the venue takes care of it or helps organising it.
 
 ## Recordings
-When the event is at the office, we usually ask Origen Producciones to take care of it. They know how we want it and you just need to make sure they are free by emailing them at origenprod@gmail.com. Until the end of the event you should also send them the pack-shots for each video cover. Example [here](https://drive.google.com/open?id=0B1AhN7PuQbtKdUFGejlaTkRzNlk) and [here](https://drive.google.com/file/d/0B9mze_Z8OL2fMl9rbDdhdGdIZFE/view). 
+When the event is at the office, we usually ask Origen Producciones to take care of it. They know how we want it and you just need to make sure they are free by emailing them (please ask Esther for the details). Until the end of the event you should also send them the pack-shots for each video cover. Example [here](https://drive.google.com/open?id=0B1AhN7PuQbtKdUFGejlaTkRzNlk) and [here](https://drive.google.com/file/d/0B9mze_Z8OL2fMl9rbDdhdGdIZFE/view). 
 
 When the event is outside of Madrid, it's on a case by case basis, ideally the venue takes care of it or helps organising it.
 
 In both cases, they should be sending you the videos ready by Friday so that we have them all uploaded latest 10 days after the event.
 
 ## Speakers Dinner
-We usually invite all the speakers for dinner after the event wherever it is held (usually typical/traditional food from the hosting city/country). Pas editions were as follows:
+We usually invite all the speakers for dinner after the event wherever it is held (usually typical/traditional food from the hosting city/country). Past editions were as follows:
 • Infrastructure: Casa Hortensia
 • ML: Kazbek Restaurant
 • Frontend: La Castela
 
 ## Cleaning
-Esther usually takes care of warning our cleaning man/lady that he/she should come an extra day (on Friday) to clean everything. He/She already comes every Sunday so that one is taken care of.
+Esther usually takes care of warning our cleaning person that they should come an extra day (on Friday) to clean everything. They already comes every Sunday so that one is taken care of.
 
 ## Welcome Talk & Event Hosting
-Our Welcome Talk and all speakers' introductions are done by someone from the team. This person should prepare his/her talk and include (at least): 1. Brief company description and a more in depth one of anything we're doing that is related with the topic of the talks; 2. Why we do these talks; 3. Schedule for the day, food and drinks, bathrooms (anything useful to know).
+Our Welcome Talk and all speakers' introductions are done by someone from the team. This person should prepare their talk and include (at least): 1. Brief company description and a more in depth one of anything we're doing that is related with the topic of the talks; 2. Why we do these talks; 3. Schedule for the day, food and drinks, bathrooms (anything useful to know).
 At the end of the day, you should again thank everyone for coming, ask them to come to you with feedback, mention we're sending a survey and that videos will be released in __10 days__.
 
 ## Schedule
@@ -235,6 +235,6 @@ We keep everything tech talks related in our [Dashboard Excel](https://docs.goog
 Everything you do/try/test/dream about, you should track. If you're not feeling too creative, make sure to at least track everything that allows you to reproduce the Sheets 'Summary' which include: Attendees, Budget (everything), Twitter, Survey, Blog Post.
 
 ## Videos
-Videos should be online and ready no longer than 10 days after the event. We/Maxixmo publish/es them on Youtube. Descriptions should include the slides of the presentations given that you already had asked the speakers for. Attendees should be notified but also anyone who didn't attend or was on the waiting list.
+Videos should be online and ready no longer than 10 days after the event. We/Máximo publish/es them on Youtube. Descriptions should include the slides of the presentations given that you already had asked the speakers for. Attendees should be notified but also anyone who didn't attend or was on the waiting list.
 
 You should also tweet the videos during the following weeks and include them in the post-event blog post (this should be assigned to the team engaged with the specific topic of the talks).
