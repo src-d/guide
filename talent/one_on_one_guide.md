@@ -1,12 +1,12 @@
-**source{d} One-On-One’s Guide**
+# source{d} One-On-One’s Guide
 
 Below is the guide we use at source{d} for one-on-one meetings between you and your manager. They are guiding questions and its okay if someone choses to adapt them.
 
-**Schedule:**
+## Schedule:
 
-* One-on-one's are to be held every at a minimum every 3 months
+* One-on-one's are to be held at a minimum every 3 months
 
-**General:**
+## General:
 
 * Refer back to your private notes & report of the previous month before meeting the person
 
@@ -14,7 +14,7 @@ Below is the guide we use at source{d} for one-on-one meetings between you and y
 
 * Communication inside the teams and inside the company can always be improved
 
-**Cardinal rules:**
+## Cardinal rules:
 
 * No matter in what part below, if something comes up you believe should stay private between you and your team member or has the expectation of privacy, keep it private!
 
@@ -32,13 +32,12 @@ Below is the guide we use at source{d} for one-on-one meetings between you and y
 
 * Set the one-on-one’s in everyone’s calendar 
 
- 
 
-**Template:**
+## Suggested Template:
 
 Starting the meeting please let the person know that anything they consider private will be kept private between the two of you but general feedback on the company, performance related, improvement suggestions and career development may be discussed with members of the management team or other leads.
 
-Part I. Company feedback
+### Part I. Company feedback
 
 * Start with gathering feedback on the company:
 
@@ -50,7 +49,7 @@ Part I. Company feedback
 
     * Take note of information that seems unknown to people that needs to be communicated better
 
-Part II. Self-assessment
+### Part II. Self-assessment
 
 * Please let me know what you believe you’ve done well at source{d} in the last month?
 
@@ -58,17 +57,17 @@ Part II. Self-assessment
 
 * If you could rate your happiness from 1-10? If not 10, why not and what can we do to improve it 
 
-Part III. Team improvement
+### Part III. Team improvement
 
 * What do you believe we can do better as a team? 
 
-Part IV. Feedback on performance
+### Part IV. Feedback on performance
 
 * Praise first: what was well done and why you think so. It is important to give concrete examples here of deliverables/projects etc. you believe went well
 
-* Downsides: always mention the negative followed by actions to improve it. Before your meeting be sure you have prepared an action plan (set of bullet points on how you will together improve things) to tackle the downsides and FOLLOW-UP on it until the following one-on-one. 
+* Downsides: always mention the negative followed by actions to improve it. Before your meeting be sure you have prepared an action plan (set of bullet points on how you will together improve things) to tackle the downsides and **follow up** on it until the following one-on-one. 
 
-Part V. Career Development
+### Part V. Career Development
 
 This part is about finding out the career goals of your team member so that you can evaluate future career opportunities within source{d}, support we might be able to offer, and to know when someone is on a path that has a limited lifetime within source{d}. 
 
@@ -86,7 +85,7 @@ If you have a hard time getting to someone’s career goals (or they don’t kno
 
 * Complete the sentence: "It was a good day at source{d} when ....." 
 
-Part VI. Personal** (completely private)**
+### Part VI. Personal **(completely private)**
 
 * The purpose here is to see how you can help your team member, if there is something source{d} can do to help and also to have understanding of any situations that are going on in someone’s personal life
 
@@ -94,6 +93,6 @@ Part VI. Personal** (completely private)**
 
 * Any problems they are having inside the company between people (this is about helping them solve it and it is important you stay unbiased)
 
-Part VII. Feedback on yourself
+### Part VII. Feedback on yourself
 
 * Ask for feedback on yourself: be open and push them to be honest. It is really important here people know that you won’t take it personal, often starting with an example of something you know you’ve been doing wrong helps.
