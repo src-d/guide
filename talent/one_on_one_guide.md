@@ -1,6 +1,6 @@
 # source{d} One-On-One’s Guide
 
-Below is the guide we use at source{d} for one-on-one meetings between you and your manager. They are guiding questions and its okay if someone choses to adapt them.
+Below is the guide we use at source{d} for one-on-one meetings between you and your manager. They are guiding questions and it's okay if someone choses to adapt them.
 
 ## Schedule:
 
