@@ -1,5 +1,10 @@
 # The full story
 
+Our tech talks host great speakers in an informal setting every ~3 months. Each series of talks will cover a different topic targeted to an experienced technical audience. Speakers will be invited both from Spain and abroad.
+
+Each edition is usually more related with one specific team and this is the group of people responsible for ensuring that the event meets the expectations of the targeted audience. This means that, for intance, the Frontend edition is co-organised by the Platform team. The teams are responsible for choosing and reaching out (only until first response) to the speakers but also helping them choose the topics they'll speak about and organise the schedule in a coherent way. They are also in charge of giving a long/lightning talk themselves and, if they want, present the whole event :)
+
+
 # Speakers
 ## Contact
 
