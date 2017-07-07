@@ -4,6 +4,8 @@ Our tech talks host great speakers in an informal setting every ~3 months. Each 
 
 Each edition is usually more related with one specific team and this is the group of people responsible for ensuring that the event meets the expectations of the targeted audience. This means that, for intance, the Frontend edition is co-organised by the Platform team. The teams are responsible for choosing and reaching out (only until first response) to the speakers but also helping them choose the topics they'll speak about and organise the schedule in a coherent way. They are also in charge of giving a long/lightning talk themselves and, if they want, present the whole event :)
 
+Besides the team assigned to the specific edition, anyone who wants to volunteer and will have the time, close to the event especially, to do so, is, of course, more than welcome!
+
 
 # Speakers
 ## Contact
