@@ -29,6 +29,10 @@ Email copy:
 > 
 > John Eod
 
+When inviting speakers, please check how they present, speak (in English in our case), etc. You can usually find material online. If not, please schedule a short call, in English, with him/her so as to check all this before the actual invitation.
+
+To avoid any last minute schedule changes due to potential cancellations, we should always ask someone from our team to have a long talk prepared. This way, if someone doesn't make it, there's an easy replacement available. If all else fails, please make sure to email all attendees as soon as you know this (please remember to organise **visa** - if applicable - for this person beforehand to make sure he/she can travel if needed).
+
 ## Information & Logistics
 
 From each speaker, we'll need to collect a __Bio, Picture, Title & Abstract__ in order to build the website. 
@@ -130,11 +134,17 @@ convert *name_of_file* -scale 200
 
 #### Schedule
 
-Schedule, order and times varies from event to event. Always try to accommodate local lunch times.
+Schedule, order and times varies from event to event. Always try to accommodate local lunch times. Consider a good speaker for after lunch when energy levels are usually low and not putting the best speaker as the first one (as people might be late).
 
 __Pro tip__: Lightnings are 15min long with no Q&A. Always best not to put them after each other since we'll run behind schedule.
 
-## Eventbrite
+After the last two editions, we started discussing both starting a little later in the day and having sessions of 45min instead of 1h.  
+
+## Attendees
+
+As attendance rates are very volatile and hard to predict, we've recently been thinking of implementing some sort of upfront commitment, to ensure we can plan ahead. We discussed charging a fee but also allowing everyone who can't afford that to write us and still get a free ticket - or asking those to volunteer to help out throughout the day, etc.
+
+#### Eventbrite
 
 Our Eventbrite account details are secretly held by Esther - simply because this repo is public :)
 
@@ -146,15 +156,15 @@ Details for the back office:
 • Order Options | Order Form - Ask for Frist Name, Last Name, Email & Company. Make sure to add a question about food restrictions/allergies. Also, each attendee should only be able to get 1 ticket (so as to get the exact names of attendees and their emails).
 • Order Options | Order Confirmation - If not set, copy paste from old event where you can find personalised messages.
 • Order Options | Waitlist Settings - Enable waitlist. Maximo 100 people. Full name & Email required. Time to respond: 1 Day.
-• Manage Attendees | Emails to Attendees - To be copied from previous events.  
+• Manage Attendees | Emails to Attendees - To be copied from previous events. Also, consider mentioning, on the email the sent the day before the talks, that people can join at any time during the day - not to discourage the not-so-morning-on-saturday people :)
 
-## Meetup.com
+#### Meetup.com
 
 Our Meetup.com account details are secretly held by Máximo :)
 
 Each new event, simply duplicate a previous one from our [tech talks group](https://www.meetup.com/es-ES/srcd-tech-talks/). Remember to set the registration as available till the following 5min so that by the time people access it, they can no longer register. This is important as to ensure that everyone gets a ticket on Eventbrite and there are no issues on the day of the event.
 
-## Twitter
+#### Twitter
 • Talks Announcement (after website is ready - speakers list might not be complete)
 Examples [here](https://twitter.com/srcd_/status/836158701618802688) and [here](https://twitter.com/srcd_/status/871647537123479553).
 
@@ -178,7 +188,7 @@ Examples [here](https://twitter.com/srcd_/status/845566900851658753), [here](htt
 
 # Offline
 ## Venue
-At the office:
+At the office:comentare
 Talks are held at Margaret Hamilton and chairs should be set for 75 people. The bathroom on that side needs to be sealed and the only two operational are the ones in the kitchen. Kitchen is where we serve the food and all breaks happen - it should be completely empty and cleaned before and tables put against the wall. Both fridges should only contain things that people can drink/eat. At the door, there should be a table blocking access to the two main rooms in the office so that people go straight to the kitchen.
 
 When the event is outside of Madrid, it's done on a case by case basis but we should definitely look for a place that can host at least 75-100 people. Past editions were held:
