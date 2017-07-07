@@ -20,11 +20,7 @@ The reason of that is the way versioning works in go. Only mayor version is set 
 
 ## 3. Code review and requested changes
 
-- PRs to public projects need to be reviewed by Máximo and another person.
-- PRs to private projects need to be reviewed by 2 people from the corresponding team.
-- PRs to [Core](https://github.com/src-d/core) or [Framework](https://github.com/src-d/framework) need to be reviewed by 3 people from different teams.
-
-PRs made before 16:00 should be reviewed by 10:30 of the next day.
+- PRs will be reviewed by the project maintainer or a designated reviewers. [Read more about maintainers.](maintainers.md)
 
 After a code review, add the requested changes in a new commit. This is useful
 because it's possible to check again only the specific changes that the reviewer
@@ -39,13 +35,12 @@ that must be merged first.
 To be able to merge this kind of Pull Requests you need to know how to use the
 `rebase -i` git command:
 
-- Merge into master the PR that your PR depends on when it is ready
+- (Maintainers only) Merge into master the first PR in the dependency chain.
 - Because this PR is merged using squash, you need to rewrite your PR commit
 history removing old commits from the previous PR and adding the squashed one from
 master. Using `rebase -i` command is an easy task.
-- Merge your PR as usual.
 
-# How to create a new version
+# How to create a new version (maintainers only)
 
 ## 1. Create a tag
 In most of the cases we create a new tag from a master commit using [semantic versioning](http://semver.org/) with the "v" prefix: `v1.0.0`, `v1.0.3`, `v2.0.0-rc1`, and so on.

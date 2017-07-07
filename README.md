@@ -35,6 +35,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Offboarding
 * Engineering
   * [Methodology](engineering/methodology.md)
+  * [Project Maintainers](engineering/maintainers.md)
   * [Git workflow](engineering/git-flow.md)
   * [Licensing Policy](engineering/licensing.md)
 * Developer Community
