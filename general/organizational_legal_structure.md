@@ -22,16 +22,16 @@
                             |                                        |                  |
                             |                                        |                  |
                             |                                +-------+------+           |
-                            |                                |     VP of    |           |
+                            |                                |   Head of    |           |
                             |                                |   Developer  |           |
-                            |                                |   Relations  |           |
-                            |                                +--------------+           |
-       +----------+---------+                                                           |
+                            |                                |   Community  |           |
+                            |                                |     t.b.h.*  |           |    
+       +----------+---------+                                +--------------+           |
        |          |                                                                     |
 +------+-------+  |  +--------------+                                            +------+-------+
 |              |  |  |              |                                            |              |
 |   Product    |  +--+Infrastructure|                                            |    Talent    |
-|              |  |  |              |                                            |              |
+|              |  |  |              |                                            |    t.b.h.    |
 +------+-------+  |  +--------------+                                            +--------------+
        |          |
 +------+-------+  |  +--------------+
@@ -58,6 +58,8 @@
                      |              |
                      +--------------+
 ```
+
+* t.b.h. = to be hired
 
 # Legal Structure
 source{d}'s legal name is Sourced Technologies S.L., which is a Spanish Limited Liability Company.<br>
