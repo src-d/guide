@@ -11,7 +11,7 @@ following rules.
 At the time of creating a new project you can choose between two different
 licenses:
 
-- [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to projects whose nature is specific to language analysis, machine learning and other core parts of our stack and may be used through a client library owned by us, allowing interaction with the project to third-party propietary code.
+- [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to projects whose nature is specific to language analysis, machine learning and other core parts of our stack and may be used through a client library owned by us, allowing interaction with the project to third-party proprietary code.
 
 
 - [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that require direct interaction with third-party code, which the GPLv3 and variants doesn't allow. _Some examples are: bblfsh/server or bblfsh/*-driver_
@@ -30,7 +30,7 @@ To learn more about DCO please read:
 - [Developer Certificate of Origin versus Contributor License Agreements](https://julien.ponge.org/blog/developer-certificate-of-origin-versus-contributor-license-agreements/)
 
 
-## Resources
+## Templates
 
 - [GPL v3.0 License](documents/gpl/LICENSE) Document
 - [Apache License 2.0](documents/apache/LICENSE) Document
