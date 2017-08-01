@@ -14,7 +14,7 @@ licenses:
 - [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to all projects whose nature is specific to core parts of our stack like language analysis, machine learning, etc. and which are mostly applications and are intended to be consumed through a separate client library owned by us. This allows clean interaction to third-party proprietary code. _Examples: bblfsh/server, bblfsh/*-driver_
 
 
-- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that intended to be consumed by third-parties as a sourced code dependencies, which the GPLv3 and variants doesn't allow (if consumers are not GPL). _Some examples are: bblfsh/*-client_
+- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that intended to be consumed by third-parties as a source code dependencies, which the GPLv3 and variants doesn't allow (if consumers are not GPL). _Some examples are: bblfsh/*-client_
 
 > Variants of GPLv3, such as AGPLv3 or LGPLv3 can be used under request and on a per case basis.
 
