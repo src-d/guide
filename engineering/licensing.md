@@ -18,6 +18,9 @@ licenses:
 
 > Variants of GPLv3, such as AGPLv3 or LGPLv3 can be used under request and on a per case basis.
 
+## Re-license
+In case if a code is copied between src-d projects covered by different licenses, src-d emploees are entitled to relicense the code as needed among those projects, if all the code was written by src-d emploees. THIS CANNOT BE DONE WITH 3RD PARTY CODE.
+
 ## Developer Certificate of Origin
 
 All our projects should include a [Developer Certificate of Origin](https://developercertificate.org/) (DCO) document to protect us against any individual contributor revoking our rights to distribute their contribution to any of our projects.
