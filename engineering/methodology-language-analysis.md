@@ -19,20 +19,21 @@ which determines how issues should be added to the project board:
 * An issue is created during planning, or it's in the backlog.
   The issue should be added to the project during planning.
   It may also be added either to the *To Do* column if the issue
-  should be solved during the current sprint or left untriaged if not.
+  should be solved during the current sprint or to the *Pending* column if not.
 * An issue is created outside planning (by team members, external users, etc.).
   The repo maintainer is responsible of adding the issue to the project,
   and to do the proper bug triage.
   The issue could be added to any relevant column,
-  of left in triage mode if it's not expected to be solved during the sprint.
+  which may be *Pending* if it's not expected to be solved during the sprint.
 * A pull request is created.
   The repo maintainer is responsible of adding the issue to the project.
-  It should also be added to the PR column.
+  It should also be added to the *PR* column.
 
 ## Moving issues in the project board
 
 The issue status should be kept updated using the different board columns:
 
+* *Pending*. This issue is not expected to be solved in the current sprint.
 * *To Do*. This issue should be solved in current sprint,
   but work has not started yet.
   Issues in this column can be prioritized.
@@ -42,10 +43,8 @@ The issue status should be kept updated using the different board columns:
 * *PR*. This is either a pull request, or an issue which is solved by some pull request.
 * *Done*. The issue is solved / pull request is merged.
 * *Invalid*. The issue / pull request is considered invalid and it's not going to be solved.
-
-Apart from this, the issues may not be in any column,
-which means that they're not expected to be handled in current sprint.
+* *Old Done*. Invalid or done issues are moved to this column after the sprint review.
 
 *Done* and *Invalid* columns are added for visibility and further discussion
 during next sprint planning, if needed.
-Once reviewed during planning, they should be removed.
+Once reviewed during planning, they should be moved to *Old Done*.
