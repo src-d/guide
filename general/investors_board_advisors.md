@@ -30,6 +30,7 @@ Board Member | Seat
 
 ### Advisors
 * [Julien Barbier](https://linkedin.com/in/julienbarbier)
+* [Patrick Chanezon](https://www.linkedin.com/in/chanezon/)
 
 ### Prospective Investors
 If you're an investor and are interested in investing in source{d} feel free to do a pull request here!
