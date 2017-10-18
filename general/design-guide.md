@@ -21,7 +21,7 @@ People change, and the community serving them at same time. Even though it’s i
 
 #### Empowerment
 
-Our quest it’s not driven by one-off design achievements. We strive to build collective momentum, gathering input from the community with all its particularities to help setting standards for collaborative accomplishment. Our way of doing things spawns consistent decisions and empowers others do to do the same.
+Our quest it’s not driven by one-off design achievements. We strive to build collective momentum, gathering input from the community with all its particularities to help setting standards for collaborative accomplishment. Our way of doing things spawns consistent decisions and empowers others to do the same.
 
 Any given day to us is an opportunity to embed design literacy among the team at every level of the business and spread it further among our community, and establish it as an ongoing and long term endeavour. Although we work in sprints, in reality we know they are small segments of a longer marathon.
 
