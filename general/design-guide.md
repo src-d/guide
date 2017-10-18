@@ -27,7 +27,7 @@ Any given day to us is an opportunity to embed design literacy among the team at
 
 #### Openness
 
-We deeply believe in co-creation. The same way we foster openness by producing open source software and opening up our culture (see our [guide](https://github.com/src-d/guide)), we must do so by bringing our community in. Our pathway towards innovation is not to simply share our evolution, but rather to evolve together with the community one step at a time.
+We deeply believe in co-creation. The same way we foster openness by producing open source software and opening up our culture (see our [guide](../README.md)), we must do so by bringing our community in. Our pathway towards innovation is not to simply share our evolution, but rather to evolve together with the community one step at a time.
 
 This is only possible however if we are open to our surroundings, to our community's particularities and empower people inside and outside to collaborate. We have an honest attention to the group, along with an extreme care on the individual. Like as in good typography, we care about our community not as a group of important people, but an important group of people, by choice.
 
@@ -46,7 +46,6 @@ Genuine design happens when we acknowledge that design without rationale is a me
 Design is sustainable with the emphasis of ethics over aesthetics, grounding the expression of a creative practice where design systems are crafted for the needs of the present without compromising the future.
 
 We advocate that there’s quite a stunning and often disregarded parallel between the digital landscape and the physical one. What we have done with our physical one over time must be a strong lesson to us all building its digital counterpart. We think twice about the life-cycle of the digital artifacts we give birth to the same way.
-
 
 #### Design is a team sport
 
