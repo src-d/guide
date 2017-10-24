@@ -40,16 +40,10 @@ Among others we have the following amenities:
 | C6 | [Miguel Molina](https://github.com/erizocosmico)      |
 | D1 | [Sonia Meruelo](https://github.com/smeruelo)      |
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
-| D3 | [Sergio Arbeo](https://github.com/Serabe)       |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
-| D5 | [Anna Tsolakou](linkedin.com/in/tsolakouanna)      |
-| D6 | [Margarida García](linkedin.com/in/margaridagarcialopes)   |
 | E1 | [Esther García](linkedin.com/in/estherrgarcia)      |
-| E2 | [Alberto Cortés](https://github.com/alcortesm)     |
-| E3 | [Santiago Mola](https://github.com/smola)      |
 | E4 | [Alexander Bezzubov](https://github.com/bzz) |
 | E5 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | E6 | [Manuel Carmona](https://github.com/orgs/src-d/people/mcarmonaa)     |
 | F1 | [Juanjo Álvarez](https://github.com/juanjux)     |
 | F3 | [Alfredo Beaumont](https://github.com/abeaumont)   |
-| F5 | [David Paz](https://github.com/dpaz)          |
