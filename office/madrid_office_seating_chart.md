@@ -37,11 +37,14 @@ Among others we have the following amenities:
 | C2 | [Rafa Porres](https://github.com/rporres)        |
 | C3 | [Egor Bulychev](https://github.com/EgorBu)      |
 | C4 | [David Pordomingo](https://github.com/dpordomingo)   |
-| C6 | [Miguel Molina](https://github.com/erizocosmico)      |
+| C5 | [Waren Long](https://github.com/warenlg) |
 | D1 | [Sonia Meruelo](https://github.com/smeruelo)      |
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
+| D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta)   |
 | E1 | [Esther García](linkedin.com/in/estherrgarcia)      |
+| E2 | [Miguel Molina](https://github.com/erizocosmico)      |
+| E3 | [Javier Fontán]()      |
 | E4 | [Alexander Bezzubov](https://github.com/bzz) |
 | E5 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | E6 | [Manuel Carmona](https://github.com/orgs/src-d/people/mcarmonaa)     |
