@@ -1,7 +1,10 @@
 # source{d} Events
 
 ## Get togethers
-Once a month we organise a get together where we either all go to a bar where free drinks will be served from 19:00-24:00 or we go for some group activities like salsa classes, karting or other fun stuff. Every sourcerer and their +1s are invited to join.
+Once a month we organise a get together where we either all go to a bar where free drinks will be served from 19:00-24:00 or we go for some group activities like salsa classes, karting or other fun stuff. Every sourcerer and their +1s are invited to join. Get togethers are the third Wednesday of the month. 
+
+## Friday Lunchs
+Once a month we organise a Friday lunch at the office. It is the fourth Friday of the month. Every sourcerer is invited to join. We order food (diferent every month) for everybody and we share good moments together. 
 
 ## Summer Party
 The source{d} summer party is hosted once a year in the months of June, July or September (depending on travel schedules). 
