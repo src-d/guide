@@ -8,9 +8,13 @@ At source{d} you will have 23 days of holidays to use however you wish. This mea
 
 Unlike in some other companies we don't count the weekends of bank holidays that fall inside of your holidays. This means that if you take two weeks off it will count as 10 holidays (2x Monday-Friday). This is the norm in most countries but some companies in some countries also count the weekend in between as part of your holidays.
 
-You can also work during bank holidays or weekends and exchange those days for additional holidays. You just have to let your team know that you are going to do so. Again, try to do it with time so that everyone can plan accordingly.
+You can also work during bank holidays or weekends and exchange those days for additional holidays. You just have to let your team know that you are going to do so. Again, try to do it with time so that everyone can plan accordingly.The company will include an extra day of vacations in the annual total amount.
+
+If by the company’s necessities an employee has to work during a festive day or a weekend, he will receive an extra day of vacations to the day of work resulting in the addition of two vacation days added to the total annual amount of holidays. 
 
 Finally, if you don't use all your days in one year, any unused days will carry over to the next.
+
+National festive days of the year will be stablished by the government, regional festivities will be stablished by the community of Madrid, and local festive days stablished by the City of Madrid. The calendar will be shared with the workers before the start of the year. 
 
 ### Working Schedule
 
