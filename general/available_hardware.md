@@ -1,10 +1,10 @@
 # Laptops
 
 ## Apple 13-inch MacBook Pro - Space Gray 
-- 2.0GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.1GHz
-- 16GB 1866MHz memory
+- 2.3GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.6GHz
+- 16GB 2133MHz LPDDR3 memory
 - 256GB PCIe-based SSD
-- Intel Iris Graphics 540
+- Intel Iris Graphics 640
 - Two Thunderbolt 3 ports
 - Force Touch trackpad
 - Accessory Kit
