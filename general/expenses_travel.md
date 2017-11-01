@@ -6,7 +6,7 @@ We don't like to put strict rules in terms of what you can expense and what not,
 * Always ask your manager first before making a purchase. He might be able to point you to a better solution.
 * Once the decision has been made please request Esther to make the purchase, so that she can keep track of inventory as well as keep the receipt.
 * If you need any hardware for work, make sure to check our [Hardware list](https://github.com/src-d/guide/blob/master/general/available_hardware.md) and ask Esther to buy anything you need.
-* If you see yourself in the situation of needing to pay something out of your own pocket please make sure that you keep all the receipts and hand them over to Esther for her to do the reimbursement. If it's a physical item, make sure to give it to her when you receive it for her to update the inventory.
+* If you see yourself in the situation of needing to pay something out of your own pocket please make sure that you keep all the receipts and hand them over to Esther for her to do the reimbursement. You should fill in the [expenses sheet](https://docs.google.com/a/sourced.tech/spreadsheets/d/1efa5uU1b95FzxhqRPcUOF1UOiAa1j0i08ae15y22J6c/edit?usp=sharing) with the amount in EUR to be sure that the reimbursment is done properly. If it's a physical item, make sure to give it to her when you receive it for her to update the inventory. 
   
 ## What expenses will source{d} reimburse?
 * Mileage will be paid when driving your own car to a work meeting outside of the office. The rate will be 0,17€/km as established by Spanish law.
