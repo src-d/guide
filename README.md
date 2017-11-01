@@ -19,7 +19,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Security
   * [Expenses & Travel](general/expenses_travel.md)
 * Office
-  * [Facilities & Seating Chart](general/madrid_office_seating_chart.md)
+  * [Facilities & Seating Chart](office/madrid_office_seating_chart.md)
   * [Company Events](office/company_events.md)
   * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
 * Talent
