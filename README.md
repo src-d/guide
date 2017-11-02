@@ -31,7 +31,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * ["By Developers" Training](talent/by-developers-training/README.md)
   * Career development
   * [One-On-One Meetings Guide](talent/one_on_one_guide.md)
-  * [Open Source Fridays](/talent/open_source_fridays.md)
+  * [Open Source Days](/talent/open_source_days.md)
   * Offboarding
 * Engineering
   * [Methodology](engineering/methodology.md)
