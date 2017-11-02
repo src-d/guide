@@ -46,5 +46,5 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Company Blog](https://medium.com/source-d)
 * Product
   * Methodology
-  * Design Guidelines
+  * [Design Guide](general/design-guide.md)
 * Financials
