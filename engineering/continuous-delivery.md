@@ -86,7 +86,7 @@ There can be some special exceptions that would require merging into master some
 
 Whenever `staging` branch is updated,  [drone](https://drone.srcd.host) automatically deploys it to Staging environment.
 
-`staging` branch is not a long-term branch, so it should be kept as much close to `master` as possible.
+`staging` branch is not a long-term branch, so it should be kept as closer to `master` as possible.
 
 The project maintainer and team members working with that project will decide when `staging` should be reset to `master` or a `release/*` branch, considering its current state and other features that could be tested in Staging.
 
