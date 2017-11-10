@@ -18,7 +18,7 @@ Web application deployment workflow.
 
 # Intro
 
-This documentation assumes it is already known the [compay deployment workflow](git-flow.md), and extends it to cover the continuous delivery as it should work for all source{d} web applications:
+This documentation assumes it is already known the [company deployment workflow](git-flow.md), and extends it to cover the continuous delivery as it should work for all source{d} web applications:
 
 repo | Prod | Staging
 --- | --- | ---
@@ -35,10 +35,10 @@ This document is based on the agreements of the [2017-10-23 CD workflow](https:/
 Here are the technical details of when CI or CD runs, but it is needed you know and understand the guides and conventions explained below this section.
 
 ## branches
-- `master` branch must be "always" production ready.
+- `master` branch must be always production ready and will reflect the code deployed into Production.
 - there are no long-term branches but `master`,
 - `staging` branch must not be merged into other branches,
-- `staging`branch should be kept as close to master as possible,
+- `staging` branch should be kept as close to master as possible,
 
 ## Continuous delivery
 CI and CD is controlled [by drone](https://drone.srcd.host)
@@ -56,7 +56,7 @@ CI and CD is controlled [by drone](https://drone.srcd.host)
 
 `master` branch is the starting point for feature branches (considering some [special cases](#special-cases))
 
-Since the workflow in the source{d} web applications use to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainer](maintainers.md) will decide if any PR must be reviewed by Product, by himself or by any other person.
+Since the workflow in the source{d} web applications use to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainer](maintainers.md) will decide if any PR must be reviewed by Product, by itself or by any other person.
 
 # Deploying into Production
 
@@ -90,4 +90,4 @@ Whenever `staging` branch is updated,  [drone](https://drone.srcd.host) automati
 
 The project maintainer and team members working with that project will decide when `staging` should be reset to `master` or a `release/*` branch, considering its current state and other features that could be tested in Staging.
 
-As a general rule `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash;
+Since the `staging` branch contains commits not approved, it is needed to keep those ones outside from `master` or any other branch that could be merged against `master` &ndash;like release or feature branches&ndash;. Due to the necessity of keeping that risk as low as possible, it can be taken as a general rule that `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash; 
