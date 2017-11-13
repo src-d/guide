@@ -89,7 +89,9 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
-|[DotGo](https://www.dotgo.io/)   |Paris        |CFP Submitted|             |
+|[DotGo](https://www.dotgo.io/)   |Paris        |Speakers :rockt:|          |
+|[AIFORSE](http://archive.is/VHgeP)|Barcelona   |Speakers/sponsors :rockt:| [src-d stack + background](https://docs.google.com/presentation/d/1LGt8MdoBmgxOAujn8xGTT_KmZRDXPI2Fv_8Na1xWYHg/edit)|
+
 
 ## December
 
