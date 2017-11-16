@@ -80,10 +80,12 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
+| South Summit | Madrid | Speakers 🚀 | [The Future of AI on Code](https://docs.google.com/presentation/d/e/2PACX-1vTJWV87a9LEqbWfsFTG55xVwbLygxNdOqM0o-0DLdzhmdaCf-XuuOMETbXGEJrryvHviuH2xeioQbsg/pub?start=false&loop=false&delayms=3000) |
 |[MCubed](http://www.mcubed.london/)|London     |Speakers :rocket: |High-dimensional Data|
 |[PyCon UK](http://2017.pyconuk.org/)|Cardiff   |             |             |
 |[GitHubUniverse](https://githubuniverse.com/)|SF|CFP Open    |             |
 |[DockerCon EU](https://europe-2017.dockercon.com/)| Multiple |       |     |
+| Open Source Summit Europe | Prague | Speakers 🚀 | [source{d} stack + licensing app](https://docs.google.com/presentation/d/e/2PACX-1vRExSOGd2Pmz2oV237bfqwHyPyW8Yg2rydmdt8oSPZC3_uM0SnA5BTORxT9J52ONCtbNOf5CzfN0ZaT/pub?start=false&loop=false&delayms=3000) |
 
 ## November
 
