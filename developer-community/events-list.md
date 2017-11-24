@@ -112,7 +112,7 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
-|[FOSDEM](https://fosdem.org/2018/) |Brussles   | CFP Open. Co-host Golang & [SrcAnalysis](http://source-code-analysis-fosdem.github.io/) DevRooms   |Bblfsh,Engine|
+|[FOSDEM](https://fosdem.org/2018/) |Brussels   | CFP Open. Co-host Golang & [SrcAnalysis](http://source-code-analysis-fosdem.github.io/) DevRooms   |Bblfsh,Engine|
 
 
 ## April 2018

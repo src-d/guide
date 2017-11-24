@@ -122,7 +122,7 @@ Demo meetings
 
 
 ### Sprint extensions
- - we need to schedule extentions in advance, in more predictable fascion
+ - we need to schedule extensions in advance, in a more predictable fashion
  - it affects both Planing and OSF
 
 ### What does it mean something is done?
