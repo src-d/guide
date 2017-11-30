@@ -37,4 +37,4 @@ To learn more about DCO please read:
 
 - [GPL v3.0 License](documents/gpl/LICENSE) Document
 - [Apache License 2.0](documents/apache/LICENSE) Document
-- [Developer Certificate of Origin](documents/gpl/DCO) Document
+- [Developer Certificate of Origin](documents/DCO) Document
