@@ -25,7 +25,7 @@ walkthroughs.
 ## How To
 
 1. **Prepare.** Get to the office before 10:30 a.m. and prepare your work for the day.
-2. **Share your plan.** At 10:30 we do the OSD planning meeting. You should briefly explain what you are going to do and what do you expect to accomplish by the end of the day. This should be just 1 or 2 minutes per person.
+2. **Share your plan.** At 10:30 we do the OSD planning meeting. You should briefly explain what you are going to do and what do you expect to accomplish by the end of the day. This should be just 1 or 2 minutes per person. Explanations about the project you're going to contribute are done in the `#osd` slack channel.
 3. **Do it.** Execute your plan for the day and push it!
 4. **Demo.** At a time agreed by the team, usually at 17:30, the demo starts. Everyone presents their work to others in 5-15 minutes.
 
