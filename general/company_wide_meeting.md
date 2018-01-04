@@ -3,6 +3,7 @@
 Every two weeks we hold a CWM (Company Wide Meeting) where the management team presents: 
 * major updates from each team
 * strategic thinking
+* hiring plan updates
 * company wide relevant announcements
 * high level financials (e.g. cash in bank, net burn rate)
 * answers to questions (can be anonoymous by asking through the TypeForm: https://sourced.typeform.com/to/dJFJhb) 
