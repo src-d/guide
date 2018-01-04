@@ -13,6 +13,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Leadership
   * Objectives & Key Results (OKRs)
   * Communications
+  * [Company Wide Meeting](general/company_wide_meeting.md)
   * [Remote Guidelines](remote/remote_guidelines.md)
   * [Tools](general/tools.md)
   * [Hardware](general/available_hardware.md)
