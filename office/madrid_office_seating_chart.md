@@ -45,6 +45,7 @@ Among others we have the following amenities:
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
 | D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta)   |
+| E3 | [Carlos Martín](https://github.com/carlosms) |
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
