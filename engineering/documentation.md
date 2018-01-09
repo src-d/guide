@@ -83,7 +83,7 @@ Avoid gendered pronouns. "He or she" should be rewritten as "they".
 There is no reason for your document to make assumptions on the reader's identity.
 
 Avoid sexist connotations.
-For instance, "mom-proof" implies mothers are not technical. Tell that to Grace Hopper.
+For instance, "mom-proof" implies women are not technical. Tell that to Grace Hopper.
 You can read more about sexist language and how to avoid it
 [here](https://www.hamilton.edu/academics/centers/writing/writing-resources/avoiding-sexist-language).
 
@@ -121,6 +121,9 @@ Give an overview of the project goal and its current state.
 Is this a demo, a library, or maybe some tool?
 Should it be used in production? Is too soon, or maybe too late because it's been deprecated?
 
+Is this code distributed in any other way?
+Docker images, aptitude packages, installation scripts, etc. should be mentioned here.
+
 For tools, it is also worth including basic installation instructions.
 If the instructions are long they should be part of a different document linked from this one.
 
@@ -128,6 +131,8 @@ This document also serves as the index for all other documentation.
 `README.md` can also be found in folders other than the root of the repository.
 In that case it should document what the subtree below the folder contains.
 This is useful when you have libraries and binaries in a single repository.
+
+A `README.md` template is available [here](documents/README.tmpl.md).
 
 TL;DR:
 - Audience: Everyone.
@@ -175,7 +180,7 @@ TL;DR:
 
 ### Release Notes
 
-Every new release of your project should be versioned following semantic versioning principles.
+Every new release of your project should be versioned following [semantic versioning principles](https://semver.org/).
 Each new release should come with release notes. These notes are not a list of every single
 PR and issue that have been closed during the release. Instead, the document should explain
 what are the most important changes in the release, such as critical bugs, breaking changes,
@@ -207,6 +212,15 @@ TL;DR:
 All projects under the source{d} organization should mention the Code of Conduct available
 in https://www.contributor-covenant.org/.
 
+You can simply copy paste this markdown into your `README.md` and
+inside `.github/CODE_OF_CONDUCT` for each repository.
+
+```markdown
+# Code of Conduct
+
+All activities source{d} projects are governed by the [source{d} code of conduct](https://github.com/src-d/guide/blob/master/.github/CODE_OF_CONDUCT.md).
+```
+
 TL;DR:
 - Audience: Contributors
 - Content: Rules governing the contributor community and their interactions with each other.
@@ -224,3 +238,4 @@ and their own goals when reading the document.
 - [Avoiding sexist language](https://www.hamilton.edu/academics/centers/writing/writing-resources/avoiding-sexist-language)
 - [How to Design for Color Blindness](http://blog.usabilla.com/how-to-design-for-color-blindness/)
 - [Disabling Ableist Language](https://www.copyediting.com/disabling-ableist-language/#.Wk6yeFQ-dE4)
+- [Semantic Versioning](https://semver.org/)
