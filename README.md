@@ -28,7 +28,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Contract](talent/contract.md)
   * [Stock Option Plan](talent/esop.md)
   * [Flexible Holidays, Working Schedule and Remote Work](talent/flexible_holidays_working_schedule_remote_work.md)
-  * Onboarding
+  * [Onboarding](talent/onboarding)
   * ["By Developers" Training](talent/by-developers-training/README.md)
   * Career development
   * [One-On-One Meetings Guide](talent/one_on_one_guide.md)
