@@ -8,6 +8,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * Mission & Vision
   * Roadmap
   * [Culture](general/culture.md)
+  * [Product](general/product.md)
   * [Organizational & Legal Structure](general/organizational_legal_structure.md)
   * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
