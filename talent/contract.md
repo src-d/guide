@@ -8,7 +8,7 @@ You can find here the <a href="">English</a> and <a href="">Spanish</a> version 
 3. In Spain, the weekly working hours need to be established for full-time contracts at 40h/week. We have this clause to comply with the law, but actually offer a <a href="">flexible working schedule</a> where you decide how many hours to work. As long as stuff gets done, we don't care if it takes 1h or 40h <b>link missing</b>
 4. The contract hs an indefinite duration and the Spanish standard of 6 trial months. <b>This means that...</b>
 5. This clause details how much your gross salary will be.
-6. At source{d}, we offer 23 day of holidays a year. We have a <a href="">holiday policy</a> by which you can work on bank holidays or weekends though and exchange it for more days.Also, any unused holidays will be carried over to the next year. <b>link missing</b>
+6. At source{d}, we offer 23 day of holidays a year. We have a <a href="">holiday policy</a> by which you can work on bank holidays or weekends though and exchange it for more days. Also, any unused holidays will be carried over to the next year. <b>link missing</b>
 7. x
 8. The legislation of the statute of workers approved by the <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-1995-7730">Royal Legislative Decree 1/1995 of 24th March</a> and the collective agreement of <a href="https://www.boe.es/boe/dias/2009/04/04/pdfs/BOE-A-2009-5688.pdf"><k>Empresas de Consultoría y Estudios Opinión Pública</k></a> will be applied to this contract.
 9. x
