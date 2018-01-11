@@ -1,6 +1,6 @@
 # Documentation at source{d}
 
-Our company has been a big believer on Open Source from very early on.
+Our company has been a big believer in Open Source from very early on.
 Most of our repositories are visible to anyone in the world.
 We agree this is for our own benefit, but public source code is not
 enough to support and develop an Open Source community.
@@ -33,7 +33,7 @@ is simply to enjoy reading a beautiful text of astonishing beauty.
 On the other hand I know you're a developer, so there's no point explaining
 what source code is. That would seem patronizing or a waste of time.
 
-I also know that most of you don't speak English as a first language.
+I also know that most of us don't speak English as a first language.
 Unnecessarily complicated words or sentences are then an obstacle to our communication.
 
 Finally, I know you're a diverse group. Among the readers of this document you'll find people
@@ -137,6 +137,7 @@ A `README.md` template is available [here](documents/README.tmpl.md).
 TL;DR:
 - Audience: Everyone.
 - Content: Description of the project and its current state. Links to other resources.
+- Template: [README.tmpl.md](documents/README.tmpl.md)
 - Example: https://github.com/twbs/bootstrap/blob/v4-dev/README.md
 
 ### CONTRIBUTING.md
@@ -154,9 +155,12 @@ and documentation conventions.
 
 A very good example of `CONTRIBUTING.md` is the one from [angular.js](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md).
 
+If you're starting from scratch, considering using this [template](documents/CONTRIBUTING.md).
+
 TL;DR:
 - Audience: Contributors.
 - Content: Steps necessary to modify the project, verify the changes, and contribute back to the project.
+- Template: [CONTRIBUTING.md](documents/CONTRIBUTING.md)
 - Example: https://github.com/angular/angular.js/blob/master/README.md
 
 ### Reference material
@@ -225,6 +229,17 @@ TL;DR:
 - Audience: Contributors
 - Content: Rules governing the contributor community and their interactions with each other.
 - Example: https://www.contributor-covenant.org/
+
+### Issue templates
+
+Following the same philosophy of good documentation, good issue templates help users and
+contributors interact more efficiently.
+
+Consider adding a `ISSUE_TEMPLATE.md` file either under the repo root or a direct descent
+of it named either `.github` or `docs`.
+(More info [here](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)).
+
+Consider using [this template](documents/ISSUE_TEMPLATE.md).
 
 ### Other pieces documentation
 
