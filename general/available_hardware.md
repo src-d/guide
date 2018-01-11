@@ -11,11 +11,11 @@
 - Backlit Keyboard (English) & User's Guide
 
 ## Dell XPS 13 Developer Edition
-- 7th Generation Intel® Core™ i7 processor
+- 8th Generation Intel(R) Core(TM) i7-8550U Processor
 - Ubuntu Linux 16.04
-- 16GB Memory
+- 16GB Memory LPDDR3 2133MHz
 - 512GB Solid State Drive
-- QHD+ Screen - Touch Enabled
+- 13.3'' 4K Ultra HD (3840 x 2160) InfinityEdge
 
 ## Lenovo x270 12"
 - Intel Core i7-7500U
