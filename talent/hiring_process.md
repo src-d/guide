@@ -5,7 +5,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Job Description
 
-- Job Description is written by the lead engineers with Anna's support. 
+- Job Description is written by the lead engineers with the Talent's Manager support. 
 
 - For every meeting between the lead and Anna there will be a PR in the [minutes](https://github.com/src-d/minutes) repo and the job descriptions will be uploaded at the private repository https://github.com/src-d/company.
 
@@ -17,15 +17,15 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Lead engineers are responsible to identity people to be contacted and other sourcing channels such as niche job boards. 
 
-- At any given moment Anna is able to drop in and work on finding more candidates.
+- At any given moment the Talent Manager is able to drop in and work on finding more candidates.
 
-- Candidate lists/sourcing channels should continuously be defined and refreshed after communication between Anna and the leads. 
+- Candidate lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads. 
 
-- Anna is responsible to work with the Developer Community team in order to gain people through community actions (Twitter/Blog etc.). 
+- The Talent Manager is responsible to work with the Developer Community team in order to gain people through community actions (Twitter/Blog etc.). 
 
 ### First Contact
 
-- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case Anna is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the candidates to be contacted by the lead engineers. 
+- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case the Talent Manager is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the candidates to be contacted by the lead engineers. 
 
 ### Screening
 
@@ -63,7 +63,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Offer
 
-- The offer is being sent by Maximo on Lever. 
+- The offer is being sent by the CTO on Lever. 
 
 - The candidate has no time deadline to accept/reject the offer. Only in cases that we have more candidates in the offer state for one opening where decisions need to be made. 
 
