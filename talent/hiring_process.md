@@ -51,7 +51,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### On-site Interview
  
-- This is the last step in which it's  decided if the candidate will receive an offer or not. It might last a full day or be split across two half-days, depending the availability of the candidate. 
+- This is the last step in which it's  decided if the candidate will receive an offer or not. It might last a full day or be split across two half-days, depending on the availability of the candidate. 
 
 - The interviews are the followings: 
 
