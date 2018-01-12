@@ -6,14 +6,21 @@ This document explains the internal hiring process at source{d} and the responsi
 ### Job Description
 
 - Job Description is written by the lead engineers with Anna's support. 
-- Then it should be reviewed by Maximo and Eiso via a PR on Minutes.
+
+- For every meeting between the lead and Anna will be a PR in Minutes and the job descriptions will be uploaded at https://github.com/src-d/company.
+
+- It should be reviewed by Maximo and Eiso.
+
 - Anna is posting the job description in source{d} website.
 
 ### Sourcing
 
 - Lead engineers are responsible to find sources of people to be contacted. 
+
 - At any given moment Anna is able to drop in and work on finding more candidates.
+
 - Sourcing channels should continuously be defined and refreshed after communication between Anna and the leads. 
+
 - In case there is lack of candidates, Anna is responsible to contact Francesc in order to gain people through community actions. 
 
 ### First Contact
@@ -41,8 +48,10 @@ This document explains the internal hiring process at source{d} and the responsi
 - Coding Challeges are being sent to the candidates by Anna and the results are being reviewed by the lead engineers. 
 
 ### On-site Interview
-
+ 
 - This is the last step in which it's being decided if the candidate will receive an offer or not. It might last a full day or being split in two days, regarding the availability of the candidate. 
+
+- The interviews are the followings: Kickoff with Maximo, QA: to know the candidate better, Design interview: to see how the candidate would design a solution to a given technical problem working with a couple of our engineers, Logical thinking: to see how the candidate solves an abstract problem in a logical way.
 
 - In case of rejection, they candidate should be notified by the lead of the corresponding team. 
 
