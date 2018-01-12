@@ -7,53 +7,59 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Job Description is written by the lead engineers with Anna's support. 
 
-- For every meeting between the lead and Anna will be a PR in Minutes and the job descriptions will be uploaded at https://github.com/src-d/company.
+- For every meeting between the lead and Anna there will be a PR in the [minutes](https://github.com/src-d/minutes) repo and the job descriptions will be uploaded at the private repository https://github.com/src-d/company.
 
-- It should be reviewed by Maximo and Eiso.
+- CTO and CEO should be added as reviewers (but should not be bottlenecks to continue).
 
-- Anna is posting the job description in source{d} website.
+- Anna posts the job description through Lever on the source{d} website.
 
 ### Sourcing
 
-- Lead engineers are responsible to find sources of people to be contacted. 
+- Lead engineers are responsible to identity people to be contacted and other sourcing channels such as niche job boards. 
 
 - At any given moment Anna is able to drop in and work on finding more candidates.
 
-- Sourcing channels should continuously be defined and refreshed after communication between Anna and the leads. 
+- Candidate lists/sourcing channels should continuously be defined and refreshed after communication between Anna and the leads. 
 
-- In case there is lack of candidates, Anna is responsible to contact Francesc in order to gain people through community actions. 
+- Anna is responsible to work with the Developer Community team in order to gain people through community actions (Twitter/Blog etc.). 
 
 ### First Contact
 
-- Any developer should be contacted by the lead engineers or under their name at least. In case Anna is contacting them, she should use their email address. It's a motivating factor for the candidates to be contacted by the lead engineers. 
+- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case Anna is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the candidates to be contacted by the lead engineers. 
 
 ### Screening
 
 - If the candidate is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. 
 
-- If the candidate is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads had already shown interest. 
+- If the candidate is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads have already shown interest.
 
-### First Skype Interview
+### First Skype/Zoom/Phone Interview
 
-- A quick Skype call should be made with every candidate who is interested in the roles. It is a general duscussion to know more about the background and experience of the candidate. 
+- A quick Skype/Phone/Zoom call should be available to every candidate who is interested in the roles*. It is a general discussion to know more about the background and experience of the candidate. And to share as much as possible from our side about the team & company. 
 
-- Lead engineers are responsible to make the calls as it's a motivating factor for the candidates and also the leads will know from early on if they would like to work with them or not. 
+\* There a noteable exceptions to this, such as higher volume junior roles where we directly ask the candidate to do the coding challenge before a call. 
+
+- Lead engineers are responsible to make the calls as it's a motivating factor for the candidates. Leads will also be able to assess early in the process if the interview process should continue or not. 
 
 ### Coding Challenges 
 
-- Every candidate who is passing the first Skype interview, should complete the coding challege. 
+- Every candidate who passes the first Skype interview, should complete the coding challege. 
 
-- In case of Data Science, there is an additional ML task necessary to be solved.
+- In case of the Machine Learning team, there is an additional ML task necessary to be solved.
 
 - Coding Challeges are being sent to the candidates by Anna and the results are being reviewed by the lead engineers. 
 
 ### On-site Interview
  
-- This is the last step in which it's being decided if the candidate will receive an offer or not. It might last a full day or being split in two days, regarding the availability of the candidate. 
+- This is the last step in which it's  decided if the candidate will receive an offer or not. It might last a full day or be split across two half-days, depending the availability of the candidate. 
 
-- The interviews are the followings: Kickoff with Maximo, QA: to know the candidate better, Design interview: to see how the candidate would design a solution to a given technical problem working with a couple of our engineers, Logical thinking: to see how the candidate solves an abstract problem in a logical way.
+- The interviews are the followings: 
 
-- In case of rejection, they candidate should be notified by the lead of the corresponding team. 
+* Kickoff with Maximo, QA: to know the candidate better
+* Design interview: to see how the candidate would design a solution to a given technical problem working with a several of our engineers
+* Logical thinking: to see how the candidate solves an abstract problem in a logical way.
+
+- In case of rejection, the candidate should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the candidate as much insights as possible.
 
 ### Offer
 
@@ -65,8 +71,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Exceptions 
 
-- There are exceptions in the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. 
+- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. 
  
  ### Feedback
 
- - After the coding challenge it's very important to gain feedback of Maximo in every next step. 
+ - After the coding challenge it's very important to gain feedback of the CTO at each next step. 
