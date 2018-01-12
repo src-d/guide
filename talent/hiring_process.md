@@ -17,29 +17,29 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Lead engineers are responsible to identity people to be contacted and other sourcing channels such as niche job boards. 
 
-- At any given moment the Talent Manager is able to drop in and work on finding more candidates.
+- At any given moment the Talent Manager is able to drop in and work on finding more developers.
 
-- Candidate lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads. 
+- Developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads. 
 
 - The Talent Manager is responsible to work with the Developer Community team in order to gain people through community actions (Twitter/Blog etc.). 
 
 ### First Contact
 
-- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case the Talent Manager is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the candidates to be contacted by the lead engineers. 
+- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case the Talent Manager is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the developers to be contacted by the lead engineers. 
 
 ### Screening
 
-- If the candidate is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. 
+- If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. 
 
-- If the candidate is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads have already shown interest.
+- If the developer is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads have already shown interest.
 
 ### First Skype/Zoom/Phone Interview
 
-- A quick Skype/Phone/Zoom call should be available to every candidate who is interested in the roles*. It is a general discussion to know more about the background and experience of the candidate. And to share as much as possible from our side about the team & company. 
+- A quick Skype/Phone/Zoom call should be available to every developer who is interested in the roles*. It is a general discussion to know more about the background and experience of the candidate. And to share as much as possible from our side about the team & company. 
 
-\* There a noteable exceptions to this, such as higher volume junior roles where we directly ask the candidate to do the coding challenge before a call. 
+\* There a noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call. 
 
-- Lead engineers are responsible to make the calls as it's a motivating factor for the candidates. Leads will also be able to assess early in the process if the interview process should continue or not. 
+- Lead engineers are responsible to make the calls as it's a motivating factor for the developers. Leads will also be able to assess early in the process if the interview process should continue or not. 
 
 ### Coding Challenges 
 
