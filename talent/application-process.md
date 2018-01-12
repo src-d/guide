@@ -13,13 +13,13 @@ This document describes how the developers are able to apply at source{d} and th
 
 - In less than a week after the submission of the application the developer receives an email with feedback, however there can be delays. In any case, the developer is free to reach out to us at any moment at talent@sourced.tech.
 
-- In case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the team he applied to. 
+- In case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the applied team. 
 
 ### Skype/Zoom/Phone call  
 
 - The developer is having a quick call with the lead engineer of the team he applied to. This should be a general discussion that can last between 15-30 minutes. It's purpose is to know the background and experience of the developer, as well as the developer to know source{d} better. It's expected that the developer has already done a basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call. 
 
-- There a noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
+- There are noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
 
 ### Coding Challenge
 
@@ -42,7 +42,7 @@ This document describes how the developers are able to apply at source{d} and th
 
 ### On-site Interview
 
-- Every developer who successfuly solves the coding challenge, is invited for the last interview at our offices in Madrid. It might last a full day or be split across two half-days, depending on the availability of the developer.
+- Every developer who successfully solves the coding challenge, is invited for the last interview at our offices in Madrid. It might last a full day or be split across two half-days, depending on the availability of the developer.
 
 - This is the last step in which it's decided if the candidate will receive an offer or not. 
 
