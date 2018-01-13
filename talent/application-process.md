@@ -44,23 +44,23 @@ This document describes how the developers are able to apply at source{d} and th
 
 - Every developer who successfully solves the coding challenge, is invited for the last interview at our offices in Madrid. It might last a full day or be split across two half-days, depending on the availability of the developer.
 
-- This is the last step in which it's decided if the candidate will receive an offer or not. 
+- This is the last step in which it's decided if the developer will receive an offer or not. 
 
 The interviews are the followings:
 
-- Kickoff with CTO, QA: to know the candidate better.
+- Kickoff with CTO, QA: to know the developer better.
 
-- Design interview: to see how the candidate would design a solution to a given technical problem working with a several of our engineers.
+- Design interview: to see how the developer would design a solution to a given technical problem working with a several of our engineers.
 
-- Logical thinking: to see how the candidate solves an abstract problem in a logical way.
+- Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
-- In case of rejection, the candidate should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the candidate as much insights as possible. 
+- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the developer as much insights as possible. 
 
 ### Offer
 
 - The offer is being sent by CTO on Lever. 
 
-- The candidate has no time deadline to accept/reject the offer. Only in cases that we have more candidates in the offer state for one opening where decisions need to be made. 
+- The developer has no time deadline to accept/reject the offer. Only in cases that we have more developers in the offer state for one opening where decisions need to be made. 
 
 ### More 
 
