@@ -54,7 +54,7 @@ The interviews are the followings:
 
 - Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
-- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the developer as much insights as possible. 
+- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team. This should be a constructive discussion giving the developer as much insights as possible. 
 
 ### Offer
 
@@ -62,7 +62,7 @@ The interviews are the followings:
 
 - The developer has no time deadline to accept/reject the offer. Only in cases that we have more developers in the offer state for one opening where decisions need to be made. 
 
-### More 
+### Diversity and Remote 
 
 - At source{d} we believe that amazing talent should not be constrained by physical barriers. Our multinational and multicultural team shares a culture of openness and excellence and passion for programming.
 
