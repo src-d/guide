@@ -52,9 +52,9 @@ This document explains the internal hiring process at source{d} and the responsi
  
 - This is the last step in which it's  decided if the developer will receive an offer or not. It might last a full day or be split across two half-days, depending on the availability of the developer. 
 
-- The interviews are the followings: 
+- The interviews are the following: 
 
-* Kickoff with Maximo, QA: to know the developer better
+* Kickoff with the CTO, QA: to know the developer better
 * Design interview: to see how the developer would design a solution to a given technical problem working with a several of our engineers. In case of a developer being interviewed for the Infrastructure team, we have to make sure that this interview covers the specified needs for the team.
 * Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
