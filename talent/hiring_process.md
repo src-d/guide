@@ -36,7 +36,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - A quick Skype/Phone/Zoom call should be available to every developer who is interested in the roles*. It is a general discussion to know more about the background and experience of the developer. And to share as much as possible from our side about the team & company. 
 
-\* There a noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call. 
+\* There are noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call. 
 
 - Lead engineers are responsible to make the calls as it's a motivating factor for the developers. Leads will also be able to assess early in the process if the interview process should continue or not. 
 
@@ -46,7 +46,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - In case of the Machine Learning team, there is an additional ML task necessary to be solved.
 
-- Coding Challeges are being sent to the developers by the Talent Manager and the results are being reviewed by the lead engineers. 
+- Coding Challenges are being sent to the developers by the Talent Manager and the results are being reviewed by the lead engineers. 
 
 ### On-site Interview
  
@@ -70,8 +70,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Exceptions 
 
-- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. 
+- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do on-sites interviews for interns unless one could join us as a full-time engineer.
  
- ### Feedback
+### Feedback
 
  - After the coding challenge it's very important to gain feedback of the CTO at each next step. 
