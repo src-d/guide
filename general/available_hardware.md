@@ -1,21 +1,21 @@
 # Laptops
 
 ## Apple 13-inch MacBook Pro - Space Gray 
-- 2.0GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.1GHz
-- 16GB 1866MHz memory
+- 2.3GHz dual-core Intel Core i5 processor, Turbo Boost up to 3.6GHz
+- 16GB 2133MHz LPDDR3 memory
 - 256GB PCIe-based SSD
-- Intel Iris Graphics 540
+- Intel Iris Graphics 640
 - Two Thunderbolt 3 ports
 - Force Touch trackpad
 - Accessory Kit
 - Backlit Keyboard (English) & User's Guide
 
 ## Dell XPS 13 Developer Edition
-- 7th Generation Intel® Core™ i7 processor
+- 8th Generation Intel(R) Core(TM) i7-8550U Processor
 - Ubuntu Linux 16.04
-- 16GB Memory
+- 16GB Memory LPDDR3 2133MHz
 - 512GB Solid State Drive
-- QHD+ Screen - Touch Enabled
+- 13.3'' 4K Ultra HD (3840 x 2160) InfinityEdge
 
 ## Lenovo x270 12"
 - Intel Core i7-7500U
@@ -28,7 +28,7 @@
 
 # Keyboards 
 - [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
-- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01CM043TO/ref=sr_1_5?s=electronics&ie=UTF8&qid=1488285204&sr=1-5) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
+- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
 
 # Mouse
 - [Logitech 910](https://www.amazon.es/gp/product/B00DY50D00/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
@@ -44,6 +44,7 @@
 - [Desktop Powerbase](https://www.amazon.es/Allocacoc-PowerCube-ReWirable-P%C3%BArpura-m%C3%BAltiple/dp/B010XEHG8Q/ref=sr_1_1?s=electronics&ie=UTF8&qid=1493896780&sr=1-1&keywords=PowerCube+usb+viaje)
 - [Laptop Stand](https://www.amazon.es/gp/product/B01CCMCGWI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 - [Monitor Stand](https://www.amazon.es/gp/product/B00HAMQY2E/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+- [Apple USB-C to HDMI and USB adapter](https://www.apple.com/es/shop/product/MJ1K2ZM/A/usb-c-digital-av-multiport-adapter?fnode=6967a5d4ed7e9d5e7e1bd97c97e2a93e88fc296172c1f92ec7ec717ffcf59064a1ba864c898896b78871b6e3bcb0c00c97e9550c5edcb59eec3453789d8377b9f002ae0cc4ed0c2a87257a5e4013219b52ce1174fe5a7dec43147c739bc9ee71)
 
 # Other
 

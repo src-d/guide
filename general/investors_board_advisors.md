@@ -29,7 +29,10 @@ Board Member | Seat
 [Izzat Abou-Amarah](https://linkedin.com/in/izzat-abou-amarah-7a79691) | Board Member
 
 ### Advisors
-* [Julien Barbier](https://linkedin.com/in/julienbarbier)
+* [Julien Barbier](https://linkedin.com/in/julienbarbier), [@jbarbier](https://github.com/jbarbier)
+* [Patrick Chanezon](https://www.linkedin.com/in/chanezon/), [@chanezon](https://github.com/chanezon)
+* [Joseph Jacks](https://www.linkedin.com/in/josephjacks/), [@josephjacks](https://github.com/josephjacks)
+
 
 ### Prospective Investors
 If you're an investor and are interested in investing in source{d} feel free to do a pull request here!

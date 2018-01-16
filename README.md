@@ -7,45 +7,47 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * General
   * Mission & Vision
   * Roadmap
-  * [Culture](https://github.com/src-d/guide/blob/master/general/culture.md)
-  * [Organizational & Legal Structure](https://github.com/src-d/guide/blob/master/general/organizational_legal_structure.md)
-  * [Investors, Board of Directors and Advisors](https://github.com/src-d/guide/blob/master/general/investors_board_advisors.md)
+  * [Culture](general/culture.md)
+  * [Product](general/product.md)
+  * [Organizational & Legal Structure](general/organizational_legal_structure.md)
+  * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
   * Objectives & Key Results (OKRs)
   * Communications
-  * [Tools](https://github.com/src-d/guide/blob/master/general/tools.md)
-  * [Hardware](https://github.com/src-d/guide/blob/master/general/available_hardware.md)
+  * [Company Wide Meeting](general/company_wide_meeting.md)
+  * [Remote Guidelines](remote/remote_guidelines.md)
+  * [Tools](general/tools.md)
+  * [Hardware](general/available_hardware.md)
   * Security
-  * [Office](https://github.com/src-d/guide/blob/master/general/madrid_office_seating_chart.md)
-  * [Company Events](https://github.com/src-d/guide/blob/master/general/company_events.md)
-  * [Expenses & Travel](https://github.com/src-d/guide/blob/master/general/expenses_travel.md)
+  * [Expenses & Travel](general/expenses_travel.md)
+* Office
+  * [Facilities & Seating Chart](office/madrid_office_seating_chart.md)
+  * [Company Events](office/company_events.md)
+  * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
 * Talent
   * [Hiring Process](talent/hiring_process.md)
-  * [Contract](https://github.com/src-d/guide/blob/master/talent/contract.md)
-  * [Stock Option Plan](https://github.com/src-d/guide/blob/master/talent/esop.md)
-  * [Flexible Holidays, Working Schedule and Remote Work](https://github.com/src-d/guide/blob/master/talent/flexible_holidays_working_schedule_%20remote_work.md)
-  * Onboarding
-  * ["By Developers" Training](https://github.com/src-d/guide/blob/master/talent/by-developers-training/README.md)
+  * [Contract](talent/contract.md)
+  * [Stock Option Plan](talent/esop.md)
+  * [Flexible Holidays, Working Schedule and Remote Work](talent/flexible_holidays_working_schedule_remote_work.md)
+  * [Onboarding](talent/onboarding)
+  * ["By Developers" Training](talent/by-developers-training/README.md)
   * Career development
+  * [One-On-One Meetings Guide](talent/one_on_one_guide.md)
+  * [Open Source Days](/talent/open_source_days.md)
   * Offboarding
-* Open Source
-  * Open Source Policy
-  * [Open Source Fridays](https://github.com/src-d/guide/blob/master/open-source/open_source_fridays.md)
-  * [src-d/homebrew](https://github.com/src-d/homebrew): source{d} Open Source Beer Brewery
 * Engineering
   * [Methodology](engineering/methodology.md)
+  * [Project Maintainers](engineering/maintainers.md)
   * [Git workflow](engineering/git-flow.md)
-  * Data Science
-  * Infrastructure
-  * Language Analysis
-  * Data Retrieval
-  * Platform
+  * [Documentation Guide](engineering/documentation.md)
+  * [Licensing Policy](engineering/licensing.md)
 * Developer Community
-  * [Events Guidelines](events.md)
-  * [Events List](events-list.md)
-  * <a href="https://blog.sourced.tech">Engineering Blog</a>
-  * <a href="https://medium.com/source-d">Company Blog</a>
+  * [Tech Talks](developer-community/tech-talks.md)
+  * [Events Guidelines](developer-community/events.md)
+  * [Events List](developer-community/events-list.md)
+  * [Engineering Blog](https://blog.sourced.tech)
+  * [Company Blog](https://medium.com/source-d)
 * Product
   * Methodology
-  * Design Guidelines
+  * [Design Guide](general/design-guide.md)
 * Financials

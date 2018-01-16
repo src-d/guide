@@ -20,6 +20,8 @@
 |---------------------------------|-------------|-------------|----------|
 |[KubeCon](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) | Berlin |Attendees          |         |
 |[NEXT](Google Cloud Next)        |SF |Attendees             |           |
+|[FOSSASIA](https://2017.fossasia.org/)        |Singapore     |Speakers :rocket: |        |
+
 
 ## April
 
@@ -78,16 +80,20 @@
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
+| South Summit | Madrid | Speakers 🚀 | [The Future of AI on Code](https://docs.google.com/presentation/d/e/2PACX-1vTJWV87a9LEqbWfsFTG55xVwbLygxNdOqM0o-0DLdzhmdaCf-XuuOMETbXGEJrryvHviuH2xeioQbsg/pub?start=false&loop=false&delayms=3000) |
 |[MCubed](http://www.mcubed.london/)|London     |Speakers :rocket: |High-dimensional Data|
 |[PyCon UK](http://2017.pyconuk.org/)|Cardiff   |             |             |
 |[GitHubUniverse](https://githubuniverse.com/)|SF|CFP Open    |             |
 |[DockerCon EU](https://europe-2017.dockercon.com/)| Multiple |       |     |
+| Open Source Summit Europe | Prague | Speakers 🚀 | [source{d} stack + licensing app](https://docs.google.com/presentation/d/e/2PACX-1vRExSOGd2Pmz2oV237bfqwHyPyW8Yg2rydmdt8oSPZC3_uM0SnA5BTORxT9J52ONCtbNOf5CzfN0ZaT/pub?start=false&loop=false&delayms=3000) |
 
 ## November
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
-|[DotGo](https://www.dotgo.io/)   |Paris        |CFP Submitted|             |
+|[DotGo](https://www.dotgo.io/)   |Paris        |Speakers :rockt:|          |
+|[AIFORSE](http://archive.is/VHgeP)|Barcelona   |Speakers/sponsors :rockt:| [src-d stack + background](https://docs.google.com/presentation/d/1LGt8MdoBmgxOAujn8xGTT_KmZRDXPI2Fv_8Na1xWYHg/edit)|
+
 
 ## December
 
@@ -96,7 +102,30 @@
 |[GothamGo](http://gothamgo.com/) |NY           |             |             |
 |[NIPS](https://nips.cc/)         |Multiple     |             |             |
 
+## January 2018
 
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[POPL](http://popl18.sigplan.org/) |LA         |             |             |
+
+## February 2018
+
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+|[FOSDEM](https://fosdem.org/2018/) |Brussels   | CFP Open. Co-host Golang & [SrcAnalysis](http://source-code-analysis-fosdem.github.io/) DevRooms   |Bblfsh,Engine|
+
+
+## April 2018
+
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+| [<Programming>](http://2018.programming-conference.org/) | Nice | |       |
+
+## June 2018
+
+|Conference                       |Location     |Status       |Topic        |
+|---------------------------------|-------------|-------------|-------------|
+| [PLDI](http://conf.researchr.org/home/pldi-2018) | Philadelphia | |       |
 
 # Resources
 [PaperCall](]https://www.papercall.io/)
