@@ -1,6 +1,6 @@
-# Objectives and Key Results 
+# Objectives and Key Results
 
-These are the company's OKR for 1Q2018. 
+These are the company's OKR for 1Q2018.
 
 Status: Key Results need to be added
 
@@ -124,22 +124,22 @@ Note: the fewer key results the better, the sample ones are just to illustrate w
 
 ### Engineering:
 
-* Collect, store and process with the engine 10s of millions of repositories using the pipeline in Paris
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+* Collect, store and process 10s of millions of repositories using the pipeline in Paris
+  * Improve the borges performance to be able to download all the repositories in 1 month with 60 machines.
+  * Scale our infrastructure to support this - a cluster of 60 machines.
+  * Develop a system to keep this updated with a delay of 1 week.
 * Launch a production level engine
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+  * Support large scale deployments - 10s of millions of repositories
+  * Support performance large scale deployments (using indexes or not) to be able to execute the 90% of queries under 30mins of execution.
+  * Improve the error reporting to minimize the number of issues open.
 * Significantly improve the engineering team workflow
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+  * Deliver products on time, without commit other teams.
+  * Improve the inter-team workflows.
+  * Improve the communication at all levels.
 * Significantly improving our documentation
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+  * Provide enough documentation to allow a new user without prior knowledge to be prolific with engine.
+  * Provide enough documentation to allow a new user without prior knowledge to be prolific with bblfsh.
+  * Provide enough documentation to allow a new user understand what does all the projects.
 
 ### Hiring:
 
