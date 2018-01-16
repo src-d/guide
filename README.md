@@ -12,7 +12,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Organizational & Legal Structure](general/organizational_legal_structure.md)
   * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
-  * Objectives & Key Results (OKRs)
+  * [Objectives & Key Results (OKRs)](general/okrs/)
   * Communications
   * [Company Wide Meeting](general/company_wide_meeting.md)
   * [Remote Guidelines](remote/remote_guidelines.md)
