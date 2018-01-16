@@ -39,6 +39,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Methodology](engineering/methodology.md)
   * [Project Maintainers](engineering/maintainers.md)
   * [Git workflow](engineering/git-flow.md)
+  * [Documentation Guide](engineering/documentation.md)
   * [Licensing Policy](engineering/licensing.md)
 * Developer Community
   * [Tech Talks](developer-community/tech-talks.md)

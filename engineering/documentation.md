@@ -1,3 +1,23 @@
+_Table of Contents_
+
+- [Documentation at source{d}](#documentation-at-sourced)
+    - [General Best Practices](#general-best-practices)
+        - [State a clear goal](#state-a-clear-goal)
+        - [Define a scope](#define-a-scope)
+        - [Keep it simple](#keep-it-simple)
+        - [Don't alienate the reader](#dont-alienate-the-reader)
+        - [Take accessibility in mind](#take-accessibility-in-mind)
+    - [Documentation Artifacts](#documentation-artifacts)
+        - [README.md](#readmemd)
+        - [CONTRIBUTING.md](#contributingmd)
+        - [Reference material](#reference-material)
+        - [Release Notes](#release-notes)
+        - [Guides/Tutorials](#guidestutorials)
+        - [Code of Conduct](#code-of-conduct)
+        - [Issue templates](#issue-templates)
+        - [Other pieces documentation](#other-pieces-documentation)
+    - [Resources](#resources)
+
 # Documentation at source{d}
 
 Our company has been a big believer in Open Source from very early on.
