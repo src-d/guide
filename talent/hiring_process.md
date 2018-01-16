@@ -55,7 +55,7 @@ This document explains the internal hiring process at source{d} and the responsi
 - The interviews are the following: 
 
 * Kickoff with the CTO, QA: to know the developer better.
-* Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. In case of a developer being interviewed for the Infrastructure team, we have to make sure that this interview covers the specified needs for the team.
+* Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. 
 * Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
 - In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the developer as much insights as possible.
