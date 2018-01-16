@@ -8,7 +8,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - For every meeting between the lead and the Talent Manager there will be a PR in the [minutes](https://github.com/src-d/minutes) repo and the job descriptions will be uploaded at the private repository https://github.com/src-d/company.
 
-- CTO and CEO should be added as reviewers (but should pause the process in case of delay in reviewing).
+- The CTO and CEO should be added as reviewers (but should pause the process in case of delay in reviewing).
 
 - The Talent Manager posts the job description through Lever on the source{d} website.
 
@@ -64,7 +64,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The offer is being sent by the CTO on Lever. 
 
-- The developer has no time deadline to accept/reject the offer. An exception to this rule is when multiple developers are being considered for an offer
+- The developer has no time deadline to accept/reject the offer. An exception to this rule is when multiple developers are being considered for an offer.
 
 ## Notes 
 
