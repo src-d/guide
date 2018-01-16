@@ -24,7 +24,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### First Contact
 
-- Any developer should be contacted by the lead engineers or under their name at least (after together defining the outgoing message). In case the Talent Manager is contacting them, it should be done from the lead's email acccount. It's a motivating factor for the developers to be contacted by the lead engineers. 
+- Any developer should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
 
 ### Screening
 
