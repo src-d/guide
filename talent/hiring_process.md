@@ -4,23 +4,23 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Job Description
 
-- Job Description is written by the lead engineers with the Talent's Manager support. 
+- The Job Description is written by the lead engineers with the Talent's Manager support. 
 
 - For every meeting between the lead and the Talent Manager there will be a PR in the [minutes](https://github.com/src-d/minutes) repo and the job descriptions will be uploaded at the private repository https://github.com/src-d/company.
 
-- CTO and CEO should be added as reviewers (but should not be bottlenecks to continue).
+- CTO and CEO should be added as reviewers (but should pause the process in case of delay in reviewing).
 
 - The Talent Manager posts the job description through Lever on the source{d} website.
 
 ### Sourcing
 
-- Lead engineers are responsible to identity people to be contacted and other sourcing channels such as niche job boards. 
+- Lead engineers are responsible for identifying people to be contacted and other sourcing channels such as niche job boards. 
 
 - At any given moment the Talent Manager is able to drop in and work on finding more developers.
 
 - Developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads. 
 
-- The Talent Manager is responsible to work with the Developer Community team in order to gain people through community actions (Twitter/Blog etc.). 
+- The Talent Manager is responsible for working with the Developer Relations team in order to gain people through community actions (Twitter/Blog etc.). 
 
 ### First Contact
 
@@ -34,9 +34,9 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### First Skype/Zoom/Phone Interview
 
-- A quick Skype/Phone/Zoom call should be available to every developer who is interested in the roles*. It is a general discussion to know more about the background and experience of the developer. And to share as much as possible from our side about the team & company. 
+- A quick Skype/Phone/Zoom call should be available to every developer who is interested in the roles*. It is a general discussion to know more about the background and experience of the developer as well as to share as much as possible from our side about the team & company. 
 
-\* There are noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call. 
+\* There are notable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call. 
 
 - Lead engineers are responsible to make the calls as it's a motivating factor for the developers. Leads will also be able to assess early in the process if the interview process should continue or not. 
 
@@ -54,8 +54,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The interviews are the following: 
 
-* Kickoff with the CTO, QA: to know the developer better
-* Design interview: to see how the developer would design a solution to a given technical problem working with a several of our engineers. In case of a developer being interviewed for the Infrastructure team, we have to make sure that this interview covers the specified needs for the team.
+* Kickoff with the CTO, QA: to know the developer better.
+* Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. In case of a developer being interviewed for the Infrastructure team, we have to make sure that this interview covers the specified needs for the team.
 * Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
 - In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the developer as much insights as possible.
@@ -64,14 +64,14 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The offer is being sent by the CTO on Lever. 
 
-- The developer has no time deadline to accept/reject the offer. Only in cases that we have more developers in the offer state for one opening where decisions need to be made. 
+- The developer has no time deadline to accept/reject the offer. An exception to this rule is when multiple developers are being considered for an offer
 
 ## Notes 
 
 ### Exceptions 
 
-- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do on-sites interviews for interns unless one could join us as a full-time engineer.
+- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do on-site interviews for interns unless one could join us as a full-time engineer.
  
 ### Feedback
 
- - After the coding challenge it's very important to gain feedback of the CTO at each next step. 
+ - After the coding challenge it's very important to obtain feedback from the CTO at each next step. 
