@@ -50,4 +50,6 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * Product
   * Methodology
   * [Design Guide](general/design-guide.md)
+* Communication
+  * [Slack channels](communication/slack_channels.md)
 * Financials
