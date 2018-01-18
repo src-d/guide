@@ -62,7 +62,7 @@ Anyone can join [here](https://join.slack.com/t/sourced-community/shared_invite/
 * `#leads` 
   * Where the leads are having discussions
 * `#brewing`
-  * source{d} made beer
+  * [source{d} made beer](https://github.com/src-d/homebrew)
 * `#spanish`
   * For those learning Spanish
 * `#developer-training`
