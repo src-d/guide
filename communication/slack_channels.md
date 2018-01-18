@@ -15,7 +15,7 @@ Slack channels are encouraged to be open for everyone to join. Private channels 
 * `#offtopic-`
   * Targeted offtopic channels. Search in Slack for #offtopic- and you'll find different offtopic channels like #offtopic-music
 * `#osd`
-  * `#osd` stands for Open Source Days, people share what they'll be working on during their OSD and share the results/demos
+  * `#osd` stands for [Open Source Days](../talent/open_source_days.md), people share what they'll be working on during their OSD and share the results/demos
 * `#twitter`
   * Source{d} mentions and tweets
 
