@@ -7,10 +7,10 @@
 - Engineering department consists of five different teams, stacking up on each other:
 
 - Applications (Scala, Go and Python and Frontend tools), Builds CLI/Web applications based on ML research.
-- Machine Learning (Go and Python), R&D of new ML models over the source code.
+- Machine Learning (C++ and Python), R&D of new ML models over the source code.
 - Data Retrieval (Scala and Go), Finds, fetches, stores and analyze over  +60M Git repositories.
 - Language Analysis (Go and another +15), Parses source code from different languages.
-- Infrastructure (Go), Manages on-prem bare metal servers with Kubernetes and CoreOS.
+- Infrastructure (Go and Python), Manages on-prem bare metal servers with Kubernetes and CoreOS.
 
 
 ## ROLE
@@ -23,7 +23,7 @@
 
 - At source{d}, we really care about open source,which is why we contribute to projects like Terraform & CoreOS, as well as creating our own projects across different teams at source{d}.
 
-- We are looking for someone with strong background in Linux and knowledge of Networking to some extend. Finally, knowledge of at least one backend/scripting language and caring about best development practices are required. 
+- We are looking for someone with a strong Linux background, good Networking knowledge, a passion for automation and experience working at scale. Finally, knowledge of at least one backend/scripting language and caring about best development practices are required. 
 
 
 ## CULTURE
