@@ -1,25 +1,30 @@
 # Licensing Policy
 
-This document describes source{d}'s licensing policy for the open source
-projects.
+This document describes source{d}'s licensing policy for the open source projects.
 
-All the projects developed or being developed by source{d} should be open source and follow the
-following rules.
+All the projects developed or being developed by source{d} should be open source and follow the 
+rules presented below.
+
+Templates are available at the end of this document.
 
 ## Licence
 
-At the time of creating a new project you can choose between two different
-licenses:
+At the time of creating a new project you can choose between two different licenses:
 
-- [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to all projects whose nature is specific to core parts of our stack like language analysis, machine learning, etc. and which are mostly applications and are intended to be consumed through a separate client library owned by us. This allows clean interaction to third-party proprietary code. _Examples: bblfsh/server, bblfsh/*-driver_
+- [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to all projects whose nature is specific to core parts of our stack like language analysis, machine learning, etc. and which are mostly applications and are intended to be consumed through a separate client library owned by us. This allows clean interaction to third-party proprietary code.
+_Examples: bblfsh/server, bblfsh/*-driver_
 
+- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that intended to be consumed by third-parties as a source code dependencies, which the GPLv3 and variants doesn't allow (if consumers are not GPL).
+_Examples: bblfsh/*-client_
 
-- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that intended to be consumed by third-parties as a source code dependencies, which the GPLv3 and variants doesn't allow (if consumers are not GPL). _Some examples are: bblfsh/*-client_
+- [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), this license should be applied to projects which are heavy on content, have content as its key aspect, or are purely editorial content (content as in information and knowledge that is not code).
+_Examples: src-d/blog, src-d/awesome-machine-learning-on-source-code_
 
-> Variants of GPLv3, such as AGPLv3 or LGPLv3 can be used under request and on a per case basis.
+*Variants of GPLv3, such as AGPLv3 or LGPLv3 can be used under request and on a per case basis.*
 
 ## Re-license
-In case if a code is copied between src-d projects covered by different licenses, src-d employees are entitled to relicense the code as needed among those projects, if all the code was written by src-d employees. THIS CANNOT BE DONE WITH 3RD PARTY CODE.
+
+In case if a code is copied between source{d} projects covered by different licenses, source{d} employees are entitled to relicense the code as needed among those projects, if all the code was written by source{d} employees. **THIS CANNOT BE DONE WITH 3RD PARTY CODE.**
 
 ## Developer Certificate of Origin
 
@@ -32,9 +37,9 @@ To learn more about DCO please read:
 - [Introducing Developer Certificate of Origin](https://blog.chef.io/2016/09/19/introducing-developer-certificate-of-origin/)
 - [Developer Certificate of Origin versus Contributor License Agreements](https://julien.ponge.org/blog/developer-certificate-of-origin-versus-contributor-license-agreements/)
 
-
 ## Templates
 
 - [GPL v3.0 License](documents/gpl/LICENSE) Document
 - [Apache License 2.0](documents/apache/LICENSE) Document
+- [Creative Commons BY-SA 4.0](documents/cc-by-sa/LICENSE) Document
 - [Developer Certificate of Origin](documents/DCO) Document
