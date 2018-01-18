@@ -23,7 +23,7 @@
 
 - At source{d}, we really care about open source,which is why we contribute to projects like Terraform & CoreOS, as well as creating our own projects across different teams at source{d}.
 
-- We are looking for someone with a strong Linux background, good Networking knowledge, a passion for automation and experience working at scale. Finally, knowledge of at least one backend/scripting language and caring about best development practices are required. 
+- We are looking for someone with a strong Linux background, good Networking knowledge, passion for automation and experience working at scale. Finally, knowledge of at least one backend/scripting language and caring about best development practices are required. 
 
 
 ## CULTURE
