@@ -2,16 +2,18 @@
 
 Please find a list here of Slack channels at source{d}.
 
-Slack channels are encouraged to be open for everyone to join. Private channels for professional reasons are highly discouraged (have fun with private personal slack channels).
+Slack channels are encouraged to be open for everyone to join. Private channels for professional reasons are highly discouraged (have fun with private personal slack channels). We encourage people to have discussions in open/public channels rather than direct messages when the information is relevant to multiple people for a limited amount of time. If a piece of information should be preserved, it should always go to the guide or company repo. 
 
 ### General channels
 
 * `#general`
+  * Company wide announcements, company-related or generally important topics
 * `#offtopic`
+  * Almost anything goes, the place to share interesting or funny things and keep other channels clean and on topic
 * `#officechat`
-  * Physical office related discussions
+  * Physical office related discussions (SF & Madrid)
 * `#offtopic-`
-  * Search in slack for `#offtopic-` and you'll find different offtopic channels like `#offtopic-music`
+  * Targeted offtopic channels. Search in Slack for #offtopic- and you'll find different offtopic channels like #offtopic-music
 * `#osd`
   * `#osd` stands for Open Source Days, people share what they'll be working on during their OSD and share the results/demos
 * `#twitter`
@@ -33,7 +35,7 @@ This is where the daily standups happen.
 
 * `#su-general` 
   * For those of us whose team is too small to warrant its own channel, e.g. CEO
-* `#su-product-team`
+* `#su-product`
 * `#su-infrastructure`
 * `#su-data-retrieval`
 * `#su-language-analysis`
@@ -42,10 +44,16 @@ This is where the daily standups happen.
 
 ### Public channels that are shared with the community slack
 
+Anyone can join [here](https://join.slack.com/t/sourced-community/shared_invite/enQtMjc4Njk5MzEyNzM2LTFjNzY4NjEwZGEwMzRiNTM4MzRlMzQ4MmIzZjkwZmZlM2NjODUxZmJjNDI1OTcxNDAyMmZlNmFjODZlNTg0YWM)
+
 * `#community-general`
+  * General discussions around Machine Learning on Source Code (MLoSC) and announcements 
 * `#machine-learning`
+  * ML specific discussions
 * `#babelfish`
+  * For users and developers of Babelfish
 * `#go-git`
+  * For users and developers of go-git
 
 ### Other
 
@@ -53,6 +61,14 @@ This is where the daily standups happen.
   * Give your input on visual/UX design at source{d}
 * `#leads` 
   * Where the leads are having discussions
+* `#brewing`
+  * source{d} made beer
+* `#spanish`
+  * For those learning Spanish
+* `#developer-training`
+  * For those going through the "by developers" training
+* `#python`
+  * Oriented towards those learning Python but also general interesting Python news   
 
 ### Private channels
 
