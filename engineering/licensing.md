@@ -17,14 +17,14 @@ _Examples: bblfsh/server, bblfsh/*-driver_
 - [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), this license should be applied to projects which are libraries or tools that intended to be consumed by third-parties as a source code dependencies, which the GPLv3 and variants doesn't allow (if consumers are not GPL).
 _Examples: bblfsh/*-client_
 
-- [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), this license should be applied to projects which are heavy on content, have content as its key aspect, or are purely editorial content (content as in information and knowledge that is not code).
+- [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), this license should be applied to projects which are heavy on creative content, have creative content as its key aspect, or are purely editorial content (creative content as in information and knowledge that is not in form of code).
 _Examples: src-d/blog, src-d/awesome-machine-learning-on-source-code_
 
 *Variants of GPLv3, such as AGPLv3 or LGPLv3 can be used under request and on a per case basis.*
 
 ## Re-license
 
-In case if a code is copied between source{d} projects covered by different licenses, source{d} employees are entitled to relicense the code as needed among those projects, if all the code was written by source{d} employees. **THIS CANNOT BE DONE WITH 3RD PARTY CODE.**
+When a piece of code is copied between two or more source{d} projects covered by different licenses, source{d} employees are entitled to relicense the code as needed among those projects, if all the code was written by source{d} employees. **THIS CANNOT BE DONE WITH 3RD PARTY CODE.**
 
 ## Developer Certificate of Origin
 
