@@ -2,7 +2,7 @@
 
 Please find a list here of Slack channels at source{d}.
 
-Slack channels are encouraged to be open for everyone to join. Private channels for professional reasons are highly discouraged (have fun with private personal slack channels). We encourage people to have discussions in open/public channels rather than direct messages when the information is relevant to multiple people for a limited amount of time. If a piece of information should be preserved, it should always go to the guide or company repo. 
+Slack channels are encouraged to be open to all sourcerers to join. Private channels for professional reasons are highly discouraged (have fun with private personal slack channels). We encourage people to have discussions in open/public channels rather than direct messages when the information is relevant to multiple people for a limited amount of time. If a piece of information should be preserved, it should always go to the guide or company repo. 
 
 ### General channels
 
@@ -23,6 +23,7 @@ Slack channels are encouraged to be open for everyone to join. Private channels 
 
 * `#eng-team`
 * `#product-team`
+* `#devlrel`
 * `#dev-infrastructure`
 * `#dev-retrieval`
 * `#dev-language-analysis`
@@ -44,7 +45,7 @@ This is where the daily standups happen.
 
 ### Public channels that are shared with the community slack
 
-Anyone can join [here](https://join.slack.com/t/sourced-community/shared_invite/enQtMjc4Njk5MzEyNzM2LTFjNzY4NjEwZGEwMzRiNTM4MzRlMzQ4MmIzZjkwZmZlM2NjODUxZmJjNDI1OTcxNDAyMmZlNmFjODZlNTg0YWM)
+Anyone can join [here](http://bit.ly/src-d-community)
 
 * `#community-general`
   * General discussions around Machine Learning on Source Code (MLoSC) and announcements 
