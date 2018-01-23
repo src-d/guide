@@ -1,16 +1,18 @@
-- "Delivering AI on Code" - source{d} is building the tech stack for large-scale machine learning on source code (MLoSC). We treat source code a first-class analyzable asset: by fetching and storing tens of millions of repositories from millions of developers around the world, processing and analyzing it with source{d} engine and Babelfish in order to build Machine Learning models. We make building blocks for the next generation of developer tools & systems that will change the way we learn, write & review code.
+- At source{d} we are building the stack for the next generation of machine-learning powered developer tools.
 
-- source{d} has raised a $6M round last summer and is rapidly growing team while preparing for the next round. We monetize by deploying our stack and applications at top tech companies.
+- source{d} raised over $8MM till date and we are currently growing our team. 
+
+- We monetize by deploying our stack and tooling within large tech companies.
 
 ## TEAM
 
-- Engineering department consists of five different teams, stacking up on each other:
+- Engineering consists of five different teams, that mimic the architecture of our product:
 
- - Applications (Scala, Go and Python and Frontend tools), Builds CLI/Web applications based on ML research.
- - Machine Learning (C++ and Python), R&D of new ML models over the source code.
- - Data Retrieval (Scala and Go), Finds, fetches, stores and analyze over  +60M Git repositories.
- - Language Analysis (Go and another +15), Parses source code from different languages.
- - Infrastructure (Go and Python), Manages on-prem bare metal servers with Kubernetes and CoreOS.
+- Applications (Scala, Go and Python and Frontend tools): Builds CLI/Web applications based on ML research.
+- Machine Learning (C++ and Python): R&D of machine learning on source code.
+- Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
+- Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
+- Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
  
  
 We really care about open source, so everything is developed in public, and you can easily check, use and contribute to any libraries and applications built by source{d} engineers on our Github orgs:
@@ -46,7 +48,7 @@ We really care about open source, so everything is developed in public, and you 
 
 - At the moment, we are 20+ people from 10 different countries working closely together from our office in Madrid, Spain. We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely as part of our team does working from Portugal, Estonia, Russia, and others.
 
-- At source{d}, we have a transparent salary policy which we feel strongly about it. Although a seniority level for every candidate will be determined during the last round of on-site interviews, one can expect that for a Senior Engineer salary ranges from €49.000 to €53.000. You can find our net amounts here (in Spanish only). 
+- At source{d}, we have a transparent salary policy. Depending on your experience, you can either join us as a Senior Engineer or a Lead. For a Senior Engineer, the salary ranges from €49.000 to €53.000. You can find our net amounts here (in Spanish only).
 
 - Following the same level of transparency as with development process, all the above aspects of the work culture are documented and publicly available in our Guide at https://github.com/src-d/guide/.
 
