@@ -70,6 +70,8 @@ Anyone can join [here](http://bit.ly/src-d-community)
   * For those going through the "by developers" training
 * `#python`
   * Oriented towards those learning Python but also general interesting Python news   
+* `#goodtalks`
+  * A place to share good tech talks somehow related to what we do at source{d}
 
 ### Private channels
 
