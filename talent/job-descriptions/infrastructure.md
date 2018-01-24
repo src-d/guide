@@ -1,8 +1,8 @@
-- At source{d} we are building the stack for the next generation of machine-learning powered developer tools.
+- At source{d} we are building the stack for the next generation of Machine Learning powered developer tools.
 
-- source{d} raised over $8MM till date and we are currently growing our team. 
+- We have raised over eight million USD so far, and we are currently growing our team.
 
-- We monetize by deploying our stack and tooling within large tech companies. 
+- Our current monetization strategy is based on deploying our stack and tooling within large tech companies.
 
 ## TEAM
 
@@ -13,7 +13,6 @@
 - Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
 - Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
 - Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
-
 
 ## ROLE
 
@@ -27,7 +26,6 @@
 
 - We are looking for someone with a strong Linux background, good Networking knowledge, passion for automation and experience working at scale. Finally, knowledge of at least one backend/scripting language and caring about best development practices are required. 
 
-
 ## CULTURE
 
 - source{d} is a company for developers by developers. We firmly believe in always doing what's best for the community, not necessarily companies. "For developers" is the answer to any strategic question or dilemma in the company. Always For Developers.
@@ -36,7 +34,7 @@
 
 - At the moment, we are 20+ people from 10 different countries working closely together from our office in Madrid, Spain. We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely as part of our team does working from Portugal, Estonia, Russia, and others.
 
-- At source{d}, we have a transparent salary policy. Depending on your experience, you can either join us as a Senior Engineer or a Lead. For a Senior Engineer, the salary ranges from €49.000 to €53.000. You can find our net amounts here (in Spanish only).
+- At source{d}, we have a transparent salary policy. Depending on your experience, you can either join us as a Senior Engineer or a Lead. For a Senior Engineer, the salary ranges from €49.000 to €53.000. You can find our net amounts at https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/ (in Spanish only).
 
 - Following the same level of transparency as with development process, all the above aspects of the work culture are documented and publicly available in our Guide at https://github.com/src-d/guide/.
 
