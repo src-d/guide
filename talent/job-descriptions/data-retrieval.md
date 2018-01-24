@@ -1,8 +1,8 @@
-- At source{d} we are building the stack for the next generation of machine-learning powered developer tools.
+- At source{d} we are building the stack for the next generation of Machine Learning powered developer tools.
 
-- source{d} raised over $8MM till date and we are currently growing our team. 
+- We have raised over eight million USD so far, and we are currently growing our team.
 
-- We monetize by deploying our stack and tooling within large tech companies.
+- Our current monetization strategy is based on deploying our stack and tooling within large tech companies.
 
 ## TEAM
 
@@ -13,7 +13,6 @@
 - Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
 - Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
 - Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
-
 
 ## ROLE
 
