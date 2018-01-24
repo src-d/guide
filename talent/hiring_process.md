@@ -74,7 +74,7 @@ This document explains the internal hiring process at source{d} and the responsi
 ### Exceptions 
 
 - There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do on-site interviews for interns unless one could join us as a full-time engineer.
-- If a developer has applied to multiple roles, it will be determined either in the first interview or in the on-site interview after discussion with the leads, in which team fits better. 
+- If a developer has applied to multiple roles, it will be determined either in the first interview or in the on-site interview after discussion with the leads of the applied roles, in which team fits better. 
  
 ### Feedback
 
