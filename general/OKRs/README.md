@@ -48,56 +48,50 @@ Note: the fewer key results the better, the sample ones are just to illustrate w
 ### Developer Community:
 
 * Create a network of influencers incl. Developers, Companies, Academia
-  * Create a forum (tbd whether it's slack, mailing list, or others) for influencers.
-  * Identify 20 influencers and invite them to join the community.
-  * Meet with all of the influencers that accept the invitation and welcome them personally.
+  * [P0] Create a forum (tbd whether it's slack, mailing list, or others) for influencers.
+  * [P0] Identify 20 influencers and invite them to join the community.
+  * [P1] Meet with all of the influencers that accept the invitation and welcome them personally.
 * Increase our presence in the developer community in Madrid & SF
-  * Organize 2 Go meetups in Madrid
-  * Co-host 2 Go meetups in San Francisco (Holberton school could host)
-  * Creat a Source Code Analysis meetup in San Francisco and run an inaugural event
+  * [P1] Organize 2 Go meetups in Madrid
+  * [P1] Co-host 2 Go meetups in San Francisco (Holberton school could host)
+  * [P1] Create a Source Code Analysis meetup in San Francisco and run an inaugural event
 * Host and attend conferences and meetups
-  * Source{d} themed talks at 5 conferences or meetups
-  * Source{d} speakers at 5 large (+200 attendees) conferences
-* Keep track of who you met that was relevant to source{d}/relevant new topics in the MLoSC community
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+  * [P1] Source{d} themed talks at 5 conferences or meetups
+  * [P1] Source{d} speakers at 5 large (+200 attendees) conferences
 * Publish blogposts at a regular pace
-  * Plan weekly schedule for blogs
-  * Publish 8 blog posts during Q1
+  * [P0] Plan weekly schedule for blogs
+  * [P1] Publish 8 blog posts during Q1
 * Start cross posting to Medium
-  * Publish 10 posts to Medium
-  * Once we have enough analytics decide whether it's worth cross posting or simply migrating to medium. 
+  * [P1] Publish 10 posts to Medium
+  * [P1] Once we have enough analytics decide whether it's worth cross posting or simply migrating to medium. 
 * Start publishing videos
-  * Create YouTube channel for source{d}
-  * Create monthly schedule for videos and themes
-  * Write 4 detailed scripts
-  * Publish 2 videos
+  * [P0] Create YouTube channel for source{d}
+  * [P0] Create monthly schedule for videos and themes
+  * [P1] Write 4 detailed scripts
+  * [P1] Publish 2 videos
 * Publish a page where we show all source{d} related videos
-  * Redesign talks page
-  * Include all old videos and the ones we'll publish in the meanwhile
-  * Include 5 talks by non source{d} employees
+  * [P2] Redesign talks page
+  * [P2] Include all old videos and the ones we'll publish in the meanwhile
+  * [P2] Include 5 talks by non source{d} employees
 * Redefine how we use social media and community Slack
-  * Gather statistics of current usage and views on social media
-  * Write a mission statement for our social media and formalize who has access/responsibilities
-  * Once we have statistics on community size, establish new OKRs on growth
+  * [P0] Gather statistics of current usage and views on social media
+  * [P1] Write a mission statement for our social media and formalize who has access/responsibilities
+  * [P1] Once we have statistics on community size, establish new OKRs on growth
 
 ### Academia:
 
 * Getting academia to use our tech
-  * source{d} technologies mentioned in at least one research paper by non-source{d} researcher
+  * [P1] source{d} technologies mentioned in at least one research paper by non-source{d} researcher
 * Understand usecases/workflow
-  * Identify 3 common needs for the researchers above
-  * Prioritize those needs and tackle at least one.
+  * [P0] Identify 3 common needs for the researchers above
+  * [P1] Prioritize those needs and tackle at least one.
 * Gather inputs on what 'ImageNet for Code' is to stakeholders in the community
-  * Write a blog post on what 'ImageNet for Code' in collaboration with a non source{d} researcher
-  * Make a video about this
-  * Publish it and gather feedback from other researchers
-  * Key Result 3
+  * [P0] Write a blog post on what 'ImageNet for Code' in collaboration with a non source{d} researcher
+  * [P2] Make a video about this
+  * [P1] Publish it and gather feedback from other researchers
 * Deepen our relationship with universities
-  * Identify and partner with 4 researchers
-  * Meet monthly with each of them and analyze their needs
-  * Keep notes and minutes for each one of these meetings
+  * [P1] Identify and partner with 4 researchers
+  * [P1] Meet monthly with each of them and analyze their needs
 
 ### Research
 
