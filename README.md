@@ -36,6 +36,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Open Source Days](/talent/open_source_days.md)
   * Offboarding
 * Engineering
+  * [General Workflow](engineering/workflow.md)
   * [Methodology](engineering/methodology.md)
   * [Project Maintainers](engineering/maintainers.md)
   * [Git workflow](engineering/git-flow.md)
