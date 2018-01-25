@@ -34,7 +34,7 @@
 
 - At the office, we provide:
 
- * Kitchen with refrigerator and microwaves. Coffee, milk, fruits, drinks, ice creams etc.
+* Kitchen with refrigerator and microwaves. Coffee, milk, fruits, drinks, ice creams etc.
 * HTC Vive VR Headset, Xbox One and Nintendo 64 with a nice catalog of games. 
 * Boxes to store your personal items.
 
