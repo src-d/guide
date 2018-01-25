@@ -41,7 +41,6 @@ Among others we have the following amenities:
 | C5 | [Miguel Molina](https://github.com/erizocosmico)      |
 | C6 | [Manuel Carmona](https://github.com/mcarmonaa)     |
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
-| D3 | [Sonia Meruelo](https://github.com/smeruelo)      |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
 | D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta)   |
@@ -49,6 +48,6 @@ Among others we have the following amenities:
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
-| F2/F4/F6 | [Esther García](linkedin.com/in/estherrgarcia)      |
+| F2/F4| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F1 | [Juanjo Álvarez](https://github.com/juanjux)     |
-| F3 | [Alfredo Beaumont](https://github.com/abeaumont)   |
+| F6 | [Anna Tsolakou](https://www.linkedin.com/in/tsolakouanna/)   |
