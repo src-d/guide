@@ -17,12 +17,12 @@
 We really care about Open Source. Everything we develop is available for anyone to read, modify, and contribute.
 Our libraries and applications are available under the following GitHub organizations:
 
-- https://github.com/bblfsh/dashboard: a playground application for Babelfish server, turning code files into Universal Abstract Syntax Trees (UASTs). 
-- https://github.com/src-d/kmcuda: fast K-means and K-nearest neighbours on NVIDIA GPUs.  
-- https://github.com/src-d/minhashcuda: fast Weighted MinHash on NVIDIA GPUs. It allows for fast nearly-duplicate repository detection: scan +17 git repositories in 30 minutes to find 1.5M duplicates (the results were published on data.world).  
-- https://github.com/src-d/engine: a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
-- https://github.com/src-d/hercules: analysis and visualization of a Git repository history. 
-- https://github.com/src-d/gemini: a duplicate finder for source code in git repositories.
+- [bblfsh/dashboard](https://github.com/bblfsh/dashboard): a playground application for Babelfish server, turning code files into Universal Abstract Syntax Trees (UASTs). 
+- [src-d/kmcuda](https://github.com/src-d/kmcuda):  fast K-means and K-nearest neighbours on NVIDIA GPUs.  
+- [src-d/minhashcuda](https://github.com/src-d/minhashcuda):  fast Weighted MinHash on NVIDIA GPUs. It allows for fast nearly-duplicate repository detection: scan +17 git repositories in 30 minutes to find 1.5M duplicates (the results were published on data.world).  
+- [src-d/engine](https://github.com/src-d/engine):  a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
+- [src-d/hercules](https://github.com/src-d/hercules):  analysis and visualization of a Git repository history. 
+- [src-d/gemini](https://github.com/src-d/gemini): a duplicate finder for source code in git repositories.
 
 ## ROLE
 
