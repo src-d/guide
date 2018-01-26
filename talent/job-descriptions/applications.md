@@ -17,12 +17,12 @@
 We really care about Open Source. Everything we develop is available for anyone to read, modify, and contribute.
 Our libraries and applications are available under the following GitHub organizations:
 
-- bblfsh/dashboard:  a playground application for Babelfish server, turning code files into Universal Abstract Syntax Trees (UASTs). 
-- src-d/kmcuda:  fast K-means and K-nearest neighbours on NVIDIA GPUs.  
-- src-d/minhashcuda:  fast Weighted MinHash on NVIDIA GPUs. It allows for fast nearly-duplicate repository detection: scan +17 git repositories in 30 minutes to find 1.5M duplicates (the results were published on data.world).  
-- src-d/engine:  a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
-- src-d/hercules:  analysis and visualization of a Git repository history. 
-- src-d/gemini: a duplicate finder for source code in git repositories.
+- https://github.com/bblfsh/dashboard: a playground application for Babelfish server, turning code files into Universal Abstract Syntax Trees (UASTs). 
+- https://github.com/src-d/kmcuda: fast K-means and K-nearest neighbours on NVIDIA GPUs.  
+- https://github.com/src-d/minhashcuda: fast Weighted MinHash on NVIDIA GPUs. It allows for fast nearly-duplicate repository detection: scan +17 git repositories in 30 minutes to find 1.5M duplicates (the results were published on data.world).  
+- https://github.com/src-d/engine: a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
+- https://github.com/src-d/hercules: analysis and visualization of a Git repository history. 
+- https://github.com/src-d/gemini: a duplicate finder for source code in git repositories.
 
 ## ROLE
 
@@ -46,7 +46,7 @@ Our libraries and applications are available under the following GitHub organiza
 
 - At the moment, we are 20+ people from 10 different countries working closely together from our office in Madrid, Spain. We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely as part of our team does working from Portugal, Estonia, Russia, and others.
 
-- At source{d}, we have a transparent salary policy. Depending on your experience, you can either join us as a Senior Engineer or a Lead. For a Senior Engineer, the salary ranges from €49.000 to €53.000. You can find our net amounts at https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/ (in Spanish only).
+- At source{d}, we have a transparent salary policy which we feel strongly about it. Although a seniority level for every candidate will be determined during the last round of on-site interviews, one can expect that for a Senior Engineer salary ranges from €49.000 to €53.000. You can find our net amounts at https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/ (in Spanish only).
 
 - Following the same level of transparency as with development process, all the above aspects of the work culture are documented and publicly available in our Guide at https://github.com/src-d/guide/.
 
@@ -60,4 +60,4 @@ Our libraries and applications are available under the following GitHub organiza
  - Spacious physical office, close to public transit and to the Retiro park.
  - Kitchen, full of supplies from beers to fresh fruits.
  - Monthly get-togethers, annual summer and winter Xmas parties, a retreat.
- - Our own, open source craft beers src-d/homebrew.
+ - Our own, open source craft beers https://github.com/src-d/homebrew.
