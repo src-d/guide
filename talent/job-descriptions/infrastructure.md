@@ -8,11 +8,11 @@
 
 - Engineering consists of five different teams, that mimic the architecture of our product:
 
-- Applications (Scala, Go and Python and Frontend tools): Builds CLI/Web applications based on ML research.
+- Applications (Scala, Go and Python and Frontend tools): builds CLI/Web applications based on ML research.
 - Machine Learning (C++ and Python): R&D of machine learning on source code.
-- Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
-- Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
-- Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
+- Data Retrieval (Scala and Go): builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
+- Language Analysis (Go and another +15): works on Babelfish, the universal code parsing server.
+- Infrastructure (Go and Python): manages on-prem bare metal servers with Kubernetes and CoreOS.
 
 ## ROLE
 
