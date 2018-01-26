@@ -25,7 +25,8 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Company Events](office/company_events.md)
   * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
 * Talent
-  * Hiring
+  * [Hiring Process](talent/hiring_process.md)
+  * [Application Process](talent/application-process.md)
   * [Contract](talent/contract.md)
   * [Stock Option Plan](talent/esop.md)
   * [Flexible Holidays, Working Schedule and Remote Work](talent/flexible_holidays_working_schedule_remote_work.md)
@@ -39,6 +40,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Methodology](engineering/methodology.md)
   * [Project Maintainers](engineering/maintainers.md)
   * [Git workflow](engineering/git-flow.md)
+  * [Documentation Guide](engineering/documentation.md)
   * [Licensing Policy](engineering/licensing.md)
 * Developer Community
   * [Tech Talks](developer-community/tech-talks.md)
@@ -49,4 +51,6 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
 * Product
   * Methodology
   * [Design Guide](general/design-guide.md)
+* Communication
+  * [Slack channels](communication/slack_channels.md)
 * Financials
