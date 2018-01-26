@@ -1,7 +1,6 @@
 # Applying at source{d} 
 
-This document describes how the developers are able to apply at source{d} and the hiring process. 
-
+This document describes the source{d} hiring process from the point of view of the candidate.
 
 ### Visiting our careers page
 
@@ -13,19 +12,19 @@ This document describes how the developers are able to apply at source{d} and th
 
 - In less than a week after the submission of the application the developer receives an email with feedback, however there can be delays. In any case, the developer is free to reach out to us at any moment at talent@sourced.tech.
 
-- In case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the applied team. 
+- In case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the potential hiring team.
 
 ### Skype/Zoom/Phone call  
 
-- The developer is having a quick call with the lead engineer of the team he applied to. This should be a general discussion that can last between 15-30 minutes. It's purpose is to know the background and experience of the developer, as well as the developer to know source{d} better. It's expected that the developer has already done a basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call. 
+- The developer has a quick call with the lead engineer of the team he applied to. This should be a general discussion that can last between 15-30 minutes. Its purpose is to know the background and experience of the developer, as well as the developer to know source{d} better. It's expected that the developer has already done a basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call. 
 
-- There are noteable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
+- There are notable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
 
 ### Coding Challenge
 
-- Every developer who is passing successfuly the first interview, should complete the coding challege, remotely.
+- Every developer who passes the first interview should complete a coding challenge remotely.
 
-- The coding challenge can be solved in Go/Python/JavaScript/Scala/Ruby while the developer has already been asked.
+- The coding challenge can be solved in Go/Python/JavaScript/Scala/Ruby.
 
 - Unit tests are provided to validate the correctness of the solution.
 
@@ -37,7 +36,7 @@ This document describes how the developers are able to apply at source{d} and th
 
 - In case of the Data Science team, there is an additional ML task necessary to be solved in the time limit of 5 hours. 
 
-- The results are being reviewed by the engineering team and feedback is given to the developer as soon as possible. 
+- The results are reviewed by the engineering team and feedback is given to the developer as soon as possible. 
 
 
 ### On-site Interview
@@ -46,7 +45,7 @@ This document describes how the developers are able to apply at source{d} and th
 
 - This is the last step in which it's decided if the developer will receive an offer or not. 
 
-The interviews are the followings:
+The interviews are the following:
 
 - Kickoff with CTO, QA: to know the developer better.
 
@@ -54,7 +53,7 @@ The interviews are the followings:
 
 - Logical thinking: to see how the developer solves an abstract problem in a logical way.
 
-- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team. This should be a constructive discussion giving the developer as much insights as possible. 
+- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team. This should be a constructive discussion giving the developer as much insight as possible. 
 
 ### Offer
 
