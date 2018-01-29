@@ -1,8 +1,6 @@
-To be able to have every source{d} book available to everybody, let's control where is every book or who has every book with the following excel. 
-You don't have to do a requestment for a book if you want to take it to read at home, we only want to know to don't buy twice the same book! Don't destroy nature unnecessarily!
+To be able to have each source{d} book available, we use an Excel sheet to keep track of who has the physical copy. You don't have to request a book if you want to take it to read at home. We just want to make sure to not unnecessarily order the same book twice. "Don't destroy nature unnecessarily!"
 
-
-*source{d} list of books* (https://docs.google.com/spreadsheets/d/19o9dWwgtluEazZjQQPouLS-C7xubYfYgFgB7qb3QDd4/edit?usp=sharing)
+*source{d} bookshelf take-out* (https://docs.google.com/spreadsheets/d/19o9dWwgtluEazZjQQPouLS-C7xubYfYgFgB7qb3QDd4/edit?usp=sharing)
 
 1. Critical Mass - How one thing leads to another -- Philip Ball
 1. Data Science from Scratch: First Principles with Python -- Joel Grus
