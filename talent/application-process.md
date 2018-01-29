@@ -1,4 +1,4 @@
-# Applying at source{d} 
+# Applying at source{d}
 
 This document describes the source{d} hiring process from the point of view of the candidate.
 
@@ -8,13 +8,13 @@ This document describes the source{d} hiring process from the point of view of t
 
 - If there is not a fitting role, but the developer is interested in working with us, they could send an email to talent@sourced.tech with their GitHub account and a small intro about themselves. 
 
-### Screening  
+### Screening
 
 - In less than a week after the submission of the application the developer receives an email with feedback, however there can be delays. In any case, the developer is free to reach out to us at any moment at talent@sourced.tech.
 
 - In case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the potential hiring team.
 
-### Skype/Zoom/Phone call  
+### Skype/Zoom/Phone call
 
 - The developer has a quick call with the lead engineer of the team he applied to. This should be a general discussion that can last between 15-30 minutes. Its purpose is to know the background and experience of the developer, as well as the developer to know source{d} better. It's expected that the developer has already done a basic research about source{d} and has specific questions about the role and/or the company to be expressed during the call. 
 
@@ -61,7 +61,7 @@ The interviews are the following:
 
 - The developer has no time deadline to accept/reject the offer. Only in cases that we have more developers in the offer state for one opening where decisions need to be made. 
 
-### Diversity and Remote 
+### Diversity and Remote
 
 - At source{d} we believe that amazing talent should not be constrained by physical barriers. Our multinational and multicultural team shares a culture of openness and excellence and passion for programming.
 
