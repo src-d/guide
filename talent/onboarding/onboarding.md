@@ -5,11 +5,11 @@
 
 ### Guide 
 
-- Read the guide at https://github.com/src-d/guide. The source{d} guide contains all the information necessary from the moment you accept an offer to work with us onwards. 
+- Read the guide at https://github.com/src-d/guide. The source{d} guide contains all the information necessary from the moment you accept an offer. 
 
 ### Hardware
 
-- A few days before you start working with us, you choose the hardware you would like to use. We do have recommendations, but it's up to you to choose the one that you feel more comfortable with.  
+- A few days before you start working with us, you choose the hardware you would like to use from on a list with the hardware we provide. 
 - The first day we present it to you, so you are able to create your working environment as soon as possible.
 
 ### Accounts 
