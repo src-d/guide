@@ -27,6 +27,7 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Books](office/books_list.md)
 * Talent
   * [Hiring Process](talent/hiring_process.md)
+  * [Application Process](talent/application-process.md)
   * [Contract](talent/contract.md)
   * [Stock Option Plan](talent/esop.md)
   * [Flexible Holidays, Working Schedule and Remote Work](talent/flexible_holidays_working_schedule_remote_work.md)
