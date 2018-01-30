@@ -26,6 +26,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Any developer should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
 
+- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that with copying the lead engineers in every email.
+
 ### Screening
 
 - If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. 
