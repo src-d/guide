@@ -61,7 +61,7 @@
 
 ### GeekBot
 
-- On Slack we have GeekBot which asks on daily basis a few questions like what you accomplished the previous day, what are you going to work on today and where are you working from. Then bot displays your response in the relevant Slack channels. As people work on different things or from different places, it's interesting to be transparent and know what everyone is doing. 
+- On Slack we have GeekBot which asks on daily basis a few questions like what you accomplished the previous day, what are you going to work on today and where are you working from. Then bot displays your response in the relevant Slack channels. It actually organises asynchronous stand up meetings and keeps our team synced. As people work on different things or/and from different places, it's helps us being transparent and know what everyone is doing. 
 
 ### Arriving time 
 
