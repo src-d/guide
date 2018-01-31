@@ -9,7 +9,7 @@
 
 ### Hardware
 
-- A few days before you start working with us, you choose the hardware you would like to use from on a list with the hardware we provide. 
+- A few days before you start working with us, you choose the hardware you would like to use from on the [list](https://github.com/src-d/guide/blob/master/general/available_hardware.md) with the hardware we provide. 
 - The first day we present it to you, so you are able to create your working environment as soon as possible.
 
 ### Accounts 
