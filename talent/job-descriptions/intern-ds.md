@@ -10,34 +10,55 @@
 
 - source{d} tries to be as open in it's ongoing research as possible. If a handy developed tool can be open-sourced then it has to be. If a solved interesting problem can be disclosed, it has to be published in source{d}'s blog. If a funny dataset is compiled, it is published on data.world. Writing papers is welcomed. We talk on conferences literally every month.
 
-- To this moment, source{d}'s engineers have developed:
-- src-d/awesome-machine-learning-on-source-code - everything that we know about MLoSC.
-- ml - MLoSC framework.
-- apollo - modular source code de-duplication research project.
-- kmcuda - lightning fast K-means and K-nearest neighbours on NVIDIA GPUs. It allows us to cluster 3 million samples, each 256 dimensions, into 1000 clusters in less than 20 minutes with the outstanding precision using two NVIDIA Titan X cards.
-- minhashcuda - lightning fast Weighted MinHash on NVIDIA GPUs. This tool allowed us to scan all +17M git repositories in 30 minutes and find 1.5M duplicates (the results were
-published on data.world.
-- lapjv - Jonker-Volgenant algorithm to solve linear sum assignment problems, accelerated with Intel AVX2 instruction set. It is capable of transforming 4096 t-SNE dots into 64x64 images in 2 minutes.
-- wmd-relax - optimized Word Mover's Distance
-- hercules - Git repositories line burn down analysis command line tool built on top of source{d}'s go-git - Git client and server implementation in pure Go language.
-- sparkpickle - the tool to read PySpar RDD files without having to install Spark.
+### To this moment, source{d}'s engineers have developed:
+
+- [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code): everything that we know about MLoSC.
+
+- [ml](https://github.com/src-d/ml): MLoSC framework.
+
+- [apollo](https://github.com/src-d/apollo): modular source code de-duplication research project.
+
+- [kmcuda](https://github.com/src-d/kmcuda): lightning fast K-means and K-nearest neighbours on NVIDIA GPUs. It allows us to cluster 3 million samples, each 256 dimensions, into 1000 clusters in less than 20 minutes with the outstanding precision using two NVIDIA Titan X cards.
+
+- [minhashcuda](https://github.com/src-d/minhashcuda): lightning fast Weighted MinHash on NVIDIA GPUs. This tool allowed us to scan all +17M git repositories in 30 minutes and find [1.5M](http://1.5m/) duplicates. The results were published on [data.world](https://data.world/vmarkovtsev/github-duplicate-repositories).
+
+- [lapjv](https://github.com/src-d/lapjv): Jonker-Volgenant algorithm to solve linear sum assignment problems, accelerated with Intel AVX2 instruction set. It is capable of transforming 4096 t-SNE dots into 64x64 images in 2 minutes.
+
+- [wmd-relax](https://github.com/src-d/wmd-relax): optimized Word Mover's Distance
+
+- [hercules](https://github.com/src-d/hercules): Git repositories line burn down analysis command line tool built on top of source{d}'s [go-git](https://github.com/src-d/go-git), a Git client and server implementation in pure Go language.
+
+- [sparkpickle](https://github.com/src-d/sparkpickle): the tool to read PySpar RDD files without having to install Spark.
 
 ### The following notable technical posts, papers and talks exist:
-- Source Code Identifier Embeddings
-- Open Source Stack for Machine Learning on Source Code
-- Analyzing GitHub, How Developers Change Programming Languages Over Time
-- GitHub Contributions Graph: Analyzing Pagerank & Proving the 6 Handshakes Theory
-- Similarity of GitHub Repositories by Source Code Identifiers
-- 397 Languages, 18,000,000 GitHub repositories, 1.2 billion files, 20 terabytes of code: Spaces or Tabs
-- Topic modeling of public repositories at scale using names in source code - paper
-- Hands on with the most starred GitHub repositories
-- Source code abstracts classification using CNN
+
+- [Source Code Identifier Embeddings](https://blog.sourced.tech/post/id2vec/)
+
+- [Open Source Stack for Machine Learning on Source Code](http://vmarkovtsev.github.io/gdg-2017-berlin/)
+
+- [Analyzing GitHub, How Developers Change Programming Languages Over Time](https://blog.sourced.tech/post/language_migrations/)
+
+- [GitHub Contributions Graph: Analyzing Pagerank & Proving the 6 Handshakes Theory](https://blog.sourced.tech/post/handshakes_pagerank/)
+
+- [Similarity of GitHub Repositories by Source Code Identifiers](http://vmarkovtsev.github.io/techtalks-2017-moscow/)
+
+- [397 Languages, 18,000,000 GitHub repositories, 1.2 billion files, 20 terabytes of code: Spaces or Tabs](https://blog.sourced.tech/post/tab_vs_spaces/)
+
+- [Topic modeling of public repositories at scale using names in source code](https://arxiv.org/abs/1704.00135) - paper
+
+- [Hands on with the most starred GitHub repositories](https://blog.sourced.tech/post/github_stars/)
+
+- [Source code abstracts classification using CNN](http://vmarkovtsev.github.io/slush-2016/)
 
 ### The following datasets published:
-- Names in source code extracted from 13 000 000 GitHub repositories. Not people! 30GB
-- October 2016 GitHub repositories not marked as forks but very similar to each other
-- Readme files found in all GitHub repositories (16M, October 2016
-- ≈ 452,000,000 commits' metadata taken from 16,000,000 repositories on GitHub (Oct 2016)
+
+- [Names in source code extracted from 13 000 000 GitHub repositories. Not people! 30GB](https://data.world/vmarkovtsev/github-source-code-names)
+
+- [October 2016 GitHub repositories not marked as forks but very similar to each other](https://data.world/vmarkovtsev/github-duplicate-repositories)
+
+- [Readme files found in all GitHub repositories (16M, October 2016](https://data.world/vmarkovtsev/github-readme-files)
+
+- [≈ 452,000,000 commits' metadata taken from 16,000,000 repositories on GitHub (Oct 2016)](https://data.world/vmarkovtsev/452-m-commits-on-github)
 
 
 ## ROLE
