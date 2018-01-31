@@ -52,13 +52,13 @@
 
 ### The following datasets published:
 
-- [Names in source code extracted from 13 000 000 GitHub repositories. Not people! 30GB](https://data.world/vmarkovtsev/github-source-code-names)
+- [Names in source code extracted from 13 000 000 GitHub repositories. Not people! 30GB](https://data.world/vmarkovtsev/github-source-code-names)
 
-- [October 2016 GitHub repositories not marked as forks but very similar to each other](https://data.world/vmarkovtsev/github-duplicate-repositories)
+- [October 2016 GitHub repositories not marked as forks but very similar to each other](https://data.world/vmarkovtsev/github-duplicate-repositories)
 
-- [Readme files found in all GitHub repositories (16M, October 2016](https://data.world/vmarkovtsev/github-readme-files)
+- [Readme files found in all GitHub repositories (16M, October 2016](https://data.world/vmarkovtsev/github-readme-files)
 
-- [≈ 452,000,000 commits' metadata taken from 16,000,000 repositories on GitHub (Oct 2016)](https://data.world/vmarkovtsev/452-m-commits-on-github)
+- [≈ 452,000,000 commits' metadata taken from 16,000,000 repositories on GitHub (Oct 2016)](https://data.world/vmarkovtsev/452-m-commits-on-github)
 
 
 ### ROLE
