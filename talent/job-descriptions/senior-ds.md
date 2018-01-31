@@ -15,7 +15,7 @@
 - ml: MLoSC framework.
 - apollo: modular source code de-duplication research project.
 - kmcuda: lightning fast K-means and K-nearest neighbours on NVIDIA GPUs. It allows us to cluster 3 million samples, each 256 dimensions, into 1000 clusters in less than 20 minutes with the outstanding precision using two NVIDIA Titan X cards.
-- minhashcuda - lightning fast Weighted MinHash on NVIDIA GPUs. This tool allowed us to scan all +17M git repositories in 30 minutes and find 1.5M duplicates (the results were
+- minhashcuda: lightning fast Weighted MinHash on NVIDIA GPUs. This tool allowed us to scan all +17M git repositories in 30 minutes and find 1.5M duplicates (the results were
 published on data.world.
 - lapjv: Jonker-Volgenant algorithm to solve linear sum assignment problems, accelerated with Intel AVX2 instruction set. It is capable of transforming 4096 t-SNE dots into 64x64 images in 2 minutes.
 - wmd-relax: optimized Word Mover's Distance
