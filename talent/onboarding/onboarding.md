@@ -5,7 +5,7 @@
 
 ### Guide 
 
-- Read the guide at https://github.com/src-d/guide. The source{d} guide contains all the information necessary from the moment you accept an offer. 
+- Read the source{d} [guide](https://github.com/src-d/guide) which contains all the information necessary from the moment you accept an offer. 
 
 ### Hardware
 
@@ -15,13 +15,13 @@
 ### Accounts 
 
 - From the first day you have access to source{d} Google Account, while receiving invitations to join the applications we are using:
-* Slack: the main communication channel we are using. Check at  https://github.com/src-d/guide/blob/master/communication/slack_channels.md for more information. 
+* Slack: the main communication channel we are using. Click [here](https://github.com/src-d/guide/blob/master/communication/slack_channels.md) for more information. 
 * GitHub source{d}: you are added to our GitHub organization. The lead of your team is responsible to explain the repositories you need to be notified of and how to treat them.
 * Lever: it's a platform to support our hiring process. Everyone has access to it in order to be able to review and give feedback on candidates. 
 * Kin HR: if you want to ask days off that's the right place to do it. Also, every month you will receive the invoice of your payment through the platform. 
 * Google Calendar: here are hosted all the events. Give to our Office Manager access to your calendar in order to add the events to it. Make sure you check your calendar frequently. 
 
-- The above are the main tools we are using, but the full list can be viewed at https://github.com/src-d/guide/blob/master/general/tools.md
+- The above are the main tools we are using, but we do have a full [list](https://github.com/src-d/guide/blob/master/general/tools.md).
 
 ### Welcome Talks 
 
@@ -43,11 +43,11 @@
 
 ### Company Events
 
-- We regularly organize company events. For more information check here: https://github.com/src-d/guide/blob/master/office/company_events.md. You will be notified about them on your Google Calendar. 
+- We regularly organize [company events](https://github.com/src-d/guide/blob/master/office/company_events.md) and you will be notified about them on your Google Calendar. 
 
 ### Remote 
 
-- As you know, source{d} is fully remote friendly, what this means is that you can choose to be full-time remote from the location of your choice or be in our Madrid office. For smooth collaboration, please read the guideline at https://github.com/src-d/guide/blob/master/remote/remote_guidelines.md 
+- As you know, source{d} is fully remote friendly, what this means is that you can choose to be full-time remote from the location of your choice or be in our Madrid office. For smooth collaboration, we have everything written down in our [guideline](https://github.com/src-d/guide/blob/master/remote/remote_guidelines.md).
 
 ### Rooms 
 
@@ -65,4 +65,4 @@
 
 ### Arriving time 
 
-- For the people that work from the office, the time to arrive is flexible. In general, most people arrive between 9.30-10am. 
+- For the people that work from the office, the time to arrive is flexible. In general, most people arrive between 9.30-11am. 
