@@ -1,24 +1,25 @@
 _Table of Contents_
 
-- [Documentation at source{d}](#documentation-at-sourced)
+- [Documentation At source{d}](#documentation-at-sourced)
     - [General Best Practices](#general-best-practices)
-        - [State a clear goal](#state-a-clear-goal)
-        - [Define a scope](#define-a-scope)
-        - [Keep it simple](#keep-it-simple)
-        - [Don't alienate the reader](#dont-alienate-the-reader)
-        - [Take accessibility in mind](#take-accessibility-in-mind)
+        - [State A Clear Goal](#state-a-clear-goal)
+        - [Define A Scope](#define-a-scope)
+        - [Keep It Simple](#keep-it-simple)
+        - [Don't Alienate The Reader](#dont-alienate-the-reader)
+        - [Keep Accessibility In Mind](#keep-accessibility-in-mind)
+        - [Arbitrary Choices And Consistency](#arbitrary-choices-and-consistency)
     - [Documentation Artifacts](#documentation-artifacts)
         - [README.md](#readmemd)
         - [CONTRIBUTING.md](#contributingmd)
-        - [Reference material](#reference-material)
+        - [Reference Material](#reference-material)
         - [Release Notes](#release-notes)
         - [Guides/Tutorials](#guidestutorials)
         - [Code of Conduct](#code-of-conduct)
-        - [Issue templates](#issue-templates)
-        - [Other pieces documentation](#other-pieces-documentation)
+        - [Issue Templates](#issue-templates)
+        - [Other Pieces Of Documentation](#other-pieces-of-documentation)
     - [Resources](#resources)
 
-# Documentation at source{d}
+# Documentation At source{d}
 
 Our company has been a big believer in Open Source from very early on.
 Most of our repositories are visible to anyone in the world.
@@ -62,7 +63,7 @@ I do not wish to alienate any of them, so I need to be careful with the words I 
 
 All of these concrete examples can be boiled down to the following best practices.
 
-### State a clear goal
+### State A Clear Goal
 
 A piece of documentation has a clearly stated goal and audience.
 
@@ -73,7 +74,7 @@ should cover what contributors care about.
 Do not make a first time visitor read through how to contribute a project before
 they understand what the project is about.
 
-### Define a scope
+### Define A Scope
 
 As Carl Sagan [famously said](https://www.youtube.com/watch?v=7s664NsLeFM)
 "If you wish to make an apple pie from scratch, you must first invent the universe".
@@ -87,7 +88,7 @@ For instance, if a project uses Go and gRPC feel free to link to the homepages
 of those projects. Do not use more than one short sentence to explain what Go
 or gRPC are.
 
-### Keep it simple
+### Keep It Simple
 
 Short sentences win. Avoid having overly complex sentences.
 It might seem weird at first. You might find the resulting text immature.
@@ -97,7 +98,7 @@ Following the same logic, avoid overly complicated words.
 
 As a rule of thumb, sentences longer than a printed line are probably too long.
 
-### Don't alienate the reader
+### Don't Alienate The Reader
 
 Avoid gendered pronouns. "He or she" should be rewritten as "they".
 There is no reason for your document to make assumptions on the reader's identity.
@@ -113,7 +114,7 @@ More on ableist language [here](https://www.copyediting.com/disabling-ableist-la
 In general, if someone would find what you wrote offensive it's time to change it.
 There's no excuse to offend anyone in a technical document.
 
-### Take accessibility in mind
+### Keep Accessibility In Mind
 
 It is probably impossible to write documentation that is fully accessible to every single person in the world.
 This doesn't mean we should not strive for documentation that is as accessible as possible.
@@ -125,6 +126,18 @@ You can read more on what color combinations to avoid [here](http://blog.usabill
 For more extreme cases the user will not be able to see the image at all.
 Take that into account and try to add captions explaining the image where possible.
 At least make usage of the `alt` attributes on HTML and markdown.
+
+### Arbitrary Choices And Consistency
+
+Last but not least, there's a list of choices that have been made with consisteny in mind.
+
+- Use American English spelling (e.g. color instead of colour).
+- Use the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
+- Capitalize Each Word In Titles And Section Headers.
+- Do not capitalize `source{d}`, no matter if it's at the beginning of a sentence, or part of a title.
+
+There's probably more arbitrary choices we've made and haven't documented yet.
+When updating a document respect the style of the document, prioritizing consistency over correctness.
 
 ## Documentation Artifacts
 
@@ -183,7 +196,7 @@ TL;DR:
 - Template: [CONTRIBUTING.md](documents/CONTRIBUTING.md)
 - Example: https://github.com/angular/angular.js/blob/master/README.md
 
-### Reference material
+### Reference Material
 
 This is the documentation that users will reguarly consult while using your project.
 The actual form depends on whether the project is a library or a tool.
@@ -250,7 +263,7 @@ TL;DR:
 - Content: Rules governing the contributor community and their interactions with each other.
 - Example: https://www.contributor-covenant.org/
 
-### Issue templates
+### Issue Templates
 
 Following the same philosophy of good documentation, good issue templates help users and
 contributors interact more efficiently.
@@ -261,7 +274,7 @@ of it named either `.github` or `docs`.
 
 Consider using [this template](documents/ISSUE_TEMPLATE.md).
 
-### Other pieces documentation
+### Other Pieces Of Documentation
 
 Many other pieces of documentation are possible: from design documents to workflow descriptions
 or UML diagrams. Whenever you're working on one of these pieces keep in mind your audience
