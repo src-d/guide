@@ -53,9 +53,9 @@ Junior | 0.00
 
 Category | Absolute | Share
 -------- | -------- | --------
-Total Vested | 394 | 1.63%
-Total Grantes | 1,084 | 4.44%
-Total Outstanding | 684 | 2.80%
+Total Vested | 572 | 2.34%
+Total Grantes | 1,421 | 5.83%
+Total Outstanding | 347 | 1.42%
 Total Options | 1,768 | 7.25%
 Total Shares | 22,626 | 92.75%
 Total Shares + Options | 24,394 | 100.00%
