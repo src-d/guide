@@ -7,9 +7,9 @@
 * [Project Maintainers](maintainers.md)
 * [Git workflow](git-flow.md)
 * [Continuous Delivery](continuous-delivery.md)
-* [Documentation Guide](documentation.md)DocumeDocumentnt
+* [Documentation Guide](documentation.md)
   * [Git Repo Templates](documents/)
-* [Licensing Policy](icensing.md)Document
+* [Licensing Policy](licensing.md)
 
 #### Other
 
