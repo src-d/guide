@@ -1,8 +1,10 @@
 # source{d} guide
 
-Welcome! The source{d} guide documentation is where you will find all information about how it's like to work here. It contains all the info you need from the moment you accept an offer to work with us onwards. The information contained here is not just about work, but also about other interesting things.
+Welcome! The source{d} guide documentation is where you will find all information relevant for sourcerers (source{d} team members) and anyone interested in who we are, what we do, and how we do it.
 
-This documentation is open to everyone, sourcerers and non-sourcerers. So feel free to suggest improvements and changes via pull requests and to ask questions via issues.
+This documentation is open to everyone, sourcerers and non-sourcerers. So please feel free to suggest improvements or ask questions via [issues](issues), or directly open a [pull request](pulls) suggesting changes or reviewing someone those of someone else.
+
+We try to put as much information here as possible, in the rare cases that a topic should be private within the company, please redirect to [src-d/company](https://github.com/src-d/company/).
 
 * General
   * Mission & Vision
@@ -13,42 +15,16 @@ This documentation is open to everyone, sourcerers and non-sourcerers. So feel f
   * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
   * Objectives & Key Results (OKRs)
-  * Communications
   * [Company Wide Meeting](general/company_wide_meeting.md)
   * [Remote Guidelines](remote/remote_guidelines.md)
   * [Tools](general/tools.md)
   * [Hardware](general/available_hardware.md)
   * Security
   * [Expenses & Travel](general/expenses_travel.md)
-* Office
-  * [Facilities & Seating Chart](office/madrid_office_seating_chart.md)
-  * [Company Events](office/company_events.md)
-  * [source{d} Open Source Beer Brewery](https://github.com/src-d/homebrew)
-  * [Books](office/books_list.md)
-* Talent
-  * [Hiring Process](talent/hiring_process.md)
-  * [Application Process](talent/application-process.md)
-  * [Contract](talent/contract.md)
-  * [Stock Option Plan](talent/esop.md)
-  * [Flexible Holidays, Working Schedule and Remote Work](talent/flexible_holidays_working_schedule_remote_work.md)
-  * [Onboarding](talent/onboarding)
-  * ["By Developers" Training](talent/by-developers-training/README.md)
-  * Career development
-  * [One-On-One Meetings Guide](talent/one_on_one_guide.md)
-  * [Open Source Days](/talent/open_source_days.md)
-  * Offboarding
-* Engineering
-  * [Methodology](engineering/methodology.md)
-  * [Project Maintainers](engineering/maintainers.md)
-  * [Git workflow](engineering/git-flow.md)
-  * [Documentation Guide](engineering/documentation.md)
-  * [Licensing Policy](engineering/licensing.md)
-* Developer Community
-  * [Tech Talks](developer-community/tech-talks.md)
-  * [Events Guidelines](developer-community/events.md)
-  * [Events List](developer-community/events-list.md)
-  * [Engineering Blog](https://blog.sourced.tech)
-  * [Company Blog](https://medium.com/source-d)
+* [Office](office/)
+* [Talent](talent/)
+* [Engineering](engineering/)
+* [Developer Community](developer-community/)
 * Product
   * Methodology
   * [Design Guide](general/design-guide.md)

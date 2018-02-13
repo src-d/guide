@@ -108,15 +108,13 @@ Demo meetings
 
   + Starting at the end of the second sprint, one every other sprint.
 
-  + Every 2nd week of sprint, on Fridays after the [sprint demo](https://github.com/src-d/guide/blob/master/engineering/methodology.md#Demo).
+  + Every 2nd week of sprint, on Fridays after the [sprint demo](#Demo).
 
 ### Keeping track of things:
 
   + Publicly: a Kanban board on-line.
 
   + Per team: any way team sees fit (github issues, github projects, waffle.io...).
-
-  + [src-d/issues-general](https://github.com/src-d/issues-general) - should be used more, as place for feedback/requests (i.e website, etc)
 
   + [src-d/issues-infrastructure](https://github.com/src-d/issues-infrastructure) - issues/requests to Infrastructure team must be created here.
 
