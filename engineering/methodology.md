@@ -27,7 +27,7 @@ These are the notes from:
 * 2017-01-10/11 Workflow discussions
 
 Meetings for the Engineering team leads at source{d}.
-It’s the replacement for the [previous workflow](https://github.com/src-d/guide/blob/abe7932e3bc58898e49a5c1c0e3e2cac6d387144/engineering/methodology.md) \w SCRUM
+It’s the replacement for the [previous workflow](https://github.com/src-d/guide/blob/abe7932e3bc58898e49a5c1c0e3e2cac6d387144/engineering/methodology.md) with SCRUM
 
 ## OKRs
 
@@ -35,7 +35,7 @@ Company publishes OKRs every quarter.
 
 2018Q1 OKRs in https://github.com/src-d/guide/blob/general/OKRs/README.md
 
-Each team is expected to publish it’s own ORK, aligned with the company ones.
+Each team is expected to publish it’s own OKRs, aligned with the company ones.
 Engineering roles are not expected to have individual objectives.
 
 ## The Big Change
@@ -46,19 +46,19 @@ synchronously at the same weeks for all the teams.
 
 Meetings for high-level sync including product direction, vision, etc are
 proactively scheduled by each Team Lead as needed. All Leads have periodical
-hands-on meetings \w CTO.
+hands-on meetings with the CTO.
 
 
 ## Kanban
 
-Kanban board, a tool used to visualize work and optimize the flow of the work
-among the team. (source)
+The kanban board is a tool used to visualize work and optimize the flow of the work
+among the team. ([source](https://www.atlassian.com/agile/kanban#kanban-boards))
 
 The kanban relies upon full transparency of work and real-time communication of
 capacity, therefore the kanban board should be seen as the single source of
 truth for the team's work.
 
-The kaban columns are defined as follows:
+The kanban columns are defined as follows:
 
 ### [Company](https://github.com/orgs/src-d/projects/9) Kanban
 
@@ -74,11 +74,11 @@ Done        |
 Column           | Description
 -----------------|------------
 Backlog          | Break-down of the Epics for each product on actual tasks
-TODO             | Tasks from backlog that are immediately ready to be act up on. Grooming a backlog to update this column is expected to be done on daily basis by the Lead. See the Definition of TODO section below.
+TODO             | Tasks from backlog that are immediately ready to be acted on. Grooming a backlog to update this column is expected to be done on a daily basis by the Lead. See the Definition of TODO section below.
 Development      | Assigned task from TODO that time has been spent up on.
 Code Review (PR) | Issues that have PRs and are ready for Code Review.
-Deploy/Release   | Things that are implemented/merged, but has not yet been “delivered” to the users. This can be seen as a next release “backlog”. Release itself, although is not trivial and is documented <elsewhere>, is not expected to be handed in a separate issue.
-Done             | A task is done, when  a user can use the results of the work though established interface: package manager for libs, online for web services, etc. See the Definition of Done section below.
+Deploy/Release   | Things that are implemented/merged, but have not yet been “delivered” to the users. This can be seen as a next release “backlog”. Release itself, although is not trivial and is documented <elsewhere>, is not expected to be handed in a separate issue.
+Done             | A task is done, when  a user can use the results of the work though established interface: package manager for libs, online for web services, etc. See the section below [What does TODO mean?](#what-does-todo-mean).
 
 On *"blockers"* - a task can be blocked at any stage of the development, so
 there is no separate column and Tag is used instead, to signify if something is
@@ -86,7 +86,7 @@ blocked.
 
 More details in [Definition](#definition) section below.
 
-### How to pick next issues to worked on?
+### How to pick next issues to work on?
 
 Each team decides what works best for them. One effective way is picking tasks
 from **right to left** in the Kanban board, choosing from those issues that are
@@ -99,8 +99,8 @@ For this to work properly, issues must be documented so that a person can move o
 
 ## Leads Meeting
 
-Same as something called SoS before - a weekly meeting on Tuesdays 14:30 of CTO
-\w all team leads to catch up on ongoing progress.
+Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 14:30 the CTO
+and all team leads to catch up on ongoing progress.
 
 Each team lead will prepare:
 
@@ -108,7 +108,7 @@ Each team lead will prepare:
 * What are the things we are looking forward to? (re-prioritize things)
 * Pitch new ideas from our workflow
 
-Then grooming company’s backlog/epics from <> is conducted.
+Then grooming company’s backlog/epics from [Company Kanban](https://github.com/orgs/src-d/projects/9) is conducted.
 
 ## Team Meeting
 
@@ -123,12 +123,12 @@ All standups are happening online and asynchronously, per-team in appropriate
 
 ## Demo
 
-Demo meetings are monthly event.
+Demo meeting is a monthly event.
 
 * Idea: let know everybody what's going on (on quite technical level) that's is relevant for other or affect others releases/deployments.
 * Product does not need to be deployed, but the demo should be as real as possible.
 * Should be concise, respecting other people's time.
-* Fix max time **per-team: 15min (including questions)**. Agree between teams in advance, if more time needed.
+* Fixed max time **per-team: 15min (including questions)**. Agree between teams in advance, if more time needed.
 
 ## Keeping track of things
 
@@ -143,7 +143,7 @@ Issues repositories:
 
 # Definitions
 
-Below the definitions of Teams Kanban columns are given.
+Below, we'll define the meaning of each Kanban column.
 
 This is not mere a formality - it’s important to have same things in mind when
 moving work from one state to another and what is documented below is a
@@ -186,9 +186,9 @@ Few concrete examples, in case of work done on:
 Obvious/expected dependencies between sequence of tasks don’t need to be marked
 as blocked.
 
-Issues from backlog that can not be done, due to **a know dependencies** should
+Issues from backlog that can not be done, due to **a known dependency** should
 **never** go into the TODO column (thus avoid being blocked). I am not able to
-work on it anymore, because need something done to move forward.
+work on it anymore, because it needs something done to move forward.
 
 Things that are not *blockers*:
 
