@@ -179,6 +179,7 @@ Few concrete examples, in case of work done on:
 * Web site/application - should be accessible through a known (staging/production) environment URL
 * etc
 
+
 ## What does Blocker mean?
 
 *General mindset*: blocker means something **unexpected has happened**

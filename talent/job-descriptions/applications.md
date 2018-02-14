@@ -13,23 +13,30 @@
 - Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
 - Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
 - Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
+ 
+We really care about Open Source. Everything we develop is available for anyone to read, modify, and contribute.
+Our libraries and applications are available under the following GitHub organizations:
+
+- [bblfsh/dashboard](https://github.com/bblfsh/dashboard): a playground application for Babelfish server, turning code files into Universal Abstract Syntax Trees (UASTs). 
+- [src-d/kmcuda](https://github.com/src-d/kmcuda):  fast K-means and K-nearest neighbours on NVIDIA GPUs.  
+- [src-d/minhashcuda](https://github.com/src-d/minhashcuda):  fast Weighted MinHash on NVIDIA GPUs. It allows for fast nearly-duplicate repository detection: scan +17 git repositories in 30 minutes to find 1.5M duplicates (the results were published on data.world).  
+- [src-d/engine](https://github.com/src-d/engine):  a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
+- [src-d/hercules](https://github.com/src-d/hercules):  analysis and visualization of a Git repository history. 
+- [src-d/gemini](https://github.com/src-d/gemini): a duplicate finder for source code in git repositories.
 
 ## ROLE
 
-- The Data Retrieval team is developing source{d}'s audacious high-level Engine for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Scala, it aims to be robust, friendly and flexible: it is built on top of Apache Spark, accessible both via Scala and Python Spark APIs, and capable of running on large-scale distributed clusters over petabytes of data.
+- This position is for a Senior Engineer in the Applications team.
 
-- We at source{d} seek to be at the heart of any project related to source code. Thus, this core tool will be used both in-house for building source{d}'s unique global scale open dataset of +60M code repositories for cutting-edge machine learning research, as well as used externally by empowering a wide community of developers, researchers and companies worldwide when doing vanguard research or building the next generation of developer tools and experiences.
+- As an Applications team engineer, you will have a two-fold role: on one hand it's a Data Engineering, building production-level pipelines to collect and extract data from all git repositories in the world. On the another hand it's applied Machine Learning, by productionizing Machine Learning research and wrapping it in useful end-user applications.
 
-- Good knowledge of distributed computing and parallel processing is important. You will be expected to have strong backend coding skills in at least two languages and very good algorithmic skills. Scala coding skills and knowledge about Apache Spark aren't required but will be highly appreciated, in the other hand Go is not a strict requirement; we strongly believe that it can be learned easily by any skilled developer and care a lot more about our team's mindset and prior experience than any specific skills.
+- You will be expected to have strong backend coding skills in at least one programming language and very good algorithmic skills. Scala coding skills and knowledge about Apache Spark aren't required but will be highly appreciated.
 
-- We really care about open source, you can easily check a couple of our Data Retrieval team's projects below:
-- src-d/engine: running scalable pipelines that process any number of Git repositories
-- go-git: a low level and highly extensible Git implementation in pure Go
-- śiva: seekable indexed block archiver format
-- go-billy: the missing interface to abstract several storages
+- Building tools for day to day use by software engineers require good understanding of modern development processes and approaches: Unit/Integration testing, scrum, code reviews, CI/CD, Containers, etc.
 
-- If you are interested on how we do the code reviews, please take a look at the PRs on these projects since we use the same workflow as for private ones.
+- As you will be working closely with the Machine Learning team - strong communication skills and interest in Machine Learning, data process, and visualization are more than welcome. 
 
+- You will deal with models built using modern ML stacks written in Python and C++ like Tensorflow, Tensorboard, CUDA, so familiarity with any of those tools is a plus.
 
 ## CULTURE
 
@@ -53,4 +60,4 @@
  - Spacious physical office, close to public transit and to the Retiro park.
  - Kitchen, full of supplies from beers to fresh fruits.
  - Monthly get-togethers, annual summer and winter Xmas parties, a retreat.
- - Our own, open source craft beers src-d/homebrew.
+ - Our own, open source craft beers https://github.com/src-d/homebrew.
