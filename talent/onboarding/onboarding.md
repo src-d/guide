@@ -69,4 +69,4 @@
 
 ### Team Page
 
-- When a new members joins source{d}, we add their picture that will be taken the first weeks, in the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, placeholder image will be used. 
+- When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead. 
