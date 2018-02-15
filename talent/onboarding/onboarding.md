@@ -9,13 +9,13 @@
 
 ### Hardware
 
-- A few days before you start working with us, you choose the hardware you would like to use from on the [list with the hardware we provide](https://github.com/src-d/guide/blob/master/general/available_hardware.md) with the hardware we provide. 
+- A few days before you start working with us, you choose the hardware you would like to use from the [list with the hardware we provide](https://github.com/src-d/guide/blob/master/general/available_hardware.md). 
 - The first day we present it to you, so you are able to create your working environment as soon as possible.
 
 ### Accounts 
 
 - From the first day you have access to source{d} Google Account, while receiving invitations to join the applications we are using:
-* Slack: the main communication channel we are using. This is the [list with our slack channels](https://github.com/src-d/guide/blob/master/communication/slack_channels.md) for more information. 
+* Slack: the main communication channel we are using. This is the [list with our slack channels](https://github.com/src-d/guide/blob/master/communication/slack_channels.md). 
 * GitHub source{d}: you are added to our GitHub organization. The lead of your team is responsible to explain the repositories you need to be notified of and how to treat them.
 * Lever: it's a platform to support our hiring process. Everyone has access to it in order to be able to review and give feedback on candidates. 
 * Kin HR: if you want to ask days off that's the right place to do it. Also, every month you will receive the invoice of your payment through the platform. 
