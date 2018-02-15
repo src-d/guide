@@ -26,6 +26,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Any developer should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
 
+- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that with copying the lead engineers in every email.
+
 ### Screening
 
 - If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. 
@@ -54,9 +56,12 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The interviews are the following: 
 
-* Kickoff with the CTO, QA: to know the developer better.
-* Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. 
-* Logical thinking: to see how the developer solves an abstract problem in a logical way.
+* Kickoff with the CTO. Duration 60'. 
+* QA: to know the developer better. Two interviewers should participate; one from the team that the developer is being interviewed for, and one from any other engineering or non engineering team (eg. Product, Talent). Duration 60'.
+* Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. The interviewers are chosen by the lead of the team the developer is interviewed for. Duration 90'. 
+* Logical thinking: to see how the developer solves an abstract problem in a logical way. At the moment is conducted by the Lead of Data Science, however it would be convenient to pass the knowledge of this interview to others for the future. Duration 60'. 
+
+- The on-site interview is being scheduled on Lever by the Talent Manager and collaboration with the leads when necessary to identify the interviewers. 
 
 - In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why he was rejected. This should be a constructive discussion giving the developer as much insights as possible.
 
@@ -71,6 +76,7 @@ This document explains the internal hiring process at source{d} and the responsi
 ### Exceptions 
 
 - There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do on-site interviews for interns unless one could join us as a full-time engineer.
+- If a developer has applied to multiple roles, it will be determined either in the first interview or in the on-site interview, in which team fits better. 
  
 ### Feedback
 
