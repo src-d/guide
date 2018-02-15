@@ -65,4 +65,8 @@
 
 ### Arriving time 
 
-- For the people that work from the office, the time to arrive is flexible. In general, most people arrive between 9.30-11am. 
+- For the people that work from the office, the time to arrive is flexible. In general, most people arrive between 9.30-11am.
+
+### Team Page
+
+- When a new members joins source{d}, we add their picture that will be taken the first weeks, in the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, placeholder image will be used. 
