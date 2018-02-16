@@ -28,7 +28,7 @@ Our libraries and applications are available under the following GitHub organiza
 
 This position is for a Senior Engineer on the Applications team, based in SF or remote. 
 
-- You will be expected to have a deep understanding and previous experience in developer tooling on a large scale. 
+- You will be expected to have a deep understanding and 2+ years of previous experience in developer tooling on a large scale. 
 
 - Your main responsibilities will be prototyping and exploring the future of developer tooling by discovering new applications that could be meaningful to the developer community. 
 
