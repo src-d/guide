@@ -26,8 +26,8 @@ We try to put as much information here as possible, in the rare cases that a top
 * [Engineering](engineering/)
 * [Developer Community](developer-community/)
 * Product
-  * Methodology
-  * [Design Guide](general/design-guide.md)
+  * [Design Documents](product/design-documents.md)
+  * [Graphic Design Guide](product/graphic-design-guide.md)
 * Communication
   * [Slack channels](communication/slack_channels.md)
 * Financials
