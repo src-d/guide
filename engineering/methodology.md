@@ -71,6 +71,11 @@ Done        |
 
 ### Team Kanban
 
+Each team uses separate [Github Projects](https://github.com/orgs/src-d/projects/) as a Kanban board.
+
+Teams, managing issues across different Github Orgs (i.e Applications, Language Analysis) are using the “add card” trick, described in [dear-github/dear-github#209](https://github.com/dear-github/dear-github/issues/209#issuecomment-357692288) to add issues from a different org.
+
+
 Column           | Description
 -----------------|------------
 Backlog          | Break-down of the Epics for each product on actual tasks
