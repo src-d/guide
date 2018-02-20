@@ -8,9 +8,9 @@ source{d} provides up to 2,000 Euros for relocation-related expenses for Madrid'
 
 * Moving process for furniture and boxes
 * Car rental or taxis
+* The first two weeks of your arrival in a hotel/Airbnb
 
 - Flights, including family, have been decided to be covered by source{d} fully outside of the 2,000 Euro relocation budget.
-- Additionally, for the first two weeks of your arrival in Madrid or SF, we cover the expenses for a stay in hotel/Airbnb.
 
 ### Other
 
