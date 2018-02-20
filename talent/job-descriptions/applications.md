@@ -1,4 +1,4 @@
-Engineer in the Applications team
+Software Engineer in the Applications team
 ------------------------------------------
 **Location:** Madrid / Fully remote
 **Seniority:** We are open to all levels of seniority, and adjust compensation accordingly
@@ -21,7 +21,7 @@ At source{d} we are building the stack for the next generation of Machine Learni
 
 ## Engineering at source{d}
 
- - Engineering consists of five different teams, that represent the architecture of our product:
+Engineering consists of five different teams that represent the architecture of our product:
 
 - Applications (Scala, Go and Python and Frontend tools): Builds CLI/Web applications based on ML research.
 - Machine Learning (C++ and Python): R&D of machine learning on source code.
@@ -29,7 +29,7 @@ At source{d} we are building the stack for the next generation of Machine Learni
 - Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
 - Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
 
-We care about Open Source. Everything we develop is available for anyone to read, modify, and contribute. Some examples of our projects are:
+We care about Open Source. Everything we develop is available for anyone to read, modify, and contribute (under Apache 2.0 or GPL3 license). Some examples of our projects are:
 
 - [bblfsh/bblfshd](https://github.com/bblfsh/bblfshd): Babelfish server, turning code into Universal Abstract Syntax Trees (UASTs). 
 - [src-d/engine](https://github.com/src-d/engine): a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
