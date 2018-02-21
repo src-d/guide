@@ -33,8 +33,8 @@ We care about Open Source. Everything we develop is available for anyone to read
 
 - [bblfsh/bblfshd](https://github.com/bblfsh/bblfshd): Babelfish server, turning code into Universal Abstract Syntax Trees (UASTs). 
 - [src-d/engine](https://github.com/src-d/engine): a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
-- [src-d/go-git](https://github.com/src-d/go-git): a highly extensible Git implementation in pure Go
-- [src-d/ml](https://github.com/src-d/ml/tree/develop): a library to build and apply machine learning models on top of Universal Abstract Syntax Trees
+- [src-d/go-git](https://github.com/src-d/go-git): a highly extensible Git implementation in pure Go.
+- [src-d/ml](https://github.com/src-d/ml/tree/develop): a library to build and apply machine learning models on top of Universal Abstract Syntax Trees.
 
 ## Culture
 
@@ -60,4 +60,4 @@ We care about Open Source. Everything we develop is available for anyone to read
  
  ## Other
  
- - We offer visa support for those wanting to work in the Madrid office
+ - We offer visa support for those wanting to work in the Madrid office.
