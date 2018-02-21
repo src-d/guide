@@ -1,47 +1,29 @@
 # Objectives and Key Results
 
-These are the company's OKR for 1Q2018.
+## Q1 2018
 
-Status: Key Results need to be added
-
-Note: the fewer key results the better, the sample ones are just to illustrate where, **not** how many.
+These are the company's OKR for 1Q2018. You'll notice that several objectives are missing key results. Also, on engineering there is no team specific ownership with key results. For Q2 we expect to do better at implementing OKR's.
 
 ### Vision:
 
 * Being the leader of AI on Code
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 
 ### Company Wide:
 
 * Having successful users of source{d}
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+
 * Being a better company to work at
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+  * Complete the guide
+  * Successfully implement best practices for being a remote company
+  * Having a more diverse funnel (increase diversity in terms of gender and race)
+  * Successfully implement OKR's
 
 ### Product:
 
 * Launch of hosted playground
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Build a hosted MVP for open-source projects of source{d} PR* (ability to add applications that return results in PR's on GitHub)
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Launch of deduplication of code
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Decide on the faith of legacy projects
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 
 \* we're lost on the name still, this objective needs its own document to explain better since it's a new product
 
@@ -96,17 +78,8 @@ Note: the fewer key results the better, the sample ones are just to illustrate w
 ### Research
 
 * Write scientific papers
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Research structural embeddings
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Explore new directions and emerging papers
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 
 ### Engineering:
 
@@ -130,21 +103,10 @@ Note: the fewer key results the better, the sample ones are just to illustrate w
 ### Hiring:
 
 * Having a more diverse funnel (increase diversity in terms of gender and race)
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 * Hire for each open role
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
 
 ### Organization:
 
-* Complete the guide (ToC should have content for each section)
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
-* Implement best practices for being a remote company
-  * Key Result 1
-  * Key Result 2
-  * Key Result 3
+* Complete the guide 
+  * ToC should have content for each section
+* Successfully implement best practices for being a remote company
