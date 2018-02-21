@@ -14,7 +14,7 @@ We try to put as much information here as possible, in the rare cases that a top
   * [Organizational & Legal Structure](general/organizational_legal_structure.md)
   * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
-  * Objectives & Key Results (OKRs)
+  * [Objectives & Key Results (OKRs)](general/OKRs/)
   * [Company Wide Meeting](general/company_wide_meeting.md)
   * [Remote Guidelines](remote/remote_guidelines.md)
   * [Tools](general/tools.md)
