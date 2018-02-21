@@ -1,11 +1,10 @@
-Software Engineer in the Applications team
+Senior Software Engineer in the Applications team
 ------------------------------------------
-**Location:** Madrid / Fully remote
-**Seniority:** We are open to all levels of seniority, and adjust compensation accordingly
+- At source{d} we are building the stack for the next generation of Machine Learning powered developer tools. We have raised over eight million USD so far, and we are currently growing our team. Our current monetization strategy is based on deploying our stack and tooling within large tech companies.
 
-At source{d} we are building the stack for the next generation of Machine Learning powered developer tools. We have raised over eight million USD so far, and we are currently growing our team. Our current monetization strategy is based on deploying our stack and tooling within large tech companies.
+### [Engineering at source{d}](../engineering-section.md)
 
-## Role
+### Role
 
 - This position is for a Senior Engineer in the Applications team.
 
@@ -19,45 +18,9 @@ At source{d} we are building the stack for the next generation of Machine Learni
 
 - You will deal with models built using modern ML stacks written in Python and C++ like Tensorflow, Tensorboard, CUDA, so familiarity with any of those tools is a plus.
 
-## Engineering at source{d}
+### [Culture](../culture-section.md)
 
-Engineering consists of five different teams that represent the architecture of our product:
+### [Perks](../perks-section.md)
 
-- Applications (Scala, Go and Python and Frontend tools): Builds CLI/Web applications based on ML research.
-- Machine Learning (C++ and Python): R&D of machine learning on source code.
-- Data Retrieval (Scala and Go): Builds the technology that finds, fetches, stores and analyzes over +60M Git repositories.
-- Language Analysis (Go and another +15): Works on Babelfish, the universal code parsing server.
-- Infrastructure (Go and Python): Manages on-prem bare metal servers with Kubernetes and CoreOS.
+### [Other](../other-section.md)
 
-We care about Open Source. Everything we develop is available for anyone to read, modify, and contribute (under Apache 2.0 or GPL3 license). Some examples of our projects are:
-
-- [bblfsh/bblfshd](https://github.com/bblfsh/bblfshd): Babelfish server, turning code into Universal Abstract Syntax Trees (UASTs). 
-- [src-d/engine](https://github.com/src-d/engine): a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.  
-- [src-d/go-git](https://github.com/src-d/go-git): a highly extensible Git implementation in pure Go.
-- [src-d/ml](https://github.com/src-d/ml/tree/develop): a library to build and apply machine learning models on top of Universal Abstract Syntax Trees.
-
-## Culture
-
-- source{d} is a company for developers by developers. We firmly believe in always doing what's best for the community, not necessarily companies. "For developers" is the answer to any strategic question or dilemma in the company. Always For Developers.
-
-- "By developers" is our identity. Everyone in the company is either a developer or has a developer/engineering mindset. We don't hire anyone who doesn't fit into this culture, it's the only way to make sure everyone understands developers and can always defend their interest.
-
-- At the moment, we are 20+ people from 10 different countries working closely together from our office in Madrid, Spain. We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely as part of our team does working from Portugal, Estonia, Russia, and others.
-
-- At source{d}, we have a transparent salary policy which we feel strongly about it. Although a seniority level for every candidate will be determined during the last round of on-site interviews, one can expect that for a Senior Engineer salary ranges from €49.000 to €53.000. You can find our net amounts [here](https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/) (in Spanish only).
-
-- Following the same level of transparency as with development process, all the above aspects of the work culture are documented and publicly available in our Guide at https://github.com/src-d/guide/.
-
-## Perks 
-
- - We go to conferences and other developer events ! ;)
- - Open Source Days, 10% of the time you can work on any OSS project you choose.
- - Flexible hours and the possibility of remote work.
- - Free books. Company will buy any books that can help you be even better at your work.
- - Spacious physical office, close to public transit and to the Retiro park.
- - Monthly get-togethers, annual summer and winter Xmas parties, a hackathon retreat.
- - Our own, open source craft beers https://github.com/src-d/homebrew.
- 
- ## Other
- 
- - We offer visa support for those wanting to work in the Madrid office.
