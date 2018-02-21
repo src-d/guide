@@ -18,9 +18,29 @@ A liquidity event could be an IPO or an acquisition by another party.<br>
 An IPO (Initial Public Offering) means becoming a publicly traded company, listed on a stock exchange like Nasdaq. The share price to which the strike price would be compared would be that at which the company would start to trade.<br>
 In the case of an acquisition the share price would be determined by the amount paid for the acquisition, divided by the total number of shares + options.
 
+### How many options have been given out?
+
+Category | Absolute | Share
+-------- | -------- | --------
+Total Vested | 572 | 2.34%
+Total Grantes | 1,421 | 5.83%
+Total Outstanding | 347 | 1.42%
+Total Options | 1,768 | 7.25%
+Total Shares | 22,626 | 92.75%
+Total Shares + Options | 24,394 | 100.00%
+
 ### How are options allocated?
-We follow a formula that we apply to all positions in order for the allocation to be fair and scalable as we grow. It looks the following way:<br>
-Options = (Team / Stage + Role) / 100
+We follow a formula that we apply to all positions in order for the allocation to be fair and scalable as we grow. It looks the following way:
+
+```
+options as a % of 'Total Shares + Options' = (Team / Stage + Role) / 100
+```
+
+To understand the # of options on your offer letter, you need to calculate the following:
+
+```
+# of options = ((Team / Stage + Role) / 100) * (Total Shares + Options)
+```
 
 Team stands for which team you'll be working in. The weights are distributed this way:
 
@@ -49,19 +69,16 @@ Senior | 0.07
 Normal | 0.02
 Junior | 0.00
 
-### How many options have been given out?
-
-Category | Absolute | Share
--------- | -------- | --------
-Total Vested | 572 | 2.34%
-Total Grantes | 1,421 | 5.83%
-Total Outstanding | 347 | 1.42%
-Total Options | 1,768 | 7.25%
-Total Shares | 22,626 | 92.75%
-Total Shares + Options | 24,394 | 100.00%
-
 ### Award letter
 When you start working with us you will receive an award letter which grants you the options that are ruled by our Stock Option Plan. You can find a template of it here.
 
 ### Stock Option Plan
 Here you can find a template of our Stock Option Plan.
+
+#### Vesting explained
+
+When you join source{d} your options start vesting on the first day you start working. However if you leave source{d} or are fired within 12 months of starting, you will retain 0 options. This is called a "cliff". After 12 months of being at source{d} you will have vested 25% of your total options granted. This means, they are now yours, and no matter if you resign or are fired, they will be yours. After those 12 months, there is 3 more years of vesting on a monthly basis, that means every month you gain 1/36th (36 months == 3 years) more of your options.
+
+#### Acceleration explained
+
+If a liquidity event happens, no matter how long you've been at source{d}, could be 3 months, or 2 years, 85% of your total options are instantly vested, and the remaining 15% are vested over the course of 12 months after the company IPO's or joins the acquirer. This is to benefit everyone equally in case of a liquidity event. 
