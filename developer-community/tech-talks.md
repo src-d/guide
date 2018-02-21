@@ -173,25 +173,25 @@ Each new event, simply duplicate a previous one from our [tech talks group](http
 
 #### Twitter
 • Talks Announcement (after website is ready - speakers list might not be complete)
-Examples [here](https://twitter.com/srcd_/status/836158701618802688) and [here](https://twitter.com/srcd_/status/871647537123479553).
+Examples [here](https://twitter.com/sourcedtech/status/836158701618802688) and [here](https://twitter.com/sourcedtech/status/871647537123479553).
 
 • Announcement of Sale start (speakers list might not be complete)
-Examples [here](), [here](https://twitter.com/srcd_/status/873848034484006912) and [here](https://twitter.com/srcd_/status/874173998715875328).
+Examples [here](), [here](https://twitter.com/sourcedtech/status/873848034484006912) and [here](https://twitter.com/sourcedtech/status/874173998715875328).
 
 • Sale Start (speakers list might not be complete)
-Examples [here](https://twitter.com/srcd_/status/864036667002425346), [here](https://twitter.com/srcd_/status/864399082487521280) and [here](https://twitter.com/srcd_/status/874189703444090882).
+Examples [here](https://twitter.com/sourcedtech/status/864036667002425346), [here](https://twitter.com/sourcedtech/status/864399082487521280) and [here](https://twitter.com/sourcedtech/status/874189703444090882).
 
 • Optional: If sold out, waiting list ones
-Examples [here](https://twitter.com/srcd_/status/836876422660620288) and [here](https://twitter.com/srcd_/status/841954400876785665).
+Examples [here](https://twitter.com/sourcedtech/status/836876422660620288) and [here](https://twitter.com/sourcedtech/status/841954400876785665).
 
 • Schedule Speakers ones
-Examples [here](https://twitter.com/srcd_/status/839424717886992384), [here](https://twitter.com/srcd_/status/839782571294752768), [here](https://twitter.com/srcd_/status/864156684482215936) and [here](https://twitter.com/srcd_/status/877066994377519104).
+Examples [here](https://twitter.com/sourcedtech/status/839424717886992384), [here](https://twitter.com/sourcedtech/status/839782571294752768), [here](https://twitter.com/sourcedtech/status/864156684482215936) and [here](https://twitter.com/sourcedtech/status/877066994377519104).
 
 • Schedule Printing materials pics ones
-Examples [here](https://twitter.com/srcd_/status/844951764944240641), [here](https://twitter.com/srcd_/status/845321360507318272) and [here](https://twitter.com/srcd_/status/870684058879012864).
+Examples [here](https://twitter.com/sourcedtech/status/844951764944240641), [here](https://twitter.com/sourcedtech/status/845321360507318272) and [here](https://twitter.com/sourcedtech/status/870684058879012864).
 
 • On the day
-Examples [here](https://twitter.com/srcd_/status/845566900851658753), [here](https://twitter.com/srcd_/status/870922426451984384) and [here](https://twitter.com/srcd_/status/878570613404827648).
+Examples [here](https://twitter.com/sourcedtech/status/845566900851658753), [here](https://twitter.com/sourcedtech/status/870922426451984384) and [here](https://twitter.com/sourcedtech/status/878570613404827648).
 
 # Offline
 ## Venue
