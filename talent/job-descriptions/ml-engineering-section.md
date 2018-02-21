@@ -1,10 +1,13 @@
 ### Engineering at source{d}
 
-- The Machine Learning team is focused on providing intelligent insights into nearly all the world's open source code. This includes typical big data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters with up to 1,000 nodes, the latter leverages extensive GPGPU acceleration on the custom hardware and Deep Learning techniques, standing on top of source{d}'s original open source projects and Tensorflow. Often, arising ML problems are unsupervised and require much research in the unusual domain of ML on source code (MLoSC).
+The machine learning team is focused on providing intelligent insights into nearly all the world's open source code. This includes typical big data analysis as well as solving sophisticated machine learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLoSC).
 
-- source{d} tries to be as open in it's ongoing research as possible. If a handy developed tool can be open-sourced then it has to be. If a solved interesting problem can be disclosed, it has to be published in source{d}'s blog. If a funny dataset is compiled, it is published on data.world. Writing papers is welcomed. We talk on conferences literally every month.
+- Tools and work is always open-sourced to benefit the community
+- Publishing papers and blog posts is encouraged and part of our workflow
+- We enjoy releasing data sets
+- We regularly speak at conferences but it's not required
 
-### To this moment, source{d}'s engineers have developed:
+### To this moment, source{d}'s ML engineers have released:
 
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code): everything that we know about MLoSC.
 

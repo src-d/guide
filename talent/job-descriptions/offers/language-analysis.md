@@ -1,32 +1,24 @@
 Software Engineer in the Language Analysis team
 ------------------------------------------
 
+### [Location & Seniority](../location-seniority-section.md)
+
 ### [Company](../company-section.md)
 
 ### [Engineering at source{d}](../engineering-section.md)
 
 ### Role 
 
-- The Language Analysis team is developing source{d} tools and libraries for
-generating and processing abstract syntax trees for programming languages. These
-components are integrated into the awesome open source project -
-https://github.com/bblfsh, written in Go, C++, Scala, and really any other
-language that we're parsing. Babelfish powers the cutting-edge research that the
-Machine Learning team does on their ambitious mission to provide AI on code. Our
-tools are being used by a community of developers, researchers, and
-companies worldwide in order to do vanguard research or build the next
-generation of developer tools and experiences.
+The Language Analysis team is developing source{d} tools and libraries for generating and processing universal abstract syntax trees for programming languages. These components are integrated into the [Babelfish](https://github.com/bblfsh) open source project, written in Go, C++, Scala, and any other language that we're parsing. 
 
-- Being passionate about programming languages is important as well as an interest in
-the lexing/parsing/semantic analysis of programming language's interpreters and
-compilers. You'll be expected be experienced programming in at least two
-languages and have strong good algorithmic skills. Our main language is Go, but prior experience is not a requirement; we strongly believe that it can be learned easily by any
-skilled developer and care a lot more about our team's mindset and prior
-experience than any specific languages. Modern C++ knowledge and experience would
-be a plus.
+Babelfish powers the cutting-edge research that our machine learning team does on their ambitious mission to provide machine learning on source code. Our tools also are being used by a community of developers, researchers, and companies across the world in order to do vanguard research and build the next generation of developer tools.
 
-- If you are interested in how we do code reviews, please take a look at the
-PRs on these projects since all of our projects are open-source.
+- Being passionate about programming languages is important as well as an interest in the lexing/parsing/semantic analysis of programming language's interpreters and compilers. 
+
+- You'll be expected be experienced programming in at least two
+languages and have strong good algorithmic skills. Our main language is Go, but prior experience is not a requirement; we strongly believe that it can be learned easily by any skilled developer and care a lot more about our team's mindset and prior experience than any specific languages. 
+
+- Modern C++ knowledge and experience would be considered a plus.
 
 ### [Culture](../culture-section.md)
 
