@@ -1,3 +1,5 @@
+## Perks
+ 
  - We go to conferences and other developer events ! ;)
  - Open Source Days, 10% of the time you can work on any OSS project you choose.
  - Flexible hours and the possibility of remote work.

@@ -1,3 +1,5 @@
+## Company 
+
 **Location:** Madrid / Fully remote
 **Seniority:** We are open to all levels of seniority, and adjust compensation accordingly
 
