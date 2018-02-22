@@ -33,7 +33,7 @@ Total Shares + Options | 24,394 | 100.00%
 We follow a formula that we apply to all positions in order for the allocation to be fair and scalable as we grow. It looks the following way:
 
 ```
-options as a % of 'Total Shares + Options' = (Team / Stage + Role) / 100
+options as a % of 'Total Shares + Options' = (Team / Stage + Role)
 ```
 
 To understand the # of options on your offer letter, you need to calculate the following:
