@@ -5,7 +5,7 @@ Intern Software Engineer in the Machine Learning team
 
 **Starting date:** 1st of July 2018
 
-**Duration**: Discussed on an individual basis
+**Duration:** Discussed on an individual basis
 
 **Compensation:** 1,200 Euros/month + providing accommodation
 
