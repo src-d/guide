@@ -35,7 +35,8 @@ Slack channels are encouraged to be open to all sourcerers to join. Private chan
 This is where the daily standups happen.
 
 * `#su-general` 
-  * For those of us whose team is too small to warrant its own channel, e.g. CEO
+  * For those of us whose team is too small to warrant their own channel
+* `#su-management`
 * `#su-product`
 * `#su-infrastructure`
 * `#su-data-retrieval`
