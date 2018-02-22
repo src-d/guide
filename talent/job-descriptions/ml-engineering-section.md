@@ -7,7 +7,7 @@ The Machine Learning team is focused on providing intelligent insights into near
 - We enjoy releasing datasets
 - We regularly speak at conferences but it's not required
 
-### To this moment, source{d}'s ML engineers have released:
+### source{d}'s ML engineers have released:
 
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code): everything that we know about MLoSC.
 
