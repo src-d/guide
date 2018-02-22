@@ -5,7 +5,7 @@ Software Engineer in the Machine Learning team
 
 ### [Location & Seniority](../location-seniority-section.md)
 
-**Compensation:** 49-53,000 Euros + 0.1% stock options for senior engineers
+**Compensation:** 60-70,000 Euros + 0.1% stock options for senior engineers
 
 ### [Engineering at source{d}](../ml-engineering-section.md)
 
