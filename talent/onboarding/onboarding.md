@@ -29,7 +29,6 @@
 * Welcome talks with the Founders
 * Welcome talk with the CTO
 * Welcome talk with the Product Manager
-* Welcome talk with the VP of Developer Relations
 
 ### Office
 
