@@ -7,7 +7,7 @@ This section of our guide functions as a snapshot of our latest thinking related
 
 > ‘We want to always remain a company that does everything with the individual developer in mind. Not the developer as an employee of a company, but the developer as an individual in the developer community.’ 
 
-source: [source{d}'s culture document](culture.md#for-developers)
+_source: [source{d}'s culture document](culture.md#for-developers)_
 
 At source{d} we pride ourselves on always choosing to do what is best for the individual developer in the community. This principle is shared by our team members, our management team, the founders, our [advisors](investors_board_advisors.md#advisors), [board of directors](investors_board_advisors.md#board-of-directors) and [shareholders](investors_board_advisors.md#shareholders)).
 
@@ -15,9 +15,9 @@ When thinking about our business model, the most important question for us is:
 
 **By choosing to monetize in this manner, are we still doing what is best for the individual developer in the community?**
 
-An example of a situation where we wouldn't be, is when for instance as a company we would choose to make a core feature that would benefit the individual developer not under an open-source permissive license. 
+This means, for instance, that we will never release a core feature under a license that would not allow individual developers to benefit.
 
-An example of a situation where that would be okay is if the feature truly only benefits an enterprise use case.
+The only case where this would be acceptable if the feature was irrelevant to individual users and only beneficial to large enterprises.
 
 ## Background
 
@@ -29,7 +29,7 @@ Almost every single one of these companies follows what is called the [open-core
 
 It's important to note that while often proprietary means closed source code, it doesn't have to be. You can have your source code open to the world but with a restrictive license that for instance can only be used for academic research.
 
-**Side-note:** as an organization whatever we do, we should never write/implement our own open source licenses, the community has already done a great job of creating and vetting a selection of licenses that are the status quo.
+**Side-note:** as an organization we should never write/implement our own open source licenses, the community has already done a great job of creating and vetting a selection of licenses that are the status quo.
 
 ## source{d} business model
 
@@ -37,9 +37,9 @@ It's important to note that while often proprietary means closed source code, it
 
 To make sure we stay true to doing what is right for individual developers in the community, we do not want to charge any individual users.
 
-We don't believe startups and SME's make up a large enough market to build a sustainable company in the long term. The amount you can charge to small organizations pales in comparission to what you can charge enterprises (value add * # of developers). At the same time, selling to SME's is almost always a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) business.  While there are success stories of this, such as [Travis CI](https://travis-ci.com/) we don't think it's the right route for source{d}. 
+We don't believe startups and SME's make up a large enough market to build a sustainable company in the long term. The amount you can charge to small organizations pales in comparission to what you can charge enterprises (value-add x # of developers). At the same time, selling to SME's is almost always a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) business.  While there are success stories of this, such as [Travis CI](https://travis-ci.com/) we don't think it's the right route for source{d}. 
 
-**source{d} focuses on enterprises as its customers**
+**source{d} focuses on enterprises as customers**
 
 From the point of view of value we can add to an organization, large scale analysis & ML on top of source code shines when there is a large amount of code and a large number of developers.
 
@@ -47,7 +47,7 @@ From the point of view of value we can add to an organization, large scale analy
 
 Today every large organization has become/is becoming a software company. The number of software developers in what were once considered traditional businesses, such as banks and airlines, is often already in the 1,000s or 10,000s.
 
-There is a growing number of challenges that enterprises face within their [Software Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) that can start to be tackled with large scale language-agnostic analysis of their source code, and trained ML models.
+There is a growing number of challenges that enterprises face within their [Software Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) that can be tackled with large scale language-agnostic analysis of their source code, and trained ML models.
 
 ### Business model meets our technology
 
