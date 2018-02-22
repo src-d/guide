@@ -3,6 +3,8 @@ Senior Software Engineer in the Applications team
 
 ### [Location & Seniority](../sf-location-seniority-section.md)
 
+**Compensation:** competitive market salary + 0.1% [stock options](https://github.com/src-d/guide/blob/master/talent/esop.md)
+
 ### [Company](../company-section.md)
 
 ### [Engineering at source{d}](../engineering-section.md)
