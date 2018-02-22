@@ -9,9 +9,9 @@ Software Engineer in the Language Analysis team
 
 ### Role 
 
-The Language Analysis team is developing source{d} tools and libraries for generating and processing universal abstract syntax trees for programming languages. These components are integrated into the [Babelfish](https://github.com/bblfsh) open source project, written in Go, C++, Scala, and any other language that we're parsing. 
+The Language Analysis team is developing source{d} tools and libraries for generating and processing universal abstract syntax trees for programming languages. These components are integrated into the [Babelfish](https://github.com/bblfsh) Open Source project, written in Go, C++, Scala, and any other language that we're parsing. 
 
-Babelfish powers the cutting-edge research that our machine learning team does on their ambitious mission to provide machine learning on source code. Our tools also are being used by a community of developers, researchers, and companies across the world in order to do vanguard research and build the next generation of developer tools.
+Babelfish powers the cutting-edge research that our Machine Learning team does on their ambitious mission to provide Machine Learning on Source Code. Our tools also are being used by a community of developers, researchers, and companies across the world in order to do vanguard research and build the next generation of developer tools.
 
 - Being passionate about programming languages is important as well as an interest in the lexing/parsing/semantic analysis of programming language's interpreters and compilers. 
 

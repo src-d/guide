@@ -9,9 +9,9 @@ Intern Software Engineer in the Machine Learning team
 
 ### Role
 
-This internship targets students and junior engineers who are interested in the field of machine learning on source code. The start and duration of the internship is discussed on an individual basis.
+This internship targets students and junior engineers who are interested in the field of Machine Learning on Source Code. The start and duration of the internship is discussed on an individual basis.
 
-- Strong computer science and machine learning background is essential for machine learning team members. 
+- Strong computer science and Machine Learning background is essential for Machine Learning team members. 
 
 - You will be expected to be a passionate, skilful engineer who is able to produce amazing results quickly and reliably. 
 

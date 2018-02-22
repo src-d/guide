@@ -1,14 +1,14 @@
 
 # Open Source Days
 
-Developers at source{d} dedicate 10% of their development time to open source projects of their choice.
+Developers at source{d} dedicate 10% of their development time to Open Source projects of their choice.
 This is accomplished with Open Source Days (OSD), which happen on the first Monday of each sprint.
 
 ## The Rules
 
 ### Open Source Everything
 
-The result of OSD MUST be open source, whether it is code, prose, a dataset or a [beer recipe](https://github.com/src-d/homebrew). We generally use public GitHub repositories for this. They can be either in a personal account, a dedicated organization or the [src-d organization](https://github.com/src-d).
+The result of OSD MUST be Open Source, whether it is code, prose, a dataset or a [beer recipe](https://github.com/src-d/homebrew). We generally use public GitHub repositories for this. They can be either in a personal account, a dedicated organization or the [src-d organization](https://github.com/src-d).
 
 ### DON'T do your job
 

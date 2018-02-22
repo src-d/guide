@@ -11,7 +11,7 @@ Senior Software Engineer in the Applications team
 
 This position is for a Senior Engineer on the Applications team. 
 
-- You will be expected to have a deep understanding and 2+ years of previous experience working on developer tooling impacting a large # of developers. 
+- You will be expected to have a deep understanding and 2+ years of previous experience working on developer tooling impacting a large number of developers. 
 
 - Your main responsibilities will be prototyping and exploring the future of developer tooling by discovering new applications that could be meaningful to the developer community. 
 
@@ -21,6 +21,6 @@ This position is for a Senior Engineer on the Applications team.
 
 - It's important to combine your coding skills with your social skills in order to demonstrate the developer tools we build to the developer community. 
 
-### [Culture](../sf-culture-section.md)
+### [Culture](../culture-section.md)
 
-### [Perks](../sf-perks-section.md)
+### [Perks](../perks-section.md)
