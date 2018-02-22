@@ -7,9 +7,19 @@ Software Engineer in the Machine Learning team
 
 ### Role 
 
-Strong computer science and machine learning background is essential for data science team members. You will be expected to be a passionate, skillful engineer who is able to produce amazing results quickly and reliably. Coding skills are important; we are using Python 3 and Go in our research and production prototyping. Besides, we occasionally code in C++ and CUDA. MLoSC shares common ideas with Natural Language Processing, so solid **NLP** knowledge is also required. **Deep Learning experience** is highly appreciated.
+- Strong Computer Science and Machine Learning background is required.
 
-### [Culture](../ml-culture-section.md)
+- You will be expected to be a passionate, skillful engineer who is able to produce reliable research and results. 
+
+- Strong programming skills are required; we use Python 3 and Go in our R&D prototyping. 
+
+- Background in C++ and CUDA is considered a plus.
+
+- Machine Learning on Source Code shares common ideas with Natural Language Processing, **NLP** knowledge is required.
+
+- **Deep Learning experience** is highly appreciated.
+
+### [Culture](../culture-section.md)
 
 ### [Perks](../perks-section.md)
 
