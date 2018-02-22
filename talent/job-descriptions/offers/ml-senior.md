@@ -15,9 +15,9 @@ Software Engineer in the Machine Learning team
 
 - Background in C++ and CUDA is considered a plus.
 
-- Machine Learning on Source Code shares common ideas with Natural Language Processing, **NLP** knowledge is required.
+- Machine Learning on Source Code shares common ideas with Natural Language Processing, NLP knowledge is required.
 
-- **Deep Learning experience** is highly appreciated.
+- Deep Learning experience is highly appreciated.
 
 ### [Culture](../culture-section.md)
 
