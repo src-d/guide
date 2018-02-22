@@ -1,4 +1,4 @@
-# source{d} Design Guide
+# source{d} Graphic Design Guide
 
 ### Vision
 
