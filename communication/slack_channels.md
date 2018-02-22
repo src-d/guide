@@ -23,7 +23,7 @@ Slack channels are encouraged to be open to all sourcerers to join. Private chan
 
 * `#eng-team`
 * `#product-team`
-* `#devlrel`
+* `#devrel`
 * `#dev-infrastructure`
 * `#dev-retrieval`
 * `#dev-language-analysis`
