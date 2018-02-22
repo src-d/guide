@@ -7,7 +7,7 @@ Intern Software Engineer in the Machine Learning team
 
 **Duration:** Discussed on an individual basis
 
-**Compensation:** 1,200 Euros/month + providing accommodation
+**Compensation:** 1,200 Euros/month + accommodation
 
 ### [Company](../company-section.md)
 
