@@ -3,13 +3,19 @@ Intern Software Engineer in the Machine Learning team
 
 ### [Location & Seniority](../madrid-location-seniority-section.md)
 
+**Starting date:** 1st of July 2018
+
+**Duration:** Discussed on an individual basis
+
+**Compensation:** 1,200 Euros/month + accommodation
+
 ### [Company](../company-section.md)
 
 ### [Engineering at source{d}](../engineering-section.md)
 
 ### Role
 
-This internship targets students and junior engineers who are interested in the field of Machine Learning on Source Code. The start and duration of the internship is discussed on an individual basis.
+This internship targets students and junior engineers who are interested in the field of Machine Learning on Source Code.
 
 - Strong computer science and Machine Learning background is essential for Machine Learning team members. 
 

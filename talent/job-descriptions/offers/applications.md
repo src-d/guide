@@ -3,6 +3,8 @@ Senior Software Engineer in the Applications team
 
 ### [Location & Seniority](../location-seniority-section.md)
 
+**Compensation:** 49-53,000 Euros + 0.095% [stock options](https://github.com/src-d/guide/blob/master/talent/esop.md) for senior engineers
+
 ### [Company](../company-section.md)
 
 ### [Engineering at source{d}](../engineering-section.md)
