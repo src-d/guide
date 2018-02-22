@@ -3,7 +3,7 @@ Software Engineer in the Language Analysis team
 
 ### [Location & Seniority](../location-seniority-section.md)
 
-**Compensation:** 49-53,000 Euros + 0.01% stock options for senior engineers
+**Compensation:** 49-53,000 Euros + 0.095% stock options for senior engineers
 
 ### [Company](../company-section.md)
 
