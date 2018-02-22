@@ -3,6 +3,8 @@ Intern Software Engineer in the Machine Learning team
 
 ### [Location & Seniority](../madrid-location-seniority-section.md)
 
+**Starting date:** 1st of July 2018
+
 ### [Company](../company-section.md)
 
 ### [Engineering at source{d}](../engineering-section.md)
