@@ -27,7 +27,7 @@ When every document is signed, the last day, the Office Manager has to:
 - Pay the amount for the payslip. 
 - Delete their fingerprint from the lector. 
  
-#### The company decides to fire the employee
+#### The employee leaves involuntarily
 
 There are three types of dismissal:
 1. Objective: it’s based in economic or strategic reasons. The compensation will be 20 days per year worked.
