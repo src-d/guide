@@ -31,7 +31,7 @@ Among others we have the following amenities:
 | Location | Name         |
 |----|--------------------|
 | A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
-| A2 | [Eiso Kant](linkedin.com/in/eisokant)          |
+| A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
