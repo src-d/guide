@@ -9,7 +9,7 @@ The relationship with the company can finish in two different ways:
 _This process describes employees working for the Spanish entity, for the USA this is not yet documented._
 
 - The employee has to inform the company, usually 15 days in advance. 
-- The employee has to sign a resignation letter with their information and the end date, as shown in the [example] (https://drive.google.com/file/d/0B6AGEF9RyVDxdEFULWx1dzNSd0E/view?usp=sharing).
+- The employee has to sign a resignation letter with their information and the end date, as shown in the [example](https://drive.google.com/file/d/1pjKqEeha7_vPIsMB1ykDPWtbTUHgutdo/view?usp=sharing).
 - The company has to give the accountant the following information to prepare the settlement: 
   - End date.
   - Type of leaving: voluntary severance.
