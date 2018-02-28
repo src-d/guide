@@ -22,8 +22,8 @@ Date: 2018-01-15
 
 These are the notes from:
 
-* 2017-01-09 Scrum of Scrums
-* 2017-01-10/11 Workflow discussions
+* 2018-01-09 Scrum of Scrums
+* 2018-01-10/11 Workflow discussions
 
 ## High level description and goals
 
