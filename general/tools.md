@@ -19,3 +19,4 @@ These are the tools that every sourcerer uses:
 * [KinHR](https://kinhr.com)
 * [Docusign](https://www.docusign.com)
 * [Camscanner](https://www.camscanner.com)
+* [Donut](https://src-d.slack.com/apps/A11MJ51SR-donut?page=1)
