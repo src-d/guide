@@ -8,7 +8,7 @@ Date: 2018-01-15
 * [Kanban](#kanban)
   * [Company Kanban](#company-kanban)
   * [Team Kanban](#team-kanban)
-    * [How to pick next issues to worked on?](#how-to-pick-next-issues-to-worked-on)
+    * [How to pick next issues to worked on?](#how-to-pick-next-issues-to-work-on)
 * [Leads Meeting](#leads-meeting)
 * [Team Meeting](#team-meeting)
 * [Standup](#standup)
