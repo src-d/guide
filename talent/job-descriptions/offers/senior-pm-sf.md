@@ -11,7 +11,7 @@ Senior Product Manager
 
 ### Role
 
-This position is for a Senior Product Manager at source{d}
+This position is for a Senior Product Manager at source{d}.
 
 - You will be expected to have previous experience in defining and delivering products with impact for a large number of developers. 
 
