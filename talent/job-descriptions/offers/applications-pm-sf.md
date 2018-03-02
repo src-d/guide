@@ -19,7 +19,7 @@ This position is for a Senior Product Manager on the Applications team.
 
 - You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow, Tensorboard, CUDA, so familiarity with any of those tools is a plus.
 
-- It's essential to manage communication within the developer community as well as with eventual customers
+- It's essential to manage communication within the developer community as well as with eventual customers.
 
 - It's important to combine your product management skills with your coding skills in order to demonstrate the developer tools we build to the developer community. 
 
