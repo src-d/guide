@@ -73,6 +73,8 @@ Anyone can join [here](http://bit.ly/src-d-community)
   * Oriented towards those learning Python but also general interesting Python news   
 * `#goodtalks`
   * A place to share good tech talks somehow related to what we do at source{d}
+* `#sourcerers-matchup`
+  * [Join](https://github.com/src-d/guide/blob/master/communication/donut.md) it to be paired with a sourcerer every two weeks for an informal chat to get to know each other better
 
 ### Private channels
 
