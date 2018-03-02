@@ -1,4 +1,4 @@
-Senior Product Manager in the Applications team
+Senior Product Manager
 ------------------------------------------
 
 ### [Location & Seniority](../sf-location-seniority-section.md)
@@ -11,15 +11,15 @@ Senior Product Manager in the Applications team
 
 ### Role
 
-This position is for a Senior Product Manager on the Applications team. 
+This position is for a Senior Product Manager at source{d}
 
-- You will be expected to have previous experience in defining and delivering products with impact in a large number of developers. 
+- You will be expected to have previous experience in defining and delivering products with impact for a large number of developers. 
 
 - A significant amount of time you will be prototyping and exploring the future of developer tooling by discovering new applications that could be meaningful to the developer community. 
 
 - You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow, Tensorboard, CUDA, so familiarity with any of those tools is a plus.
 
-- It's essential to manage communication within the developer community as well as with eventual customers.
+- It's essential to manage communication within the developer community as well as with customers.
 
 - It's important to combine your product management skills with your coding skills in order to demonstrate the developer tools we build to the developer community. 
 
