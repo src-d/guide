@@ -1,12 +1,12 @@
 # Events
 
-## January
+## January 2017
 
 |Conference                       |Location|Status       |Topic        |
 |---------------------------------|--------|-------------|-------------|
 |[Golab](https://golab.io/)       |Italy   |             |             |
 
-## February
+## February 2017
 
 |Conference                               |Location     |Status       |Topic        |
 |-----------------------------------------|-------------|-------------|-------------|
@@ -14,7 +14,7 @@
 |[Gitmerge](http://git-merge.com/)        |Brussels     |Speakers :rocket: |        |
 |[DeveloperWeek](http://www.developerweek.com/) |US     |             |             |
 
-## March
+## March 2017
 
 |Conference                       |Location     |Status       |Topic     |
 |---------------------------------|-------------|-------------|----------|
@@ -23,7 +23,7 @@
 |[FOSSASIA](https://2017.fossasia.org/)        |Singapore     |Speakers :rocket: |        |
 
 
-## April
+## April 2017
 
 |Conference                       |Location     |Status       |Topic     |
 |---------------------------------|-------------|-------------|----------|
@@ -32,7 +32,7 @@
 |[DotAI](https://www.dotai.io/)   |Paris        |Attendees    |          |
 |[ReactAmsterdam](https://react.amsterdam/)| Amsterdam |Attendees  |     |
 
-## May
+## May 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
@@ -45,7 +45,7 @@
 |[PyData Barcelona](https://pydata.org/barcelona2017/)|Barcelona|Attendees| |
 |[PyData London](https://pydata.org/london2017/)|London|      |             |
 
-## June
+## June 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
@@ -53,20 +53,20 @@
 |[Re-Work DL Summit](https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017)|Amsterdam |              |             |
 |[PyParis](http://pyparis.org/)   |Paris        |             |             |
 
-## July
+## July 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
 |[GopherCon](https://gophercon.com/)|Denver     |             |             |
 |[PolyConf](https://polyconf.com/)|Paris        |             |             |
 
-## August
+## August 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
 |[GolangUK](https://www.golanguk.com/)|London   |CFP Submitted|             |
 
-## September
+## September 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
@@ -76,7 +76,7 @@
 |[Re-Work DL Summit](https://www.re-work.co/events/deep-learning-summit-london-2017)  |London |CFP Open     |             |
 |[Signal](https://www.twilio.com/signal/london) |London       |      |      |
 
-## October
+## October 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
@@ -87,7 +87,7 @@
 |[DockerCon EU](https://europe-2017.dockercon.com/)| Multiple |       |     |
 | Open Source Summit Europe | Prague | Speakers 🚀 | [source{d} stack + licensing app](https://docs.google.com/presentation/d/e/2PACX-1vRExSOGd2Pmz2oV237bfqwHyPyW8Yg2rydmdt8oSPZC3_uM0SnA5BTORxT9J52ONCtbNOf5CzfN0ZaT/pub?start=false&loop=false&delayms=3000) |
 
-## November
+## November 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
@@ -95,7 +95,7 @@
 |[AIFORSE](http://archive.is/VHgeP)|Barcelona   |Speakers/sponsors :rockt:| [src-d stack + background](https://docs.google.com/presentation/d/1LGt8MdoBmgxOAujn8xGTT_KmZRDXPI2Fv_8Na1xWYHg/edit)|
 
 
-## December
+## December 2017
 
 |Conference                       |Location     |Status       |Topic        |
 |---------------------------------|-------------|-------------|-------------|
