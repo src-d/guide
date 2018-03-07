@@ -13,5 +13,5 @@
 * [One-On-One Meetings Guide](one_on_one_guide.md)
 * [Open Source Days](open_source_days.md)
 * Career development
-* [sourcerers](sourcerers.md)
+* [sourcerers](sourcerers)
 * [Offboarding](offboarding.md)
