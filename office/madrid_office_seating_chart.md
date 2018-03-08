@@ -11,7 +11,7 @@ Among others we have the following amenities:
 ## Madrid Office Seating Chart
 
 ```
-+------+   +----+----+   +----+----estherrgarcia-patch-1+   +----+----+   |  |   +----+----+   +----+----+
++------+   +----+----+   +----+----+   +----+----+   |  |   +----+----+   +----+----+
 |  A1  |   |    |    |   |    |    |   |    |    |   |  |   |    |    |   |    |    |
 +------+   | B1 | B2 |   | C1 | C2 |   | D1 | D2 |   |  |   | E1 | E2 |   | F1 | F2 |
 |  A2  |   |    |    |   |    |    |   |    |    |   |  |   |    |    |   |    |    |
@@ -35,7 +35,7 @@ Among others we have the following amenities:
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B6 | [Waren Long](https://github.com/warenlg) |
-| B1 | [Romian Keramitas](https://github.com/r0mainK) |
+| B1 | [Romain Keramitas](https://github.com/r0mainK) |
 | B3 | [Gabor Markowski](https://github.com/fulaphex) |
 | C2 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | C4 | [Javier Fontán](https://github.com/jfontan)      |
