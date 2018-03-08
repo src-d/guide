@@ -1,5 +1,5 @@
 # source{d} Office
-The source{d} office is designed to fit our culture of "For Developers, By Developers". You'll find many historic characters who have been important contributors to computer science painted on the wall or giving names to meeting rooms. We also have our own green zone with a full wall in the kitchen and in the relx area being covered with natural moss.<br>
+The source{d} office is designed to fit our culture of "For Developers, By Developers". You'll find many historic characters who have been important contributors to computer science painted on the wall or giving names to meeting rooms. We also have our own green zone with a full wall in the kitchen and in the relax area being covered with natural moss.<br>
 Among others we have the following amenities:
 * Soft drinks, beer and coffee
 * Fruit and ice creams (we love ice cream)
@@ -11,7 +11,7 @@ Among others we have the following amenities:
 ## Madrid Office Seating Chart
 
 ```
-+------+   +----+----+   +----+----+   +----+----+   |  |   +----+----+   +----+----+
++------+   +----+----+   +----+----estherrgarcia-patch-1+   +----+----+   |  |   +----+----+   +----+----+
 |  A1  |   |    |    |   |    |    |   |    |    |   |  |   |    |    |   |    |    |
 +------+   | B1 | B2 |   | C1 | C2 |   | D1 | D2 |   |  |   | E1 | E2 |   | F1 | F2 |
 |  A2  |   |    |    |   |    |    |   |    |    |   |  |   |    |    |   |    |    |
@@ -34,8 +34,9 @@ Among others we have the following amenities:
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
-| B5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
 | B6 | [Waren Long](https://github.com/warenlg) |
+| B1 | [Romian Keramitas](https://github.com/r0mainK) |
+| B3 | [Gabor Markowski](https://github.com/fulaphex) |
 | C2 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | C4 | [Javier Fontán](https://github.com/jfontan)      |
 | C5 | [Miguel Molina](https://github.com/erizocosmico)      |
@@ -50,4 +51,6 @@ Among others we have the following amenities:
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
 | F2/F4| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F1 | [Juanjo Álvarez](https://github.com/juanjux)     |
+| F3 | [Denys Smirnov](https://github.com/dennwc)     |
+| F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
 | F6 | [Anna Tsolakou](https://www.linkedin.com/in/tsolakouanna/)   |
