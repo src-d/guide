@@ -2,11 +2,11 @@ This document describes the engineering teams at source{d} and how they interact
 
 ### Machine Learning Team
 
-- The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLoSC).
+- The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLonCode).
 
 ### Applications Team
 
-- The Applications team applies the whole stack and expertise to solve real word problems as code duplication, smart diffs, search for repositories, projects evolving reports. This is done by implementing CLI/Web applications on top of the MLoSC research. Simple and intuitive applications are written mainly in Go and Scala, based on developer tooling prototypes.
+- The Applications team applies the whole stack and expertise to solve real word problems as code duplication, smart diffs, search for repositories, projects evolving reports. This is done by implementing CLI/Web applications on top of the MLonCode research. Simple and intuitive applications are written mainly in Go and Scala, based on developer tooling prototypes.
 
 ### Data Retrieval Team 
 
