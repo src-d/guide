@@ -1,6 +1,6 @@
 ### Engineering at source{d}
 
-The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLoSC).
+The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLonCode).
 
 - Tools and work is always open-sourced to benefit the community
 - Publishing papers and blog posts is encouraged and part of our workflow
@@ -9,9 +9,9 @@ The Machine Learning team is focused on providing intelligent insights into near
 
 ### source{d}'s ML engineers have released:
 
-- [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code): everything that we know about MLoSC.
+- [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code): everything that we know about MLonCode.
 
-- [ml](https://github.com/src-d/ml): MLoSC framework.
+- [ml](https://github.com/src-d/ml): MLonCode framework.
 
 - [apollo](https://github.com/src-d/apollo): modular source code de-duplication research project.
 
