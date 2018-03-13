@@ -6,7 +6,7 @@ This document describes the engineering teams at source{d} and how they interact
 
 ### Applications Team
 
-- The Applications team applies the whole stack and expertise to solve real word problems as code duplication, smart diffs, search for repositories, projects evolving reports. This is done by implementing CLI/Web applications on top of the MLonCode research. Simple and intuitive applications are written mainly in Go and Scala, based on developer tooling prototypes.
+- The Applications team applies the whole stack and expertise to solve real word problems as code duplication, smart diffs, search for repositories, projects evolving reports. This is done by implementing CLI/Web applications on top of the MLonCode research as well as the other teams main tools, like BabelFish, Engine, GitBase etc. Simple and intuitive applications are written mainly in Go and Scala, based on developer tooling prototypes.
 
 ### Data Retrieval Team 
 
