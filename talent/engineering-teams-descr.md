@@ -30,7 +30,7 @@ This document describes the engineering teams at source{d} and how they interact
 
 ### Communication 
 
-- The ```Applications``` team is responsible for building scalable developer tools on top of the research the ```Machine Learning``` team is doing. The ```Data Retrieval``` team retrieves and processes public source code in order to build the data pipelines for the Machine Learning team’s models. For that, BabelFish from ```Language Analysis``` team is used in order to generate the datasets as Universal Abstract Syntax tree to be analyzed directly or given as input data to train the ML models. All the necessary services and computational clusters for every team, are supported by the Infrastructure team.
+- The ```Applications``` team is responsible for building scalable developer tools on top of the research of the ```Machine Learning``` team and code analysis of the ```Language Analysis``` team. The ```Data Retrieval``` team retrieves and processes public source code in order to build the data pipelines for the Machine Learning team’s models. Also, BabelFish from ```Language Analysis``` team is used in order to generate the datasets as Universal Abstract Syntax trees to be analyzed directly or given as input data to train the ML models. All the necessary services and computational clusters for every team, are supported by the Infrastructure team.
 
 - Below are shown these interaction layers in an abstract way: 
 
