@@ -21,4 +21,4 @@ to your daily job.
 
 1. **Share your plan.** You should briefly explain what you are going to do and what do you expect to accomplish by the end of the day. Explanations about the project you're going to contribute are done in the `#osd` slack channel, in the beginning of the day.
 2. **Do it.** Execute your plan for the day and push it!
-3. **Demo.** At the end of the day, everyone presents their work in the `#osd` slack channel with the corresponding source code and description.
+3. **Presentation.** At the end of the day, everyone presents their work in the `#osd` slack channel with the corresponding source code and description.
