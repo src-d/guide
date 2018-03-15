@@ -2,7 +2,7 @@
 # Open Source Days
 
 Developers at source{d} dedicate 10% of their development time to Open Source projects of their choice.
-This is accomplished with Open Source Days (OSD), which happen every two weeks, on Mondays.
+This is accomplished with Open Source Days (OSD) every two weeks, on Mondays.
 
 ## The Rules
 
