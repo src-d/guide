@@ -6,7 +6,7 @@
 
 1. [For Spanish residents](spanish_residents.md)
 2. [For EU residents](eu_residents.md)
-3. For Non-EU residents
+3. [For Non-EU residents](Non-EU_residents.md)
 
 ### Guide 
 
