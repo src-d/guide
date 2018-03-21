@@ -2,17 +2,18 @@ This document describes the engineering teams at source{d} and how they interact
 
 ### Machine Learning Team
 
-- The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using deep learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLonCode).
+- The Machine Learning team is focused on providing intelligent insights into nearly all the world's Open Source code. This includes typical Big Data analysis as well as solving sophisticated Machine Learning problems. The former is conducted on Apache Spark clusters, the latter leverages extensive GPGPU acceleration on custom hardware using Deep Learning techniques. Often ML problems we face are unsupervised and require novel research in the domain of ML on source code (MLonCode).
 
 ### Applications Team
 
-- The Applications team applies the whole stack and expertise to solve real word problems as code duplication, smart diffs, search for repositories, projects evolving reports. This is done by implementing CLI/Web applications on top of the MLonCode research as well as the other teams main tools, like BabelFish, Engine, GitBase etc. Simple and intuitive applications are written mainly in Go and Scala.
+- The Applications team applies the whole stack and expertise to solve real word problems such as automated code review, bug detection & prediction, test cases generation, security vulnerabilities and more. This is done by implementing CLI/Web applications on top of the MLonCode research as well as the other teams' main tools, like BabelFish and Engine. Simple and intuitive applications are written mainly in Go and Scala.
 
-### Data Retrieval Team 
+### Data Retrieval Team
 
-- The Data Retrieval team is developing source{d}'s high-level Engine for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Scala, it aims to be robust, friendly and flexible: it is built on top of Apache Spark, accessible both via Scala and Python Spark APIs, and capable of running on large-scale distributed clusters over petabytes of data. 
+- The Data Retrieval team is developing source{d}'s high-level Engine for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Scala, it aims to be robust, friendly and flexible: it is built on top of Apache Spark, accessible both via Scala and Python Spark APIs, and capable of running on large-scale distributed clusters over petabytes of data. This core tool will be used for building source{d}'s unique global scale open dataset of +60M code repositories for our Machine Learning research on source code.
 
-- This core tool will be used for building source{d}'s unique global scale open dataset of +60M code repositories for our Machine Learning research on source code. 
+- Besides that, the team is developing GitBase, an SQL interface to Git repositories, written in Go.
+
 
 ### Language Analysis Team
 
@@ -26,7 +27,7 @@ This document describes the engineering teams at source{d} and how they interact
 
 - Besides that, the infrastructure team is also in charge of several other important services, such as databases, queues, CI, monitorization, logging, etc.
 
-### Communication 
+### Communication
 
 - The ```Applications``` team is responsible for building scalable developer tools on top of the research of the ```Machine Learning``` team and code analysis of the ```Language Analysis``` team. The ```Data Retrieval``` team retrieves and processes public source code in order to build the data pipelines for the Machine Learning team’s models with the support of ```Language Analysis```. Also, BabelFish from ```Language Analysis``` team is used in order to generate the datasets as Universal Abstract Syntax trees to be analyzed directly or given as input data to train the ML models. All the necessary services and computational clusters for every team, are supported by the ```Infrastructure team```.
 
