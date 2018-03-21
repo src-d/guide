@@ -27,8 +27,8 @@ digraph G {
 	dataset -> kernel [ label = "feeds" ];
         {kernel dataset} -> model [ label = "generates" ];
         model -> problem [ label = "solves" ];
-        predictor -> model [ label = "uses" ];
-        predictor -> problem [ label = "solves" ];
+        inferencer -> model [ label = "uses" ];
+        inferencer -> problem [ label = "solves" ];
 }
 -->
 
@@ -97,20 +97,20 @@ exactly.
 Datasets evolve over time, and it's important to have versions
 that can be explicitly referred to from trained models.
 
-### Predictor
+### Inferencers
 
-The last piece of the puzzle is what I call a predictor.
-A predictor uses a model (sometimes more, sometimes no model
+The last piece of the puzzle is what I call inferencer.
+An inferencer uses a model (sometimes more, sometimes no model
 at all) to predict the answer to a question given some input.
 
 For instance, given a model trained with a large dataset of
-the keystrokes of thousands of developers, we could write a
-predictor that uses that trained model to create predictions.
-That would be a pretty decent predictor.
+the keystrokes of thousands of developers, we could write an
+inferencer that uses that trained model to create predictions.
+That would be a pretty decent inferencer.
 
 But we could also use a simple function that outputs random
 ASCII codes, ignoring any other information available. This
-predictor would probably have a lower accuracy for the given
+inferencer would probably have a lower accuracy for the given
 problem.
 
 ## Documenting these Artifacts
@@ -182,9 +182,15 @@ Since we care about individual versioning of datasets and models,
 it seems like it's an obvious choice to use a git repository per dataset,
 and model.
 
-Problems, predictors, and kernels can, for now, be documented directly with
+Problems, inferencers, and kernels can, for now, be documented directly with
 a model. If we see that we start to have too much repetition because we have
 many models for a single problem we will reassess this decision.
+
+As any other source{d} repository, we need to follow the guidelines in
+[Documentation at source{d}](https://github.com/src-d/guide/blob/master/engineering/documentation.md).
+This includes having a CONTRIBUTING.md, Code of Conduct, etc.
+
+This is an initial list of the information required per repository.
 
 ### Dataset Repository
 
@@ -227,14 +233,11 @@ A dataset repository should contain the following information:
         - metaparameters if any
         - any other relevant details
 
-### General
-
-As any other source{d} repository, we need to follow the guidelines in
-[Documentation at source{d}](https://github.com/src-d/guide/blob/master/engineering/documentation.md).
-This includes having a CONTRIBUTING.md, Code of Conduct, etc.
+### Versioning and Releases
 
 Every time a new version of a dataset or model is released a new tag and
 associated release should be created in the repository.
+
 The release should include links to anything that has changed since the
 previous relaease: such as a new version of the datasets or changes in
 the kernel.
