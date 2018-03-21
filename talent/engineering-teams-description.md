@@ -12,7 +12,7 @@ This document describes the engineering teams at source{d} and how they interact
 
 - The Data Retrieval team is developing source{d}'s high-level Engine for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Scala, it aims to be robust, friendly and flexible: it is built on top of Apache Spark, accessible both via Scala and Python Spark APIs, and capable of running on large-scale distributed clusters over petabytes of data. This core tool will be used for building source{d}'s unique global scale open dataset of +60M code repositories for our Machine Learning research on source code.
 
-- Besides that, the team is developing GitBase, an SQL interface to Git repositories, written in Go.
+- Besides that, the team is developing GitBase, an SQL interface to Git repositories written in Go.
 
 
 ### Language Analysis Team
