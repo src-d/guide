@@ -6,6 +6,7 @@
   * [Hiring Process](hiring_process.md)
   * [Application Process](application-process.md)
   * [Job Descriptions](job-descriptions/)
+  * [Engineering Teams Description](engineering-teams-description.md)
   * [Relocation Support](relocation_expenses.md)
   * [Flexible Holidays, Working Schedule and Remote Work](flexible_holidays_working_schedule_remote_work.md)
   * [Stock Option Plan](esop.md)
