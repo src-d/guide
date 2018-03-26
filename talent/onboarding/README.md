@@ -89,4 +89,4 @@ At the San Francisco office, we provide:
 
 #### San Francisco Conference Rooms
 
-- Since we're sharing the space with Holberton, the rooms are on use them as you need basis (they can't be reserved).
+- Since we're sharing the space with Holberton, we are able to make use of the conference rooms when necessary, but they can't be reserved.
