@@ -43,7 +43,7 @@ Usually, the Consulate needs 10 labor days.
 
 When the candidate gets the visa, he is ready to travel to Spain. When he arrives at the airport, he has to get an entry stamp in the passport. 
 
-The lawyer will arrange an appointment with the police to save the fingerprints and be able to get the resident card. After the appointment they need around 3 weeks to generate the resident card. 
+The lawyer will arrange an appointment with the police to save the fingerprints and be able to get the resident card. After the appointment, they need around 3 weeks to generate the resident card. The resident card is valid for two years.
 
 To start to work, the candidates need the social security number, mean that we start to follow the same steps that we need to do with the EU residents. 
 
@@ -87,5 +87,42 @@ With this document, the candidate has to go to the clinic (Centro de Salud) clos
 If the candidate has a family, he needs to [ask for an appointment](https://w6.seg-social.es/ProsaInternetAnonimo/OnlineAccess?ARQ.SPM.ACTION=LOGIN&ARQ.SPM.APPTYPE=SERVICE&ARQ.IDAPP=XV106001) to be able to add the family as “beneficiarios”.  Fill in your data and choose “Prestaciones: presentación solicitudes y  documentos” → “ Asist. Sanitaria Nacional(Inclusión Beneficiarios)” choose the office and the date. 
 
 With this document the candidate has to go to the closest clinic (Centro de Salud) to their house and ask for the Health card (Tarjeta sanitaria).
+
+## Spanish Residence Permit Renewal 
+
+We have to apply to renew the resident card within 60 days before the card expires. See below a list of documents we will need to renew the permit. 
+
+1. Company:
+   - Informe de Comercio
+
+2. Employee:
+   - Passport copy - all pages. We need to show them you didn’t leave the country more than 6 months per year.
+   - Resident card - copy
+   - Contract work - copy
+   - Last three payslips - copy
+   - Letter from HR department with a certification of the employee is working at the same position.
+   - Labor life certificate
+   - Authorization letting the lawyer presents the application
+   - Form to apply
+   - Model 038 - paid tax
+
+
+If the employee has a family, we will also need:
+
+3. Wife/Husband
+   - Passport copy - all pages. We need to show them your wife/husband didn’t leave the country more than 6 months per year.
+   - Resident card - copy
+   - Authorization letting lawyer presents the application
+   - Form to apply
+   - Model 038 - paid tax
+   - Marriage Affidavit 
+   
+4. Children
+   - Passport copy - all pages. We need to show them your children didn’t leave the country more than 6 months per year.
+   - Resident card - copy
+   - Authorization letting the lawyer presents the application
+   - Form to apply
+   - Model 038 - paid tax
+   - Declaration Living together
 
 
