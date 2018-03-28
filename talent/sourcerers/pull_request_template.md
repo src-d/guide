@@ -32,7 +32,15 @@
 
 {answer}
 
+* Would you like to share with us a story about yourself?
+
+{answer}
+
 * What food do you like and dislike?
+
+{answer}
+
+* What is your favorite quote?
 
 {answer}
 
