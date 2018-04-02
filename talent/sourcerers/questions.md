@@ -3,7 +3,7 @@
 **General**
 - What's your name? How do your friends call you? 
   - {answer}
-- How old are you?
+- When were you born?
   - {answer}
 - Where are you from? Where have you lived?
   - {answer}
