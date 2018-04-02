@@ -2,7 +2,7 @@
 
 According to research, it becomes harder to establish a personal relationship with other team members when working remotely.
 
-In order to know you better, as a new member we would like you to reply a few have personal questions, as well as share with us your social media accounts you are comfortable with. By doing so we can establish more personal relationships outside of work activities.
+In order to know you better, as a new member we would like you to reply a few personal questions, as well as share with us your social media accounts you are comfortable with. By doing so we can establish more personal relationships outside of work activities.
 
 We have created a list of the questions and below are the instructions on how to successfully respond to the questions and make other members read them. If there are any questions you don't feel comfortable to answer, feel free to skip them.
 
