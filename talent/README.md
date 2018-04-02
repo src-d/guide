@@ -21,6 +21,6 @@
   * [One-On-One Meetings Guide](one_on_one_guide.md)
   * [Open Source Days](open_source_days.md)
   * ["By Developers" Training](by-developers-training/README.md)
-  * Sourcerers
+  * [sourcerers](sourcerers/)
   * Career Development
 
