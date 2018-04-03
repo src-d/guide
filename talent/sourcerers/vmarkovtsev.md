@@ -9,6 +9,7 @@
   - Russia / [Sergiev Posad](https://www.google.com/maps/place/Sergiev+Posad,+Moscow+Oblast,+Russia/@56.3075296,38.1951011,18.7z/data=!4m5!3m4!1s0x46b4c4569e0e0089:0x7c774b9d4054fb61!8m2!3d56.3242317!4d38.1452115)
 - What languages (natural and programming ones) do you know?
   - Russian, English, Spanish (un poquito), Korean (아이스크림)
+  - Python, Go, C++, C, CUDA, Bash, HTML+CSS (amateur), JS (spaghetti), C# (8 years ago)
 - Would like to share your Twitter, Instagram or Medium or any other social media account?
   - [@tmarkhor](https://twitter.com/tmarkhor)
 
