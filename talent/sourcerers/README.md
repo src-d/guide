@@ -10,4 +10,4 @@ We have created a list of the questions and below are the instructions on how to
 - Create a new file (your_GitHub_username.md) in a new branch with your responses on the template you copied and create a Pull Request
 - Your file should be placed in this folder
 
-For people concerned about they privacy, they can instead create the Pull Request with their answers in the [company](https://github.com/src-d/company/tree/master/sourcerers) repository.
+For people concerned about their privacy, they can instead create the Pull Request with their answers in the [company](https://github.com/src-d/company/tree/master/sourcerers) repository.
