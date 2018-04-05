@@ -20,7 +20,7 @@
 ## Work
 
 - What are you going to be doing at source{d}?
-  - I've been working at source{d} since Ago.2016; I entered in Tools team, then it was renamed
+  - I've been working at source{d} since Aug.2016; I entered in Tools team, then it was renamed
     to Platform, then it was renamed to Applications. I do front and back stuff :D
 - Why did you join source{d}?
   - Before joining the company I already worked for almost 2 years with ex-sourcerers; I did not
@@ -43,7 +43,7 @@
     - sports:
       - Biking, I do it for commuting,
       - Hiking, I love the nature,
-      - Climbing ([bouldering](https://en.wikipedia.org/wiki/Bouldering#Indoor_bouldering)), I learned on Ago.2017 and I'm loving it every weekend,
+      - Climbing ([bouldering](https://en.wikipedia.org/wiki/Bouldering#Indoor_bouldering)), I learned on Aug.2017 and I'm loving it every weekend,
       - I started liking Yoga, but I'm not sure if I'll find time for doing it,
     - thinking:
       - Photography, but I have not enough time to develop the huge amount of photos I take,
@@ -63,7 +63,7 @@
 - What’s your favorite knock-knock joke?
   - I have no memory for jokes, sorry
 - If you could have a coffee with any person in the world, who would it be?
-  - A coffee?? any politician or philosophist to discuss whatever topic...
+  - A coffee?? any politician or philosopher to discuss whatever topic...
   - But I'd rather prefer to spend one day/week/month working with a nature/war photographer like [Jayaprakash Bojan](http://photography.nationalgeographic.com/nature-photographer-of-the-year-2017/gallery/winners-all/1/) or [Javier Manzano](http://framework.latimes.com/2013/04/15/2013-pulitzer-prize-winners/#/0),
     or an architect like [Gehry](https://www.thomasmayerarchive.de/categories.php?cat_id=313&sessionid=2013a9944085d8f25d85084eff87dafa&l=english#&gid=1&pid=98) or [Libeskind](https://www.jmberlin.de/en/libeskind-building).
 - Would you like to share with us a story about yourself?
