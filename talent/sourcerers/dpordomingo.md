@@ -74,7 +74,7 @@
   - like: Bread and Cheese; meet and fish; pizza; traditional food...
   - dislike: almost nothing...
 - What is your favorite quote?
-  - _&laquo;No corras, a donde has de llegar es a tí mismo.&raquo;_ (adapted from
+  - _&laquo;No corras, a donde has de llegar es a ti mismo.&raquo;_ (adapted from
     [a poem](https://books.google.es/books?id=aMu1zzDK9g8C&pg=PA88&dq=%C2%A1No+corras.+Ve+despacio,+que+adonde+tienes+que+ir+es+a+ti+solo!+juan+ramon+jimenez&hl=es&sa=X&ei=l4brU5T9CeSR7AaB_oGQAQ#v=onepage&q=%C2%A1No%20corras.%20Ve%20despacio%2C%20que%20adonde%20tienes%20que%20ir%20es%20a%20ti%20solo!%20juan%20ramon%20jimenez)
     wrote by [Juan Ramón Jimenez](https://en.wikipedia.org/wiki/Juan_Ramón_Jiménez))<br />
     (do not run, your destiny should be yourself)
