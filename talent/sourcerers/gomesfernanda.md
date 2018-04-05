@@ -4,7 +4,7 @@
 - What's your name? How do your friends call you? 
   - Fernanda. My friends call me "Fê" or "Fer".
 - When were you born?
-  - June 2nd, 1984.
+  - June 1984.
 - Where are you from? Where have you lived?
   - I'm naturally from Santos/BR. I lived in Santos, Campinas and São Paulo (Brazil, the three of them).
 - What languages (natural and programming ones) do you know?
@@ -15,7 +15,7 @@
 
 **Work**
 - What are you going to be doing at source{d}?
-  - Data Intelligence team, really close to Products team. I work collecting and turning data into nice dashboards, reports, charts, according to requests from Operations, Products, Developer Community, Engineering.
+  - Data Intelligence, under Product Team. I work turning the internal and external reality into actionable insights for decision-making in a variety of levels and teams; this could take the form of spreadsheets, data pipelines, software, dashboards, reports, presentations, recommendations… a.k.a. data science when closer to business than to research.
 - Why did you join source{d}?
   - Super great opportunity! I was living in Brazil and studying Machine Learning when I heard source{d} needed a Data Intelligence analyst. A great job in a great company that's located in a great city.
 - Where will you work from?
