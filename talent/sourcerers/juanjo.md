@@ -99,7 +99,7 @@
 - What food do you like and dislike?
   - I like almost everything but I don't like eating babies (chochinillo,
     cordero lechal) and I dislike some green stuff like spinachs or some
-    disgusting thinks like snails or frogs.
+    disgusting things like snails or frogs.
 - What is your favorite quote?
   - "And thou, Melkor, shalt see that no theme may be played that hath not its
     uttermost source in me, nor can any alter the music in my despite. For he
@@ -108,7 +108,7 @@
     need some explanation: it's what Iluvatar (the creator god in Tolkien
     universe) tells, in the Silmarillion, to Melkor (the evil god) about the
     evil he is causing, saying that all the evils he do will ultimately make
-    it's world (song) more wonderful and thus better. I would like to think that
+    its world (song) more wonderful and thus better. I would like to think that
     this also applies to the small scale and that hardships ultimately make us
     better. Tolkien works are really full of subtle philosophic stuff that fly
     under most readers radar.
