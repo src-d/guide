@@ -188,7 +188,26 @@ and documentation conventions.
 
 A very good example of `CONTRIBUTING.md` is the one from [angular.js](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md).
 
-If you're starting from scratch, considering using this [template](documents/CONTRIBUTING.md).
+If you're starting from scratch, create a new `CONTRIBUTING.md` file pointing to this
+[general contribution guidlines](documents/CONTRIBUTING.md).
+
+Then add any project specific instructions in a different section of your own `CONTRIBUTING.md`.
+
+Feel free to use the following template:
+
+```markdown
+# [Project Name] Contribution Guidelines
+
+As all source{d} projects, this project follows the
+[source{d} Contributing Guidelines](https://github.com/src-d/guide/blob/master/engineering/documents/CONTRIBUTING.md).
+
+## Additional Contribution Guidelines
+
+In addition to the [source{d} Contributing Guidelines](https://github.com/src-d/guide/blob/master/engineering/documents/CONTRIBUTING.md),
+this project follows the following guidelines.
+
+...
+```
 
 TL;DR:
 - Audience: Contributors.
@@ -249,8 +268,7 @@ TL;DR:
 All projects under the source{d} organization should mention the Code of Conduct available
 in https://www.contributor-covenant.org/.
 
-You can simply copy paste this markdown into your `README.md` and
-inside `.github/CODE_OF_CONDUCT` for each repository.
+You can simply copy paste this markdown into your `README.md`.
 
 ```markdown
 # Code of Conduct
