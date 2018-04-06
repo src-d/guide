@@ -9,5 +9,6 @@ We have created a list of the questions and below are the instructions on how to
 - Copy the content of the [questions](questions.md)
 - Create a new file (your_GitHub_username.md) in a new branch with your responses on the template you copied and create a Pull Request
 - Your file should be placed in this folder
+- You can merge your commit(s) after your answers have been approved and/or suggestions have been done, ideally in a few days so everyone will have the chance to read them, as the open PR provides more visibility. 
 
 For people concerned about their privacy, they can instead create the Pull Request with their answers in the [company](https://github.com/src-d/company/tree/master/sourcerers) repository.
