@@ -2,9 +2,9 @@
 
 **General**
 - What's your name? How do your friends call you?
-  - The official name is Jakub, but as short version/nickname _Kuba_ is commonly used. Also all friends call me _Kuba_, so I prefer _Kuba_.
+  - The official name is Jakub, but as a short version/nickname _Kuba_ is commonly used. Also all friends call me _Kuba_.
 - When were you born?
-  - 0x7BB
+  - 0x1A Feb 0x7BB
 - Where are you from? Where have you lived?
   - I'm originally from Lublin (Poland), but I also lived for couple years in San Francisco (US) and now in Kraków (Poland).
 - What languages (natural and programming ones) do you know?
