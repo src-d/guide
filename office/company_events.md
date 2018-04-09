@@ -9,7 +9,7 @@ Some activities let us be more flexible (beers) while others have to follow a sp
   - We will tell you if the activity is only for sourcerers or your +1s are also invited to join. If the plan is beers,         your +1s are included by default.  
   - We try to do something nice and cool without being overpriced but we don’t have a specific budget since each get together is different.
   - Check out our [history of past get togethers](get_together_history.md)
-  - Feel free to suggest ideas (reasonable ones) in Slack channel, #get-together, we will check if it is viable for us. 
+  - Feel free to suggest ideas (reasonable ones) in Slack channel, #get-together, we will check if it is viable for us :)
  
 
 ## Friday Lunchs
