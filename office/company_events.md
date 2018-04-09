@@ -7,9 +7,9 @@ Some activities let us be more flexible (beers) while others have to follow a sp
   - The starting time usually is around 7 pm and the duration is around 2-3 hours. If the activity is only 1 hour (like a Yoga class) we will add some beers after that. 
   - The goal of this event is to increase the knowledge within the team. The minimun amount of people is 35% - 40% of the employees. If we see there are not a lot of people joining because of the date (not because of the activity) we will try to change it to be able to put together more people.
   - We will tell you if the activity is only for sourcerers or your +1s are also invited to join. If the plan is beers,         your +1s are included by default.  
-  - We try to do something nice and cool without being overpriced but we don’t have a specific budget.
+  - We try to do something nice and cool without being overpriced but we don’t have a specific budget since each get together is different.
   - Check out our [history of past get togethers](get_together_history.md)
-  - Feel free to suggest ideas in Slack channel, #get-together, we will check if it is viable for us. 
+  - Feel free to suggest ideas (reasonable ones) in Slack channel, #get-together, we will check if it is viable for us. 
  
 
 ## Friday Lunchs
