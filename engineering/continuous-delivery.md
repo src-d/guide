@@ -41,7 +41,7 @@ Here are the technical details of when CI or CD runs, but it is needed you know 
 - `staging` branch should be kept as close to master as possible,
 
 ## Continuous delivery
-CI and CD is controlled [by drone](https://drone.srcd.host)
+CI and CD is controlled [by drone](https://drone.srcd.host):
 
 - It is automatically deployed into Production when something is tagged,
 - it is automatically deployed into Staging when the `src-d:staging` branch is updated,
@@ -54,7 +54,7 @@ CI and CD is controlled [by drone](https://drone.srcd.host)
 
 `master` branch will contain only approved commits through a PR.
 
-`master` branch is the starting point for feature branches (considering some [special cases](#special-cases))
+`master` branch is the starting point for feature branches (considering some [special cases](#special-cases)).
 
 Since the workflow in the source{d} web applications use to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainers](maintainers.md) will decide if any PR must be reviewed by Product, by themselves or by any other person.
 
@@ -67,7 +67,7 @@ To tag something &ndash;and deploy&ndash; something, we follow the following con
 - All tags must follow [Semantic Versioning 2](http://semver.org),
 - All tags must be reachable from `master` branch,
 - Tags must be done from a merge commit into `master` branch,
-- Every time something is merged into master, there must be a tag pointing to that merge;
+- Every time something is merged into master, there must be a tag pointing to that merge.
 
 ## special cases
 
