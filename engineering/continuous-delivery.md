@@ -54,7 +54,7 @@ CI and CD is controlled [by drone](https://drone.srcd.host):
 
 `master` branch will contain only approved commits through a PR.
 
-`master` branch is the starting point for feature branches (considering some [special cases](#special-cases))
+`master` branch is the starting point for feature branches (considering some [special cases](#special-cases)).
 
 Since the workflow in the source{d} web applications use to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainers](maintainers.md) will decide if any PR must be reviewed by Product, by themselves or by any other person.
 
