@@ -90,4 +90,4 @@ Whenever `staging` branch is updated,  [drone](https://drone.srcd.host) automati
 
 The project maintainer and team members working with that project will decide when `staging` should be reset to `master` or a `release/*` branch, considering its current state and other features that could be tested in Staging.
 
-Since the `staging` branch contains commits not approved, it is needed to keep those ones outside from `master` or any other branch that could be merged against `master` &ndash;like release or feature branches&ndash;. Due to the necessity of keeping that risk as low as possible, it can be taken as a general rule that `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash; 
+Since the `staging` branch contains commits not approved, it is needed to keep those ones outside from `master` or any other branch that could be merged against `master` &ndash;like release or feature branches&ndash;. Due to the necessity of keeping that risk as low as possible, it can be taken as a general rule that `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash;.
