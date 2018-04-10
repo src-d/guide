@@ -41,7 +41,7 @@ Here are the technical details of when CI or CD runs, but it is needed you know 
 - `staging` branch should be kept as close to master as possible,
 
 ## Continuous delivery
-CI and CD is controlled [by drone](https://drone.srcd.host)
+CI and CD is controlled [by drone](https://drone.srcd.host):
 
 - It is automatically deployed into Production when something is tagged,
 - it is automatically deployed into Staging when the `src-d:staging` branch is updated,
@@ -67,7 +67,7 @@ To tag something &ndash;and deploy&ndash; something, we follow the following con
 - All tags must follow [Semantic Versioning 2](http://semver.org),
 - All tags must be reachable from `master` branch,
 - Tags must be done from a merge commit into `master` branch,
-- Every time something is merged into master, there must be a tag pointing to that merge;
+- Every time something is merged into master, there must be a tag pointing to that merge.
 
 ## special cases
 
