@@ -67,7 +67,7 @@ To tag something &ndash;and deploy&ndash; something, we follow the following con
 - All tags must follow [Semantic Versioning 2](http://semver.org),
 - All tags must be reachable from `master` branch,
 - Tags must be done from a merge commit into `master` branch,
-- Every time something is merged into master, there must be a tag pointing to that merge;
+- Every time something is merged into master, there must be a tag pointing to that merge.
 
 ## special cases
 
