@@ -1,7 +1,5 @@
 # General Workflow
 
-Date: 2018-01-15
-
 * [Intro](#intro)
 * [High level description and goals](#high-level-description-and-goals)
 * [Detailed Process](#detailed-process)
@@ -20,10 +18,11 @@ Date: 2018-01-15
 
 ## Intro
 
-These are the notes from:
+These based in the notes from:
 
 * 2018-01-09 Scrum of Scrums
 * 2018-01-10/11 Workflow discussions
+* 2018-03-01 Engineering Retrospective
 
 ## High level description and goals
 
@@ -61,7 +60,12 @@ The idea, feature request or need can come from basically anyone inside or
 outside of the company. It doesn't need to be thoroughly detailed and evolved as
 these will be part of the process, but the more context the better.
 
-> Important: focus should be on the problem, the what, rather than the solution or the how.
+Ideas can be proposed by anyone at the company any time at the
+[Features & Ideas repository](https://github.com/src-d/feature-idea/).
+If the need, idea or feature request is related to an existing issue in another
+repository, it can be linked directly from there with any additional context.
+
+**Important: focus should be on the problem, the what, rather than the solution or the how!**
 
 ### Product evaluation & idea refinement
 
@@ -74,13 +78,14 @@ understand the core issue behind each request and refine it before thinking of
 how to solve or build it. At this point it becomes clearer if it is something we
 want to move forward within the process.
 
-#### If not approved:
+#### If not approved
 
 Give the relevant parties an explanation of why it was not approved for
 implementation—at least at this point, as the context may change—and keep its
 record for future reference.
 
-#### If approved:
+#### If approved
+
 Product and the relevant parties will turn the requests into the format of
 Epics and/or User Stories (again, focus on the what) to be added to the company
 Backlog. These in turn will prompt a first iteration of a design document.
@@ -102,7 +107,7 @@ to the implementation of the story by the teams.
 
 The design document will initially focus on the context, goals, KPIs
 (business/technical), possible alternatives, and a high-level idea of a
-solution. Template.
+solution. [Template](https://docs.google.com/document/d/1NtbOeUt9mAm3vnseCuEwBvuOI4emSzv0QopvaMYKWU4/).
 
 ### Presentation to Leads Meeting
 
@@ -117,7 +122,7 @@ The leads meeting happens weekly and is divided in three sections:
 
 * A short & meaningful review of last week's accomplishments, and eventual blockers.
 * A short pitch of newly approved ideas to be worked on, choosing the maintainers.
-* A more preemptive part, involving reprioritization and cross-team organization if necessary.
+* A more preemptive part, involving re-prioritization and cross-team organization if necessary.
 
 ### Maintainer
 
