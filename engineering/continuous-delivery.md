@@ -41,7 +41,7 @@ Here are the technical details of when CI or CD runs, but it is needed you know 
 - `staging` branch should be kept as close to master as possible,
 
 ## Continuous delivery
-CI and CD is controlled [by drone](https://drone.srcd.host)
+CI and CD is controlled [by drone](https://drone.srcd.host):
 
 - It is automatically deployed into Production when something is tagged,
 - it is automatically deployed into Staging when the `src-d:staging` branch is updated,
