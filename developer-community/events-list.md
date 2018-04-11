@@ -1,3 +1,5 @@
+(DEPRECATED: please follow the instructions in github.com/src-d/conferences to track new events)
+
 # Events
 
 ## January 2017
