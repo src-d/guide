@@ -1,10 +1,10 @@
 # Engineering methodology
 
-Date: 2018-01-15
+Date: 2018-04-12
 
 * [Intro](#intro)
-* [OKRs](#okrs)
-* [The Big Change](#the-big-change)
+* [History](#History)
+* [Objectives and Key Results (OKRs)](#Objectives and Key Results (OKRs))
 * [Kanban](#kanban)
   * [Company Kanban](#company-kanban)
   * [Team Kanban](#team-kanban)
@@ -21,26 +21,9 @@ Date: 2018-01-15
 
 ## Intro
 
-These are the notes from:
+This document describes the current development methodology followed by engineering.
 
-* 2017-01-09 Scrum of Scrums
-* 2017-01-10/11 Workflow discussions
-
-Meetings for the Engineering team leads at source{d}.
-It’s the replacement for the [previous workflow](https://github.com/src-d/guide/blob/abe7932e3bc58898e49a5c1c0e3e2cac6d387144/engineering/methodology.md) with SCRUM
-
-## OKRs
-
-Company publishes OKRs every quarter.
-
-2018Q1 OKRs in https://github.com/src-d/guide/blob/general/OKRs/README.md
-
-Each team is expected to publish it’s own OKRs, aligned with the company ones.
-Engineering roles are not expected to have individual objectives.
-
-## The Big Change
-
-In 2018Q1 SCRUM is replaced by a simpler, company and team-level Kanban boards,
+We use simple, company and team-level Kanban boards,
 so that all iterations including planning/work/retrospective do not happen
 synchronously at the same weeks for all the teams.
 
@@ -48,6 +31,20 @@ Meetings for high-level sync including product direction, vision, etc are
 proactively scheduled by each Team Lead as needed. All Leads have periodical
 hands-on meetings with the CTO.
 
+## History
+
+source{d} has gone through two major methodology change:
+
+* Initially, a partial scrum implementation was used.
+* In 2017, we transitioned to a more complete scrum implementation.
+* In 2018Q1 we replaced scrum with a simpler Kanban model, which is our current methodology.
+
+## Objectives and Key Results (OKRs)
+
+Management publishes OKRs at the beginning of every quarter. Starting from 2018Q2, OKRs are published in the [src-d/okrs](https://github.com/src-d/okrs) repository.
+
+Each team is expected to publish its own OKRs, aligned with the company ones.
+Engineering has team-level objectives, not individual ones. Only tasks in the backlog are expected to have individual assignments.
 
 ## Kanban
 
@@ -60,7 +57,7 @@ truth for the team's work.
 
 The kanban columns are defined as follows:
 
-### [Company](https://github.com/orgs/src-d/projects/9) Kanban
+### [Company Kanban](https://github.com/orgs/src-d/projects/9)
 
 Column      | Description
 ------------|------------
@@ -109,22 +106,22 @@ and all team leads to catch up on ongoing progress.
 
 Each team lead will prepare:
 
-* Review on what has been worked last week
+* Review on what has been worked last week.
 * What are the things we are looking forward to? (re-prioritize things)
-* Pitch new ideas from our workflow
+* Pitch new ideas from our workflow.
 
 Then grooming company’s backlog/epics from [Company Kanban](https://github.com/orgs/src-d/projects/9) is conducted.
 
 ## Team Meeting
 
-A Bi-weekly meeting of the CTO with the team lead and optionally with the full
+A bi-weekly meeting of the CTO with the team lead and optionally with the full
 team (to be decided by the lead), in order to comment the status of the
 projects. Scheduled with each team individually by CTO.
 
 ## Standup
 
 All standups are happening online and asynchronously, per-team in appropriate
-`su-*` Slack channels.
+`su-*` Slack channels. Standup reports are managed through Slack private messages with [geekbot](https://geekbot.io/).
 
 ## Demo
 
