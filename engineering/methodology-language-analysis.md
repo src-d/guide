@@ -1,7 +1,7 @@
 # Methodology for Language Analysis team
 
-LA team follows the common methodology shared by
-the rest of the teams (SCRUM, planning, demos, etc.).
+Language Analysis (LA) team follows the [common methodology](https://github.com/src-d/guide/blob/master/engineering/methodology.md) shared by
+the rest of the teams.
 Apart from that, it also uses [Github's project boards](https://help.github.com/articles/about-project-boards/)
 to organize the tasks and prioritize them.
 
