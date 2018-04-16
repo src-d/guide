@@ -1,4 +1,4 @@
-(DEPRECATED: please follow the instructions in github.com/src-d/conferences to track new events)
+(DEPRECATED: please follow the instructions in [src-d/conferences](https://github.com/src-d/conferences) to track new events)
 
 # Events
 
