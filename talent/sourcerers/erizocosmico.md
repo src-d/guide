@@ -8,7 +8,7 @@
 - Where are you from? Where have you lived?
   - Jaén -> Es Castell (Menorca) -> Maó (Menorca) -> Seville -> Jaén -> Madrid
 - What languages (natural and programming ones) do you know?
-  - Natural: Spanish, catalan, english and I used to know a bit of german back in high school.
+  - Natural: Spanish, Catalan, English and I used to know a bit of German back in high school.
   - Programming: Go, JavaScript, Java, Scala, Python, Ruby, Elm, ReasonML/OCaml, Clojure, a bit of Swift, a bit of Rust, C, PHP, and probably some other that I'm either not very proficient in or I can't remember.
 - Would like to share your Twitter, Instagram or Medium or any other social media account?
   - @erizocosmico everywhere
