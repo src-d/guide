@@ -61,7 +61,7 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 ### Team Page
 
-- When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead. 
+- When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead.
 
 ### Working from an office
 
@@ -90,3 +90,15 @@ At the San Francisco office, we provide:
 #### San Francisco Conference Rooms
 
 - Since we're sharing the space with Holberton, we are able to make use of the conference rooms when necessary, but they can't be reserved.
+
+### Get to know the team better
+
+#### Sourcerers Matchup 
+
+- On our Slack there is a bot named Donut to help us get to know each other better. The bot randomly pairs everyone in #sourcerers-matchup channel every 2 weeks on Monday and encourage them to meet for a videocall or at the kitchen. Every new member is up to decide if wants to be part of the matchup or not.
+
+#### Sourcerers Q&As
+
+- We have created a list of a few personal [questions](https://github.com/src-d/guide/tree/master/talent/sourcerers#questions-to-learn-sourcerers-better) that every team member can reply on GitHub. By doing so we can establish more personal relationships outside of work activities within the team.
+
+
