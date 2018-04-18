@@ -1,4 +1,11 @@
-# source{d} Python Style Guide
+
+# Python Development Conventions
+
+## Introduction
+
+This guide documents development conventions for Python at source{d}. Check [general conventions](conventions.md) for language-independent conventions that are also applicable for Python projects.
+
+## Code Style
 
 1. Contributing to existing projects - do not change the style.
 2. [PEP8](https://www.python.org/dev/peps/pep-0008/) with 99 char line length limit

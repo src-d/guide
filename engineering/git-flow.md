@@ -43,7 +43,7 @@ master. Using `rebase -i` command is an easy task.
 # How to create a new version (maintainers only)
 
 ## 1. Create a tag
-In most of the cases we create a new tag from a master commit using [semantic versioning](http://semver.org/) with the "v" prefix: `v1.0.0`, `v1.0.3`, `v2.0.0-rc1`, and so on.
+In most of the cases we create a new tag from a master commit using [semantic versioning](http://semver.org/) with the `v` prefix: `v1.0.0`, `v1.0.3`, `v2.0.0-rc1`, and so on.
 
 If we want to create a new major version that breaks the public API, we can create a tag from a specific branch.
 
