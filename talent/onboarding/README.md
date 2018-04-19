@@ -17,7 +17,7 @@ Read the source{d} [guide](https://github.com/src-d/guide) which contains all th
 - A few days before you start working with us, you choose the hardware you would like to use from the [list with the hardware we provide](https://github.com/src-d/guide/blob/master/general/available_hardware.md). 
 - The first day we present it to you, so you are able to create your working environment as soon as possible.
 
-### Accounts 
+### Accounts
 
 From the first day you have access to source{d} Google Account, while receiving invitations to join the applications we are using:
 
@@ -29,7 +29,7 @@ From the first day you have access to source{d} Google Account, while receiving 
 
 - The above are the main tools we are using, but we do have a full [list with our general tools](https://github.com/src-d/guide/blob/master/general/tools.md).
 
-### Welcome Talks 
+### Welcome Talks
 
 During your first week you are going to have Welcome Talks in order to get to know source{d} and every team better:
 
@@ -61,7 +61,7 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 ### Team Page
 
-- When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead. 
+- When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead.
 
 ### Working from an office
 
@@ -76,7 +76,7 @@ At the Madrid office, we provide:
 - In case you don't know how to use any of the electronics feel free to ask the person who might there with you. 
 - For any issues you may notice in terms of condition or lacking supplies, please contact our Office Manager.
 
-#### Madrid Conference Rooms 
+#### Madrid Conference Rooms
 
 - There are three rooms that you are able to use for your meetings: Ada Lovelace, Dennis Ritchie, and Alan Turing. 
 - Every room contains a camera, microphone, and screens you are able to use if you have remote meetings. Also, you will notice small tablets, that allow you to connect easily through Zoom. 
@@ -90,3 +90,13 @@ At the San Francisco office, we provide:
 #### San Francisco Conference Rooms
 
 - Since we're sharing the space with Holberton, we are able to make use of the conference rooms when necessary, but they can't be reserved.
+
+### Get to know the team better
+
+#### Sourcerers Matchup 
+
+- On our Slack there is a bot named Donut to help us get to know each other better. The bot randomly pairs everyone in #sourcerers-matchup channel every 2 weeks on Monday and encourage them to meet for a videocall or at the kitchen. Every new member is up to decide if wants to be part of the matchup or not.
+
+#### Sourcerers Q&As
+
+- We have created a list of a few personal [questions](https://github.com/src-d/guide/tree/master/talent/sourcerers#questions-to-learn-sourcerers-better) that every team member can reply on GitHub. By doing so we can establish more personal relationships outside of work activities within the team.
