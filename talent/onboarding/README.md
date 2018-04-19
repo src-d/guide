@@ -55,7 +55,7 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 - On Slack we have GeekBot which asks on daily basis a few questions like what you accomplished the previous day, what are you going to work on today and where are you working from. The bot displays your response in the relevant Slack channels. It actually organises asynchronous stand up meetings and keeps our team synced. As people work on different things or/and from different places, it's helps us being transparent and know what everyone is doing. 
 
-### Flexible schedule
+### Flexible Schedule
 
 - Set your own schedule but be aware that there might be meetings in which you are required. In general, most people start between 9.00-11am local time.
 
@@ -63,7 +63,7 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 - When a new member joins source{d}, we add their picture that will be taken the first week on the [team page](https://sourced.tech/team/). If someone doesn't want to use a picture, a placeholder image will be used instead.
 
-### Working from an office
+### Working from an Office
 
 In case you choose to work from one of our offices:
 
@@ -91,7 +91,7 @@ At the San Francisco office, we provide:
 
 - Since we're sharing the space with Holberton, we are able to make use of the conference rooms when necessary, but they can't be reserved.
 
-### Get to know the team better
+### Know the Team Better
 
 #### Sourcerers Matchup 
 
@@ -100,3 +100,7 @@ At the San Francisco office, we provide:
 #### Sourcerers Q&As
 
 - We have created a list of a few personal [questions](https://github.com/src-d/guide/tree/master/talent/sourcerers#questions-to-learn-sourcerers-better) that every team member can reply on GitHub. By doing so we can establish more personal relationships outside of work activities within the team.
+
+### Open Source Days
+
+- Every two Mondays each member of the team is dedicating their time in working on open source projects of personal interest. The calendar ```Remote & OSD``` displays which Monday is an [OSD](../open_source_days.md) at source{d}.
