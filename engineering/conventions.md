@@ -26,6 +26,7 @@ We have additional conventions for each language:
 ## Continuous Integration
 
 * All open source projects should be integrated with [Travis CI](https://travis-ci.org/) for continuous integration. Check [src-d/ci examples](https://github.com/src-d/ci/tree/master/examples).
+* Use [Appveyor](https://www.appveyor.com/) for CI on Windows. We support Windows unless it is not possible at all (e.g. [bblfshd](https://github.com/bblfsh/bblfshd)).
 * Drone is used for continuous delivery. If you are working on a web application, read the [continuous delivery guide](continuous-delivery.md) too.
 
 ## Publishing
