@@ -9,7 +9,7 @@ Templates are available at the end of this document.
 
 ## Licence
 
-At the time of creating a new project you can choose between two different licenses:
+At the time of creating a new project you can choose between three different licenses:
 
 - [GPL v3.0](https://www.gnu.org/licenses/gpl.html), applied to all projects whose nature is specific to core parts of our stack like language analysis, machine learning, etc. and which are mostly applications and are intended to be consumed through a separate client library owned by us. This allows clean interaction to third-party proprietary code.
 _Examples: bblfsh/server, bblfsh/*-driver_
