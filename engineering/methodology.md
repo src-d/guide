@@ -4,7 +4,7 @@ Date: 2018-04-12
 
 * [Intro](#intro)
 * [History](#History)
-* [Objectives and Key Results (OKRs)](#Objectives and Key Results (OKRs))
+* [Objectives and Key Results (OKRs)](#objectives-and-key-results-okrs)
 * [Kanban](#kanban)
   * [Company Kanban](#company-kanban)
   * [Team Kanban](#team-kanban)
