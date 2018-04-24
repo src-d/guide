@@ -31,7 +31,7 @@ This guide documents development conventions for Go at source{d}. Check [general
 
 ## Executables
 
-* Put sources for your executable commands in `cmd/<command-name>/main.go`.
+* Put sources for your executable commands in `cli/<command-name>/main.go`.
 * We use [go-flags](https://github.com/jessevdk/go-flags) extensively for CLI options parsing.
 
 ## Error handling
