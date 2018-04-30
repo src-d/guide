@@ -18,6 +18,20 @@ Finally, it is impossible to place the trash can to the right panel as it was in
 
 The rest can be fixed by the [Gnome extensions](https://extensions.gnome.org/).
 
+### Meltdown and Spectre
+
+[Meltdown and Spectre](https://meltdownattack.com/) are low-level CPU architecture attacks. They cannot be efficiently fixed so the patches introduce 5-30% slowdown. At the same time, those vulnerabilities are not easy to use or widespread. In order to disable the kernel patches, edit `/etc/default/grub`, insert `pti=off spectre_v2=off` into `GRUB_CMDLINE_LINUX`:
+
+```
+GRUB_CMDLINE_LINUX="pti=off spectre_v2=off"
+```
+
+And then regenerate the boot config:
+
+```
+sudo update-grub
+```
+
 ### Close, maximize and minimize buttons on the left
 
 ```
