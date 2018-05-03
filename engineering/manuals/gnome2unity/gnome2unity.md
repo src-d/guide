@@ -168,3 +168,7 @@ EndSection
 ```
 
 Log out/in.
+
+### Laptop suspends after 10 min disregarding any settings
+
+Even if all the options from the "Power" section in the settings GUI are properly configured, the laptop is still going to sleep after 10 minutes of incativity while on battery. The first solution is to install [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) extension. I had to update it from GitHub but other users reported that it works out of the box. The second solution is to adjust `org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout` setting using `gsettings` or [dconf](https://wiki.gnome.org/Projects/dconf).
