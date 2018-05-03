@@ -6,6 +6,8 @@
 * [Build System](#build-system)
 * [Continuous Integration](#continuous-integration)
 * [Publishing](#publishing)
+* [Docker](#docker)
+* [Error Handling](#error-handling)
 * [Others](#others)
 * [Development Environments](#development-environments)
 * [CLI](#cli)
@@ -54,6 +56,10 @@ Some projects might define both build and runtime requirements that go beyond wh
 * Include `Dockerfile` in the top-level directory of the project.
 * Use latest [alpine](https://hub.docker.com/_/alpine/) or [busybox](https://hub.docker.com/_/busybox/) whenever it is possible. Use latest [debian](https://hub.docker.com/_/debian/) stable-slim otherwise.
 * If needed to reduce image size, use [multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/).
+
+## Error Handling
+
+* If it is idiomatic in your language, prefer early handling of errors and return early (more info: [Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early), [GuardClause](http://wiki.c2.com/?GuardClause) and [HandleErrorsInContext](http://wiki.c2.com/?HandleErrorsInContext)).
 
 ## Others
 
