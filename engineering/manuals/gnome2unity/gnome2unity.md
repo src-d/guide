@@ -1,24 +1,26 @@
-How to cook Gnome3 on Ubuntu 18.04
-==================================
+How to cook Gnome Shell on Ubuntu 18.04
+=======================================
 
-Ubuntu 18.04, as well as 17.10, ships Gnome3 shell by default.
+Ubuntu 18.04, as well as 17.10, ships with [Gnome 3](https://www.gnome.org/gnome-3/) by default.
 It is still possible to go back to Unity but Unity is deprecated so makes little sense.
 
 Unity has arguably the best shell UX and this guide explains how to polish Gnome3 to give it
 the Unity look and feel.
 
-DISCLAIMER: this manual is **very** opinionated.
+DISCLAIMER: this manual is **very** opinionated. Everything was tested on Dell XPS 13 9360.
 
 First of all, Wayland mode works pretty bad with Gnome3: slow as hell, mouse lags, no support for TeamViewer/Skype screen share and similar features.
 Thus **better to use good old XOrg session**.
 
 Secondly, it is currently impossible to return the global menu back, one of the best things which were ever copied from macOS.
 
-Finally, it is impossible to place the trash can to the right panel as it was in Unity. It was cool because it saved time and changed the icon depending on whether you've got trash or not. While there is a way to place the trash can shortcut, it is no longer dynamic, so I suggest to put it into the tray area instead.
+Finally, it is impossible to place the trash can to the left panel as it was in Unity. It was cool because it saved time and changed the icon depending on whether you've got trash or not. While there is a way to place the trash can shortcut, it is no longer dynamic, so I suggest to put it into the tray area instead.
 
 The rest can be fixed by the [Gnome extensions](https://extensions.gnome.org/).
 
 ### Meltdown and Spectre
+
+This section is not really related to Gnome but rather to the new 4.15 kernel.
 
 [Meltdown and Spectre](https://meltdownattack.com/) are low-level CPU architecture attacks. They cannot be efficiently fixed so the patches introduce 5-30% slowdown. At the same time, those vulnerabilities are not easy to use or widespread. In order to disable the kernel patches, edit `/etc/default/grub`, insert `pti=off spectre_v2=off` into `GRUB_CMDLINE_LINUX`:
 
@@ -152,7 +154,7 @@ By default it is ugly. Here is what I changed:
 3. Set the fully transparent background color
 4. Left only CPU and disk - removed memory and network. Memory is useless to monitor, network is always empty
 
-### Display brightness control does not work out of the box on Dell XPS
+### Display brightness control does not work out of the box
 
 Create `/usr/share/X11/xorg.conf.d/20-intel.conf` with the following content:
 
