@@ -13,3 +13,7 @@ This guide documents development conventions for Python at source{d}. Check [gen
 4. Use double quotes `"`. When a string contains single or double quote characters, however, use the other one to avoid backslashes in the string.
 5. Do not use single letter argument names; use X and Y only in sklearn context.
 6. docstrings: Sphinx style
+
+## CLI
+
+* Use standard [argparse](https://docs.python.org/3/library/argparse.html).
