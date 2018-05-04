@@ -47,3 +47,7 @@ We do not have fully standarized style for our Scala projects. However, they all
 
 * Most of our applications are in the form of Spark jobs meant to be used with `spark-submit`.
 * For standalone CLI, you can check [scopt](https://github.com/scopt/scopt) which we have used in some projects and is a good fit.
+
+## Configuration
+
+* If you are creating a Spark application, use environment variables for configuration that might change on the workers (e.g. URI of some backing service that is co-located with workers) and Spark configuration for settings that need to be consistent across all workers for a given job.

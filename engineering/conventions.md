@@ -9,6 +9,7 @@
 * [Others](#others)
 * [Development Environments](#development-environments)
 * [CLI](#cli)
+* [Configuration](#configuration)
 
 ## Introduction
 
@@ -71,3 +72,9 @@ Your application will expose one or more binaries with a CLI.
 
 We prefer [GNU-style command line options](http://www.catb.org/esr/writings/taoup/html/ch10s05.html).
 That is, double dash for long options and single dash for short options (single letter). Include `--help` and `--version`. As a general rule, define always long flags, and then optionally short flags for tools that are often used interactively. When defining flags it is worth to consider matching behavior of widely used flags. For example, if `--all` is present, `-a` should be its shorthand. `--quiet` as a default instead of `--silent`. `--file/-f` for a file argument, `--output/-o` for output path, etc.
+
+## Configuration
+
+Your application should be [configured](https://12factor.net/config) using environment variables. External services (e.g. databases) URLs, storage paths, [ports to bind](https://12factor.net/port-binding) and logging format all belong to configuration.
+
+Prefer the usage of URI to describe [https://12factor.net/backing-services](backing services). For example, prefer `DATABASE=mysql://host:port/db` or `BROKER=amqp://user:pass@broker:port` over three or more different settings.
