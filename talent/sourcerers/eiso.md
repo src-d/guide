@@ -27,7 +27,7 @@
 
 **Other**
 - What are your hobbies and what do you like about them?
-  - I have never been a person who had a lot of hobbies. I am happiest when I have a combination of spending time with family and a few close friends,  being able to work on things I love with interesting and kind-hearted people, and finding time to be healthy and exercise.
+  - I have never been a person who had a lot of hobbies. I am happiest when I have a combination of spending time with family and a few close friends, being able to work on things I love with interesting and kind-hearted people, and finding time to be healthy and exercise.
   - What you could call hobbies is that since a month I surf, started boxing again and do a lot of yoga. 
   - When I am rested I enjoy reading, when I am tired I love watching TV shows and movies.
 - What was the last lie you told?
@@ -43,6 +43,6 @@
 - Would you like to share with us a story about yourself?
   - I like to get out of my comfort zone, sometimes that means reading a lot about a topic I knew nothing about, in the past that has also meant, bungee jumping into a pool at 1am in the middle of a club while set on fire (there is a place in Bali, Indonesia where they allow this) or skydiving.
 - What food do you like and dislike?
-  - I am incredibly passionate about food, actually, that should have been listed under "hobbies". Exploring new countries/cultures through food is one of my favourite past times (I've had the privilege to 100s of restaurants) and so is cooking (lately I've been experimenting with barbeque).  
+  - I am incredibly passionate about food, actually, that should have been listed under "hobbies". Exploring new countries/cultures through food is one of my favourite past times (I've had the privilege to patron 100s of restaurants) and so is cooking (lately I've been experimenting with barbeque).
 - What is your favorite quote?
   - "Take nothing for granted"
