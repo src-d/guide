@@ -19,7 +19,7 @@
 - Why did you join source{d}?
   - I co-founded it. Today I would join source{d} because of the people and the immense passion for programming that is shared by the team.
 - Where will you work from? 
-  - Either remote from Lisbon or from our San Francisco office, once in a while you'll see me drop by in Madrid for our gettogethers.
+  - Either remote from Lisbon or from our San Francisco office, once in a while you'll see me drop by in Madrid for our get-togethers.
 - If you could only save one programming language, which one would it be? 
   - Haskell because I feel that the learning would never stop. 
 - If you wanted to do an investment, what company would you choose?
