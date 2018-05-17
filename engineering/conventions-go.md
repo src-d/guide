@@ -24,6 +24,11 @@ This guide documents development conventions for Go at source{d}. Check [general
 * If your project requires fetching or building dependencies, implement that in the `dependencies` rule.
 * If binaries can be built, do so in the `packages` rule. Note that [src-d/ci](https://github.com/src-d/ci) provides that rule by default.
 
+## Code Generation
+
+* All generated code should be always processed by `gofmt`.
+* Generated code should have contain a `// Code generated ... DO NOT EDIT.` comment before the package clause, but not attached to it (see [convention](https://github.com/golang/go/issues/13560#issuecomment-288457920)).
+
 ## Testing
 
 * Use [testify](https://github.com/stretchr/testify).
