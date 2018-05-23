@@ -43,7 +43,7 @@ In order for a PR to be accepted it needs to pass a list of requirements:
 - They should in general include tests, and those shall pass.
     - If the PR is a bug fix, it has to include a new unit test that fails before the patch is merged.
     - If the PR is a new feature, it has to come with a suite of unit tests, that tests the new functionality.
-    - In any case, all the PRs have to pass the personal evaluation of at least one of the [maintainers](MAINTAINERS) of go-git.
+    - In any case, all the PRs have to pass the personal evaluation of at least one of the [maintainers](MAINTAINERS) of the project.
 
 
 ### Format of the commit message
