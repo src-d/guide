@@ -45,11 +45,9 @@ specialized expertise in some areas, as well as be able to comply with high
 quality standards when coding. Senior Engineers are also expected to mentor
 other team members as needed.
 
-#### Senior Enginner II
+#### Senior Engineer II
 
-Senior Engineers (II) are almost the same as its (I), but it is considered that
-they have either outstanding performance and/or higher expertise in some
-important areas.
+Senior Engineers (II) have outstanding performance and higher expertise in some important areas.
 
 #### Expert Engineer
 
@@ -72,7 +70,7 @@ of a new position.
 A Team Lead is equivalent to Senior Engineer II who also manages a small team of
 engineers (less than 10 people). A Team Lead is expected to be able to plan
 current and future work, provide mentorship, overseeing progress of the team
-and, in general, be able to make day-to-day work smooth for everyone in the team.
+and, in general, be able to make day-to-day work smooth for everyone in the team. A Team Lead has also a major role in the hiring process (screening, initial calls, code challenge reviews, etc).
 
 #### Head of Architecture
 
