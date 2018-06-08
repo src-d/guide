@@ -22,5 +22,5 @@
   * [Open Source Days](open_source_days.md)
   * ["By Developers" Training](by-developers-training/README.md)
   * [sourcerers](sourcerers/)
-  * Career Development
+  * [Career Development](career_development.md)
 
