@@ -35,11 +35,6 @@ This guide documents development conventions for Go at source{d}. Check [general
 * Use [testify](https://github.com/stretchr/testify).
 * Use [suites](https://github.com/stretchr/testify#suite-package) to share setup/teardown code among related tests. When testing multiple methods of the same struct, you generally want to start with a suite. Some cases, such as table-driven tests, are better handled with [subtests](https://blog.golang.org/subtests) though.
 
-## Executables
-
-* Put sources for your executable commands in `cmd/<command-name>/main.go`.
-* We use [go-flags](https://github.com/jessevdk/go-flags) extensively for CLI options parsing.
-
 ## Error handling
 
 * Use [src-d/go-errors](https://github.com/src-d/go-errors).
@@ -69,3 +64,9 @@ A blank line is usually added after the end of any control structure, too.
 ### Naming
 
 * Prefer full names (e.g. `Repository`, not `Repo`).
+
+## CLI
+
+* Put sources for your executable commands in `cmd/<command-name>/`, with the `main` function in `cmd/<command-name>/main.go`.
+* We use [go-flags](https://github.com/jessevdk/go-flags) extensively for CLI options parsing.
+* Implement commands in a subpackage ([example](https://github.com/src-d/gitbase/blob/master/cli/gitbase/cmd/server.go)).

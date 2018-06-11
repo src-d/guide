@@ -42,3 +42,8 @@ We do not have fully standarized style for our Scala projects. However, they all
 ## Best Practices
 
 * [Effective Scala](http://twitter.github.io/effectivescala/) is a good summary of best practices you should follow.
+
+## CLI
+
+* Most of our applications are in the form of Spark jobs meant to be used with `spark-submit`.
+* For standalone CLI, you can check [scopt](https://github.com/scopt/scopt) which we have used in some projects and is a good fit.
