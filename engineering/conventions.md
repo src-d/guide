@@ -1,7 +1,7 @@
-
 # Development Conventions
 
 * [Introduction](#introduction)
+* [Operating System Support](#operating-system-support)
 * [Versioning](#versioning)
 * [Build System](#build-system)
 * [Continuous Integration](#continuous-integration)
@@ -18,6 +18,12 @@ We have additional conventions for each language:
 * [Go](conventions-go.md)
 * [Python](conventions-python.md)
 * [Scala](conventions-scala.md)
+
+## Operating System Support
+
+We support Linux, macOS and Windows on amd64. Support for other operating systems and architectures will require some help from the community. Expect support for, at least, two latest Ubuntu LTS releases, two latest macOS releases and latest Windows and Windows Server releases.
+
+Some projects might define both build and runtime requirements that go beyond what is available by default on each operating system. Please, check the README of the project to know more about its requirements.
 
 ## Versioning
 
