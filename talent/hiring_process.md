@@ -61,7 +61,7 @@ This document explains the internal hiring process at source{d} and the responsi
 * Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. The interviewers are chosen by the lead of the team the developer is interviewed for. Duration 90'.
 * Logical thinking: to see how the developer solves an abstract problem in a logical way. At the moment is conducted by the Lead of Data Science, however it would be convenient to pass the knowledge of this interview to others for the future. Duration 60'.
 
-- The interviewing scheduled is decided on Lever by the Talent Manager and collaboration with the leads when necessary to identify the interviewers.
+- The interviewing schedule is decided on Lever by the Talent Manager and collaboration with the leads when necessary to identify the interviewers.
 
 - In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible. If the interviews last for more than one day, the developer might be rejected at any given day.
 
