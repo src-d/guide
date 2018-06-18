@@ -63,9 +63,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The interviewing scheduled is decided on Lever by the Talent Manager and collaboration with the leads when necessary to identify the interviewers.
 
-- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible.
-
-- If the interviews last for more than one day, the developer might fail at any given day and is informed by the Talent Manager.
+- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible. If the interviews last for more than one day, the developer might be rejected at any given day.
 
 ### Offer
 
