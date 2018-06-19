@@ -17,7 +17,7 @@ Thus, the DCO works as a sort of an insurance against such cases.
 
 This manual should help you to add the required `Signed-off-by: Your Name <name@email.com>` to your commits in the pull request.
 
-## How To Add Sign-Offs
+## How To Add Sign-Offs Retroactively
 
 ### Option #1: Amend Single Commit
 
@@ -73,10 +73,16 @@ git commit -a --signoff
 git push -f origin <your branch here, probably "master">
 ```
 
-## How to prevent this in the future?
+## How To Prevent Missing Sign-offs In The Future?
 
-Commit with `--signoff`; alternatively, create a `commit-msg` hook.
-Write `.git/hooks/commit-msg` with
+### Option #1: Safe Plain-Vanilla
+
+Always sign your commits by using the `-s` or `--signoff` flags when committing (e.g. `git commit -s`).
+
+### Option #2: Repository-based Hooks
+
+Alternatively, you may create a `commit-msg` hook in each given repository.
+To do so, write in your local repository's `.git/hooks/commit-msg` the following:
 
 ```bash
 #!/bin/sh
@@ -85,3 +91,18 @@ grep -qs "^${SIGNATURE}" "$1" || echo "\n${SIGNATURE}" >> "$1"
 ```
 
 You need to do this for each repository independently.
+
+### Option #3: Git Aliases
+
+Git aliases are like "shortcuts" to more extense commands and flags.
+
+You can add the following lines (or as you see suit) to your `~/.gitconfig` file:
+
+```bash
+[alias]
+  commit = commit -s
+  cmsg = commit -s -m
+  camend = commit -s --amend
+```
+
+You only need to do this once, and it will work whenever this `~/.gitconfig` file is active.
