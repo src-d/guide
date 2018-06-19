@@ -19,7 +19,7 @@ This manual should help you to add the required `Signed-off-by: Your Name <name@
 
 ## How To Add Sign-Offs Retroactively
 
-### Option #1: Amend Single Commit
+### Fix Option #1: Amend Single Commit
 
 If there is only a single commit in your pull request, adding the signature is as simple as:
 
@@ -30,7 +30,7 @@ git push -f origin <your branch here, probably "master">
 
 You can always squash several commits together; see: [StackOverflow](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
 
-### Option #2: Interactive Rebase
+### Fix Option #2: Interactive Rebase
 
 If there is more than one commit in your pull requests, you can do an interactive rebase with message editing:
 
@@ -57,7 +57,7 @@ Then, force push:
 git push -f origin <your branch here, probably "master">
 ```
 
-### Option #3: Git-averse
+### Fix Option #3: (Almost) Avoid Git
 
 Git is sometimes frustrating, and you may want to keep distance from it sometimes, for safety.
 For now:
@@ -75,11 +75,11 @@ git push -f origin <your branch here, probably "master">
 
 ## How To Prevent Missing Sign-offs In The Future?
 
-### Option #1: Safe Plain-Vanilla
+### Sign-off Option #1: Safe Plain-Vanilla
 
 Always sign your commits by using the `-s` or `--signoff` flags when committing (e.g. `git commit -s`).
 
-### Option #2: Repository-based Hooks
+### Sign-off Option #2: Repository-based Hooks
 
 Alternatively, you may create a `commit-msg` hook in each given repository.
 To do so, write in your local repository's `.git/hooks/commit-msg` the following:
@@ -92,7 +92,7 @@ grep -qs "^${SIGNATURE}" "$1" || echo "\n${SIGNATURE}" >> "$1"
 
 You need to do this for each repository independently.
 
-### Option #3: Git Aliases
+### Sign-off Option #3: Git Aliases
 
 Git aliases are like "shortcuts" to more extense commands and flags.
 
