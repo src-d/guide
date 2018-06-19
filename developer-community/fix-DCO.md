@@ -1,10 +1,21 @@
 # DCO is missing
 
-If you are reading this then you want to contribute to one of the source{d}'s projects. That's awesome and respectful 👍. Unfortunately, this also means that you haven't added the "signed-off-by" signature to one or more of your commits in the pull request. Before we continue, please read [what is the DCO](https://github.com/probot/dco#how-it-works).
+If you are reading this, then you want to contribute to one of the source{d}'s projects.
+That's awesome and very respectable 👍.
+However, this also means that you probably have not added the "signed-off-by" signature to one or more of your commits in the pull request.
 
-Now you may have a fair question, why does source{d} enforce the DCO? The reason is that your contribution is by default considered your intellectual property in the US. This means that you can ask the project maintainer to remove one or several of your contributions in the future. This can get very messy once the project becomes big and well-known: imagine that the whole Git history must be rewritten for everybody. Thus the DCO is the defence against such cases, you explicitly state that you retain no rights.
+Before we move on, please read [what is the Developer Certificate of Origin (DCO)](https://github.com/probot/dco#how-it-works).
 
-This manual should help you to add the "signed-off-by" to your commits in the pull request.
+You may now have a fair question: why does source{d} enforce the DCO? There are two key reasons:
+
+  1. By signing off the contribution, you are certifying it is either your intellectual property or a valid contribution given its respective open source license origin.
+  2. It follows that your contribution is, by default if valid, considered your intellectual property in countries such the United States.
+  So you could ask the project maintainer to remove one (or more) of your contributions in the future.
+  This may get very complicated as the project grows larger and well-known: imagine rewriting the Git history for everybody!
+
+Thus, the DCO works as a sort of an insurance against such cases.
+
+This manual should help you to add the required `Signed-off-by: Your Name <name@email.com>` to your commits in the pull request.
 
 ### Option #1 - amend single commit
 
