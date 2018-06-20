@@ -26,7 +26,7 @@ To be able to have each source{d} book available, we use an Excel sheet to keep 
 1. Nginx HTTP Server - Second Edition -- Clement Nedelcu
 1. Once You’re lucky, twice you’re good -- Sarah Lacy
 1. OpenShift for Developers -- Grant Shipley & Graham Dumpleton
-1. Patrones de diseño -- Erich Gamma
+1. Patrons de diseño -- Erich Gamma
 1. Practical Statistics for Data Scientists: 50 Essential Concepts -- Bruce, Peter
 1. Principles of Marketing -- Philip Kotler & Gary Armstrong
 1. Pro Git -- Chacon, Scott

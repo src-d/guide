@@ -1,7 +1,7 @@
 # Jorge Schnura
 
 **General**
-- What's your name? How do your friends call you? 
+- What's your name? How do your friends call you?
   - My name's Jorge andm y friends call me Jorge, Schnurious or Chuchu (don't ask, please)
 - When were you born?
   - 15.11.1990
@@ -20,8 +20,8 @@
 - Why did you join source{d}?
   - I had no other option when I co-founded it
 - Where will you work from?
-  - Mostly from the Madrid office, although I ususally work from home on Wednesdays.
-- If you could only save one programming language, which one would it be? 
+  - Mostly from the Madrid office, although I usually work from home on Wednesdays.
+- If you could only save one programming language, which one would it be?
   - From the three that I've learnt it would probably be Python.
 - If you wanted to do an investment, what company would you choose?
   - I guess source{d} doesn't count, so it would be Nvidia.
