@@ -1,7 +1,7 @@
 # DCO is missing
 
 If you are reading this, then you want to contribute to one of the source{d}'s projects.
-That's awesome and very respectable 👍.
+That's awesome and we're glad you're here 👍.
 However, this also means that you probably have not added the "signed-off-by" signature to one or more of your commits in the pull request.
 
 Before we move on, please read [what is the Developer Certificate of Origin (DCO)](https://github.com/probot/dco#how-it-works).
@@ -29,6 +29,8 @@ git push -f origin <your branch here, probably "master">
 ```
 
 You can always squash several commits together; see: [StackOverflow](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
+
+`-s` is a shortcut for `--signoff` - you can use it instead.
 
 ### Fix Option #2: Interactive Rebase
 
