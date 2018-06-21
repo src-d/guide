@@ -16,9 +16,9 @@ Some activities let us be more flexible (beers) while others have to follow a sp
 Once a month we organise a Friday lunch at the office. It is the fourth Friday of the month. Every sourcerer is invited to join. We order food (different every month) for everybody and we share good moments together. 
 
 ## Birthday cakes
-Shared calendar `KinHR` includes birthdays of all sourcerers. Every time there is an event in that calendar - a cake is going to be shared in the office on that day, around 17:00. If the birthday is on weeked, the cake will happen on Monday. 
+Shared calendar `KinHR` includes birthdays of all sourcerers. Every time there is an event in that calendar - a cake is going to be shared in the office on that day, around 17:00. If the birthday is on weekend, the cake will happen on Monday. 
 
-Everyone in the company, including people who work remote, is very wellcome to join either at the kitchen or at https://appear.in/sourced-birthday
+Everyone in the company, including people who work remote, is very welcome to join either at the kitchen or at https://appear.in/sourced-birthday
 
 ## Summer Party
 The source{d} summer party is hosted once a year in the months of June, July or September (depending on travel schedules). 
