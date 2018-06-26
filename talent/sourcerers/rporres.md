@@ -38,7 +38,7 @@
 - What’s your favorite knock-knock joke?
   - I can't translate them to english :-D
 - If you could have a coffee with any person in the world, who would it be?
-  - I'm getting old to be a fanboy anymore... I had the pleasure to meet Javier Sampedro and Antonio Orejudo not long ago, and I had a blast. They are two of my late adolescense heroes so I think I'm fine for now.
+  - I'm getting old to be a fanboy anymore... I had the pleasure to meet Javier Sampedro and Antonio Orejudo not long ago, and I had a blast. They are two of my late adolescence heroes so I think I'm fine for now.
 - Would you like to share with us a story about yourself?
   - Best stories are told in bars with a beer. Happy to share then
 - What food do you like and dislike?
