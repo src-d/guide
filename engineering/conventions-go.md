@@ -69,4 +69,4 @@ A blank line is usually added after the end of any control structure, too.
 
 * Put sources for your executable commands in `cmd/<command-name>/`, with the `main` function in `cmd/<command-name>/main.go`.
 * We use [go-flags](https://github.com/jessevdk/go-flags) extensively for CLI options parsing.
-* Implement commands in a subpackage ([example](https://github.com/src-d/gitbase/blob/master/cli/gitbase/cmd/server.go)).
+* Implement commands in a subpackage ([example](https://github.com/src-d/gitbase/blob/master/cmd/gitbase/command/server.go)).
