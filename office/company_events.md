@@ -18,7 +18,7 @@ Once a month we organise a Friday lunch at the office. It is the fourth Friday o
 ## Birthday cakes
 Shared calendar `KinHR` includes birthdays of all sourcerers. Every time there is an event in that calendar - if a person is present at Madrid's offce, a cake is going to be shared at the kitchen on that day, around 17:00. If the birthday is on weekend, the cake will happen on Monday. 
 
-Allthough this is a tradition at Madrid's office, but everyone in the company, including people who work remote, is very welcome to join either at the kitchen or at https://appear.in/sourced-birthday
+Although this is a tradition at Madrid's office, everyone in the company including people who work remote is very welcome to join either at the kitchen or at https://appear.in/sourced-birthday
 
 ## Summer Party
 The source{d} summer party is hosted once a year in the months of June, July or September (depending on travel schedules). 
