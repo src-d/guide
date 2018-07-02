@@ -42,7 +42,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Lead engineers are responsible to make the calls as it's a motivating factor for the developers. Leads will also be able to assess early in the process if the interview process should continue or not.
 
-### Coding Challenges 
+### Coding Challenges
 
 - Every developer who passes the first Skype interview, should complete the coding challege.
 
@@ -67,13 +67,13 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Offer
 
-- The offer is being sent by the CTO on Lever. 
+- The offer is being sent by the CTO on Lever.
 
 - The developer has no time deadline to accept/reject the offer. An exception to this rule is when multiple developers are being considered for an offer.
 
-## Notes 
+## Notes
 
-### Exceptions 
+### Exceptions
 
 - There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do final round of interviews for interns unless one could join us as a full-time engineer.
 - If a developer has applied to multiple roles, it will be determined either in the first interview or in last round, in which team fits better.

@@ -57,7 +57,7 @@ sudo apt install gnome-tweak-tool
 Now launch the tweaker and setup the following swagger:
 
 1. Keyboard & Mouse -> Mouse Click Emulation -> Area - this enables the right click on the touchpad. No idea why there is an alternative mode, it worked in both ways in Unity.
-2. Top Bar -> Clock -> uncheck "Seconds". This is simply annoying - your screen constanly changes and it draws your attention.
+2. Top Bar -> Clock -> uncheck "Seconds". This is simply annoying - your screen constantly changes and it draws your attention.
 3. Desktop -> uncheck "Trash". We will do it better with an extension.
 
 ### Autologin
