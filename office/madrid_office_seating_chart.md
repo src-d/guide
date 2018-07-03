@@ -32,11 +32,11 @@ Among others we have the following amenities:
 |----|--------------------|
 | A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
+| B1 | [Romain Keramitas](https://github.com/r0mainK) |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
+| B3 | [Irina Khismatullina](https://www.linkedin.com/in/irina-khismatullina-281a7a157) |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B6 | [Waren Long](https://github.com/warenlg) |
-| B1 | [Romain Keramitas](https://github.com/r0mainK) |
-| B3 | [Gabor Markowski](https://github.com/fulaphex) |
 | C2 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | C4 | [Javier Fontán](https://github.com/jfontan)      |
 | C5 | [Miguel Molina](https://github.com/erizocosmico)      |
@@ -44,13 +44,13 @@ Among others we have the following amenities:
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
-| D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta)   |
+| D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk)  |
 | E3 | [Carlos Martín](https://github.com/carlosms) |
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
-| F2/F4| [Esther García](linkedin.com/in/estherrgarcia)      |
-| F1 | [Juanjo Álvarez](https://github.com/juanjux)     |
-| F3 | [Denys Smirnov](https://github.com/dennwc)     |
+| F2 | [Anna Tsolakou](https://www.linkedin.com/in/tsolakouanna/)   |
+| F4/F6| [Esther García](linkedin.com/in/estherrgarcia)      |
+| F3 | [Juanjo Álvarez](https://github.com/juanjux)     |
 | F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
-| F6 | [Anna Tsolakou](https://www.linkedin.com/in/tsolakouanna/)   |
+
