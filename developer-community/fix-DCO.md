@@ -32,9 +32,24 @@ You can always squash several commits together; see: [StackOverflow](https://sta
 
 `-s` is a shortcut for `--signoff` - you can use it instead.
 
-### Fix Option #2: Interactive Rebase
+### Fix Option #2: rebase ([git>=2.13](https://github.com/git/git/blob/master/Documentation/RelNotes/2.13.0.txt#L189))
 
-If there is more than one commit in your pull requests, you can do an interactive rebase with message editing:
+If there is more than one commit in your pull request and your git client is modern enough (2.13+), rebase the required number of commits with `--signoff`:
+
+```bash
+git rebase --signoff HEAD^^
+```
+
+Write `^` as many times as there are commits in your pull request.
+Then, force push:
+
+```bash
+git push -f origin <your branch here, probably "master">
+```
+
+### Fix Option #3: Interactive Rebase
+
+If there is more than one commit in your pull request and your git is older than 2.13, you can do an interactive rebase with message editing:
 
 ```bash
 git rebase -i HEAD^^
@@ -59,7 +74,7 @@ Then, force push:
 git push -f origin <your branch here, probably "master">
 ```
 
-### Fix Option #3: (Almost) Avoid Git
+### Fix Option #4: (Almost) Avoid Git
 
 Git is sometimes frustrating, and you may want to keep distance from it sometimes, for safety.
 For now:
