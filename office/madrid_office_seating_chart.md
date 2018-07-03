@@ -53,4 +53,4 @@ Among others we have the following amenities:
 | F4/F6| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F3 | [Juanjo Álvarez](https://github.com/juanjux)     |
 | F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
-
+| B5/C1/C3/D1/D3/E1/E2/F1 | Rotating Desks for remote sourcerers visiting the office     |
