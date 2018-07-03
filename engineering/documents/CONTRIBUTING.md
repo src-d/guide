@@ -17,7 +17,7 @@ the following line: `Signed-off-by: John Doe <john.doe@example.com>`, using your
 
 This can be done easily using the [`-s`](https://github.com/git/git/blob/b2c150d3aa82f6583b9aadfecc5f8fa1c74aca09/Documentation/git-commit.txt#L154-L161) flag on the `git commit`.
 
-
+If you find yourself pushed a few commits without `Signed-off-by`, you can still add it afterwards. We wrote a manual which can help: [fix-DCO.md](https://github.com/src-d/guide/blob/master/developer-community/fix-DCO.md).
 
 ## Support Channels
 
