@@ -305,3 +305,5 @@ and their own goals when reading the document.
 - [How to Design for Color Blindness](http://blog.usabilla.com/how-to-design-for-color-blindness/)
 - [Disabling Ableist Language](https://www.copyediting.com/disabling-ableist-language/#.Wk6yeFQ-dE4)
 - [Semantic Versioning](https://semver.org/)
+- [How to add the missing Signed-off-by](https://github.com/src-d/guide/blob/master/developer-community/fix-DCO.md)
+
