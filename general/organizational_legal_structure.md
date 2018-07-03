@@ -1,5 +1,5 @@
 # Organizational Chart
-![Organizational Chart](https://drive.google.com/file/d/1EBK_nc9Yw-zD3C3jedJHgsS94mnGwkpp/view?usp=sharing)
+![Organizational Chart](https://i.imgur.com/kv5nGeg.png)
 
 # Management Team
 Our management team consists of the CEO, COO, CTO & VP of Developer Relations
