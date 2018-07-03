@@ -3,8 +3,8 @@ The source{d} office is designed to fit our culture of "For Developers, By Devel
 Among others we have the following amenities:
 * Soft drinks, beer and coffee
 * Fruit and ice creams (we love ice cream)
-* HTC Vive VR Headset, Xbox One and Nintendo 64 with a nice catalogue of games
-* Kicker
+* Xbox One S and Nintendo 64 with a nice catalogue of games
+* [Arcade Machine](https://tienda.arcademadrid.com/37-arcade-slim)
 * Kitchen with fridge and microwaves
 * Relax area
 
