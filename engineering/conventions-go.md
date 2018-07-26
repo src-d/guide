@@ -42,8 +42,7 @@ This guide documents development conventions for Go at source{d}. Check [general
 ## Logging
 
 * Use logging in your applications.
-* Use [logrus](https://github.com/sirupsen/logrus) for logging.
-* Use [fields](https://github.com/sirupsen/logrus#fields) instead of string formatting in the log message.
+* Use [src-d/go-log](https://github.com/src-d/go-log).
 
 ## Other libraries
 
