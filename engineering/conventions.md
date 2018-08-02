@@ -86,7 +86,8 @@ That is, double dash for long options and single dash for short options (single 
 * By default, output pretty logs when running in a terminal, output JSON when not.
 * Allow changing logging level and format explicitly through environment variables (`LOG_LEVEL`, `LOG_FORMAT`).
 * Use the following keys where they apply:
-  * `time` for log timestamp.
+  * `time` for log timestamp in ISO 8601 format. Full timestamp with nanosecond resolution and offset is preferred, but lower resolutions are supported too.
+  * `duration` for duration of an operation, specified as integer nanoseconds.
   * `level` for log level.
   * `error` for error message (optionally with stacktrace).
   * `msg` for main log message.
