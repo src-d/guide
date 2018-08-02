@@ -11,6 +11,7 @@
 * [Others](#others)
 * [Development Environments](#development-environments)
 * [CLI](#cli)
+* [Logging](#logging)
 * [Configuration](#configuration)
 
 ## Introduction
@@ -78,6 +79,19 @@ Your application will expose one or more binaries with a CLI.
 
 We prefer [GNU-style command line options](http://www.catb.org/esr/writings/taoup/html/ch10s05.html).
 That is, double dash for long options and single dash for short options (single letter). Include `--help` and `--version`. As a general rule, define always long flags, and then optionally short flags for tools that are often used interactively. When defining flags it is worth to consider matching behavior of widely used flags. For example, if `--all` is present, `-a` should be its shorthand. `--quiet` as a default instead of `--silent`. `--file/-f` for a file argument, `--output/-o` for output path, etc.
+
+## Logging
+
+* Use structured logging.
+* By default, output pretty logs when running in a terminal, output JSON when not.
+* Allow changing logging level and format explicitly through environment variables (`LOG_LEVEL`, `LOG_FORMAT`).
+* Use the following keys where they apply:
+  * `time` for log timestamp in ISO 8601 format. Full timestamp with nanosecond resolution and offset is preferred, but lower resolutions are supported too.
+  * `duration` for duration of an operation, when output is JSON, specify it as integer nanoseconds.
+  * `level` for log level.
+  * `error` for error message (optionally with stacktrace).
+  * `msg` for main log message.
+  * `source` for source file originating the log message (e.g. `foo.go:32`).
 
 ## Configuration
 
