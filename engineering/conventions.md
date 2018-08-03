@@ -97,4 +97,4 @@ That is, double dash for long options and single dash for short options (single 
 
 Your application should be [configured](https://12factor.net/config) using environment variables. External services (e.g. databases) URLs, storage paths, [ports to bind](https://12factor.net/port-binding) and logging format all belong to configuration.
 
-Prefer the usage of URI to describe [https://12factor.net/backing-services](backing services). For example, prefer `DATABASE=mysql://host:port/db` or `BROKER=amqp://user:pass@broker:port` over three or more different settings.
+Prefer the usage of URI to describe [backing services](https://12factor.net/backing-services). For example, prefer `DATABASE=mysql://host:port/db` or `BROKER=amqp://user:pass@broker:port` over three or more different settings.
