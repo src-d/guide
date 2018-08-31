@@ -32,6 +32,12 @@ Junior Engineers are expected to be able to work autonomously on small tasks,
 fix any bug in a codebase they are already familiar with and even take ownership
 of the maintenance of small projects.
 
+Juniors will usually be promoted from internships or hired at the end of their studies.
+
+#### Junior+ Engineer
+
+Junior+ is an intermediate level before non-junior positions. It will usually be an intermediate step in promotion from junior or for new hires not yet ready for non-junior position but with significantly more experience.
+
 #### Engineer
 
 Engineers are expected to work autonomously on most tasks, create projects from
