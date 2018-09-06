@@ -14,6 +14,7 @@ This guide documents development conventions for Python at source{d}. Check [gen
 5. Favor `%` to `format()`. Although `format()` is generally considered as a replacement, it is much slower and the other languages stick to the `printf` syntax. As with the double quotes, we therefore reduce the friction with Go switches.
 6. Do not use single letter argument names; use X and Y only in sklearn context.
 7. Use [Sphinx style](https://devguide.python.org/documenting/#style-guide) for docstrings.
+8. Format of TODO and FIXME: `# TODO(mygithubuser): blah-blah-blah`.
 
 ## CLI
 
