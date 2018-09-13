@@ -11,3 +11,5 @@ Every two weeks we hold a CWM (Company Wide Meeting) where the management team p
 The CWM are recorded for source{d} team members who are remote or unable to attend the meeting (see discussion here: https://github.com/src-d/company/issues/66)
 
 Recordings are available here to [members of source{d}](https://drive.google.com/drive/folders/1wEtwO8NtbukPGN5hF284ZMNYrKBvk-RL).
+
+The CWM will only take place if at least one person from the management team can lead it, or if they send us a video beforehand with the content to be covered.
