@@ -26,7 +26,7 @@ This position is for a Lead Engineer in the Applications team.
 
 - As you will be working closely with the Machine Learning team - strong communication skills and interest in Machine Learning, data process, and visualization are more than welcome. 
 
-- You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow, Tensorboard, so familiarity with any of those tools is a plus.
+- You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow and Tensorboard, so familiarity with any of those tools is a plus.
 
 - You will have a major role in the hiring proces, including screening candidates, initial calls, coding challenge reviews etc.
 
