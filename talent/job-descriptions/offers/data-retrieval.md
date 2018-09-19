@@ -11,7 +11,7 @@ Software Engineer in the Data Retrieval team
 
 ### Role
 
-The Data Retrieval team is developing source{d}'s high-level Engine for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Go, it aims to be robust, friendly and flexible: it is built on top of Apache Spark, accessible both via Scala and Python Spark APIs, and capable of running on large-scale distributed clusters over petabytes of data.
+The Data Retrieval team is developing source{d}'s high-level code analysis applications for running scalable data retrieval pipelines that process and manipulate any number of code repositories for source code analysis. Written mostly in Go, it aims to be robust, friendly, flexible and capable of running on large-scale distributed clusters over petabytes of data.
 
 - We at source{d} seek to be at the heart of any project related to source code. Thus, this core tool will be used both in-house for building source{d}'s unique global scale open dataset of +60M code repositories for cutting-edge Machine Learning research, as well as used externally by empowering a wide community of developers, researchers and companies worldwide when doing vanguard research or building the next generation of developer tools and experiences.
 
