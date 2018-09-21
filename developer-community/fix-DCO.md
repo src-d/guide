@@ -109,6 +109,18 @@ grep -qs "^${SIGNATURE}" "$1" || echo "\n${SIGNATURE}" >> "$1"
 
 You need to do this for each repository independently.
 
+If you want to create this hook **automatically** on every new git repositories you will create from now on (using `git init`, `git clone`...) you can use `git-templates`; to do so, just save the script described above into (duplicate files):
+- `~/.git-templates/hooks/prepare-commit-msg`
+- `~/.git-templates/hooks/commit-msg`
+
+And configure it globally:
+
+```bash
+git config --global init.templatedir ~/.git-templates
+```
+
+**note:** you will also need to paste this hook in your existent git repositories.
+
 ### Sign-off Option #3: Git Aliases
 
 Git aliases are like "shortcuts" to more extense commands and flags.
