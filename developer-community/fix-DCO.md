@@ -117,7 +117,6 @@ You can add the following lines (or as you see suit) to your `~/.gitconfig` file
 
 ```bash
 [alias]
-  commit = commit -s
   cmsg = commit -s -m
   camend = commit -s --amend
 ```
