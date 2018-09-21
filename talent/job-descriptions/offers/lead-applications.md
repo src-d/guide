@@ -6,7 +6,7 @@ Lead Software Engineer in the Applications team
 **Location:** Madrid / Fully remote  
 **Seniority:** Lead 
 
-**Compensation:** 58,000 Euros + [stock options](https://github.com/src-d/guide/blob/master/talent/esop.md)
+**Compensation:** 58,000 Euros + 0.195% [stock options](https://github.com/src-d/guide/blob/master/talent/esop.md) for lead engineers
 
 ### [Company](../company-section.md)
 
