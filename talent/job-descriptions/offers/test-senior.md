@@ -1,4 +1,4 @@
-Senior QA Engineer
+Senior Test Engineer
 ------------------
 
 ### [Location & Seniority](../location-seniority-section.md)
@@ -17,11 +17,11 @@ source{d} is building a new QA team to work across the whole software stack. Thi
 
 - No previous experience with any particular programming language is required, but the candidate should be willing to learn new languages such as Go and Python.
 
-- Notions of distributed systems are desirable. Kubernetes and Apache Spark are be used intensively.
+- Notions of distributed systems are desirable. Kubernetes and Apache Spark are used intensively.
 
-- The role will involve improving continuous integration at source{d}, currently relying mainly on Travis CI and Appveyor. Experience with Jenkins CI is desirable but not required.
+- The role will involve improving continuous integration at source{d}, currently relying mainly on Travis CI and Appveyor. Experience with Jenkins is desirable but not required.
 
-- The role will involve helping to improve QA and release processes as a whole.
+- The role will involve assisting to improve the QA and release process.
 
 ### [Culture](../culture-section.md)
 
