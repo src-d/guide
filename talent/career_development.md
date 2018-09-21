@@ -34,13 +34,15 @@ of the maintenance of small projects.
 
 Juniors will usually be promoted from internships or hired at the end of their studies.
 
-#### Junior+ Engineer
+#### Engineer I
 
-Junior+ is an intermediate level before non-junior positions. It will usually be an intermediate step in promotion from junior or for new hires not yet ready for non-junior position but with significantly more experience.
+Engineers (II) are able to work comfortably on small tasks with any supervision, also he
+succeeded working on mid/big size tasks and is able to understand the outreach of his
+tasks.
 
-#### Engineer
+#### Engineer II
 
-Engineers are expected to work autonomously on most tasks, create projects from
+Engineers (II) are expected to work autonomously on most tasks, create projects from
 scratch and be involved actively in design of new features.
 
 #### Senior Engineer I
