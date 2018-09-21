@@ -45,6 +45,11 @@ changes.
 Engineers (II) are expected to work autonomously on most tasks, create projects from
 scratch and be involved actively in design of new features.
 
+#### Engineer III
+
+Engineers (III) are expected to work autonomously on any tasks, as well he is expected to
+be able to mentor other team members in small/mid tasks.
+
 #### Senior Engineer I
 
 Senior Engineers (I) should be able to lead the design of full features, create
@@ -78,7 +83,9 @@ of a new position.
 A Team Lead is equivalent to Senior Engineer II who also manages a small team of
 engineers (less than 10 people). A Team Lead is expected to be able to plan
 current and future work, provide mentorship, overseeing progress of the team
-and, in general, be able to make day-to-day work smooth for everyone in the team. A Team Lead has also a major role in the hiring process (screening, initial calls, code challenge reviews, etc).
+and, in general, be able to make day-to-day work smooth for everyone in the team. 
+A Team Lead has also a major role in the hiring process (screening, initial calls, 
+code challenge reviews, etc).
 
 #### Head of Architecture
 
