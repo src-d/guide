@@ -10,8 +10,8 @@ not ask for it.
 
 According to our [wage policy](wage_policy.md), each of these levels have a
 fixed salary that is the same for everyone in the same
-[team](engineering-teams.md) and level, with the exception of roles that have,
-inherently, a single member. Salaries are updated whenever a promotion happens.
+[team](engineering-teams.md) and level, with two exceptions 1) roles that have,
+inherently, a single member 2) the role of Distinguished Engineer. Salaries are updated whenever a promotion happens.
 
 ### Individual Contributor
 
