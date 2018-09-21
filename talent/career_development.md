@@ -62,11 +62,11 @@ other team members as needed.
 
 Senior Engineers (II) have outstanding performance and higher expertise in some important areas.
 
-#### Expert Engineer
+#### Distinguished Engineer
 
-Expert Engineer is reserved for Senior Engineers with outstanding expertise in a
+Distinguished Engineer is reserved for Senior Engineers with outstanding expertise in a
 strategic area, where they provide mentorship and decision-making advice. It is
-the highest level for individual contributor roles.
+the highest level for individual contributor roles and should be awarded with great care.
 
 ### Management
 
