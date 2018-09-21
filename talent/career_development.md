@@ -36,7 +36,7 @@ Juniors will usually be promoted from internships or hired at the end of their s
 
 #### Engineer I
 
-Engineers (II) are able to work comfortably on small tasks with any supervision, also he
+Engineers (I) are able to work comfortably on small tasks with any supervision, also he
 succeeded working on mid/big size tasks and is able to understand the outreach of his
 tasks.
 
