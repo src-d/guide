@@ -15,7 +15,7 @@ source{d} is building a new QA team to work across the whole software stack. Thi
 
 - Strong software engineering skills are required for this position. In particular, we expect testing code to attain the same quality level required for code under testing.
 
-- No previous experience with any particular programming language is required, but the candidate should be willing to learn new languages such as Go and Python.
+- Strong programming experience in, at least, one language is required. The candidate should be willing to learn new languages such as Go and Python.
 
 - Notions of distributed systems are desirable. Kubernetes and Apache Spark are used intensively.
 
