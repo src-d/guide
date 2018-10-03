@@ -69,6 +69,38 @@ Senior | 0.07
 Normal | 0.02
 Junior | 0.00
 
+
+Here is a table with the resulting number of options for each position on Series A stage.
+
+Team | Role | # Options
+---- | ---- | ---------
+Data Science | VP | 98
+Data Science | Lead | 49
+Data Science | Senior | 24
+Data Science | Normal | 12
+Data Science | Junior | 7
+Developer Community | VP | 98
+Developer Community | Lead | 49
+Developer Community | Senior | 24
+Developer Community | Normal | 12
+Developer Community | Junior | 7
+Engineering | VP | 96
+Engineering | Lead | 48
+Engineering | Senior | 23
+Engineering | Normal | 11
+Engineering | Junior | 6
+Product | VP | 96
+Product | Lead | 48
+Product | Senior | 23
+Product | Normal | 11
+Product | Junior | 6
+Operations | VP | 93
+Operations | Lead | 45
+Operations | Senior | 20
+Operations | Normal | 8
+Operations | Junior | 3
+
+
 ### Award letter
 When you start working with us you will receive an award letter which grants you the options that are ruled by our Stock Option Plan. You can find a template of it here.
 
