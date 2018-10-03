@@ -36,7 +36,7 @@ Email copy:
 > 
 > John Eod
 
-When inviting speakers, please check how they present, speak (in English in our case), etc. You can usually find material online. If not, please schedule a short call, in English, with him/her so as to check all this before the actual invitation.
+When inviting speakers, please check how they present, speak (in English in our case), etc. You can usually find material online. If not, please schedule a short call, in English, with them so as to check all this before the actual invitation.
 
 To avoid any last minute schedule changes due to potential cancellations, we should always ask someone from our team to have a long talk prepared. This way, if someone doesn't make it, there's an easy replacement available. If all else fails, please make sure to email all attendees as soon as you know this (please remember to organise **visa** - if applicable - for this person beforehand to make sure he/she can travel if needed).
 
