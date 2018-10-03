@@ -47,7 +47,7 @@ scratch and be involved actively in design of new features.
 
 #### Engineer III
 
-Engineers (III) are expected to work autonomously on any tasks, as well he is expected to
+Engineers (III) are expected to work autonomously on any tasks, as well are expected to
 be able to mentor other team members in small/mid tasks.
 
 #### Senior Engineer I
