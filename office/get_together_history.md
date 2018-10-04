@@ -1,6 +1,24 @@
-**May 18:** looking for ideas
+**October 18:** looking for ideas
 
-**April 18:** looking for ideas
+**August 18:**  TapRoom -- Beers
+- Place: Guzman el Bueno, 52
+- Time: From 19.00
+- Guests: sourcerers & +1s
+
+**June 18:**  Cheese tasting
+- Place: Calle Conde Duque, 15
+- Time: From 19.00
+- Guests: sourcerers
+
+**May 18:**  TapRoom -- Beers
+- Place: Guzman el Bueno, 52
+- Time: From 19.00
+- Guests: sourcerers & +1s
+
+**April 18:** Cachopo time:
+- Place: Sidrería Gordu
+- Time: From 19.00
+- Guests: sourcerers
 
 **March 18:** Treasure hunt: 
 - 3 teams have to walk around the center of Madrid searching for different clues. 
@@ -27,7 +45,6 @@
 - Place: Guzman el Bueno, 52
 - Time: From 19.00
 - Guests: sourcerers & +1s
-
 
 **August 17:** TapRoom -- Beers
 - Place: Guzman el Bueno, 52
