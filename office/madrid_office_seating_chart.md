@@ -33,17 +33,16 @@ Among others we have the following amenities:
 | A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
-| B3 | [Irina Khismatullina](https://www.linkedin.com/in/irina-khismatullina-281a7a157) |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B6 | [Waren Long](https://github.com/warenlg) |
 | C2 | [Antonio Navarro](https://github.com/ajnavarro)    |
 | C4 | [Javier Fontán](https://github.com/jfontan)      |
 | C5 | [Miguel Molina](https://github.com/erizocosmico)      |
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
-| D3 | [Maartje Eyskens](https://github.com/meyskens)     |
+| D3 | [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk)  |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
-| D6 | [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk)  |
+| D3 | Alicia Kozlozski|
 | E3 | [Carlos Martín](https://github.com/carlosms) |
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
