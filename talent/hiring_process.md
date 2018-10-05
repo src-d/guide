@@ -48,7 +48,11 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - In case of the Machine Learning team, there is an additional ML task necessary to be solved.
 
-- Coding Challenges are being sent to the developers by the Talent Manager and the results are being reviewed by the lead engineers.
+- Coding challenges are being sent to the developers by the Talent Manager and the results are being reviewed by the lead engineers.
+
+- Coding challenge is currently available in Go, Python, JavaScript, Ruby, Scala and Java. Other languages can be requested and we will consider the possibility of adding them.
+
+- We recommend allocating five hours in a row to complete the coding challenge. Completion in one hour is possible but it is very exceptional.
 
 ### Final Round of Interviews
  
