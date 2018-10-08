@@ -3,7 +3,7 @@ At source{d} we're very lucky to count with the backing of an incredible group o
 ### Shareholders
 Shareholder | Percentage
 ------------|------------
-[Sunstone Capital](http://sunstone.eu/portfolio/portfolio-technology-ventures/) | 22,14%
+[Sunstone Capital](http://sunstone.eu/) | 22,14%
 [Otium Venture](http://www.otiumcapital.com/) | 21,68%
 [Jorge Schnura](https://linkedin.com/in/jorgeschnura) | 21,04%
 [Eiso Kant](https://linkedin.com/in/eisokant) | 15,98%
