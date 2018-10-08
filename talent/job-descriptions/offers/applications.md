@@ -13,15 +13,15 @@ Senior Software Engineer in the Applications team
 
 This position is for a Senior Engineer in the Applications team.
 
-- As an Applications team engineer you will have a two-fold role: on one hand it's a Data Engineering, building production-level pipelines to collect and extract data from all the git repositories in the world. On the another hand it's applied Machine Learning, by productionizing Machine Learning research and delivering it as part of end-user applications.
+- As an Applications team engineer you will have a two-fold role: on one hand it's a Data Engineering, building production-level pipelines to collect and extract data from all the git repositories in the world. On the other hand, building web applications to productionize Machine Learning research on both, backend and frontend sides.
 
 - You will be expected to have strong backend coding skills in at least one programming language and very good algorithmic skills. Scala coding skills and knowledge about Apache Spark aren't required but will be highly appreciated.
 
-- Building tools for day to day use by software engineers require good understanding of modern development processes and approaches: Unit/Integration testing, scrum, code reviews, CI/CD, Containers, etc.
+- Building tools for day to day use by software engineers requires good understanding of modern development processes and approaches: Unit/Integration testing, scrum, code reviews, CI/CD, Containers, etc.
 
 - As you will be working closely with the Machine Learning team - strong communication skills and interest in Machine Learning, data process, and visualization are more than welcome. 
 
-- You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow, Tensorboard, CUDA, so familiarity with any of those tools is a plus.
+- You will deal with models built using modern ML stacks written in Python and C++ such as Tensorflow and Tensorboard, so familiarity with any of those tools is a plus.
 
 ### [Culture](../culture-section.md)
 
