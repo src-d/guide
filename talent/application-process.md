@@ -4,7 +4,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 ### Visiting our careers page
 
-- All the open roles can be found at https://sourced.tech/careers/ where the developer is able to apply to any desired role. 
+- All the open roles can be found at https://sourced.tech/company/#careers where the developer is able to apply to any desired role.
 
 - If there isn't a role that fits but the developer is interested in working with us, they can send an email to talent@sourced.tech with their GitHub account and a small intro about themselves. 
 
