@@ -2,7 +2,7 @@
 
 Welcome! The source{d} guide documentation is where you will find all information relevant for sourcerers (source{d} team members) and anyone interested in who we are, what we do, and how we do it.
 
-This documentation is open to everyone, sourcerers and non-sourcerers. So please feel free to suggest improvements or ask questions via [issues](issues), or directly open a [pull request](pulls) suggesting changes or reviewing someone those of someone else.
+This documentation is open to everyone, sourcerers and non-sourcerers. So please feel free to suggest improvements or ask questions via [issues](https://github.com/search?q=org%3Asrc-d&type=Issues), or directly open a [pull request](pulls) suggesting changes or reviewing someone those of someone else.
 
 We try to put as much information here as possible, in the rare cases that a topic should be private within the company, please redirect to [src-d/company](https://github.com/src-d/company/).
 
