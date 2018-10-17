@@ -23,7 +23,7 @@ This internship targets students and junior engineers who are interested in the 
 
 - Coding skills are important; we are using Python 3 in our research and production prototyping. Besides, we occasionally code in Go, C++ and CUDA but prior knowledge of these languages is not required for the internship. 
 
-- Machine learning om source code shares common ideas with Natural Language Processing, so NLP knowledge is considered a plus.
+- Machine learning on source code shares common ideas with Natural Language Processing, so NLP knowledge is considered a plus.
 
 - Any deep learning experience is highly appreciated.
 
