@@ -119,7 +119,7 @@ And configure it globally:
 git config --global init.templatedir ~/.git-templates
 ```
 
-**note:** you will also need to paste this hook in your existent git repositories.
+**NOTE:** You will still need to paste this hook in your existing git repositories.
 
 ### Sign-off Option #3: Git Aliases
 
