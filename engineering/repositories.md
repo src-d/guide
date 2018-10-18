@@ -1,6 +1,16 @@
-# Project Maintainers
+# Repository Guidelines
 
-## General Guidelines
+## Repository creation request
+
+In order to create a new repository, this should be requested through a [infrastructure issue](https://github.com/src-d/issues-infrastructure), and will be handled by @mcuadros.
+
+The name should be discussed with product, and the tags and description shuld be provided.
+
+## Repository privileges
+
+Each repository should belong to a team, and the full team has admin rights over this repository. If the repository engineering wise, the admin will be @smola and @mcuadros. 
+
+## Maintainer role
 
 * Every GitHub repository must have an assigned maintainer.
 * Maintainer is specified in a MAINTAINERS file in the top level directory as follows: `Full Name <email> (@github_handle)`
@@ -18,12 +28,9 @@
 * Desirable deadline for each code review is 1 working day.
 * If there is a disagreement among the PR author and multiple reviewers and consensus cannot be reached or [it's not worth to reach](http://bikeshed.org/) the maintainer has the final word.
 * A maintainer can merge his own PRs without code review, but it is encouraged to ask for a review  Merging without review, if done, should be reserved to fixing typos or minor maintenance tasks.
+* If a maintainer is missing, the Lead of the team that the project is owned by, or a backup maintainer designated by him will act as maintainer.
 
 ## Issues
 
 * Maintainers should review GitHub issues and answer them in less than a working day. An answer might be just a "Thank you, we'll look into it" as minimum.
 * If an issue cannot be fixed immediately, it should be added to the backlog so that it gets planned in next sprint.
-
-## Backups
-
-* If a maintainer is missing, the Lead of the team that the project is owned by, or a backup maintainer designated by him will act as maintainer.
