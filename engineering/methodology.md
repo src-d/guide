@@ -147,7 +147,7 @@ Issues repositories:
 
 Below, we'll define the meaning of each Kanban column.
 
-This is not mere a formality - it’s important to have same things in mind when
+This is not a mere formality - it’s important to have same things in mind when
 moving work from one state to another and what is documented below is a
 consensus, that took few hours to build among Engineering leads.
 
