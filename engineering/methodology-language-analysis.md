@@ -5,7 +5,7 @@ the rest of the teams.
 Apart from that, it also uses [Github's project boards](https://help.github.com/articles/about-project-boards/)
 to organize the tasks and prioritize them.
 
-Since LA team is resposible for repos in two different organizations
+Since LA team is responsible for repos in two different organizations
 ([bblfsh](https://github.com/bblfsh) and [src-d](https://github.com/src-d/)),
 it has two different project boards,
 a [bblfsh project board](https://github.com/orgs/bblfsh/projects/1)
