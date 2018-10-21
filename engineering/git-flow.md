@@ -16,7 +16,7 @@ Work on your local repository as you see fit. When the time comes to make the PR
 ### 2.1 Development on a library repository
 In this specific cases we want to develop a new version without change the actual one in the master branch (because if we change the public API we can break projects that depends on us really quickly). To avoid that we will create a new branch named with the next library version, but with the `dev-` prefix (Example: `dev-v4.0.0`). This is intended to "break" semantic versioning, and do not create a version from this branch.
 
-The reason of that is the way versioning works in go. Only mayor version is set in the import URL (Example: `import gopkg.in/src-d/go-git.v4/`). If our master branch is version 4.0.0 and we want to start developing the version 4.1.0, if we create a branch with this name, automatically our v4 import will point to this new branch.
+The reason of that is the way versioning works in go. Only the major version is set in the import URL (Example: `import gopkg.in/src-d/go-git.v4/`). If our master branch is version 4.0.0 and we want to start developing the version 4.1.0, if we create a branch with this name, automatically our v4 import will point to this new branch.
 
 ## 3. Code review and requested changes
 
