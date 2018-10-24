@@ -18,7 +18,7 @@ Web application deployment workflow.
 
 # Intro
 
-This documentation assumes it is already known the [company deployment workflow](git-flow.md), and extends it to cover the continuous delivery as it should work for all source{d} web applications:
+This documentation assumes that the [company deployment workflow](git-flow.md) is already known , and extends it to cover the continuous delivery as it should work for all source{d} web applications:
 
 repo | Prod | Staging
 --- | --- | ---
