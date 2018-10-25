@@ -26,7 +26,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - Any developer should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
 
-- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that with copying the lead engineers in every email.
+- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that and copy the lead engineers in every email.
 
 ### Screening
 
@@ -44,7 +44,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Coding Challenges
 
-- Every developer who passes the first Skype interview, should complete the coding challege.
+- Every developer who passes the first Skype interview should complete the coding challenge.
 
 - In case of the Machine Learning team, there is an additional ML task necessary to be solved.
 
@@ -65,7 +65,7 @@ This document explains the internal hiring process at source{d} and the responsi
 * Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. The interviewers are chosen by the lead of the team the developer is interviewed for. Duration 90'.
 * Logical thinking: to see how the developer solves an abstract problem in a logical way. At the moment is conducted by the Lead of Data Science, however it would be convenient to pass the knowledge of this interview to others for the future. Duration 60'.
 
-- The interviewing schedule is decided on Lever by the Talent Manager and collaboration with the leads when necessary to identify the interviewers.
+- The interviewing schedule is decided on Lever by the Talent Manager, who collaborates with the leads when necessary to identify the interviewers.
 
 - In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible. If the interviews last for more than one day, the developer might be rejected at any given day.
 
@@ -79,8 +79,8 @@ This document explains the internal hiring process at source{d} and the responsi
 
 ### Exceptions
 
-- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenges and then a technical Skype interview. Also, we do not do final round of interviews for interns unless one could join us as a full-time engineer.
-- If a developer has applied to multiple roles, it will be determined either in the first interview or in last round, in which team fits better.
+- There are exceptions to the above steps for internship roles. The first step in this case is the Coding Challenge and then a technical Skype interview. Also, we do not do a final round of interviews for interns unless one could join us as a full-time engineer.
+- If a developer has applied to multiple roles, it will be determined either in the first interview or in the last round which team fits better.
  
 ### Feedback
 
