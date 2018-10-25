@@ -1,8 +1,53 @@
-![logo if any exists](path/to/logo)
+```
+<p align="center">
+    <img src="https://golang.org/doc/gopher/frontpage.png" alt="logo if any exists">
+</p>
+<h1 align="center">Project name</h1>
+<p align="center">
+      Short description which should fit in one line.<br><br>
+      <a href="http://godoc.org/gopkg.in/src-d/go-git.v4"><img src="https://godoc.org/gopkg.in/src-d/go-git.v4?status.svg" alt="GoDoc"></a>
+      <a href="https://travis-ci.org/src-d/go-git"><img src="https://travis-ci.org/src-d/go-git.svg?branch=master" alt="Travis build Status"></a>
+      <a href="https://ci.appveyor.com/project/src-d/go-git"><img src="https://ci.appveyor.com/api/projects/status/nyidskwifo4py6ub?svg=true" alt="Appveyor build Status"></a>
+      <a href="https://codecov.io/github/src-d/go-git"><img src="https://codecov.io/github/src-d/go-git/coverage.svg" alt="Code coverage"></a>
+      <a href="https://goreportcard.com/report/github.com/src-d/go-git"><img src="https://goreportcard.com/badge/github.com/src-d/go-git" alt="Go Report Card"></a>
+      <img src="https://svg-badge.appspot.com/badge/stability/stable?a">
+      <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache 2.0 license"></a>
+</p>
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#contributions">Contributions</a> •
+  <a href="#license">License</a>
+</p>
+```
+
+...is rendered as...
+
+<p align="center">
+    <img src="https://golang.org/doc/gopher/frontpage.png" alt="logo if any exists">
+</p>
+<h1 align="center">Project name</h1>
+<p align="center">
+      Short description which should fit in one line.<br><br>
+      <a href="http://godoc.org/gopkg.in/src-d/go-git.v4"><img src="https://godoc.org/gopkg.in/src-d/go-git.v4?status.svg" alt="GoDoc"></a>
+      <a href="https://travis-ci.org/src-d/go-git"><img src="https://travis-ci.org/src-d/go-git.svg?branch=master" alt="Travis build Status"></a>
+      <a href="https://ci.appveyor.com/project/src-d/go-git"><img src="https://ci.appveyor.com/api/projects/status/nyidskwifo4py6ub?svg=true" alt="Appveyor build Status"></a>
+      <a href="https://codecov.io/github/src-d/go-git"><img src="https://codecov.io/github/src-d/go-git/coverage.svg" alt="Code coverage"></a>
+      <a href="https://goreportcard.com/report/github.com/src-d/go-git"><img src="https://goreportcard.com/badge/github.com/src-d/go-git" alt="Go Report Card"></a>
+      <img src="https://svg-badge.appspot.com/badge/stability/stable?a">
+      <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache 2.0 license"></a>
+</p>
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#contributions">Contributions</a> •
+  <a href="#license">License</a>
+</p>
 
 ```
-A row of badges you might consider necessary.
-Examples include:
+Badge examples:
 
 - godoc reference:
 
@@ -26,7 +71,7 @@ Examples include:
     ![stable](https://svg-badge.appspot.com/badge/stability/stable?a)
 ```
 
-# Project Name
+# Overview
 
 ```
 Short description of the project.
@@ -48,7 +93,7 @@ This should include a pre-requisites subsection if needed.
 Are there Docker images, packages managers (brew, apt, etc), installations scripts?
 ```
 
-# Example of utilization
+# How To Use
 
 ```
 Basic example or link to an `examples` directory with its own `README.md`.
@@ -63,12 +108,10 @@ import path appears in the code and any identifier used is qualified
 with the package name.
 ```
 
-# Contribute
+# Contributions
 
 [Contributions](https://github.com/src-d/{project}/issues) are more than welcome, if you are interested please take a look to
 our [Contributing Guidelines](CONTRIBUTING.md).
-
-# Code of Conduct
 
 All activities under source{d} projects are governed by the [source{d} code of conduct](.github/CODE_OF_CONDUCT.md).
 
