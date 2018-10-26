@@ -27,8 +27,9 @@
 - 3-cell battery (23Wh)
 
 # Keyboards 
-- [Rantopad MXX](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
-- Fnatic Gear Rush - [Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | [Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
+- Fnatic Gear Rush _Silent_ - [Cherry MX Silent Red](https://www.amazon.es/profesional-videojuegos-Fnatic-Rush-Silent/dp/B06VT1VL81/ref=sr_1_2?ie=UTF8&qid=1528471122&sr=8-2&keywords=Fnatic%2BGear%2BSilent&th=1)
+- Rantopad MXX - 🗣[Cherry MX Blue](https://www.amazon.es/Rantopad-MXX-Mechanical-Gaming-Keyboard/dp/B01JIPTFL2/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1483029977&sr=1-1-catcorr&keywords=rantopad&th=1)
+- Fnatic Gear Rush - 🗣[Cherry MX Blue](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01DKZGQWW/ref=sr_1_22?s=electronics&ie=UTF8&qid=1497544576&sr=1-22) | 🗣🗣[Cherry MX Brown](https://www.amazon.es/Fnatic-Gear-Mechanical-Keyboard-Switches/dp/B01EI1ZXPI/ref=sr_1_6?s=electronics&ie=UTF8&qid=1488285204&sr=1-6)
 
 # Mouse
 - [Logitech 910](https://www.amazon.es/gp/product/B00DY50D00/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
