@@ -11,14 +11,14 @@ Inside Sales Representative
 
 Responsibilities:
 
-Develop and refine the full sales operations cycle from prospecting to close regarding source{d}’s Enterprise Subscription, Integration Services, and Training Services.
-Fully understand and convey source{d}’s value proposition as well as understand the Code as Data and Machine Learning on Code ecosystem.
-Call and email prospects in order to develop relationships with key decision makers
-Properly document and track all prospect and customer information in Salesforce.com.
-Provide continual cross-departmental input in order to refine positioning and adapt to new market opportunities.
-Provide Monthly sales forecasts to leadership team.
-Follow up on Marketing campaigns as directed
-US territory - This role will be home, San Francisco or Seattle based
+- Develop and refine the full sales operations cycle from prospecting to close regarding source{d}’s Enterprise Subscription, Integration Services, and Training Services.
+- Fully understand and convey source{d}’s value proposition as well as understand the Code as Data and Machine Learning on Code ecosystem.
+- Call and email prospects in order to develop relationships with key decision makers
+- Properly document and track all prospect and customer information in Salesforce.com.
+- Provide continual cross-departmental input in order to refine positioning and adapt to new market opportunities.
+- Provide Monthly sales forecasts to leadership team.
+- Follow up on Marketing campaigns as directed
+- US territory - This role will be home, San Francisco or Seattle based
 
 Qualifications:
 
