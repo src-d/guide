@@ -21,6 +21,7 @@ We try to put as much information here as possible, in the rare cases that a top
   * [Hardware](general/available_hardware.md)
   * Security
   * [Expenses & Travel](general/expenses_travel.md)
+  * [WiFi](general/wifi.md)  
 * [Office](office/)
 * [Talent](talent/)
 * [Engineering](engineering/)
