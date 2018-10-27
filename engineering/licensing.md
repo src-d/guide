@@ -30,7 +30,10 @@ When a piece of code is copied between two or more source{d} projects covered by
 
 All our projects should include a [Developer Certificate of Origin](https://developercertificate.org/) (DCO) document to protect us against any individual contributor revoking our rights to distribute their contribution to any of our projects.
 
-In practice, this means that every commit since the introduction of the DCO, should be signed off by the author, using `git commit -s`. Being irrelevant if the author is a source{d} employee or an individual contributor.
+In practice, this means that every commit since the introduction of the DCO, should be signed off by the author, using `git commit -s`. Being irrelevant if the author is a source{d} employee or an individual contributor. There are two exclusions though:
+
+1. The change is small and minor, e.g. a typo fix in documentation or a link fix in README.
+2. The change is suggested through GitHub web interface and it is inconvenient to sign-off it with regular git commands (only for source{d} employees). Examples: using GitHub suggested changes feature and the author is a source{d} employee; editing a single file on a smartphone.
 
 To learn more about DCO please read:
 
