@@ -64,8 +64,8 @@ Role represents how senior your position is. The more senior, the more responsib
 Role | Weight
 ---- | ----
 VP | 0.37
+Head | 0.27
 Lead | 0.17
-Head | 0.12
 Senior | 0.07
 Normal | 0.02
 Junior | 0.00
@@ -76,32 +76,32 @@ Here is a table with the resulting number of options for each position on Series
 Team | Role | # Options
 ---- | ---- | ---------
 Data Science | VP | 98
+Data Science | Head | 73
 Data Science | Lead | 49
-Data Science | Head | 37
 Data Science | Senior | 24
 Data Science | Normal | 12
 Data Science | Junior | 7
 Developer Community | VP | 98
+Developer Community | Head | 73
 Developer Community | Lead | 49
-Developer Community | Head | 37
 Developer Community | Senior | 24
 Developer Community | Normal | 12
 Developer Community | Junior | 7
 Engineering | VP | 96
+Engineering | Head | 72
 Engineering | Lead | 48
-Engineering | Head | 35
 Engineering | Senior | 23
 Engineering | Normal | 11
 Engineering | Junior | 6
 Product | VP | 96
+Product | Head | 72
 Product | Lead | 48
-Product | Head | 35
 Product | Senior | 23
 Product | Normal | 11
 Product | Junior | 6
 Operations | VP | 93
+Operations | Head | 69
 Operations | Lead | 45
-Operations | Head | 32
 Operations | Senior | 20
 Operations | Normal | 8
 Operations | Junior | 3
