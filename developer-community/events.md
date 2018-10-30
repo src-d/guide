@@ -2,7 +2,7 @@
 
 ## source{d} tech talks
 
-Our tech talks are one-day conferences held in Madrid at our offices, or elsewhere, where we invite up to 7-8 speakers to talk to us about a very advanced topic related with Infratsructure, Machine Learning, Frontend & more (suggestions are always more than welcome)!
+Our tech talks are one-day conferences held in Madrid at our offices, or elsewhere, where we invite up to 7-8 speakers to talk to us about a very advanced topic related with Infrastructure, Machine Learning, Frontend & more (suggestions are always more than welcome)!
 You can check all past events [here](http://talks.sourced.tech/) and all talks, as we record everything.
 
 When we organise such events, we expect the team which is closer to the topic of the event to closely help organising it. That means that for Frontend, for example, the entire platform team is responsible for choosing and inviting the speakers, approving their talks and hosting the event on its actual day (exceptions will exist of course, but this would be the ideal case).
