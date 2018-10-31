@@ -44,7 +44,7 @@ To avoid any last minute schedule changes due to potential cancellations, we sho
 
 From each speaker, we'll need to collect a __Bio, Picture, Title & Abstract__ in order to build the website. 
 
-If the speaker is not based at where the talk takes place, we'll need to start organizing his/her trip asap so that we avoid expensive last minute tickets & hotels.
+If the speaker is not based where the talk takes place, we'll need to start organizing his/her trip asap so that we avoid expensive last minute tickets & hotels.
 
 Email copy:
 
