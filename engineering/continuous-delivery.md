@@ -24,7 +24,6 @@ repo | Prod | Staging
 --- | --- | ---
 [src-d/landing](https://github.com/src-d/landing) | [sourced.tech](https://sourced.tech) | [landing-staging.srcd.run](https://landing-staging.srcd.run)
 [src-d/blog](https://github.com/src-d/blog) | [blog.sourced.tech](http://blog.sourced.tech) | [blog-staging.srcd.run](https://blog-staging.srcd.run)
-[src-d/talks](https://github.com/src-d/talks) | [talks.sourced.tech](https://talks.sourced.tech) | [talks-staging.srcd.run](https://talks-staging.srcd.run)
 
 This document does not pretend to be exhaustive but a guide, and there can be special cases that will be defined in the README.md and CONTRIBUTING.md of each web application repository.
 
