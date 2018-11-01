@@ -75,9 +75,12 @@ All activities under source{d} projects are governed by the [source{d} code of c
 # License
 
 ```
-There's a choice between the following two licenses.
-GPL v3.0, for core parts
-Apache License 2.0, for libraries/tools that intended to be consumed by third-parties
+There's a choice between the following three licenses:
+- GPL v3.0, for core parts
+- Apache License 2.0, for libraries/tools that intended to be consumed by third-parties
+- Creative Commons BY-SA 4.0, for projects which are heavy on creative content
+
+You will find more info about what license to choose at: https://github.com/src-d/guide/blob/master/engineering/licensing.md
 ```
 
 Apache License Version 2.0, see [LICENSE](LICENSE).
@@ -87,3 +90,10 @@ or
 ```
 
 GPL v3.0, see [LICENSE](LICENSE).
+
+```
+or
+```
+
+Creative Commons BY-SA 4.0, see [LICENSE](LICENSE).
+
