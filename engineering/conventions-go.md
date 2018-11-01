@@ -8,7 +8,7 @@ This guide documents development conventions for Go at source{d}. Check [general
 ## Supported Go Versions
 
 * Our libraries support latest two stable major versions of Go (e.g. 1.10.x and 1.11.x). Both versions should be included in Travis CI.
-  * Some of our libraries may support more versions, specially when there is wide-adoption outside source{d} (e.g. [go-git](https://github.com/src-d/go-git) currently supports three).
+  * Some of our libraries may support more versions, specially when there is wide-adoption outside source{d}, (e.g. [go-git](https://github.com/src-d/go-git) which currently supports three.
 * Our applications support only latest [stable](https://golang.org/dl/#stable) Go version.
 
 ## Dependency Management
@@ -27,7 +27,7 @@ This guide documents development conventions for Go at source{d}. Check [general
 ## Code Generation
 
 * All generated code should be always processed by `gofmt`.
-* Generated code should have contain a `// Code generated ... DO NOT EDIT.` comment before the package clause, but not attached to it (see [convention](https://github.com/golang/go/issues/13560#issuecomment-288457920)).
+* Generated code should have a `// Code generated ... DO NOT EDIT.` comment before the package clause, but not attached to it (see [convention](https://github.com/golang/go/issues/13560#issuecomment-288457920)).
 
 ## Testing
 

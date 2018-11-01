@@ -33,7 +33,7 @@ hands-on meetings with the CTO.
 
 ## History
 
-source{d} has gone through two major methodology change:
+source{d} has gone through two major methodology changes:
 
 * Initially, a partial scrum implementation was used.
 * In 2017, we transitioned to a more complete scrum implementation.
@@ -48,14 +48,14 @@ Engineering has team-level objectives, not individual ones. Only tasks in the ba
 
 ## Kanban
 
-The kanban board is a tool used to visualize work and optimize the flow of the work
+The Kanban board is a tool used to visualize work and optimize the flow of the work
 among the team. ([source](https://www.atlassian.com/agile/kanban#kanban-boards))
 
-The kanban relies upon full transparency of work and real-time communication of
-capacity, therefore the kanban board should be seen as the single source of
+The Kanban relies upon full transparency of work and real-time communication of
+capacity. Therefore the Kanban board should be seen as the single source of
 truth for the team's work.
 
-The kanban columns are defined as follows:
+The Kanban columns are defined as follows:
 
 ### [Company Kanban](https://github.com/orgs/src-d/projects/9)
 
@@ -70,7 +70,7 @@ Done        |
 
 Each team uses separate [Github Projects](https://github.com/orgs/src-d/projects/) as a Kanban board.
 
-Teams, managing issues across different Github Orgs (i.e Applications, Language Analysis) are using the “add card” trick, described in [dear-github/dear-github#209](https://github.com/dear-github/dear-github/issues/209#issuecomment-357692288) to add issues from a different org.
+Teams managing issues across different Github Orgs (i.e Applications, Language Analysis) are using the “add card” trick, described in [dear-github/dear-github#209](https://github.com/dear-github/dear-github/issues/209#issuecomment-357692288) to add issues from a different org.
 
 
 Column           | Description
@@ -83,7 +83,7 @@ Deploy/Release   | Things that are implemented/merged, but have not yet been “
 Done             | A task is done, when  a user can use the results of the work though established interface: package manager for libs, online for web services, etc. See the section below [What does TODO mean?](#what-does-todo-mean).
 
 On *"blockers"* - a task can be blocked at any stage of the development, so
-there is no separate column and Tag is used instead, to signify if something is
+there is no separate column and Tag is used instead to signify if something is
 blocked.
 
 More details in [Definition](#definition) section below.
@@ -101,7 +101,7 @@ For this to work properly, issues must be documented so that a person can move o
 
 ## Leads Meeting
 
-Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 14:30 the CTO
+Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 14:30 for the CTO
 and all team leads to catch up on ongoing progress.
 
 Each team lead will prepare:
@@ -127,7 +127,7 @@ All standups are happening online and asynchronously, per-team in appropriate
 
 Demo meeting is a monthly event.
 
-* Idea: let know everybody what's going on (on quite technical level) that's is relevant for other or affect others releases/deployments.
+* Idea: let everybody know what's going on (on quite technical level) that is relevant for others or affects others’ releases/deployments.
 * Product does not need to be deployed, but the demo should be as real as possible.
 * Should be concise, respecting other people's time.
 * Fixed max time **per-team: 15min (including questions)**. Agree between teams in advance, if more time needed.
@@ -149,7 +149,7 @@ Below, we'll define the meaning of each Kanban column.
 
 This is not a mere formality - it’s important to have same things in mind when
 moving work from one state to another and what is documented below is a
-consensus, that took few hours to build among Engineering leads.
+consensus, that took a few hours to build among Engineering leads.
 
 ## What does TODO mean?
 
@@ -161,12 +161,12 @@ shall not be in TODO yet.
 board:
 
 * as small TODO list on a Kanban as possible and
-* tasks, moving fast from end-to-end of kanban board (short Cycle Time)
+* tasks, moving fast from end-to-end of Kanban board (short Cycle Time)
 
-This definition and goals also imply that leads should grooming backlog on the
+This definition and goals also imply that leads should grooming backlog on a
 daily basis.
 
-> Alternative definition (discussed but discarded): all things that are planned to get done ASAP. This would imply that issues can be added to TODO in a bulk at once, even in case when multiple issues of single project have known dependency on one another. Was discarded on the premise that it would go against the 2 goals, listed above.
+> Alternative definition (discussed but discarded): all things that are planned to be done ASAP. This would imply that issues can be added to TODO in bulk at once, even in cases when multiple issues of single project have known dependency on one another. Was discarded on the premise that it would go against the 2 goals, listed above.
 
 ## What does Done mean?
 
