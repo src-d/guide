@@ -29,6 +29,10 @@ This guide documents development conventions for Go at source{d}. Check [general
 * All generated code should be always processed by `gofmt`.
 * Generated code should have a `// Code generated ... DO NOT EDIT.` comment before the package clause, but not attached to it (see [convention](https://github.com/golang/go/issues/13560#issuecomment-288457920)).
 
+## Docker
+
+* If you use alpine-based images, your binaries need to be built with `CGO_ENABLED=0`. [src-d/ci](https://github.com/src-d/ci/) does this by default. If your project uses `cgo`, you will have to use alpine for the build of binaries for Docker.
+
 ## Testing
 
 * Use [testify](https://github.com/stretchr/testify).
