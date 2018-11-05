@@ -9,7 +9,7 @@ Infra main repository is https://github.com/src-d/infrastructure. Since branches
 [Infra team kanban](https://github.com/orgs/src-d/projects/2) is the main tool to work in the team. Its main components and the method to pick issues are described in the [company methodology](https://github.com/src-d/guide/blob/master/engineering/methodology.md#kanban).
 
 * Never forget to assign to yourself the issue you're working in
-* Never forget to use the **BLOCK** label if something is waiting for someone or something
+* Never forget to use the **BLOCKED** label if something is waiting for someone or something
 
 A few notes particular to the infra team follow:
 
