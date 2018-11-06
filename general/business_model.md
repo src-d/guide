@@ -37,11 +37,11 @@ It's important to note that while often proprietary means closed source code, it
 
 To make sure we stay true to doing what is right for individual developers in the community, we do not want to charge any individual users.
 
-We don't believe startups and SME's make up a large enough market to build a sustainable company in the long term. The amount you can charge to small organizations pales in comparission to what you can charge enterprises (value-add x # of developers). At the same time, selling to SME's is almost always a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) business.  While there are success stories of this, such as [Travis CI](https://travis-ci.com/) we don't think it's the right route for source{d}. 
+We don't believe startups and SME's make up a large enough market to build a sustainable company in the long term. The amount you can charge to small organizations pales in comparission to what you can charge enterprises (value-add x # of developers). At the same time, selling to SME's is almost always a [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) business.  While there are success stories of this, such as [Travis CI](https://travis-ci.com/) we don't think it's the right route for source{d} at this moment in time. 
 
 **source{d} focuses on enterprises as customers**
 
-From the point of view of value we can add to an organization, large scale analysis & ML on top of source code shines when there is a large amount of code and a large number of developers.
+From the point of view of value we can add to an organization, source{d} really shows its power when there is a large amount of code and a large number of developers.
 
 ### Enterprises as customers
 
@@ -51,6 +51,6 @@ There is a growing number of challenges that enterprises face within their [Soft
 
 ### Business model meets our technology
 
-The current model that we are exploring is to have single node versions of our technology stack be fully open-source under a permissive licenses such as [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) but multiple nodes of our stack that allow distributed computing over a large amount of repositories with a large number of concurent users to be under a restrictive license. 
+The current model that we have implemented is to have single node versions of the source{d} Engine be fully open-source under [permissive licenses](https://github.com/src-d/guide/blob/master/engineering/licensing.md) but a multi-node installation of the source{d} Engine that allows distributed computing over a large amount of repositories with a large number of concurent users/queries to be proprietary. 
 
-This would allow us to charge enterprises who are in need for a large number of nodes but not disadvantage individual developers or smaller organizations to take advantage of our technology.
+This allow us to charge enterprises who are in need for a large number of nodes but not disadvantage individual developers or smaller organizations to take advantage of our technology.
