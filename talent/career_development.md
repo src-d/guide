@@ -97,3 +97,40 @@ practices improvements.
 
 The CTO is ultimately responsible of running the engineering department and
 provide global direction on the development.
+
+### Appendix - Machine Learning Team
+
+<details>
+  <summary>The following adds on bottom of the level descriptions to clarify the requirements for ML people.</summary>
+
+#### Junior Engineer
+
+Junior Engineers should have basic experience of applying ML algorithms.
+Besides, they should be able to obtain superficial understanding of the papers.
+
+#### Engineer I
+
+Engineers (I) should have certain scientific/ML areas of expertise.
+There should be an intuition of which ML algorithms work best in each case.
+
+#### Engineer II
+
+Engineers (II) should obtain an in-depth understanding of the read papers
+and efficiently implement ML algorithms from them.
+They are also expected to suggest improvements to the internal processes.
+
+#### Engineer III
+
+No special notes.
+
+#### Senior Engineer I
+
+Senior Engineer (I) should be able to suggest and develop new ML algorithms and write new papers.
+
+#### Senior Engineer II
+
+Senior Engineers (II) should have a track of remarkable ML achievements such as
+a series of successful projects at work, a recognized ML speaker profile,
+high rank on Kaggle, good papers or being an author of a popular ML library.
+
+</details>
