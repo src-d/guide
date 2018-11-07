@@ -37,7 +37,7 @@ Given that most of our Scala projects are related to [Apache Spark](https://spar
 
 ## Code Style
 
-We do not have fully standarized style for our Scala projects. However, they all stay close to [default scalastyle config](http://www.scalastyle.org/scalastyle_config.xml) with either 100 or 120 maximum line length. You may want to use [scalafmt](http://scalameta.org/scalafmt/) for automatic formatting too.
+We do not have a fully standardized style for our Scala projects. However, they all stay close to [default scalastyle config](http://www.scalastyle.org/scalastyle_config.xml) with either 100 or 120 maximum line length. You may want to use [scalafmt](http://scalameta.org/scalafmt/) for automatic formatting too.
 
 ## Best Practices
 

@@ -1,6 +1,6 @@
 # DCO is missing
 
-If you are reading this, then you want to contribute to one of the source{d}'s projects.
+If you are reading this, then you want to contribute to one of source{d}'s projects.
 That's awesome and we're glad you're here 👍.
 However, this also means that you probably have not added the "signed-off-by" signature to one or more of your commits in the pull request.
 
@@ -10,10 +10,10 @@ You may now have a fair question: why does source{d} enforce the DCO? There are 
 
   1. By signing off the contribution, you are certifying it is either your intellectual property or a valid contribution given its respective open source license origin.
   2. It follows that your contribution is, by default if valid, considered your intellectual property in countries such the United States.
-  So you could ask the project maintainer to remove one (or more) of your contributions in the future.
-  This may get very complicated as the project grows larger and well-known: imagine rewriting the Git history for everybody!
+  Thus you could ask the project maintainer to remove one (or more) of your contributions in the future.
+  This may get very complicated as the project grows larger and becomes more well-known: imagine rewriting the Git history for everybody!
 
-Thus, the DCO works as a sort of an insurance against such cases.
+Thus, the DCO works as a sort of insurance against such cases.
 
 This manual should help you to add the required `Signed-off-by: Your Name <name@email.com>` to your commits in the pull request.
 
@@ -76,7 +76,7 @@ git push -f origin <your branch here, probably "master">
 
 ### Fix Option #4: (Almost) Avoid Git
 
-Git is sometimes frustrating, and you may want to keep distance from it sometimes, for safety.
+Git is sometimes frustrating, and you may want to keep distance from it sometimes for safety.
 For now:
 
   1. Copy the modified files to a backup directory;
@@ -109,7 +109,7 @@ grep -qs "^${SIGNATURE}" "$1" || echo "\n${SIGNATURE}" >> "$1"
 
 You need to do this for each repository independently.
 
-If you want to create this hook **automatically** on every new git repositories you will create from now on (using `git init`, `git clone`...) you can use `git-templates`; to do so, just save the script described above into (duplicate files):
+If you want to create this hook **automatically** on every new git repository you will create from now on (using `git init`, `git clone`...) you can use `git-templates`; to do so, just save the script described above into (duplicate files):
 - `~/.git-templates/hooks/prepare-commit-msg`
 - `~/.git-templates/hooks/commit-msg`
 
@@ -123,7 +123,7 @@ git config --global init.templatedir ~/.git-templates
 
 ### Sign-off Option #3: Git Aliases
 
-Git aliases are like "shortcuts" to more extense commands and flags.
+Git aliases are like "shortcuts" to more extensive commands and flags.
 
 You can add the following lines (or as you see suit) to your `~/.gitconfig` file:
 
@@ -134,3 +134,8 @@ You can add the following lines (or as you see suit) to your `~/.gitconfig` file
 ```
 
 You only need to do this once, and it will work whenever this `~/.gitconfig` file is active.
+
+
+### Signo-off Option #4: Github UI
+
+If you are using Google Chrome, you are lucky and you can use the [`dco-gh-ui` Chrome Extension](https://github.com/scottrigby/dco-gh-ui)

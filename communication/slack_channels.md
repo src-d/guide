@@ -7,7 +7,7 @@ Slack channels are encouraged to be open to all sourcerers to join. Private chan
 ### General channels
 
 * `#general`
-  * Company wide announcements, company-related or generally important topics
+  * Company-wide announcements, company-related or generally important topics
 * `#offtopic`
   * Almost anything goes, the place to share interesting or funny things and keep other channels clean and on topic
 * `#officechat`
@@ -15,7 +15,7 @@ Slack channels are encouraged to be open to all sourcerers to join. Private chan
 * `#offtopic-`
   * Targeted offtopic channels. Search in Slack for #offtopic- and you'll find different offtopic channels like #offtopic-music
 * `#osd`
-  * `#osd` stands for [Open Source Days](../talent/open_source_days.md), people share what they'll be working on during their OSD and share the results/demos
+  * `#osd` stands for [Open Source Days](../talent/open_source_days.md); people share what they'll be working on during their OSD and share the results/demos
 * `#twitter`
   * Source{d} mentions and tweets
 

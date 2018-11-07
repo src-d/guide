@@ -29,7 +29,7 @@ These based in the notes from:
 The idea is to standardize the workflow when bringing new ideas, feature request
 or needs, representing a substantial development effort or change in the product
 philosophy, and make sure things are built with the adequate involvement of
-people, approval process, documentation, reasoning on why and how should we be
+people, approval process, documentation, reasoning on why and how we should be
 working on something. Mindfulness and meaningfulness are key.
 
 The process aims to either validate and refine or dismiss initial ideas (coming
@@ -111,7 +111,7 @@ solution. [Template](https://docs.google.com/document/d/1NtbOeUt9mAm3vnseCuEwBvu
 
 ### Presentation to Leads Meeting
 
-Every Leads Meeting newly approved requests added to the pipeline will be
+Every leads meeting newly approved requests added to the pipeline will be
 briefly presented regarding context, goals, KPIs, potential high-level solution,
 etc. A maintainer for this project will be chosen by the leads based on the
 complexity, scope and capabilities of team members.
@@ -133,10 +133,10 @@ generally would be sensible to do so.
 
 ### Design Meeting
 
-The Design Meeting will bring the first more detailed proposal of solution to
+The design meeting will bring the first more detailed proposal of solution to
 the problem to the relevant parties, and will then prompt further iterations
 upon it as necessary to refine it. The maintainer chooses who to invite to the
-meeting besides of the Head of Product and the CTO.
+meeting besides the Head of Product and the CTO.
 
 ### Design Document Nth iteration
 
@@ -148,9 +148,9 @@ problems are discovered, etc.
 ### Kickoff Meeting
 
 Once a solution is refined well enough to be worked on and iterations slow down,
-a Kickoff Meeting is prompted with presence of the leads, the CTO and relevant
+a kickoff meeting is prompted with presence of the leads, the CTO and relevant
 people from the teams to present it and organize the implementation, distribute
-responsibilities to teams and people, break down tasks and dependencies.
+responsibilities to teams and people, and break down tasks and dependencies.
 
 ### Issues/teams tasks
 
@@ -168,4 +168,4 @@ depending on the time necessary to evaluate the outcomes.
 
 The post-mortem is documented so that it can be referred to in the future and
 the whole team is able to learn from it. In the same spirit as the design doc,
-one post-mortem document that covers both product and technical parts.
+one post-mortem document covers both product and technical parts.

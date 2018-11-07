@@ -5,7 +5,7 @@
 * Every GitHub repository must have an assigned maintainer.
 * Maintainer is specified in a MAINTAINERS file in the top level directory as follows: `Full Name <email> (@github_handle)`
 * Maintainers are in charge of:
-  * Release Management: tagging, release notes, deciding on versioning, etc.
+  * [Release Management](releases.md): tagging, release notes, deciding on versioning, etc.
   * Code Review pull requests.
   * Ensure that issues get handled.
   * Ensure that good practices are followed and that there is consistency among the code base.

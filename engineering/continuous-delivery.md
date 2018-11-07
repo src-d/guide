@@ -18,24 +18,23 @@ Web application deployment workflow.
 
 # Intro
 
-This documentation assumes it is already known the [company deployment workflow](git-flow.md), and extends it to cover the continuous delivery as it should work for all source{d} web applications:
+This documentation assumes the [company deployment workflow](git-flow.md) is already known, and extends it to cover the continuous delivery as it should work for all source{d} web applications:
 
 repo | Prod | Staging
 --- | --- | ---
 [src-d/landing](https://github.com/src-d/landing) | [sourced.tech](https://sourced.tech) | [landing-staging.srcd.run](https://landing-staging.srcd.run)
 [src-d/blog](https://github.com/src-d/blog) | [blog.sourced.tech](http://blog.sourced.tech) | [blog-staging.srcd.run](https://blog-staging.srcd.run)
-[src-d/talks](https://github.com/src-d/talks) | [talks.sourced.tech](https://talks.sourced.tech) | [talks-staging.srcd.run](https://talks-staging.srcd.run)
 
-This document does not pretend to be exhaustive but a guide, and there can be special cases that will be defined in the README.md and CONTRIBUTING.md of each web application repository.
+This document does not pretend to be exhaustive but as just a guide, and there can be special cases that will be defined in the README.md and CONTRIBUTING.md of each web application repository.
 
 This document is based on the agreements of the [2017-10-23 CD workflow](https://github.com/src-d/minutes/blob/master/infrastructure/2017-10-23-landing-cd-workflow.md) and [2017-10-26 Enforcing the CD workflow](https://github.com/src-d/minutes/blob/master/infrastructure/2017-10-26-enforcing-cd-workflow.md) meetings.
 
 # Quick summary:
 
-Here are the technical details of when CI or CD runs, but it is needed you know and understand the guides and conventions explained below this section.
+Here are the technical details of when CI or CD runs, but you need to know and understand the guides and conventions explained below this section.
 
 ## branches
-- `master` branch must be always production ready and will reflect the code deployed into Production.
+- `master` branch must always be production ready and will reflect the code deployed into Production.
 - there are no long-term branches but `master`,
 - `staging` branch must not be merged into other branches,
 - `staging` branch should be kept as close to master as possible,
@@ -50,13 +49,13 @@ CI and CD is controlled [by drone](https://drone.srcd.host)
 
 # General workflow
 
-`master` branch must be "always" production ready.
+`master` branch must "always" be production ready.
 
 `master` branch will contain only approved commits through a PR.
 
 `master` branch is the starting point for feature branches (considering some [special cases](#special-cases))
 
-Since the workflow in the source{d} web applications use to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainers](maintainers.md) will decide if any PR must be reviewed by Product, by themselves or by any other person.
+Since the workflow in the source{d} web applications used to be closely guided by Product, it is quite likely that it is needed to obtain its approval before merging into `master`; the repository [Maintainers](maintainers.md) will decide if any PR must be reviewed by Product, by themselves or by any other person.
 
 # Deploying into Production
 
@@ -80,14 +79,14 @@ The release branches will be named with the pattern `release/__TAG_NAME__` being
 
 ### Exceptions
 
-There can be some special exceptions that would require merging into master some PRs consecutively, and only to tag the last one; when it is needed to proceed that way, it should elapse only a few minutes between the first commit &ndash;not being tagged&ndash;, and the last one &ndash;being tagged&ndash;.
+There can be some special exceptions that would require merging into master some PRs consecutively, and only to tag the last one; when it is needed to proceed that way, only a few minutes should elapse between the first commit &ndash;not being tagged&ndash;, and the last one &ndash;being tagged&ndash;.
 
 # Deploying into Staging
 
 Whenever `staging` branch is updated,  [drone](https://drone.srcd.host) automatically deploys it to Staging environment.
 
-`staging` branch is not a long-term branch, so it should be kept as closer to `master` as possible.
+`staging` branch is not a long-term branch, so it should be kept as close to `master` as possible.
 
 The project maintainer and team members working with that project will decide when `staging` should be reset to `master` or a `release/*` branch, considering its current state and other features that could be tested in Staging.
 
-Since the `staging` branch contains commits not approved, it is needed to keep those ones outside from `master` or any other branch that could be merged against `master` &ndash;like release or feature branches&ndash;. Due to the necessity of keeping that risk as low as possible, it can be taken as a general rule that `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash;.
+Since the `staging` branch contains commits not approved, those ones must be kept outside from `master` or any other branch that could be merged against `master` &ndash;like release or feature branches&ndash;. Due to the necessity of keeping that risk as low as possible, it can be taken as a general rule that `staging` branch must not be merged into any branch &ndash;neither into the remote `src-d:staging`&ndash;.

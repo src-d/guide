@@ -3,7 +3,7 @@
 
 ## How frequently/what prompts a release?
 
-At [maintainer](maintainers.md)'s discrection. But in general, if a bug is fixed that is critical regression from latest release, a new release should be done ASAP. If, after some time, there are pending changes that are well tested, a release should be performed too.
+At [maintainer](maintainers.md)'s discretion. But in general, if a bug that is a critical regression from latest release is fixed, a new release should be done ASAP. If, after some time, there are pending changes that are well tested, a release should be performed too.
 
 ## What should be provided in terms of files?
 
