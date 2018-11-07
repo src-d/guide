@@ -4,7 +4,7 @@
 
 In order to create a new repository, this should be requested through a [infrastructure issue](https://github.com/src-d/issues-infrastructure), and will be handled by @mcuadros.
 
-The name should be discussed with product, and the tags and description shuld be provided.
+The name should be discussed with product, and the tags and description should be provided.
 
 ## Repository privileges
 
