@@ -12,7 +12,7 @@ source{d} provides:
   - Moving companies/shipping for furniture and boxes
   - Car rental or taxis
 
-\* We would like to offer a higher amount in the future but for now we're still a startup and we hope this covers at least part of our new team members expenses.
+\* We would like to offer a higher amount in the future but for now we're still a startup and we hope this covers at least part of our new team members’ expenses.
 
 ### Other
 

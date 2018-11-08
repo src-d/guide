@@ -35,7 +35,7 @@ Below is the guide we use at source{d} for one-on-one meetings between you and y
 
 ## Suggested Template:
 
-Starting the meeting please let the person know that anything they consider private will be kept private between the two of you but general feedback on the company, performance related, improvement suggestions and career development may be discussed with members of the management team or other leads.
+Starting the meeting please let the person know that anything they consider private will be kept private between the two of you. But, general feedback on the company, performance related, improvement suggestions and career development may be discussed with members of the management team or other leads.
 
 ### Part I. Company feedback
 
@@ -55,7 +55,7 @@ Starting the meeting please let the person know that anything they consider priv
 
 * Please let me know where you believe you can still improve? (it is important this becomes part of the action plan on how to improve)
 
-* If you could rate your happiness from 1-10? If not 10, why not and what can we do to improve it 
+* Could you rate your happiness from 1-10? If not 10, why not and what can we do to improve it 
 
 ### Part III. Team improvement
 
@@ -87,7 +87,7 @@ If you have a hard time getting to someone’s career goals (or they don’t kno
 
 ### Part VI. Personal **(completely private)**
 
-* The purpose here is to see how you can help your team member, if there is something source{d} can do to help and also to have understanding of any situations that are going on in someone’s personal life
+* The purpose here is to see how you can help your team member, if there is something source{d} can do to help and also to have an understanding of any situations that are going on in someone’s personal life
 
 * Ask about your team members' personal lives
 
@@ -95,4 +95,4 @@ If you have a hard time getting to someone’s career goals (or they don’t kno
 
 ### Part VII. Feedback on yourself
 
-* Ask for feedback on yourself: be open and push them to be honest. It is really important here people know that you won’t take it personal, often starting with an example of something you know you’ve been doing wrong helps.
+* Ask for feedback on yourself: be open and push them to be honest. It is really important here people know that you won’t take it personally, often starting with an example of something you know you’ve been doing wrong helps.

@@ -10,20 +10,20 @@ not ask for it.
 
 According to our [wage policy](wage_policy.md), each of these levels have a
 fixed salary that is the same for everyone in the same
-[team](engineering-teams.md) and level, with two exceptions 1) roles that have,
+[team](engineering-teams.md) and level, with two exceptions: 1) roles that have,
 inherently, a single member 2) the role of Distinguished Engineer. Salaries are updated whenever a promotion happens.
 
 ### Individual Contributor
 
 Individual contributors are essentially all engineers that do not exercise any
 kind of management activity. They are divided in levels where promotions happen
-based on each engineer merits without a limit of people being at any level.
+based on each engineer’s merits without a limit of people being at any level.
 
 #### Intern
 
 Interns have fixed-time contracts to work on a given team or project. They are
 expected to be learning intensively and their performance is reviewed at the end
-of their term to decide if they get an offer to become permanent part of the
+of their term to decide if they get an offer to become a permanent part of the
 team, usually as Junior Engineers.
 
 #### Junior Engineer
@@ -36,7 +36,7 @@ Juniors will usually be promoted from internships or hired at the end of their s
 
 #### Engineer I
 
-Engineers (I) are able to work comfortably on small tasks without any supervision, they have 
+Engineers (I) are able to work comfortably on small tasks without any supervision. They have 
 succeeded working on mid/big size tasks and are able to understand the impact of their
 changes.
 
@@ -47,7 +47,7 @@ scratch and be involved actively in design of new features.
 
 #### Engineer III
 
-Engineers (III) are expected to work autonomously on any tasks, as well are expected to
+Engineers (III) are expected to work autonomously on any tasks, and are expected to
 be able to mentor other team members in small/mid tasks.
 
 #### Senior Engineer I
@@ -82,7 +82,7 @@ of a new position.
 
 A Team Lead is equivalent to Senior Engineer II who also manages a small team of
 engineers (less than 10 people). A Team Lead is expected to be able to plan
-current and future work, provide mentorship, overseeing progress of the team
+current and future work, provide mentorship, oversee progress of the team
 and, in general, be able to make day-to-day work smooth for everyone in the team. 
 A Team Lead has also a major role in the hiring process (screening, initial calls, 
 code challenge reviews, etc).
@@ -95,8 +95,8 @@ practices improvements.
 
 #### Chief Technology Officer
 
-The CTO is ultimately responsible of running the engineering department and
-provide global direction on the development.
+The CTO is ultimately responsible for running the engineering department and
+providing global direction on development.
 
 ### Appendix - Machine Learning Team
 

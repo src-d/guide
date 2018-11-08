@@ -10,7 +10,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 ### Screening
 
-- Less than a week after the submission of the application the developer receives an email with feedback, however there can be delays. In any case, the developer is free to reach out to us at any moment at talent@sourced.tech.
+- Less than a week after the submission of the application the developer receives an email with feedback; however there can be delays. In any case, the developer is free to reach out to us at any moment at talent@sourced.tech.
 
 - In the case of positive feedback in the application, the developer is asked to move to a quick Skype/Zoom/Phone call with the lead of the potential hiring team.
 
@@ -34,7 +34,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 - The main point being reviewed is the correctness of the solution, however we do check the complexity and code style. 
 
-- For the Machine Learning team, there is an additional ML task necessary to be solved in the time limit of 5 hours. 
+- For the Machine Learning team, there is an additional ML task that needs to be solved in the time limit of 5 hours. 
 
 - The results are reviewed by the engineering team and feedback is given to the developer as soon as possible. 
 
@@ -58,7 +58,7 @@ The interviews consist of the following:
 
 - The offer is sent by our CTO through Lever. 
 
-- The developer has no time deadline to accept/reject the offer. In cases where we have a limited # of open positions for a role, and a larger number of people we'd like to make an offer too, a time limit is given.
+- The developer has no time deadline to accept/reject the offer. In cases where we have a limited # of open positions for a role, and a larger number of people we'd like to make an offer to, a time limit is given.
 
 ### Diversity and Remote
 
