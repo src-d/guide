@@ -10,6 +10,16 @@
 - Accessory Kit
 - Backlit Keyboard (English) & User's Guide
 
+## Apple 15-inch MacBook Pro - Space Gray
+- 2.2GHz 6-core Intel Core i7 processor, Turbo Boost up to 4.1GHz
+- 16GB 2400MHz DDR4 memory
+- 256GB SSD
+- Radeon Pro 555X with 4GB of GDDR5 memory and AGS
+- Intel UHD Graphics 630
+- Four Thunderbolt 3 (USB-C) ports
+- Force Touch trackpad
+- Backlit Keyboard (English), Touch Bar
+
 ## Dell XPS 13 Developer Edition
 - 8th Generation Intel(R) Core(TM) i7-8550U Processor
 - Ubuntu Linux 16.04
