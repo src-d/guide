@@ -66,11 +66,11 @@ with the package name.
 # Contribute
 
 [Contributions](https://github.com/src-d/{project}/issues) are more than welcome, if you are interested please take a look to
-our [Contributing Guidelines](CONTRIBUTING.md).
+our [Contributing Guidelines](docs/CONTRIBUTING.md).
 
 # Code of Conduct
 
-All activities under source{d} projects are governed by the [source{d} code of conduct](.github/CODE_OF_CONDUCT.md).
+All activities under source{d} projects are governed by the [source{d} code of conduct](docs/CODE_OF_CONDUCT.md).
 
 # License
 
