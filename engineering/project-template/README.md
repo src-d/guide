@@ -83,16 +83,16 @@ There's a choice between the following three licenses:
 You will find more info about what license to choose at: https://github.com/src-d/guide/blob/master/engineering/licensing.md
 ```
 
-Apache License Version 2.0, see [LICENSE](LICENSE).
+Apache License Version 2.0, see [LICENSE.md](LICENSE.md).
 
 ```
 or
 ```
 
-GPL v3.0, see [LICENSE](LICENSE).
+GPL v3.0, see [LICENSE.md](LICENSE.md).
 
 ```
 or
 ```
 
-This work is licensed under a Creative Commons Attribution 4.0 International License. See [LICENSE](LICENSE).
+This work is licensed under a Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md).
