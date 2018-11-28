@@ -95,5 +95,4 @@ GPL v3.0, see [LICENSE](LICENSE).
 or
 ```
 
-Creative Commons BY-SA 4.0, see [LICENSE](LICENSE).
-
+This work is licensed under a Creative Commons Attribution 4.0 International License. See [LICENSE](LICENSE).
