@@ -89,7 +89,7 @@ Apache License Version 2.0, see [LICENSE.md](LICENSE.md).
 or
 ```
 
-GPL v3.0, see [LICENSE.md](LICENSE.md).
+GPL v3.0 or later, see [LICENSE.md](LICENSE.md).
 
 ```
 or
