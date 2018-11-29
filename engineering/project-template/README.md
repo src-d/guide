@@ -95,4 +95,4 @@ GPL v3.0 or later, see [LICENSE.md](LICENSE.md).
 or
 ```
 
-This work is licensed under a Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md).
+This work is licensed under a Creative Commons &mdash; Attribution-ShareAlike 4.0 International License. See [LICENSE.md](LICENSE.md).
