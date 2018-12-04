@@ -42,7 +42,7 @@ Among others we have the following amenities:
 | D3 | [David Riosalido](https://github.com/driosalido)  |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
-| D3 | Alicia Kozlozski & [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk) |
+| D3 | Alicia Kozlowski & [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk) |
 | E3 | [Carlos Martín](https://github.com/carlosms) | (remote in Las Palmas but coming sometimes)
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
