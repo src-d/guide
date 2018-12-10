@@ -12,7 +12,7 @@
 - Force Touch trackpad
 - Touch Bar and Touch ID
 - Accessory Kit
-- Backlit Keyboard (English) & User's Guide
+- Backlit Keyboard (US English) & User's Guide
 
 ### Apple 15-inch MacBook Pro - Space Gray
 
@@ -23,7 +23,8 @@
 - Intel UHD Graphics 630
 - Four Thunderbolt 3 (USB-C) ports
 - Force Touch trackpad
-- Backlit Keyboard (English), Touch Bar
+- Touch Bar and Touch ID
+- Backlit Keyboard (US English), Touch Bar
 
 ### Dell XPS 13 Developer Edition
 
@@ -31,7 +32,8 @@
 - Ubuntu Linux 16.04
 - 16GB Memory LPDDR3 2133MHz
 - 512GB Solid State Drive
-- 13.3'' 4K Ultra HD (3840 x 2160) InfinityEdge
+- 13.3" 4K Ultra HD (3840 x 2160) InfinityEdge
+- English keyboard
 
 ### Lenovo x270 12"
 
@@ -42,6 +44,7 @@
 - Intel HD Graphics 620
 - 3-cell integrated battery (23Wh)
 - 3-cell battery (23Wh)
+- English keyboard
 
 ## Keyboards
 
