@@ -1,4 +1,7 @@
-**October 18:** looking for ideas
+**October 18:** Cachopo time!
+- Place: El Rincón Asturiano 2
+- Time: From 20.00
+- Guests: sourcerers
 
 **August 18:**  TapRoom -- Beers
 - Place: Guzman el Bueno, 52
