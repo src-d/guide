@@ -64,4 +64,6 @@ The interviews consist of the following:
 
 - At source{d} we believe that amazing talent should not be constrained by physical barriers. Our multinational and multicultural team shares a culture of openness and excellence and passion for programming.
 
-- At the moment, we are 25+ people from 10 different countries working closely together from our office in Madrid. We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely. Currently, we have remote team members in Portugal, Estonia & Russia.
+- At the moment, we are 25+ people from 10 different countries working closely together from our office in Madrid (Spain). We are more than happy to sponsor you a visa and guide you and your family through the whole process if you decide to come to work from our office, but you may also choose to work remotely. Currently, we have remote team members in USA, Portugal, Ireland, France, Belgium, Poland, Estonia and Russia. 
+
+- The local timezone of developers who want to work remotely should be between San Francisco and Moscow.
