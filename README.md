@@ -43,3 +43,8 @@ our [Contributing Guidelines](engineering/documents/CONTRIBUTING.md).
 # Code of Conduct
 
 All activities under source{d} projects are governed by the [source{d} code of conduct](.github/CODE_OF_CONDUCT.md).
+
+
+# License
+
+This work is licensed under a Creative Commons — Attribution-ShareAlike 4.0 International License. See [LICENSE](./LICENSE.md).
