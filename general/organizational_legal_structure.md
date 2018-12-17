@@ -1,6 +1,6 @@
 # Organizational Chart
 
-![Organizational Chart](https://user-images.githubusercontent.com/15906764/49958574-8bcd2280-ff0b-11e8-911e-01ee91193e7c.png)
+![Organizational Chart](https://i.imgur.com/1ffLxWF.png)
 
 # Management Team
 
