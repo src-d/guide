@@ -28,7 +28,7 @@ An issue sent to PR must contain code and instructions to deploy. Instructions t
 
 An issue moved to PR must have been tested prior of that. The amount of testing will be different in each case, but it is expected a deployment working either in the staging or development environments. If that is not possible, the amount of testing done must be explicitly stated in the issue.
 
-Once reviewed, if no further review is needed, the issue will be moved to the deployment column **without being merged**. If further review is needed, then the issue should remain in PR. In order to speed up things, if the reviewer knows the person that should review the issue, mentions should be used.
+Once reviewed, if no further review is needed, the issue will be moved to the deployment column **without being merged**. If further review is needed, then the issue should remain in PR. In order to speed up things, if the reviewer knows the person that should review the issue, mentions should be used. If the reviewer finds that changes should be made to either the code or deployment instructions, the issue will be placed back to Development and reassigned to the original developer (unless long vacations make that impossible).
 
 As a gesture to the reviewer, use separate commits to address different comments and never push force in a branch coming from the main repository.
 
