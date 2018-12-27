@@ -1,4 +1,4 @@
-Developer Advocate / Tech Writer
+Talent Manager
 ------------------------------------------
 
 ### [Location & Seniority](../location-seniority-section.md)
