@@ -28,6 +28,7 @@ We try to put as much information here as possible, in the rare cases that a top
 * [Developer Community](developer-community/)
 * Product
   * [Design Documents](product/design-documents.md)
+  * [Design and Branding](https://github.com/src-d/design)
   * [Graphic Design Guide](product/graphic-design-guide.md)
 * Communication
   * [Slack channels](communication/slack_channels.md)
