@@ -148,9 +148,10 @@ problems are discovered, etc.
 ### Kickoff Meeting
 
 Once a solution is refined well enough to be worked on and iterations slow down,
-a kickoff meeting is prompted with presence of the leads, the CTO and relevant
-people from the teams to present it and organize the implementation, distribute
-responsibilities to teams and people, and break down tasks and dependencies.
+a kickoff meeting is prompted with presence of the leads, the VP of Engineering
+and optionally the CTO and relevant people from the teams to present it and
+organize the implementation, distribute responsibilities to teams and people,
+and break down tasks and dependencies.
 
 ### Issues/teams tasks
 

@@ -11,6 +11,7 @@ Date: 2018-04-12
     * [How to pick next issues to worked on?](#how-to-pick-next-issues-to-work-on)
 * [Leads Meeting](#leads-meeting)
 * [Team Meeting](#team-meeting)
+* [CTO Sync Meeting] (#cto-sync-meeting)
 * [Standup](#standup)
 * [Demo](#demo)
 * [Keeping track of things](#keeping-track-of-things)
@@ -29,7 +30,7 @@ do not need to happen at the same time for all teams.
 
 Meetings for high-level sync including product direction, vision, etc are
 proactively scheduled by each Team Lead as needed. All Leads have periodical
-hands-on meetings with the CTO.
+hands-on meetings with the VP of Engineering.
 
 ## History
 
@@ -102,8 +103,11 @@ the issue, its context, and what will take to complete it.
 
 ## Leads Meeting
 
-Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 14:30 for the CTO
-and all team leads to catch up on ongoing progress.
+Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 17:00
+for the VP of Engineering, CTO and all team leads to catch up on ongoing progress.
+
+The Leads Meeting is defined as a meeting  of the VP of Engineering with their
+team, where CTO is invited to attend, to be synced with the daily basis developments.
 
 Each team lead will prepare:
 
@@ -115,9 +119,9 @@ Then grooming company’s backlog/epics from [Company Kanban](https://github.com
 
 ## Team Meeting
 
-A bi-weekly meeting of the CTO with the team lead and optionally with the full
+A bi-weekly meeting of the VP of Engineering with the team lead and optionally with the full
 team (to be decided by the lead), in order to comment the status of the
-projects. Scheduled with each team individually by CTO.
+projects. Scheduled with each team individually by VP of Engineering.
 
 ## Standup
 
