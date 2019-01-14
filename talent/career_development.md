@@ -87,18 +87,42 @@ and, in general, be able to make day-to-day work smooth for everyone in the team
 A Team Lead has also a major role in the hiring process (screening, initial calls, 
 code challenge reviews, etc).
 
-#### Head of Architecture
+#### VP Of Engineering
 
-The Head of Architecture provides decision-making inputs on technical issues
-that span across wide areas, as well as mentor, implement and steer development
-practices improvements.
+The VP Of Engineering is how to manage the engineering team on a daily basis. Being 
+the following the primary responsibilities:
+
+- Focused on building and delivering products
+- Grows and manages the engineering team
+- Responsible for the practices and culture of the team
+- Assessing the time it will take to deliver features (or products)
+- Delivering quality releases on a schedule
+- Manager for the leads (this includes responsibility for quarterly one-on-ones)
+- Be part of pre/post sales when the customer requires it (occasionally customers require executive presence) 
+- Delivering quarterly OKR’s for the engineering organization
 
 #### Chief Technology Officer
 
 The CTO is ultimately responsible for running the engineering department and
-providing global direction on development.
+providing global direction on development. Being the following theprimary responsibilities:
 
-### Appendix - Machine Learning Team
+- Have a strong vision, technology visionary of source{d}
+- Work on cutting edge prototypes for the future
+- Set the future technical direction of the company and products
+- Responsible for major long term impacting technical decisions
+- Deeply care about the quality of what we deliver and build
+- Define the product architecture
+
+The CTO / VP of Engineering pair can be resumed in these two phrases:
+
+> “The CTO makes sure the technical approach is correct and the VP Engineering makes sure the team is correct.”
+
+> “The CTO makes sure we know what to work on in 6-12 months, and the VP Engineering delivers what we need to do right now.”
+
+
+<hr>
+
+##### Appendix - Machine Learning Team
 
 <details>
   <summary>The following adds on bottom of the level descriptions to clarify the requirements for ML people.</summary>
