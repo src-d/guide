@@ -35,7 +35,7 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 * Welcome talks with the Founders
 * Welcome talk with the VP of Engineering
-* Welcome talk with the Head of Product anad Data Intelligence
+* Welcome talk with the Head of Product and Data Intelligence
 
 
 ### Company Events
