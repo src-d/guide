@@ -89,7 +89,7 @@ code challenge reviews, etc).
 
 #### VP Of Engineering
 
-The VP Of Engineering is how to manage the engineering team on a daily basis. Being 
+The VP of Engineering manages the engineering team on a daily basis. Being 
 the following the primary responsibilities:
 
 - Focused on building and delivering products
