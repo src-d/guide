@@ -104,7 +104,7 @@ the following the primary responsibilities:
 Is responsible to keep the CTO up to date on decisions made that impact
 the way the team works and is structured; final decision power on these matters
 is with the VPEng, but it’s expected that VPEng seeks advice from the CTO when
-making big changes. The VP Of Engineering is responsible to involve the CTO in 
+making big changes. The VP of Engineering is responsible to involve the CTO in 
 major architecture / technical decisions that impact the product architecture. 
 
 #### Chief Technology Officer
