@@ -110,7 +110,7 @@ major architecture / technical decisions that impact the product architecture.
 #### Chief Technology Officer
 
 The CTO is ultimately responsible for running the engineering department and
-providing global direction on development. Being the following theprimary responsibilities:
+providing global direction on development. Being the following their main responsibilities:
 
 - Have a strong vision, technology visionary of source{d}
 - Work on cutting edge prototypes for the future
