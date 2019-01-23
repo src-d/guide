@@ -60,7 +60,7 @@ This document explains the internal hiring process at source{d} and the responsi
 
 - The interviews are the following:
 
-* Kickoff with the VP of Engeenering. Duration 60'.
+* Kickoff with the VP of Engineering. Duration 60'.
 * QA: to know the developer better. Two interviewers should participate; one from the team that the developer is being interviewed for, and one from any other engineering or non engineering team (eg. Product, Talent). Duration 60'.
 * Design interview: to see how the developer would design a solution to a given technical problem working with several of our engineers. Each team has specific needs that should be properly covered during this interview. The interviewers are chosen by the lead of the team the developer is interviewed for. Duration 90'.
 * Logical thinking: to see how the developer solves an abstract problem in a logical way. At the moment is conducted by the Lead of Data Science, however it would be convenient to pass the knowledge of this interview to others for the future. Duration 60'.
