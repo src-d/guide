@@ -119,7 +119,7 @@ providing global direction on development. Being the following their main respon
 - Deeply care about the quality of what we deliver and build
 - Define the product architecture
 
-CTO has final say on the product architecture but VPEng decides how, when and by
+CTO has final say on the product architecture but VP Of Engineering decides how, when and by
 whom it is implemented. VPEng has decision making power over the day to day
 engineering questions that come from the leads.
 
