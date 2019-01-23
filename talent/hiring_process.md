@@ -84,4 +84,4 @@ This document explains the internal hiring process at source{d} and the responsi
  
 ### Feedback
 
-- After the coding challenge it's very important to obtain feedback from the VP of Engeenering at each next step.
+- After the coding challenge, it's very important to obtain feedback from the VP of Engineering at each next step.
