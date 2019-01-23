@@ -87,7 +87,7 @@ and, in general, be able to make day-to-day work smooth for everyone in the team
 A Team Lead has also a major role in the hiring process (screening, initial calls, 
 code challenge reviews, etc).
 
-#### VP Of Engineering
+#### VP of Engineering
 
 The VP of Engineering manages the engineering team on a daily basis. Being 
 the following the primary responsibilities:
