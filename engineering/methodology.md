@@ -103,7 +103,7 @@ the issue, its context, and what will take to complete it.
 
 ## Leads Meeting
 
-Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Tuesdays 17:00
+Same as something called SoS (Scrum of Scrums) before - a weekly meeting on Wednesdays 17:30
 for the VP of Engineering, CTO and all team leads to catch up on ongoing progress.
 
 The Leads Meeting is defined as a meeting  of the VP of Engineering with their
