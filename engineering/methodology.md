@@ -11,7 +11,6 @@ Date: 2018-04-12
     * [How to pick next issues to worked on?](#how-to-pick-next-issues-to-work-on)
 * [Leads Meeting](#leads-meeting)
 * [Team Meeting](#team-meeting)
-* [CTO Sync Meeting] (#cto-sync-meeting)
 * [Standup](#standup)
 * [Demo](#demo)
 * [Keeping track of things](#keeping-track-of-things)
