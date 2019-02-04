@@ -32,6 +32,7 @@ Among others we have the following amenities:
 |----|--------------------|
 | A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
+| B1 | [Jan Hula](https://github.com/jan21)   |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B6 | [Waren Long](https://github.com/warenlg) |
@@ -42,13 +43,12 @@ Among others we have the following amenities:
 | D3 | [David Riosalido](https://github.com/driosalido)  |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
 | D5 | [Rafa Porres](https://github.com/rporres)        |
-| D3 | Alicia Kozlowski & [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk) |
+| D3 | [Ricardo Baeta](linkedin.com/in/ricardobaeta) (remote in Lisbon but coming once per month to this desk) |
 | E3 | [Carlos Martín](https://github.com/carlosms) | (remote in Las Palmas but coming sometimes)
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
-| F2 | [Anna Tsolakou](https://www.linkedin.com/in/tsolakouanna/)   |
 | F3 | [Juanjo Álvarez](https://github.com/juanjux)     |
 | F4/F6| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
-| B1/B5/C1/C3/C6/D1/E1/E2/F1 | Rotating Desks for remote sourcerers visiting the office     |
+| B1/B5/C1/C3/C6/D1/E1/E2/F1/F2 | Rotating Desks for remote sourcerers visiting the office     |
