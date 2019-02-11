@@ -9,7 +9,7 @@ Date: 2018-11-29
 * [Team Sync Meeting](#team-sync-meeting)
 * [Standup](#standup)
 * [Demo](#demo)
-* [Retrospective Meeting](#retrospective-Meeting)
+* [Retrospective Meeting](#retrospective-meeting)
 
 ## Intro
 
@@ -19,7 +19,7 @@ The current workflow is based on these main concepts:
 
 * OKRs: company/team engineering OKRs are what should drive every single decision taken by the Engineering Team.
 * A [Workflow](workflow.md) that defines the process of definition and development of the tasks, from the idea to the release.
-* [Backlog](https://github.com/src-d/backlog) and [Features-Idea](https://github.com/src-d/feature-idea/) repositories, where the approved tasks and the suggestions are.
+* [Backlog](https://github.com/src-d/backlog) and [Features-Idea](https://github.com/src-d/feature-idea/) repositories, where approved user stories and feature ideas are tracked.
 * Leads meeting to align all efforts done by the different teams at engineering every week.
 * Demo, a company-wide presentation where all the new functionality and important changes are communicated to the company once they are done.
 * Retrospective Meeting: a place to improve the methodology.
@@ -48,7 +48,6 @@ with the company ones.
 At source{d} we use git repositories as much as possible, that's why our source
 of truth for the user stories and tasks are git repositories on GitHub, even
 though those repositories don't contain any code.
-if these repositories don't contain any code.
 
 The [Features-Idea repository](https://github.com/src-d/feature-idea) is the
 place where everyone in the company can suggest new features, projects or

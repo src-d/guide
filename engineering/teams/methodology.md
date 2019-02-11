@@ -132,4 +132,4 @@ neither assigned to someone nor blocked. A single person should not be in charge
 of delivering the whole issue from Development to Done. In that way knowledge is
 better spread across the whole team.
 
-For this to work properly, issues must be documented so that a person can move on with the issue, reading what has been done.
+For this to work properly, every issue should be properly documented so any person can move on with every issue, reading what has been done.
