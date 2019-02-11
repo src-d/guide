@@ -2,13 +2,13 @@
 
 ## Repository creation request
 
-In order to create a new repository, this should be requested through a [infrastructure issue](https://github.com/src-d/issues-infrastructure), and will be handled by @mcuadros.
+In order to create a new repository, this should be requested through a [infrastructure issue](https://github.com/src-d/infrastructure), and will be handled by @mcuadros.
 
 The name should be discussed with product, and the tags and description should be provided.
 
 ## Repository privileges
 
-Each repository should belong to a team, and the full team has admin rights over this repository. If the repository engineering wise, the admin will be @smola and @mcuadros. 
+Each repository should belong to a team, and the full team has admin rights over this repository. If the repository is engineering-wide, the admin will be @smola and @mcuadros.
 
 ## Maintainer role
 

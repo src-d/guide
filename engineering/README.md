@@ -9,7 +9,7 @@
 
 ## Key Concepts
 
-* [Project Maintainers](maintainers.md)
+* [Repositories](repositories.md)
 * [Releases](releases.md)
 * [Git workflow](git-flow.md)
 * [Development Conventions](conventions.md)
