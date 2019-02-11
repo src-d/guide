@@ -65,7 +65,7 @@ Some projects might define both build and runtime requirements that go beyond wh
 
 ## Others
 
-Refer to the [licensing](licensing.md), [maintainers](maintainers.md) and [documentation](documentation.md) guides for other important information you should know when creating new projects.
+Refer to the [licensing](licensing.md), [repositories](repositories.md) and [documentation](documentation.md) guides for other important information you should know when creating new projects.
 
 ## Development Environments
 
