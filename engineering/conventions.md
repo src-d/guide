@@ -20,9 +20,9 @@ This guide documents development conventions that are language-independent, so t
 
 We have additional conventions for each language:
 
-* [Go](conventions-go.md)
-* [Python](conventions-python.md)
-* [Scala](conventions-scala.md)
+* [Go](conventions/go.md)
+* [Python](conventions/python.md)
+* [Scala](conventions/scala.md)
 
 ## Operating System Support
 
