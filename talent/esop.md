@@ -108,7 +108,7 @@ Operations | Junior | 3
 
 
 ### Award letter
-When you start working with us you will receive an award letter which grants you the options that are ruled by our Stock Option Plan. You can find a template of it here.
+When you start working with us you will receive an award letter which grants you the options that are ruled by our Stock Option Plan. You can find a template of it [here](https://drive.google.com/file/d/0B0LwFuoPcplqbEdXOGNRZ2pXS3BONUVoZ1RZOURVWHdXSjJv/view?usp=sharing).
 
 ### Stock Option Plan
 [Here](https://drive.google.com/file/d/0BzQlDhqlX19rZFE1dVJOVzE1ejg/view?usp=sharing) you can find a template of our Stock Option Plan.
