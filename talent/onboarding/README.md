@@ -34,10 +34,10 @@ From the first day you have access to source{d} Google Account, while receiving 
 During your first week you are going to have Welcome Talks in order to get to know source{d} and every team better:
 
 * Welcome talks with the Founders
-* Welcome talk with the Head of Architecture
-* Welcome talk with the VP of Developer Relations
-* Welcome talk with the Product Manager
-
+* Welcome talk with the VP of Engineering
+* Welcome talk with the VP of Product and Developer Relations
+* Welcome talk with the Head of Product and Data Intelligence
+* Welcome talk the Sales team
 
 ### Company Events
 
