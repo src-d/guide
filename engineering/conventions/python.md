@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This guide documents development conventions for Python at source{d}. Check [general conventions](conventions.md) for language-independent conventions that are also applicable for Python projects.
+This guide documents development conventions for Python at source{d}. Check [general conventions](../conventions.md) for language-independent conventions that are also applicable for Python projects.
 
 ## Code Style
 
