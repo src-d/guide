@@ -14,7 +14,7 @@ the rest of the teams, with the following additions:
 - We write our papers in [Overleaf](https://overleaf.com) and post them to 🔑[src-d/papers](https://github.com/src-d/papers) once written.
 - We put all the code related to the paper (plot generation, stats computation, etc) into 🔑[src-d/papers](https://github.com/src-d/papers), too.
 - We describe our bright ideas in 🔑[src-d/feature-idea](https://github.com/src-d/feature-idea).
-- We do not forget to ask the Lead for extra days off if we had to work on the weekends.
+- We do not forget to ask the Lead for extra days off if we had to work on the weekends. Reference: [holiday-policy](../../talent/flexible_holidays_working_schedule_remote_work.md#holiday-policy).
 
 ## Interviews
 
@@ -24,6 +24,7 @@ This part is classified, unfortunately. It should describe our ML interview proc
 
 Once per two weeks, on Fridays, the same day as the [paper reading club](https://github.com/src-d/reading-club),
 we run Research Days (RD). The purpose of RDs is to stay aware of the latest research and encourage experiments with MLonCode.
+The research topic needs to be relevant to the company, though it may of course miss an immediate application opportunity or usefulness guarantees.
 Here is the list of things which may be done on a RD:
 
 - Read papers. The papers **must** be announced on the previous day in `#machine-learning` community Slack channel. The paper summaries **must** be posted to [shortscience](https://www.shortscience.org/).
