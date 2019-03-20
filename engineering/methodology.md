@@ -76,6 +76,19 @@ teams:
 If there are new design documents, they will be presented at the end of the Leads Meeting
 with a brief explanation and the maintainer is chosen.
 
+Presentation order is:
+
+- Infrastructure
+- Language Analysis
+- Data Retrieval
+- Data Processing
+- Applications
+- Machine Learning
+- Product
+- Engineering management (VP of Eng. and CTO)
+
+Minutes will be taken according to this same order, in round robin. The scribe from one week will also make sure to ping the scribe for next week on the #team-leads Slack channel.
+
 ## Team Sync Meeting
 
 A bi-weekly/weekly meeting between the VP of Engineering and the team lead and optionally with the
