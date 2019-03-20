@@ -62,6 +62,10 @@ other team members as needed.
 
 Senior Engineers (II) have outstanding performance and higher expertise in some important areas.
 
+#### Senior Engineer III
+
+Senior Engineers (III) have a long track of success as engineers within the company and are able to provide technical steering on large parts of our projects.
+
 #### Distinguished Engineer
 
 Distinguished Engineer is reserved for Senior Engineers with outstanding expertise in a
