@@ -1,6 +1,6 @@
 ### Communication
 
-**Maintainer:** [@tsolakoua](https://github.com/tsolakoua)
+**Maintainer:** [@bluer73](https://github.com/bluer73)
 
 * Hiring
   * [Hiring Process](hiring_process.md)
