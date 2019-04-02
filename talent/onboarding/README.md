@@ -24,7 +24,7 @@ From the first day you have access to source{d} Google Account, while receiving 
 * Slack: the main communication channel we are using. This is the [list with our slack channels](https://github.com/src-d/guide/blob/master/communication/slack_channels.md). 
 * GitHub source{d}: you are added to our GitHub organization. The lead of your team is responsible to explain the repositories you need to be notified of and how to treat them.
 * [Lever](https://hire.lever.co): it's a platform to support our hiring process. Everyone has access to it in order to be able to review and give feedback on candidates. 
-* [Kin HR](https://kinhr.com/): if you want to ask days off that's the right place to do it. Also, every month you will receive the invoice of your payment through the platform. 
+* [KinHR](https://kinhr.com/): if you want to ask days off that's the right place to do it. Also, every month you will receive the invoice of your payment through the platform. 
 * Google Calendar: here are hosted all the events. Give to our Office Manager access to your calendar in order to add the events to it. Make sure you check your calendar frequently. 
 
 - The above are the main tools we are using, but we do have a full [list with our general tools](https://github.com/src-d/guide/blob/master/general/tools.md).
