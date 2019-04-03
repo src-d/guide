@@ -30,6 +30,17 @@ Each repository should belong to a team, and the full team has admin rights over
 * A maintainer can merge his own PRs without code review, but it is encouraged to ask for a review  Merging without review, if done, should be reserved to fixing typos or minor maintenance tasks.
 * If a maintainer is missing, the Lead of the team that the project is owned by, or a backup maintainer designated by him will act as maintainer.
 
+## Commit messages
+
+Commit and Pull Request descriptions should be clear and detailed. Keep in mind that commit messages will be read by (eventually) a lot of people:
+
+- Code reviewers will read them to have context on what they are reviewing, to understand why the change was needed and why it was done in a certain way.
+- Any developer might eventually get there when investigating (e.g. git bisect) a regression. They might get there long after the change is introduced and the context forgotten.
+- Maintainers might go back to it when writing release notes.
+- Any user might read it later to understand a change that affects them.
+
+Take some time to explain what and why you did something. It will save a lot of time to everyone, including yourself.
+
 ## Issues
 
 * Maintainers should review GitHub issues and answer them in less than a working day. An answer might be just a "Thank you, we'll look into it" as minimum.
