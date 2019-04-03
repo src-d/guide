@@ -32,7 +32,7 @@ Board Member | Seat
 * [Julien Barbier](https://linkedin.com/in/julienbarbier), [@jbarbier](https://github.com/jbarbier)
 * [Patrick Chanezon](https://www.linkedin.com/in/chanezon/), [@chanezon](https://github.com/chanezon)
 * [Joseph Jacks](https://www.linkedin.com/in/josephjacks/), [@josephjacks](https://github.com/josephjacks)
-
+* [Jessie Frazelle](https://www.linkedin.com/in/jessie-frazelle), [@jessfraz](https://twitter.com/jessfraz)
 
 ### Prospective Investors
 If you're an investor and are interested in investing in source{d} feel free to do a pull request here!
