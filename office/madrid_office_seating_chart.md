@@ -32,7 +32,9 @@ Among others we have the following amenities:
 |----|--------------------|
 | A1 | [Jorge Schnura](linkedin.com/in/jorgeschnura)      |
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
+| B1 | [Tristan Kalos](https://github.com/glimow)   |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
+| B3 | [Guillem Duran](https://github.com/Guillemdb)   |
 | B4 | [Egor Bulychev](https://github.com/EgorBu)      |
 | B5 | [Jan Hula](https://github.com/jan21)   |
 | B6 | [Waren Long](https://github.com/warenlg) |
@@ -49,7 +51,8 @@ Among others we have the following amenities:
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
+| F2 | [Robbie Blue](https://github.com/bluer73)     |
 | F3 | [Juanjo Álvarez](https://github.com/juanjux)     |
 | F4/F6| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
-| B1/B3/C1/C3/D5/E1/E2/F1/F2 | Rotating Desks for remote sourcerers visiting the office     |
+| C1/C3/D5/E1/E2/F1/F2 | Rotating Desks for remote sourcerers visiting the office     |
