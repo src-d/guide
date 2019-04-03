@@ -4,7 +4,7 @@
 
 # Management Team
 
-Our management team consists of the CEO, COO, CTO, VP of Product & Developer Relations
+Our management team consists of the CEO, COO, CTO & VP of Marketing
 
 # Legal Structure
 
