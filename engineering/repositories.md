@@ -4,7 +4,14 @@
 
 In order to create a new repository, this should be requested through a [infrastructure issue](https://github.com/src-d/infrastructure), and will be handled by @mcuadros.
 
-The name should be discussed with product, and the tags and description should be provided.
+The request should include:
+
+- Exact repository name.
+- Repository description.
+- The team who will own the repository.
+- Brief rationale on why it is needed.
+
+The name might need to be discussed with product if it will be user-facing.
 
 ## Repository privileges
 
