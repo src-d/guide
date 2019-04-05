@@ -52,7 +52,7 @@ The interviews consist of the following:
 
 - Design interview (90min): to see how the developer would design a solution to a given technical problem working with several of our engineers.
 
-* Q&A (60min): to know the developer better. Two interviewers should participate; one from the team that the developer is being interviewed for, and one from any other engineering or non engineering team (eg. Product, Talent). Duration 60'.
+* Q&A (60min): to get to know the developer better. Two interviewers should participate; one from the team that the developer is being interviewed for, and one from any other engineering or non-engineering team (eg. Product, Talent). Duration 60'.
 
 - Logical thinking (60min): to see how the developer solves an abstract problem in a logical way.
 
