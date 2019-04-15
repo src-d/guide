@@ -10,12 +10,12 @@
 - Accessory Kit
 - Backlit Keyboard (English) & User's Guide
 
-## Dell XPS 13 Developer Edition
-- 8th Generation Intel(R) Core(TM) i7-8550U Processor
-- Ubuntu Linux 16.04
+## Dell New XPS 13" (9380)
+- 8th Generation Intel(R) Core(TM) i7-8565U Processor
+- Ubuntu Linux 18.04
 - 16GB Memory LPDDR3 2133MHz
-- 512GB Solid State Drive
-- 13.3'' 4K Ultra HD (3840 x 2160) InfinityEdge
+- 512GB PCIe NVMe Solid State Drive
+- 13.3'' FHD (1920x1080) InfinityEdge
 
 ## Lenovo x270 12"
 - Intel Core i7-7500U
