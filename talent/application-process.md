@@ -12,7 +12,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 - Within a week after the submission of the application, the candidate should receive an email with an update. There may occasionally be delays. In any case, the candidate is free to reach out to us at any time via talent@sourced.tech.
 
-- In the case of positive feedback in the application, the candidate is invited to a quick video call with the Talent Acquisition Manager.
+- If the application receives positive feedback from our initial screen, the candidate is invited to a brief video call with the Talent Acquisition Manager.
 
 ### Initial interview: 1st stage
 
