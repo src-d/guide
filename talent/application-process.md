@@ -53,7 +53,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 - Non-engineering candidates who pass the third stage of the process will be invited to a final interview with various members of management which will be remote.
 
-- Every developer who successfully solves the coding challenge is invited to the remaining interviews to a final stage of interviews either at our offices in Madrid, or remotely.
+- Engineering candidates who successfully solve the coding challenge will be invited to a final stage of interviews either at our offices in Madrid, or remotely.
 
 - It might last a full day or be split across two consecutive half-days, depending on the availability of the developer.
 
