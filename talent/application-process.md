@@ -49,7 +49,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 - The results are reviewed by the engineering team and feedback is given to the developer as soon as possible.
 
-### Final Round of Interviews
+### Final Round of Interviews: 4th and final stage
 
 - Non-engineering candidates who pass the third stage of the process will be invited to a final interview with various members of management which will be remote.
 
@@ -81,8 +81,8 @@ The interviews consist of the following:
 
 - At source{d} we believe that amazing talent should not be constrained by physical barriers, and we exhaust all avenues to hire the best candidates regardless of their location. Our multinational and multicultural team shares a culture of openness and excellence and passion for programming.
 
-- At the moment, we have more than 35 people from 10 different countries working closely together from our office in Madrid (Spain) and across Europe & the USA. We are more than happy to help with Visa sponsorship and guide you and your family through the whole process if you decide to come to work from our Madrid office. Currently, we have remote team members in USA, Portugal, Ireland, France, Belgium, Poland, Estonia and Russia.
+- At the moment, we have more than 35 people from 10 different countries working closely together from our office in Madrid (Spain) and across Europe & the USA. We are more than happy to help with Visa sponsorship and guide you and your family through the whole process if you decide to come to work from our Madrid office. Currently, we have remote team members in USA, Portugal, Italy,  Ireland, France, Belgium, Poland, Estonia and Russia.
 
 - The local timezone of candidates who want to work remotely should be between San Francisco and Moscow.
 
-- In specific cases, such as sales roles covering a particular region, there may be a requirement 
+- In specific cases, such as sales roles covering a particular region, there may be a requirement for candidates to be based in a specific location for operational reasons.
