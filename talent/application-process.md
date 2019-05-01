@@ -16,7 +16,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 ### Initial interview: 1st stage
 
-- The candidate has an introductory video call with the Talent Acquisition Manager. This is a general discussion that can last between 15-30 minutes. This is to allow us to get to know the background and experience of the candidate, as well as allowing them to get to know source{d} better. It's expected that the candidate will have already done some basic research about source{d} and has some specific questions about the role and/or the company to be expressed during the call. 
+- The candidate has an introductory video call with the Talent Acquisition Manager. This is a general discussion that can last between 15-30 minutes. This is to allow us to get to know the background and experience of the candidate, as well as allowing them to get to know source{d} better. It's expected that the candidate has already done some basic research about source{d} and has some specific questions about the role and/or the company to be expressed during the call. 
 
 - There are notable exceptions to this, such as higher volume junior engineering roles where we directly ask the developer to do the coding challenge before a call.
 
