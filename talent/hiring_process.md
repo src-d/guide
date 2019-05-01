@@ -1,6 +1,6 @@
 # Hiring Process Explained
 
-This document explains the internal hiring process at source{d} and the responsibilities for each person related to it.
+This document explains the hiring process at source{d} and the responsibilities for each person related to it.
 
 **If you want to apply to source{d}, check the [application process](application-process.md) instead.**
 
@@ -26,27 +26,31 @@ There is further information about the interview process in [our private documen
 
 - The Talent Manager is responsible for working with the Developer Relations team in order to gain people through community actions (Twitter/Blog etc.).
 
-### First Contact: Engineering Roles
+### First Contact 
 
-- Potential developers should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
+- Potential candidates should be contacted by the lead engineers or hiring managers after together defining the outgoing message. It's a motivating factor for the candidates to be contacted by the lead engineer/hiring managers and has shown in the past to have a significantly higher engagement rate.
 
-- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that and copy the lead engineers in every email.
+- If the lead engineers or hiring managers are not able to send the emails to the developers they are interested in, the Talent Manager should do that and copy the lead engineers & hiring managers in every email.
 
-### Screening: Engineering Roles
+### Screening Process
 
 - If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. The Talent Manager will review each application and give their feedback before tagging the lead engineer on Lever for their review.
 
 - If the developer is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads have already shown interest.
 
-### Initial Skype/Zoom/Phone Interviews with Talent Aquisition Manager/Hiring Manager
+### Preliminary Video Interview with Talent Aquisition Manager (Stage 1)
 
-- An initial screening Skype/Phone/Zoom call will be available to each candidate who fits the job requirements and is interested in the role*. It is a general discussion with the Talent Acquisition Manager to know more about the background and experience of the candidate as well as to share as much as possible from our side about the team & company. This call will last around 30 minutes and also involve some administrative questions such as salary, location etc.
+- An initial screening video  call will be available to each candidate who fits the job requirements and is interested in the role*. It is a general discussion with the Talent Acquisition Manager to know more about the background and experience of the candidate as well as to share as much as possible from our side about the team & company. This call will last around 30 minutes and also involve some administrative questions such as salary, location etc.
 
 \* There are notable exceptions to this, such as in higher volume junior engineering roles where we directly ask the developer to do a coding challenge before a call.
 
+### Interview with Hiring Manager (Stage 2)
+
 - Lead engineers & hiring managers are responsible for the follow up interview. This will last around one hour via video call, and the hiring manager will have a chance to ask more in depth questions about the candidat's experience, and their expectations in the role.
 
-### Coding Challenge 
+### Coding Challenge/Assignment (Stage 3)
+
+- Non-Engineering candidates will receive a relevant assignment/test at this stage to allow the hiring manager to assess their potential, this may also be in the form of a presentation.
 
 - Check out the [Coding Challenge section in the application process](application-process.md#coding-challenge) guide.
 
@@ -56,19 +60,17 @@ There is further information about the interview process in [our private documen
 
 - Coding challenges in different languages are available in our private company documentation.
 
-- Non-Engineering candidates will receive a relevant assignment/test at this stage to allow the hiring manager to assess their potential.
+### Final Round of Interviews (Stage 4)
 
-### Final Round of Interviews
+- Non-Engineering candidates will have a final interview with the management team whilst Engineering candidates will have a final round of interviews with various members of the engineering team.
 
 - Check out the [Final Round of Interviews section in the application process](application-process.md#final-round-of-nterviews) guide.
 
 - The interviewing schedule is decided on Lever by the Talent Manager, who collaborates with the leads when necessary to identify the interviewers.
 
-- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible. If not all interviewers are present, the hiring discussion will be delayed.
+- In the case that the candidate is rejected, the developer will be notified soon after by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible.
 
-- If the interviews last for more than one day, the developer might be rejected at any given day.
-
-- Non-engineering roles will have a specific final interview process depending on the position.
+- If the interviews last for more than one day, the developer may be rejected before commencing the second day of interviews.
 
 ### Offer
 
@@ -84,4 +86,4 @@ There is further information about the interview process in [our private documen
  
 ### Feedback
 
-- After the coding challenge, it's very important to obtain feedback from the VP of Engineering at each next step.
+- After the coding challenge, it's very important to obtain feedback from the VP of Engineering at each next step. 
