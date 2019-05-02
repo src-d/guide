@@ -18,17 +18,18 @@ A liquidity event could be an IPO or an acquisition by another party.<br>
 An IPO (Initial Public Offering) means becoming a publicly traded company, listed on a stock exchange like Nasdaq. The share price to which the strike price would be compared would be that at which the company would start to trade.<br>
 In the case of an acquisition the share price would be determined by the amount paid for the acquisition, divided by the total number of shares + options.
 
-### How many options have been given out?
+### How many options have been given out?(*)
 
 Category | Absolute | Share
 -------- | -------- | --------
-Total Vested | 572 | 2.34%
-Total Grantes | 1,421 | 5.83%
-Total Outstanding | 347 | 1.42%
-Total Options | 1,768 | 7.25%
-Total Shares | 22,626 | 92.75%
-Total Shares + Options | 24,394 | 100.00%
+Total Vested | 857 | 3.51%
+Total Grantes | 1,438 | 5.89%
+Total Outstanding | 330 | 1.35%
+Total Options | 1,768 | 7.24%
+Total Shares | 22,668 | 92.76%
+Total Shares + Options | 24,436 | 100.00%
 
+(*)Numbers updated at 1st of May 2019
 ### How are options allocated?
 We follow a formula that we apply to all positions in order for the allocation to be fair and scalable as we grow. It looks the following way:
 
