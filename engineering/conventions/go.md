@@ -7,7 +7,7 @@ This guide documents development conventions for Go at source{d}. Check [general
 
 ## Supported Go Versions
 
-* Our **libraries** support latest two stable major versions of Go (1.11.x and 1.12.x). Both versions should be included in Travis CI.
+* Our **libraries** support latest two stable major versions of Go (currently: 1.11.x and 1.12.x). Both versions should be included in Travis CI.
   * Some of our libraries may support more versions, specially when there is wide-adoption outside source{d}, (e.g. [go-git](https://github.com/src-d/go-git) which currently supports three.
 * Our **applications** support only latest [stable](https://golang.org/dl/#stable) Go version (1.12.x).
 
