@@ -14,7 +14,9 @@ This guide documents development conventions for Go at source{d}. Check [general
 ## Dependency Management
 
 * If your project is a **library**:
-  * Use [gopkg.in](http://labix.org/gopkg.in) to provide versioned imports.
+  * Use [modules](https://github.com/golang/go/wiki/Modules) to manage dependencies and provide versioned imports.
+  * For libraries using `gopkg.in`, [migrate](https://github.com/golang/go/wiki/Modules#migrating-to-modules)
+    to Go modules by incrementing a major version and switching to Github imports. Make sure old `gopkg.in` import still works for previous versions.
 * If your project is an **application**:
   * Use [modules](https://github.com/golang/go/wiki/Modules) to manage dependencies.
   * Check in the `vendor` directory into git (with `go mod vendor`).
