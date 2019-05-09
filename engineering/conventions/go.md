@@ -17,7 +17,7 @@ This guide documents development conventions for Go at source{d}. Check [general
   * Use [gopkg.in](http://labix.org/gopkg.in) to provide versioned imports.
 * If your project is an **application**:
   * Use [modules](https://github.com/golang/go/wiki/Modules) to manage dependencies.
-  * Check in the `vendor` directory into git (with `go mod vendor`).
+  * Do not check in the `vendor` directory into git.
 
 ## Build System
 
