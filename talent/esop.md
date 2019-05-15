@@ -116,7 +116,7 @@ When you start working with us you will receive an award letter which grants you
 
 #### Vesting explained
 
-When you join source{d} your options start vesting on the first day you start working. However if you leave source{d} or are fired within 12 months of starting, you will retain 0 options. This is called a "cliff". After 12 months of being at source{d} you will have vested 25% of your total options granted. This means, they are now yours, and no matter if you resign or are fired, they will be yours. After those 12 months, there is 3 more years of vesting on a monthly basis, that means every month you gain 1/36th (36 months == 3 years) more of your options.
+When you join source{d} your options start vesting on the first day you start working. However if you leave source{d} or are fired within 12 months of starting, you will retain 0 options. This is called a "cliff". After 12 months of being at source{d} you will have vested 25% of your total options granted. This means, they are now yours, and no matter if you resign or are fired, they will be yours. After those 12 months, there is 3 more years of vesting on a daily basis, that means every day you gain more of your options.
 
 #### Acceleration explained
 
