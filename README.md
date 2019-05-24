@@ -33,3 +33,19 @@ We try to put as much information here as possible, in the rare cases that a top
 * Communication
   * [Slack channels](communication/slack_channels.md)
 * Financials
+
+
+# Contribute
+
+[Contributions](https://github.com/src-d/guide/issues) are more than welcome, if you are interested please take a look to
+our [Contributing Guidelines](engineering/documents/CONTRIBUTING.md).
+
+
+# Code of Conduct
+
+All activities under source{d} projects are governed by the [source{d} code of conduct](.github/CODE_OF_CONDUCT.md).
+
+
+# License
+
+This work is licensed under a Creative Commons — Attribution-ShareAlike 4.0 International License. See [LICENSE](./LICENSE.md).
