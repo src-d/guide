@@ -22,7 +22,7 @@ There is further information about the interview process in [our private documen
 
 - At any given moment the Talent Manager is able to drop in and work on finding more candidates.
 
-- For engingeering positions, developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads.
+- For engineering positions, developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads.
 
 - The Talent Manager is responsible for working with the Developer Relations team in order to gain people through community actions (Twitter/Blog etc.).
 
