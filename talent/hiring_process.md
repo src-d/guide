@@ -1,6 +1,6 @@
 # Hiring Process Explained
 
-This document explains the internal hiring process at source{d} and the responsibilities for each person related to it.
+This document explains the hiring process at source{d} and the responsibilities for each person related to it.
 
 **If you want to apply to source{d}, check the [application process](application-process.md) instead.**
 
@@ -8,7 +8,7 @@ There is further information about the interview process in [our private documen
 
 ### Job Description
 
-- The Job Description is written by the lead engineers with the Talent's Manager support. They are added to the [guide](https://github.com/src-d/guide) with a pull request (PR) to the [offers](offers) section.
+- The Job Description is written by the hiring manager with the Talent Manager's support. They are added to the [guide](https://github.com/src-d/guide) with a pull request (PR) to the [offers](offers) section.
 
 - For every meeting between the lead and the Talent Manager there will be a PR in the [minutes](https://github.com/src-d/minutes) repository.
 
@@ -18,53 +18,59 @@ There is further information about the interview process in [our private documen
 
 ### Sourcing
 
-- Lead engineers are responsible for identifying people to be contacted and other sourcing channels such as niche job boards.
+- Hiring managers are responsible for identifying people to be contacted and other sourcing channels such as niche job boards.
 
-- At any given moment the Talent Manager is able to drop in and work on finding more developers.
+- At any given moment the Talent Manager is able to drop in and work on finding more candidates.
 
-- Developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads.
+- For engineering positions, developer lists/sourcing channels should continuously be defined and refreshed after communication between the Talent Manager and the leads.
 
 - The Talent Manager is responsible for working with the Developer Relations team in order to gain people through community actions (Twitter/Blog etc.).
 
-### First Contact
+### First Contact 
 
-- Any developer should be contacted by the lead engineers after together defining the outgoing message. It's a motivating factor for the developers to be contacted by the lead engineers and has shown in the past to have a significantly higher engagement rate.
+- Potential candidates should be contacted by the lead engineers or hiring managers after together defining the outgoing message. It's a motivating factor for the candidates to be contacted by the lead engineer/hiring managers and has shown in the past to have a significantly higher engagement rate.
 
-- If the lead engineers are not able to send the emails to the developers they are interested in, the Talent Manager should do that and copy the lead engineers in every email.
+- If the lead engineers or hiring managers are not able to send the emails to the developers they are interested in, the Talent Manager should do that and copy the lead engineers & hiring managers in every email.
 
-### Screening
+### Screening Process
 
-- If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase.
+- If the developer is an applicant, they should be accepted/rejected by the lead engineers during the screening phase. The Talent Manager will review each application and give their feedback before tagging the lead engineer on Lever for their review.
 
 - If the developer is approached by us from a specific source (known from meetups, having worked together in the past,  etc.), they should move forward to the next step as it means that the leads have already shown interest.
 
-### First Skype/Zoom/Phone Interview
+### Preliminary Video Interview with Talent Aquisition Manager (Stage 1)
 
-- A quick Skype/Phone/Zoom call should be available to every developer who is interested in the roles*. It is a general discussion to know more about the background and experience of the developer as well as to share as much as possible from our side about the team & company.
+- An initial screening video  call will be available to each candidate who fits the job requirements and is interested in the role*. It is a general discussion with the Talent Acquisition Manager to know more about the background and experience of the candidate as well as to share as much as possible from our side about the team & company. This call will last around 30 minutes and also involve some administrative questions such as salary, location etc.
 
-\* There are notable exceptions to this, such as higher volume junior roles where we directly ask the developer to do the coding challenge before a call.
+\* There are notable exceptions to this, such as in higher volume junior engineering roles where we directly ask the developer to do a coding challenge before a call.
 
-- Lead engineers are responsible to make the calls as it's a motivating factor for the developers. Leads will also be able to assess early in the process if the interview process should continue or not.
+### Interview with Hiring Manager (Stage 2)
 
-### Coding Challenge
+- Lead engineers & hiring managers are responsible for the follow up interview. This will last around one hour via video call, and the hiring manager will have a chance to ask more in depth questions about the candidat's experience, and their expectations in the role.
+
+### Coding Challenge/Assignment (Stage 3)
+
+- Non-Engineering candidates will receive a relevant assignment/test at this stage to allow the hiring manager to assess their potential, this may also be in the form of a presentation.
 
 - Check out the [Coding Challenge section in the application process](application-process.md#coding-challenge) guide.
 
-- Coding challenges are being sent to the developers by the Talent Manager and the results are being reviewed by the lead engineers.
+- Coding challenges are sent to the developers by the Talent Manager and the results are reviewed by the lead engineers.
 
 - We send coding challenges with a scheduled email. A template is available on Lever. [Boomerang for GMail](https://www.boomeranggmail.com/) can be used to schedule.
 
 - Coding challenges in different languages are available in our private company documentation.
 
-### Final Round of Interviews
+### Final Round of Interviews (Stage 4)
+
+- Non-Engineering candidates will have a final interview with the management team whilst Engineering candidates will have a final round of interviews with various members of the engineering team.
 
 - Check out the [Final Round of Interviews section in the application process](application-process.md#final-round-of-nterviews) guide.
 
 - The interviewing schedule is decided on Lever by the Talent Manager, who collaborates with the leads when necessary to identify the interviewers.
 
-- In case of rejection, the developer should be notified in person on the day by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible. If not all interviewers are present, the hiring discussion will be delayed.
+- In the case that the candidate is rejected, the developer will be notified soon after by the lead of the corresponding team on why they were rejected. This should be a constructive discussion giving the developer as much insights as possible.
 
-- If the interviews last for more than one day, the developer might be rejected at any given day.
+- If the interviews last for more than one day, the developer may be rejected before commencing the second day of interviews.
 
 ### Offer
 
@@ -80,4 +86,4 @@ There is further information about the interview process in [our private documen
  
 ### Feedback
 
-- After the coding challenge, it's very important to obtain feedback from the VP of Engineering at each next step.
+- After the coding challenge, it's very important to obtain feedback from the VP of Engineering at each next step. 
