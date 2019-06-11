@@ -22,4 +22,4 @@ You can find here the [English](https://drive.google.com/file/d/1LMKOmpTeLQZlEEK
 3. This clause is about how source{d} will handle your data according to Spanish Data Protection Law.
 4. Prorated Extraordinary Payments: this means we make 12 payments per year. 
 5. [Remote work policy](flexible_holidays_working_schedule_remote_work.md)
-6. [Holidays policy](flexible_holidays_working_schedule_remote_work.md#holiday-policy)
+6. [Holiday policy](flexible_holidays_working_schedule_remote_work.md#holiday-policy)
