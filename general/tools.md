@@ -13,7 +13,7 @@ These are the tools that every sourcerer uses:
 * [KinHR](https://kinhr.com), to manage your days off, payslips, copies of your contract, social security and such.
 * [Google Calendar](http://calendar.google.com)
 * [Google Docs](http://docs.google.com)
-* [Donut](https://src-d.slack.com/apps/A11MJ51SR-donut?page=1) Slack app that will randomly match you up with another mate to have an informal conversation from time to time to know each other better ([see more](https://github.com/src-d/guide/blob/master/communication/donut.md.)
+* [Donut](https://src-d.slack.com/apps/A11MJ51SR-donut?page=1) Slack app that will randomly match you up with another mate to have an informal conversation from time to time to know each other better ([see more](https://github.com/src-d/guide/blob/master/communication/donut.md)).
 
 ## Video conferencing
 
