@@ -46,6 +46,7 @@ Among others we have the following amenities:
 | D5 | [Miguel Molina](https://github.com/erizocosmico)      |
 | D6 | [Robbie Blue](https://github.com/bluer73)     |
 | E1 | [Carlos Martín](https://github.com/carlosms) | (remote in Las Palmas but coming sometimes)
+| E3 | [Nacho Cordón](https://github.com/NCordon) |
 | E4 | [Maxim Sukharev](https://github.com/smacker) |
 | E5 | [Alexander Bezzubov](https://github.com/bzz) |
 | E6 | [David Pordomingo](https://github.com/dpordomingo)   |
