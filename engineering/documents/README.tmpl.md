@@ -10,12 +10,12 @@ Examples include:
 
 - build status:
 
-    [![Build Status](https://travis-ci.org/src-d/go-git.svg)](https://travis-ci.org/src-d/go-git)
+    [![Build Status](https://travis-ci.com/src-d/go-git.svg)](https://travis-ci.com/src-d/go-git)
     [![Build status](https://ci.appveyor.com/api/projects/status/nyidskwifo4py6ub?svg=true)](https://ci.appveyor.com/project/mcuadros/go-git)
 
 - code coverage:
 
-    [![codecov.io](https://codecov.io/github/src-d/go-git/coverage.svg)](https://codecov.io/github/src-d/go-git)
+    [![codecov](https://codecov.io/gh/src-d/go-git/branch/master/graph/badge.svg)](https://codecov.io/gh/src-d/go-git)
 
 - go report:
 
