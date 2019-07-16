@@ -34,8 +34,8 @@ Each repository should belong to a team, and the full team has admin rights over
 * Non-maintainers at source{d} are not expected to do code review on PRs they are not asked to as a general practice.  However, they are allowed to at their discretion if they think it's appropriate on a specific case.
 * Desirable deadline for each code review is 1 working day.
 * If there is a disagreement among the PR author and multiple reviewers and consensus cannot be reached or [it's not worth to reach](http://bikeshed.org/) the maintainer has the final word.
-* A maintainer can merge his own PRs without code review, but it is encouraged to ask for a review  Merging without review, if done, should be reserved to fixing typos or minor maintenance tasks.
-* If a maintainer is missing, the Lead of the team that the project is owned by, or a backup maintainer designated by him will act as maintainer.
+* Maintainers can merge their own PRs without code review, but it is encouraged to ask for a review. Merging without review, if done, should be reserved to fixing typos or minor maintenance tasks.
+* If a maintainer is missing, a lead of the team that the project is owned by, or a backup maintainer designated by the lead will act as maintainer.
 
 ## Commit messages
 
