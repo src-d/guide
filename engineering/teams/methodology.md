@@ -13,7 +13,7 @@ Date: 2018-29-11
 
 As guidance to the Leads, this document exposes the agreement about how to apply Kanban for the internal organization of the team. Every team can base their Kanban on this document or create their own version.
 
-Github Projects board will be used as a Kanban board.
+Github Projects board will used be as a Kanban board.
 
 Teams managing issues across Github Org borders (Applications, Language Analysis)
 will use the “add card”  trick, described in [dear-github/dear-github#209](https://github.com/dear-github/dear-github/issues/209#issuecomment-357692288) to add
