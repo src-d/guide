@@ -39,6 +39,10 @@ During your first week you are going to have Welcome Talks in order to get to kn
 * Welcome talk with the Head of Product and Data Intelligence
 * Welcome talk the Sales team
 
+### Welcome Breakfast & Lunch
+
+- If your first day at source{d} is in the office, we will organise a welcome breakfast with various members of the team so that you can get to know them, and will also have a member of the team take you out for lunch too.
+
 ### Company Events
 
 - We regularly organize [company events](https://github.com/src-d/guide/blob/master/office/company_events.md) and you will be notified about them on your Google Calendar. 
