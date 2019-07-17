@@ -20,6 +20,7 @@ This document describes the source{d} hiring process from the point of view of t
 
 - In some cases, notably for junior engineering roles where there are more candidates, we may ask the developer to do a coding challenge before a call.
 
+- **IMPORTANT:** All calls require a good audio quality. You will need good internet connectivity and a good audio setup. Avoid using laptop integrated microphone and speakers, use external headphones and microphone, a headset or equivalent. Note that without ensuring a good setup, we will not be able to move on with the remote interview process.
 
 ### Hiring Manager interview: 2nd stage
 
