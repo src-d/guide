@@ -3,7 +3,7 @@
 We don't like to put strict rules in terms of what you can expense and what not, because we believe that you will treat the company's money in a responsible way. An easy way to achieve this is by following these principles:<br>
 * Spend source{d}'s money as if it was your own.
 * Research all available alternatives to make sure you're getting the best value for money.
-* Always ask your manager first before making a purchase. He might be able to point you to a better solution.
+* Always ask your manager first before making a purchase since there might be a better option available.
 * Once the decision has been made please request Esther to make the purchase, so that she can keep track of inventory as well as keep the receipt.
 * If you need any hardware for work, make sure to check our [Hardware list](https://github.com/src-d/guide/blob/master/general/available_hardware.md) and ask Esther to buy anything you need.
 * If you see yourself in the situation of needing to pay something out of your own pocket please make sure that you keep all the receipts and hand them over to Esther for her to do the reimbursement. You should fill in the [expenses sheet](https://docs.google.com/a/sourced.tech/spreadsheets/d/1efa5uU1b95FzxhqRPcUOF1UOiAa1j0i08ae15y22J6c/edit?usp=sharing) with the amount in EUR to be sure that the reimbursment is done properly. If it's a physical item, make sure to give it to her when you receive it for her to update the inventory. 
