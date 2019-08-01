@@ -1,4 +1,4 @@
-# Candidates from Outside the European Union
+# Candidates from Outside the EU, who are Moving to Spain
 
 This is the hardest process and we need approval from the Spanish Government. We have to get a work permit and a visa in the candidate's passport. The first goal, the work permit, is the responsibility of the Company and the process must take place in Spain. The second goal, the visa in the passport, is the responsibility of the candidate and must take place in the Spanish Consulate in the country where the candidate is living.
 
