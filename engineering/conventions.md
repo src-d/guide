@@ -8,6 +8,7 @@
 * [Publishing](#publishing)
 * [Docker](#docker)
 * [Error Handling](#error-handling)
+* [TODO comments](#todo-comments)
 * [Others](#others)
 * [Development Environments](#development-environments)
 * [CLI](#cli)
@@ -62,6 +63,35 @@ Some projects might define both build and runtime requirements that go beyond wh
 ## Error Handling
 
 * If it is idiomatic in your language, prefer early handling of errors and return early (more info: [Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early), [GuardClause](http://wiki.c2.com/?GuardClause) and [HandleErrorsInContext](http://wiki.c2.com/?HandleErrorsInContext)).
+
+## TODO comments
+
+The TODO comments should metch the following format:
+
+```
+// KEYWORD(reference): comment text
+```
+
+A single line comment token must be used (`//` in case of C/C++, Go, etc). This is done to allow commenting large chunks of code with multi-line comment tokens (`/*`) during development and refactoring.
+
+The `KEYWORD` must be one of the following:
+
+- `TODO` - Something is missing or is not up to standard, but at the same time is not critical for the current implementation. It may be a missing optimization, a possible new feature, a refactoring opportunity or a deprecation note.
+- `FIXME` - There is a known issue or bug which needs to be addressed. Those comments should only be commited if a new bug was discovered during working on other feature/bugfix, if the fix requires significant design changes or you don't have knowledge to address it. In other cases it's better to try fixing the bug, of course.
+
+The `reference` must be either:
+
+- A Github issue reference: `TODO(#123)`. This is the preferred reference format, especially for `FIXME` comments. An issue will help track the technical debt associated with `TODO/FIXME` comments and will start a discussions about new features or design considerations to address those comments.
+- A Github username: `TODO(user)` - a temporary reference for minor improvements. Most useful for `TODO` comments: possible optimizations, refactorings, etc. Make sure to write a descriptive comment text when using this reference.
+
+Multiline comments should have the same indentation (spaces, not tabs) based on the first letter on the comment:
+
+```
+// KEYWORD(reference): comment line 1
+//                     comment line 2
+```
+
+This format is supported and highlighted properly by IDEs.
 
 ## Others
 
