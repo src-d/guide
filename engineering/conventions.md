@@ -66,7 +66,7 @@ Some projects might define both build and runtime requirements that go beyond wh
 
 ## TODO comments
 
-The TODO comments should metch the following format:
+The TODO comments should match the following format:
 
 ```
 // KEYWORD(reference): comment text
@@ -82,7 +82,7 @@ The `KEYWORD` must be one of the following:
 The `reference` must be either:
 
 - A Github issue reference: `TODO(#123)`. This is the preferred reference format, especially for `FIXME` comments. An issue will help track the technical debt associated with `TODO/FIXME` comments and will start a discussions about new features or design considerations to address those comments.
-- A Github username: `TODO(user)` - a temporary reference for minor improvements. Most useful for `TODO` comments: possible optimizations, refactorings, etc. Make sure to write a descriptive comment text when using this reference.
+- A Github username: `TODO(user)` - a temporary reference for minor improvements. This reference type is most useful for `TODO` comments: possible optimizations, refactorings, etc. The `user` is the author of the comment that can be contacted for the additional context. Make sure to write a descriptive comment text, so other team members can understand the reason without the need contacting the author for clarification.
 
 Multiline comments should have the same indentation (spaces, not tabs) based on the first letter on the comment:
 
