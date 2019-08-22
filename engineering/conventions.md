@@ -8,7 +8,7 @@
 * [Publishing](#publishing)
 * [Docker](#docker)
 * [Error Handling](#error-handling)
-* [TODO comments](#todo-comments)
+* [TODO and FIXME comments](#todo-and-fixme-comments)
 * [Others](#others)
 * [Development Environments](#development-environments)
 * [CLI](#cli)
@@ -64,9 +64,9 @@ Some projects might define both build and runtime requirements that go beyond wh
 
 * If it is idiomatic in your language, prefer early handling of errors and return early (more info: [Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early), [GuardClause](http://wiki.c2.com/?GuardClause) and [HandleErrorsInContext](http://wiki.c2.com/?HandleErrorsInContext)).
 
-## TODO comments
+## TODO and FIXME comments
 
-The TODO comments should match the following format:
+TODO and FIXME comments should match the following format:
 
 ```
 // KEYWORD(reference): comment text
@@ -76,13 +76,13 @@ A single line comment token must be used (`//` in case of C/C++, Go, etc). This 
 
 The `KEYWORD` must be one of the following:
 
-- `TODO` - Something is missing or is not up to standard, but at the same time is not critical for the current implementation. It may be a missing optimization, a possible new feature, a refactoring opportunity or a deprecation note.
-- `FIXME` - There is a known issue or bug which needs to be addressed. Those comments should only be commited if a new bug was discovered during working on other feature/bugfix, if the fix requires significant design changes or you don't have knowledge to address it. In other cases it's better to try fixing the bug, of course.
+- `TODO` - Highlights future work or unanswered questions that are outside the scope of the current PR, but that should be considered when modifying this code in the future. For example, a missing optimization, possible new features, something to refactor, or a deprecated usage to replace.
+- `FIXME` - There is a known issue or bug which needs to be addressed. Those comments should only be committed if a new bug was discovered during working on other feature/bugfix, if the fix requires significant design changes or you don't have knowledge to address it. In other cases it's better to try fixing the bug, of course.
 
 The `reference` must be either:
 
 - A Github issue reference: `TODO(#123)`. This is the preferred reference format, especially for `FIXME` comments. An issue will help track the technical debt associated with `TODO/FIXME` comments and will start a discussions about new features or design considerations to address those comments.
-- A Github username: `TODO(user)` - a temporary reference for minor improvements. This reference type is most useful for `TODO` comments: possible optimizations, refactorings, etc. The `user` is the author of the comment that can be contacted for the additional context. Make sure to write a descriptive comment text, so other team members can understand the reason without the need contacting the author for clarification.
+- A Github username: `TODO(user)`. The author of the comment, or the person with the most context about the motivation for the comment (for example, a reviewer may request a TODO assigned to themselves). This reference type is most useful for `TODO` comments. Make sure to include a descriptive comment text, to help the reader understand the motivation without having to contact the comment author.
 
 Multiline comments should have the same indentation (spaces, not tabs) based on the first letter on the comment:
 
