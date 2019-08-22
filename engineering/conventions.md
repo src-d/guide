@@ -84,14 +84,34 @@ The `reference` must be either:
 - A Github issue reference: `TODO(#123)`. This is the preferred reference format, especially for `FIXME` comments. An issue will help track the technical debt associated with `TODO/FIXME` comments and will start a discussions about new features or design considerations to address those comments.
 - A Github username: `TODO(user)`. The author of the comment, or the person with the most context about the motivation for the comment (for example, a reviewer may request a TODO assigned to themselves). This reference type is most useful for `TODO` comments. Make sure to include a descriptive comment text, to help the reader understand the motivation without having to contact the comment author.
 
-Multiline comments should have the same indentation (spaces, not tabs) based on the first letter on the comment:
+Multiline comments should be separated from regular comments either by a blank line:
 
 ```
-// KEYWORD(reference): comment line 1
-//                     comment line 2
+// TODO(user): Special comment line 1.
+// Special comment line 2.
+
+// Regular comment.
 ```
 
-This format is supported and highlighted properly by IDEs.
+or by a commented blank line:
+
+```
+// TODO(user): Special comment line 1.
+// Special comment line 2.
+//
+// Regular comment.
+```
+
+If you choose to indent the comment body, do it consistently with spaces: 
+
+```
+// TODO(user): Special comment line 1.
+//             Special comment line 2.
+//
+//             Special comment line 3.
+//
+// Regular comment.
+```
 
 ## Others
 
