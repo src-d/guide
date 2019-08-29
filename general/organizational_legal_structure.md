@@ -1,6 +1,6 @@
 # Organizational Chart
 
-![Organizational Chart](https://i.imgur.com/vKOYM5Y.png)
+![Organizational Chart](https://i.imgur.com/X1PslbS.png)
 
 # Management Team
 
