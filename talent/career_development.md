@@ -43,7 +43,7 @@ changes.
 #### Engineer II
 
 Engineers (II) are expected to work autonomously on most tasks, create projects from
-scratch and be involved actively in design of new features.
+scratch and be involved actively in the design of new features.
 
 #### Engineer III
 
