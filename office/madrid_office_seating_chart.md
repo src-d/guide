@@ -34,6 +34,8 @@ Among others we have the following amenities:
 | A2 | [Eiso Kant](linkedin.com/in/eisokant) (primarily remote but maintaining his desk)         |
 | B2 | [Vadim Markovtsev](https://github.com/vmarkovtsev)   |
 | B6 | [Waren Long](https://github.com/warenlg) |
+| C2 | [Alex Córcoles](https://github.com/alexpdp7/)     |
+| C3 | [Miguel Molina](https://github.com/erizocosmico)  |
 | C4 | [Javier Fontán](https://github.com/jfontan)      |
 | C5 | [Romain Keramitas](https://github.com/r0mainK)   |
 | C6 | [Rafa Porres](https://github.com/rporres)        |
@@ -41,7 +43,6 @@ Among others we have the following amenities:
 | D2 | [Máximo Cuadros](https://github.com/mcuadros)     |
 | D3 | [David Riosalido](https://github.com/driosalido)  |
 | D4 | [Marcelo Novaes](linkedin.com/in/mnovaes)     |
-| D5 | [Miguel Molina](https://github.com/erizocosmico)      |
 | D6 | [Robbie Blue](https://github.com/bluer73)     |
 | E1 | [Carlos Martín](https://github.com/carlosms) | (remote in Las Palmas but coming sometimes)
 | E3 | [Nacho Cordón](https://github.com/NCordon) |
@@ -50,4 +51,4 @@ Among others we have the following amenities:
 | F3 | [Maxim Sukharev](https://github.com/smacker) |
 | F4/F6| [Esther García](linkedin.com/in/estherrgarcia)      |
 | F5 | [Fernanda Gomes](linkedin.com/in/fernandaagomes)     |
-| B1/B3/B4/B5/C1/C2/C3/E2/E4/F1/F2 | Rotating Desks for remote sourcerers visiting the office     |
+| B1/B3/B4/B5/C1/E2/E4/F1/F2 | Rotating Desks for remote sourcerers visiting the office     |
