@@ -21,8 +21,7 @@ issues from different org to the team’s board.
 
 Issues repositories:
 
-* [src-d/issues-general](https://github.com/src-d/issues-general) - should be used for general feedback/requests (e.g., about the website)
-* [src-d/issues-infrastructure](https://github.com/src-d/issues-infrastructure) - issues/requests to Infrastructure team must be created here.
+* [private link][src-d/infrastructure](https://github.com/src-d/infrastructure) - issues/requests to Infrastructure team must be created here.
 
 # Definitions
 
