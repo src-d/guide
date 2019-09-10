@@ -59,8 +59,6 @@ During your first week you are going to have Welcome Talks in order to get to kn
 
 - On Slack we have GeekBot which asks on daily basis a few questions like what you accomplished the previous day, what are you going to work on today and where are you working from. The bot displays your response in the relevant Slack channels. It actually organises asynchronous stand up meetings and keeps our team synced. As people work on different things or/and from different places, it's helps us being transparent and know what everyone is doing. 
 
-You can configure geekbot for standups here: https://geekbot.com/dashboard/standup/
-
 ### Flexible Schedule
 
 - Set your own schedule but be aware that there might be meetings in which you are required. In general, most people start between 9.00-11am local time.
