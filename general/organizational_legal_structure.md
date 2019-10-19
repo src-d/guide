@@ -2,9 +2,9 @@
 
 ![Organizational Chart](https://i.imgur.com/X1PslbS.png)
 
-# Management Team
+# Leadership
 
-Our management team consists of the CEO, COO, CTO & VP of Marketing
+Our leadership consists of the CEO, COO, Head of Product, CTO, VP of Engineering, VP of Marketing, Head of Sales.
 
 # Legal Structure
 
