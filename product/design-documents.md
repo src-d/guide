@@ -6,4 +6,4 @@ Important to note is that the term "Design Documents" does not necessarily have 
 
 - [Design Document Template](https://docs.google.com/document/d/1NtbOeUt9mAm3vnseCuEwBvuOI4emSzv0QopvaMYKWU4/)
 
-A full list of design documents can be found in our [Design Documents Google Drive folder](https://drive.google.com/drive/u/0/folders/1sZX_Yuo0swVT3xr5K-2R-6mG_h5ddDDC).
+A full list of design documents can be found in our [Design Documents Google Drive folder](https://drive.google.com/open?id=1FSumcyC59ENAcq67S4etz5M1f3jJdLcX).
