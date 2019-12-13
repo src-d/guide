@@ -11,6 +11,7 @@ We try to put as much information here as possible, in the rare cases that a top
   * Roadmap
   * [Culture](general/culture.md)
   * [Product](general/product.md)
+  * [Business Model](general/business_model.md)
   * [Organizational & Legal Structure](general/organizational_legal_structure.md)
   * [Investors, Board of Directors and Advisors](general/investors_board_advisors.md)
   * Leadership
