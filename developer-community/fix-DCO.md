@@ -59,7 +59,7 @@ Write `^` as many times as there are commits in your pull request.
 A text will open; ensure that there are only your recent commits listed there.
 Otherwise, exit the file and repeat the rebase command with the correct number of `^`.
 
-Now, mark all the commits with "reword" or "r". The rebase process will stop at each of your commits.
+Now, mark all the commits with "edit" or "e". The rebase process will stop at each of your commits.
 
 Execute as many times as you are asked to:
 
