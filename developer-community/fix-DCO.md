@@ -136,6 +136,6 @@ You can add the following lines (or as you see suit) to your `~/.gitconfig` file
 You only need to do this once, and it will work whenever this `~/.gitconfig` file is active.
 
 
-### Signo-off Option #4: Github UI
+### Sign-off Option #4: Github UI
 
-If you are using Google Chrome, you are lucky and you can use the [`dco-gh-ui` Chrome Extension](https://github.com/scottrigby/dco-gh-ui)
+If you configure your GitHub repositories to [require sign-off on web-based commits](https://github.blog/changelog/2022-06-08-admins-can-require-sign-off-on-web-based-commits/), GitHub will automatically handle this for you.
