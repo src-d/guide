@@ -136,6 +136,6 @@ You can add the following lines (or as you see suit) to your `~/.gitconfig` file
 You only need to do this once, and it will work whenever this `~/.gitconfig` file is active.
 
 
-### Signo-off Option #4: Github UI
+### Sign-off Option #4: Github UI
 
 If you are using Google Chrome, you are lucky and you can use the [`dco-gh-ui` Chrome Extension](https://github.com/scottrigby/dco-gh-ui)
